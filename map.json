@@ -1,3 +1,65 @@
-[
-
-]
+{
+  "AnehGamingOfficial-NWpKKj-aEHa48QvSkwy": {
+    "download": "https://github.com/rahasia55/AG-FIX-FRANCO/raw/master/backup%20map.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
+    "key": "AnehGamingOfficial-NWpKKj-aEHa48QvSkwy",
+    "skin_name": "Remove Map?",
+    "sort": "0"
+  },
+  "AnehGamingOfficial-NWDKemnadnoZeKVDBRy": {
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-11-07-13-87_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "img2": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-11-07-13-87_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "key": "AnehGamingOfficial-NWDKemnadnoZeKVDBRy",
+    "skin_name": "CHANGE MAP SANCTUM ISLAND",
+    "sort": "1"
+  },
+  "AnehGamingOfficial-NWDKqeT19kb2VQrFx0D": {
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map2.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-11-56-47-79_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "img2": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-11-56-47-79_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "key": "AnehGamingOfficial-NWDKqeT19kb2VQrFx0D",
+    "skin_name": "CHANGE MAP SANCTUM ISLAND",
+    "sort": "1"
+  },
+  "AnehGamingOfficial-NWDKyJE3uJUUfSTEA3E": {
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map3.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-12-25-18-29_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "img2": "https://github.com/bahrankemal/desain-map/raw/main/Screenshot_2023-01-04-12-25-18-29_22e4250240c136c826b8a3b1264b092d-picsay.jpg",
+    "key": "AnehGamingOfficial-NWDKyJE3uJUUfSTEA3E",
+    "skin_name": "CHANGE MAP IMPERIAL SANCTUARY",
+    "sort": "1"
+  },
+  "AnehGamingOfficial-NWDLBTuo26-ryPh4w-4": {
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map4.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://github.com/lanz132/1.71/raw/main/Christmas.jpg",
+    "img2": "https://github.com/lanz132/1.71/raw/main/Christmas.jpg",
+    "key": "AnehGamingOfficial-NWDLBTuo26-ryPh4w-4",
+    "skin_name": "Change Map CELESTIAL - SMOOTH/MEDIUM GRAPHICS",
+    "sort": "1"
+  },
+  "AnehGamingOfficial-NWDLNlHYR0LaOTv8OGl": {
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map5.zip",
+    "hero": "AnehGamingOfficial",
+    "img": "https://github.com/lanz132/1.71/raw/main/MWORLDXLOL.jpg",
+    "img2": "https://github.com/lanz132/1.71/raw/main/MWORLDXLOL.jpg",
+    "key": "AnehGamingOfficial-NWDLNlHYR0LaOTv8OGl",
+    "skin_name": "REPLACE TO IMPERIAL SANCTUARY - HIGH GRAPHICS",
+    "sort": "1"
+  },
+  "AnehGamingOfficial-NWDLVtnXMBLL8tSUKcT": {
+    "key": "AnehGamingOfficial-NWDLVtnXMBLL8tSUKcT",
+    "hero": "AnehGamingOfficial",
+    "skin_name": "REPLACE TO SANCTUM IMPERIAL - SMOOTH GRAPHICS",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map6.zip",
+    "img": "https://github.com/lanz132/1.71/raw/main/NIGHT%20LOL.jpg",
+    "img2": "https://github.com/lanz132/1.71/raw/main/NIGHT%20LOL.jpg",
+    "sort": "1"
+  }
+}
