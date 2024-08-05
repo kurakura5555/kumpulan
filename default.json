@@ -5792,5 +5792,14 @@
     "key": "Silvana-RWeBVKXhbW",
     "skin_name": "Special",
     "sort": "5"
+  },
+  "Zhuxin-1722852272955": {
+    "key": "Zhuxin-1722852272955",
+    "hero": "Zhuxin",
+    "skin_name": "tes",
+    "download": "tsz",
+    "img": "tez",
+    "img2": "tez",
+    "sort": 1
   }
 }
