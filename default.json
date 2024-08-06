@@ -5791,5 +5791,14 @@
     "key": "Silvana-RWeBVKXhbW",
     "skin_name": "Special",
     "sort": "5"
+  },
+  "Chang'e-1722933458870": {
+    "key": "Chang'e-1722933458870",
+    "hero": "Chang'e",
+    "skin_name": "tez",
+    "download": "fz",
+    "img": "tsz",
+    "img2": "tsz",
+    "sort": "2"
   }
 }
