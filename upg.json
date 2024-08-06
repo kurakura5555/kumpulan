@@ -1269,13 +1269,13 @@
     "sort": "7"
   },
   "Alucard-wkB6IHJYwJ": {
-    "key": "Alucard-wkB6IHJYwJ",
-    "hero": "Alucard",
-    "skin_name": "Star - Lightborn",
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20star%20to%20lightborn.zip",
+    "hero": "Alucard",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
-    "sort": "7"
+    "key": "Alucard-wkB6IHJYwJ",
+    "skin_name": "Star - Lightborn",
+    "sort": "0"
   },
   "Arlott-vjAvuhBrW6": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/arlott%20basic%20to%20star+.zip",
@@ -2276,12 +2276,12 @@
     "skin_name": "Star - Seiya",
     "sort": "7"
   },
-  "Chang'e-md4jdDXeej": {
+  "Chang e-md4jdDXeej": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/lesley%20basic%20to%20aspirants.zip",
     "hero": "Lesley",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest?cb=20220824141746",
     "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/w0xzikbsxroScreenshot_20240129-033158461_1.jpg",
-    "key": "Chang'e-md4jdDXeej",
+    "key": "Chang e-md4jdDXeej",
     "skin_name": "Basic - Aspirant",
     "sort": "0"
   },
@@ -2339,12 +2339,12 @@
     "skin_name": "Basic - AOT",
     "sort": "1"
   },
-  "Chang'e-TUGHkfo5xQ": {
+  "Chang e-TUGHkfo5xQ": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/change%20basic%20to%20aspirant.zip",
-    "hero": "Chang'e",
+    "hero": "Chang e",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest?cb=20240121134934",
     "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/5i7n78cfqpdScreenshot_20240129-033415458_1.jpg",
-    "key": "Chang'e-TUGHkfo5xQ",
+    "key": "Chang e-TUGHkfo5xQ",
     "skin_name": "Basic - Aspirant",
     "sort": "1"
   },
@@ -2537,30 +2537,30 @@
     "skin_name": "Star - Collector",
     "sort": "7"
   },
-  "Chang'e-dn9NrO1mkB": {
+  "Chang e-dn9NrO1mkB": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/change%20basic%20to%20epic.zip",
-    "hero": "Chang'e",
+    "hero": "Chang e",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest?cb=20240121134934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
-    "key": "Chang'e-dn9NrO1mkB",
+    "key": "Chang e-dn9NrO1mkB",
     "skin_name": "Basic - Epic",
     "sort": "1"
   },
-  "Chang'e-sd1gXpozct": {
+  "Chang e-sd1gXpozct": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/change%20basic%20to%20sanrio.zip",
-    "hero": "Chang'e",
+    "hero": "Chang e",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest?cb=20240121134934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest?cb=20220525165546",
-    "key": "Chang'e-sd1gXpozct",
+    "key": "Chang e-sd1gXpozct",
     "skin_name": "Basic - Sanrio",
     "sort": "1"
   },
-  "Chang'e-KYCjIk2VqO": {
+  "Chang e-KYCjIk2VqO": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/change%20elite%20to%20epic.zip",
-    "hero": "Chang'e",
+    "hero": "Chang e",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest?cb=20240121135007",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
-    "key": "Chang'e-KYCjIk2VqO",
+    "key": "Chang e-KYCjIk2VqO",
     "skin_name": "Elite - Epic",
     "sort": "2"
   },
