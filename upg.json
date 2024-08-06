@@ -1034,6 +1034,15 @@
     "skin_name": "Basic - Star",
     "sort": "1"
   },
+  "Aamon-ujZAL3duFy": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/aamon%20elite%20to%20star.zip",
+    "hero": "Aamon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "key": "Aamon-ujZAL3duFy",
+    "skin_name": "Elite - Star",
+    "sort": "2"
+  },
   "Akai-lYGnD9gvlQ": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/akai%20elite%20summer%20to%20kungfu%20panda.zip",
     "hero": "Akai",
@@ -1260,13 +1269,13 @@
     "sort": "7"
   },
   "Alucard-wkB6IHJYwJ": {
-    "key": "Alucard-wkB6IHJYwJ",
-    "hero": "Alucard",
-    "skin_name": "Star - Lightborn",
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20star%20to%20lightborn.zip",
+    "hero": "Alucard",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
-    "sort": "7"
+    "key": "Alucard-wkB6IHJYwJ",
+    "skin_name": "Star - Lightborn",
+    "sort": "0"
   },
   "Arlott-vjAvuhBrW6": {
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/arlott%20basic%20to%20star+.zip",
@@ -4634,31 +4643,382 @@
     "skin_name": "Star - Epic",
     "sort": "7"
   },
-  "Zhuxin-1722919338059": {
-    "key": "Zhuxin-1722919338059",
-    "hero": "Zhuxin",
-    "skin_name": "djdjd",
-    "download": "jxjx",
-    "img": "ndfiJzn",
-    "img2": "djjd",
-    "sort": "4"
-  },
-  "Zhuxin-1722923734194": {
-    "key": "Zhuxin-1722923734194",
-    "hero": "Zhuxin",
-    "skin_name": "g",
-    "download": "x",
-    "img": "f",
-    "img2": "c",
+  "Nana-3sBEvgLLHv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20elite%20to%20collector.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest?cb=20220525164404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "key": "Nana-3sBEvgLLHv",
+    "skin_name": "Elite - Collector",
     "sort": "2"
   },
-  "Zhuxin-1722924614078": {
-    "key": "Zhuxin-1722924614078",
-    "hero": "Zhuxin",
-    "skin_name": "f",
-    "download": "f",
-    "img": "f",
-    "img2": "f",
+  "Nana-FQYA8G8xUE": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20elite%20to%20star.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest?cb=20220525164404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "key": "Nana-FQYA8G8xUE",
+    "skin_name": "Elite - Star",
+    "sort": "2"
+  },
+  "Nana-WpWf8IndOT": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20elite2%20to%20collector.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "key": "Nana-WpWf8IndOT",
+    "skin_name": "Elite - Collector",
     "sort": "3"
+  },
+  "Nana-iUXqDi4BAm": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20elite2%20to%20star.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "key": "Nana-iUXqDi4BAm",
+    "skin_name": "Elite - Star",
+    "sort": "3"
+  },
+  "Nana-fPnCUOVJ0E": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20season%20to%20collector.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero053-portrait.png/revision/latest?cb=20220525164405",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "key": "Nana-fPnCUOVJ0E",
+    "skin_name": "Season - Collector",
+    "sort": "15"
+  },
+  "Nana-kAKzfazmOw": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20season%20to%20star.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero053-portrait.png/revision/latest?cb=20220525164405",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "key": "Nana-kAKzfazmOw",
+    "skin_name": "Season - Star",
+    "sort": "15"
+  },
+  "Natalia-DxH82A7yws": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natalia%20basic%20to%20special3.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest?cb=20240121134504",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "key": "Natalia-DxH82A7yws",
+    "skin_name": "Basic - Special",
+    "sort": "1"
+  },
+  "Natalia-BtaQgLI2g1": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natalia%20elite%20to%20special3.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero244-portrait.png/revision/latest?cb=20240121134638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "key": "Natalia-BtaQgLI2g1",
+    "skin_name": "Elite - Special",
+    "sort": "2"
+  },
+  "Natalia-vkZTKLzOXv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natalia%20star%20to%20special3.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero243-portrait.png/revision/latest?cb=20220525164832",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "key": "Natalia-vkZTKLzOXv",
+    "skin_name": "Star - Special",
+    "sort": "7"
+  },
+  "Natan-qdslYfHc6l": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natan%20basic%20to%20collector.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest?cb=20220525170443",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest?cb=20230212035443",
+    "key": "Natan-qdslYfHc6l",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
+  },
+  "Natan-hA5DP3us7e": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natan%20basic%20to%20star.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest?cb=20220525170443",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "key": "Natan-hA5DP3us7e",
+    "skin_name": "Basic - Star",
+    "sort": "1"
+  },
+  "Natan-2dQdqhSqs6": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natan%20elite%20to%20collector.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest?cb=20230212035443",
+    "key": "Natan-2dQdqhSqs6",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
+  },
+  "Natan-pcsVCYWUkS": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/natan%20elite%20to%20star.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "key": "Natan-pcsVCYWUkS",
+    "skin_name": "Elite - Star",
+    "sort": "2"
+  },
+  "Odete-K7wvibqDOA": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20basic%20to%20create.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest?cb=20220525165236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
+    "key": "Odete-K7wvibqDOA",
+    "skin_name": "Basic - create",
+    "sort": "1"
+  },
+  "Odete-vKGeUuDDzV": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20basic%20to%20epic.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest?cb=20220525165236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "key": "Odete-vKGeUuDDzV",
+    "skin_name": "Basic - Epic",
+    "sort": "1"
+  },
+  "Odete-kJKGIhgjU1": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20basic%20to%20lunar%20fest.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest?cb=20220525165236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
+    "key": "Odete-kJKGIhgjU1",
+    "skin_name": "Basic - Lunar Fest",
+    "sort": "1"
+  },
+  "Odete-g1A9Ecllsh": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20basic%20to%20zodiac.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest?cb=20220525165236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
+    "key": "Odete-g1A9Ecllsh",
+    "skin_name": "Basic - Zodiac",
+    "sort": "1"
+  },
+  "Odete-EM6zRK8QIL": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20special%20to%20create.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
+    "key": "Odete-EM6zRK8QIL",
+    "skin_name": "Special - Create",
+    "sort": "4"
+  },
+  "Odete-YXJO6lrdsR": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20special%20to%20epic.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "key": "Odete-YXJO6lrdsR",
+    "skin_name": "Special - Epic",
+    "sort": "4"
+  },
+  "Odete-wiwFABgwnp": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20special%20to%20lunar%20fest.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
+    "key": "Odete-wiwFABgwnp",
+    "skin_name": "Special - Lunar Fest",
+    "sort": "4"
+  },
+  "Odete-g3iBLOrh6R": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/odette%20special%20to%20zodiac.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
+    "key": "Odete-g3iBLOrh6R",
+    "skin_name": "Special - Zodiac",
+    "sort": "4"
+  },
+  "Paquito-ygbNo7twbv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20pacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+    "key": "Paquito-ygbNo7twbv",
+    "skin_name": "Basic - pacquiao",
+    "sort": "1"
+  },
+  "Paquito-5RhULwGsLG": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20to%20collector.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "key": "Paquito-5RhULwGsLG",
+    "skin_name": "basic - Collector",
+    "sort": "1"
+  },
+  "Paquito-G6pMXEKuqv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20to%20kof.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest?cb=20240430024904",
+    "key": "Paquito-G6pMXEKuqv",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
+  },
+  "Paquito-4PioydyzhY": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20to%20star.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "key": "Paquito-4PioydyzhY",
+    "skin_name": "Basic - Star",
+    "sort": "1"
+  },
+  "Paquito-RwQ7PRc9NU": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20star%20pacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+    "key": "Paquito-RwQ7PRc9NU",
+    "skin_name": "Star - Pacquiao",
+    "sort": "7"
+  },
+  "Paquito-4CWUrx1QyY": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20star%20to%20collector.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "key": "Paquito-4CWUrx1QyY",
+    "skin_name": "Star - Collector",
+    "sort": "7"
+  },
+  "Paquito-boJYG47aHN": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20star%20to%20kof.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest?cb=20240430024904",
+    "key": "Paquito-boJYG47aHN",
+    "skin_name": "Star - KOF",
+    "sort": "7"
+  },
+  "Parsha-qUNTs1uATg": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20basic%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-qUNTs1uATg",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
+  },
+  "Parsha-SeHo1JhUs1": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20basic%20to%20epic.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
+    "key": "Parsha-SeHo1JhUs1",
+    "skin_name": "Basic - Epic",
+    "sort": "1"
+  },
+  "Parsha-tkqSFo00vE": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20basic%20to%20msc.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-tkqSFo00vE",
+    "skin_name": "Basic - MSC",
+    "sort": "1"
+  },
+  "Parsha-vAzftl2KIJ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20basic%20to%20star.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "key": "Parsha-vAzftl2KIJ",
+    "skin_name": "Basic - Star",
+    "sort": "1"
+  },
+  "Parsha-eYl0HCb95m": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20elite%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-eYl0HCb95m",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
+  },
+  "Parsha-TGtOQTeWFZ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20elite%20to%20msc.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-TGtOQTeWFZ",
+    "skin_name": "Elite - MSC",
+    "sort": "2"
+  },
+  "Parsha-2348PPfJ11": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20elite%20to%20star.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "key": "Parsha-2348PPfJ11",
+    "skin_name": "Elite - Star",
+    "sort": "2"
+  },
+  "Parsha-pVN8sbB7uq": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20indigo%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest?cb=20220525165343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-pVN8sbB7uq",
+    "skin_name": "Indigo - Collector",
+    "sort": "16"
+  },
+  "Parsha-oFOO5LvLMa": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20indigo%20to%20star.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest?cb=20220525165343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "key": "Parsha-oFOO5LvLMa",
+    "skin_name": "Indigo - Star",
+    "sort": "16"
+  },
+  "Parsha-H4DFIiez91": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20season%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest?cb=20220525165344",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-H4DFIiez91",
+    "skin_name": "Season - Collector",
+    "sort": "15"
+  },
+  "Parsha-FtcvAZo4iA": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20season%20to%20msc.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest?cb=20220525165344",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-FtcvAZo4iA",
+    "skin_name": "Season - MSC",
+    "sort": "15"
+  },
+  "Parsha-2g1910bKzG": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20season%20to%20star.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest?cb=20220525165344",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "key": "Parsha-2g1910bKzG",
+    "skin_name": "Season - Star",
+    "sort": "15"
+  },
+  "Parsha-TM7fNqpxK6": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20star%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-TM7fNqpxK6",
+    "skin_name": "Star - Collector",
+    "sort": "7"
+  },
+  "Parsha-Yw490GthnM": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20star%20to%20msc.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-Yw490GthnM",
+    "skin_name": "Star - MSC",
+    "sort": "7"
   }
 }
