@@ -3112,13 +3112,13 @@
     "sort": "1"
   },
   "Aldous-Id4HJ4cm2Y": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20starlight.zip",
+    "key": "Aldous-Id4HJ4cm2Y",
     "hero": "Aldous",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cb=20220525165621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cb=20220525165621",
-    "key": "Aldous-Id4HJ4cm2Y",
-    "skin_name": "Starlight",
-    "sort": "2"
+    "sort": "0"
   },
   "Alucard-G0mNNQGuQB": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20X%20tanjiro.zip",
