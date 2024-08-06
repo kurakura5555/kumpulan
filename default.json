@@ -5460,13 +5460,13 @@
     "sort": "1"
   },
   "Minsittar-SvDsIEhRJR": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/minstar.zip",
+    "key": "Minsittar-SvDsIEhRJR",
     "hero": "Minsittar",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/minstar.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
-    "key": "Minsittar-SvDsIEhRJR",
-    "skin_name": "",
-    "sort": "1"
+    "sort": "0"
   },
   "Minsittar-JUn3NQmYPT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20collector.zip",
