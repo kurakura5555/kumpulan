@@ -5810,5 +5810,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20240705060738",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20240705060738",
     "sort": "0"
+  },
+  "Hayabusa-1723034858225": {
+    "key": "Hayabusa-1723034858225",
+    "hero": "Hayabusa",
+    "skin_name": "Virgel",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/hayabusa x vergil.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Kqpp6hXi3bUhdsnj_g5QQAShT_8eN9qQZ1mVXFsDcZLJSkCJB41SiUI&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Kqpp6hXi3bUhdsnj_g5QQAShT_8eN9qQZ1mVXFsDcZLJSkCJB41SiUI&s=10",
+    "sort": "12"
   }
 }
