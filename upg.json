@@ -5335,5 +5335,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
     "sort": "1"
+  },
+  "Thamus-1723105594191": {
+    "key": "Thamus-1723105594191",
+    "hero": "Thamus",
+    "skin_name": "Elite - Kungfu Panda",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/thamuz%20elite%20to%20kungfu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "sort": "2"
   }
 }
