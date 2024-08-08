@@ -5308,5 +5308,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20240131101410",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
     "sort": "2"
+  },
+  "Sun-1723105087419": {
+    "key": "Sun-1723105087419",
+    "hero": "Sun",
+    "skin_name": "Special - Collector",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/sun%20special2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+    "sort": "5"
   }
 }
