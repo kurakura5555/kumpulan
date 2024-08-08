@@ -5146,5 +5146,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest?cb=20220525165133",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
     "sort": "7"
+  },
+  "Ruby-1723098814241": {
+    "key": "Ruby-1723098814241",
+    "hero": "Ruby",
+    "skin_name": "Basic - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/ruby%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest?cb=20220525164933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "sort": "1"
   }
 }
