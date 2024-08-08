@@ -5020,5 +5020,14 @@
     "key": "Parsha-Yw490GthnM",
     "skin_name": "Star - MSC",
     "sort": "7"
+  },
+  "Popol-&-Kupa-1723091972078": {
+    "key": "Popol-&-Kupa-1723091972078",
+    "hero": "Popol & Kupa",
+    "skin_name": "Basic - Transformers",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/popol%20&%20kupa%20basic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero942-portrait.png/revision/latest?cb=20220525170230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
+    "sort": "1"
   }
 }
