@@ -5371,5 +5371,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest?cb=20220525164420",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
     "sort": "2"
+  },
+  "Tigreal-1723106020415": {
+    "key": "Tigreal-1723106020415",
+    "hero": "Tigreal",
+    "skin_name": "Elite - Lightborn",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/tigreal%20elite2%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "sort": "3"
   }
 }
