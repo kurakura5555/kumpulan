@@ -5200,5 +5200,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb=20220525164336",
     "sort": "2"
+  },
+  "Saber-1723099271006": {
+    "key": "Saber-1723099271006",
+    "hero": "Saber",
+    "skin_name": "Elite - Legend",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/saber%20elite%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "sort": "2"
   }
 }
