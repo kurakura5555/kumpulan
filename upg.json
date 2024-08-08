@@ -5290,5 +5290,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb=20220525165606",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
     "sort": "7"
+  },
+  "Sun-1723103495715": {
+    "key": "Sun-1723103495715",
+    "hero": "Sun",
+    "skin_name": "Elite - Collector",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/sun%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20240131101410",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+    "sort": "2"
   }
 }
