@@ -5398,5 +5398,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest?cb=20220525165515",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest?cb=20220525165517",
     "sort": "1"
+  },
+  "Vale-1723106425634": {
+    "key": "Vale-1723106425634",
+    "hero": "Vale",
+    "skin_name": "Basic - Collector",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vale%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
+    "sort": "1"
   }
 }
