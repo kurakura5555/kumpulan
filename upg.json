@@ -5173,5 +5173,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
     "sort": "3"
+  },
+  "Saber-1723099082752": {
+    "key": "Saber-1723099082752",
+    "hero": "Saber",
+    "skin_name": "Basic - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/saber%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb=20220525164336",
+    "sort": "1"
   }
 }
