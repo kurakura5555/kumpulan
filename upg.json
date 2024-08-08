@@ -5380,5 +5380,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
     "sort": "3"
+  },
+  "Tigreal-1723106129997": {
+    "key": "Tigreal-1723106129997",
+    "hero": "Tigreal",
+    "skin_name": "Season - Lightborn",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/tigreal%20season%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest?cb=20220525164422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "sort": "15"
   }
 }
