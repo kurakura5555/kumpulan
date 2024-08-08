@@ -5155,5 +5155,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest?cb=20220525164933",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
     "sort": "1"
+  },
+  "Ruby-1723098855311": {
+    "key": "Ruby-1723098855311",
+    "hero": "Ruby",
+    "skin_name": "Elite - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/ruby%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "sort": "2"
   }
 }
