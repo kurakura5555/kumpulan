@@ -5236,5 +5236,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest?cb=20220525164337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb=20220525164336",
     "sort": "16"
+  },
+  "Selena-1723099615828": {
+    "key": "Selena-1723099615828",
+    "hero": "Selena",
+    "skin_name": "Basic - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/selena%20basic%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest?cb=20220525165603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "sort": "1"
   }
 }
