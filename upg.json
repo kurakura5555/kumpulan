@@ -5326,5 +5326,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
     "sort": "5"
+  },
+  "Thamus-1723105485494": {
+    "key": "Thamus-1723105485494",
+    "hero": "Thamus",
+    "skin_name": "Basic - Kungfu",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/thamuz%20basic%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "sort": "1"
   }
 }
