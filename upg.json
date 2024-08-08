@@ -5317,5 +5317,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
     "sort": "5"
+  },
+  "Sun-1723105293284": {
+    "key": "Sun-1723105293284",
+    "hero": "Sun",
+    "skin_name": "Special - Lunar Fest",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/sun%20special2%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
+    "sort": "5"
   }
 }
