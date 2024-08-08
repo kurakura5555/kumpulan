@@ -5056,5 +5056,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest?cb=20220525164619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest?cb=20220525164613",
     "sort": "15"
+  },
+  "Roger-1723092487130": {
+    "key": "Roger-1723092487130",
+    "hero": "Roger",
+    "skin_name": "Basic - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/roger%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest?cb=20220525165131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+    "sort": "1"
   }
 }
