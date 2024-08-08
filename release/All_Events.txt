@@ -1,0 +1,2 @@
+[]
+[{"code":"@Override\npublic void onRequestPermissionsResult(int _requestCode, String[] permissions, int[] grantResults) {\r\n\t\tsuper.onRequestPermissionsResult(_requestCode, permissions, grantResults);\r\n\t\t%s\r\n\t}","var":"","headerSpec":"OnRequestPermission %d.requestCode","name":"OnRequestPermission","listener":"","icon":"2131165298","description":"When user request permission","parameters":""}]
