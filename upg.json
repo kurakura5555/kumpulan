@@ -5488,5 +5488,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
     "sort": "1"
+  },
+  "Vexana-1723172063285": {
+    "key": "Vexana-1723172063285",
+    "hero": "Vexana",
+    "skin_name": "Basic - Zenith",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vexana%20basic%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+    "sort": "1"
   }
 }
