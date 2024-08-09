@@ -5551,5 +5551,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cb=20240707063128",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
     "sort": "1"
+  },
+  "Yu-Zhong-1723173970577": {
+    "key": "Yu-Zhong-1723173970577",
+    "hero": "Yu Zhong",
+    "skin_name": "Star - Exorcist",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/yu.zhong.star.to.exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cb=20220525170238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
+    "sort": "7"
   }
 }
