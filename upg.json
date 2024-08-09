@@ -5443,5 +5443,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest?cb=20240619180532",
     "sort": "1"
+  },
+  "Valentina-1723171494502": {
+    "key": "Valentina-1723171494502",
+    "hero": "Valentina",
+    "skin_name": "Basic - Star",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/valentina%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+    "sort": "1"
   }
 }
