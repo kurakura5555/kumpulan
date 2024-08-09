@@ -5614,5 +5614,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero163-portrait.png/revision/latest?cb=20220525164646",
     "sort": "16"
+  },
+  "Zilong-1723174753425": {
+    "key": "Zilong-1723174753425",
+    "hero": "Zilong",
+    "skin_name": "Star - Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/zilong%20star%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest?cb=20220525164647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20240619180759",
+    "sort": "7"
   }
 }
