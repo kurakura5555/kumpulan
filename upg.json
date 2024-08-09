@@ -5506,5 +5506,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
     "sort": "15"
+  },
+  "Vexana-1723172152362": {
+    "key": "Vexana-1723172152362",
+    "hero": "Vexana",
+    "skin_name": "Season - Zenith",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vexana%20season%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+    "sort": "15"
   }
 }
