@@ -5560,5 +5560,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cb=20220525170238",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
     "sort": "7"
+  },
+  "Yin-1723174058219": {
+    "key": "Yin-1723174058219",
+    "hero": "Yin",
+    "skin_name": "Star - AOT",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/yin%20star%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
+    "sort": "7"
   }
 }
