@@ -5515,5 +5515,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
     "sort": "15"
+  },
+  "Wanwan-1723172263250": {
+    "key": "Wanwan-1723172263250",
+    "hero": "Wanwan",
+    "skin_name": "Star - Collector",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/wanwam%20star%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "sort": "7"
   }
 }
