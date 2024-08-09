@@ -5470,5 +5470,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
     "sort": "7"
+  },
+  "Valir-1723171889505": {
+    "key": "Valir-1723171889505",
+    "hero": "Valir",
+    "skin_name": "Star - KOF",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/valir%20star%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest?cb=20240430022853",
+    "sort": "7"
   }
 }
