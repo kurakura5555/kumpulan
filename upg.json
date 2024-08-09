@@ -5533,5 +5533,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
     "sort": "7"
+  },
+  "Yin-1723173803452": {
+    "key": "Yin-1723173803452",
+    "hero": "Yin",
+    "skin_name": "Basic - Star",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/yin%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+    "sort": "1"
   }
 }
