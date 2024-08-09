@@ -5578,5 +5578,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
     "sort": "7"
+  },
+  "Zilong-1723174513201": {
+    "key": "Zilong-1723174513201",
+    "hero": "Zilong",
+    "skin_name": "Elite - Lunar Fest",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/zilong%20elite%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest?cb=20220525164645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest?cb=20240130065432",
+    "sort": "2"
   }
 }
