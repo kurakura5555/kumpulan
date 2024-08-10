@@ -151,5 +151,14 @@
     "key": "Classic Replacement-NW7l4KiyFRkhTI0KPDl",
     "skin_name": "Backup Respawn",
     "sort": "0"
+  },
+  "Classic Replacement-0hjlft": {
+    "key": "Classic Replacement-0hjlft",
+    "hero": "Classic Replacement",
+    "skin_name": "Spawn Jujutsu Kaisen",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/spawn jjk.zip",
+    "img": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_194107.gif",
+    "img2": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_194107.gif",
+    "sort": "1"
   }
 }
