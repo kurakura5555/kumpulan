@@ -466,5 +466,14 @@
     "key": "rc 71",
     "skin_name": "Sea Of Anvil",
     "sort": "1"
+  },
+  "Classic Replacement-alscwq": {
+    "key": "Classic Replacement-alscwq",
+    "hero": "Classic Replacement",
+    "skin_name": "Recall Jujutsu Kaisen",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/recall jjk.zip",
+    "img": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_193625.gif",
+    "img2": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_193625.gif",
+    "sort": "1"
   }
 }
