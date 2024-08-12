@@ -2662,13 +2662,13 @@
     "sort": "5"
   },
   "Granger-E77ImCO7wc": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20valentine.zip",
+    "key": "Granger-E77ImCO7wc",
     "hero": "Granger",
+    "skin_name": "Valentine",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20valentine.zip",
     "img": "https://pbs.twimg.com/media/GE7BbRSasAA0DWE.jpg",
     "img2": "https://pbs.twimg.com/media/GE7BbRSasAA0DWE.jpg",
-    "key": "Granger-E77ImCO7wc",
-    "skin_name": "Valentine",
-    "sort": "0"
+    "sort": "10"
   },
   "Silvana-N5dITTNZgI": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/silvanna%20valentine.zip",
