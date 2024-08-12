@@ -614,13 +614,13 @@
     "sort": "0"
   },
   "Clint-NQwD8_l-dWhu91ZZ8H0": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20legend+.zip",
+    "key": "Clint-NQwD8_l-dWhu91ZZ8H0",
     "hero": "Lunox",
+    "skin_name": "Legend",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20legend+.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
-    "key": "Clint-NQwD8_l-dWhu91ZZ8H0",
-    "skin_name": "Legend",
-    "sort": "0"
+    "sort": "7"
   },
   "Cyclops-NQwDB0rwo5UDzfiQf9v": {
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/cyclops.zip",
