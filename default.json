@@ -2482,13 +2482,13 @@
     "sort": "3"
   },
   "Aamon-kWIoqMAZCT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aamon%20x%20alhaitham%20genshin%20impact.zip",
+    "key": "Aamon-kWIoqMAZCT",
     "hero": "Aamon",
+    "skin_name": "Alhaitham",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aamon%20x%20alhaitham%20genshin%20impact.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJZ82Isqn7o2yHMe61zEXAFFn3g6zCIAo3A&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJZ82Isqn7o2yHMe61zEXAFFn3g6zCIAo3A&usqp=CAU",
-    "key": "Aamon-kWIoqMAZCT",
-    "skin_name": "Alhaitham",
-    "sort": "1"
+    "sort": "30"
   },
   "Chou-81Ykulxgiz": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20kamen%20rider%20zero%20one.zip",
