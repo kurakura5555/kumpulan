@@ -2599,13 +2599,13 @@
     "sort": "30"
   },
   "Dyrroth-fCC9SYd45Q": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20x%20kaneki.zip",
+    "key": "Dyrroth-fCC9SYd45Q",
     "hero": "Dyrroth",
+    "skin_name": "Kaneki",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20x%20kaneki.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_S-Ue7vPXkSs38rD1BoAZLu2W-jhKI4T2Rw&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_S-Ue7vPXkSs38rD1BoAZLu2W-jhKI4T2Rw&usqp=CAU",
-    "key": "Dyrroth-fCC9SYd45Q",
-    "skin_name": "Kaneki",
-    "sort": "5"
+    "sort": "30"
   },
   "Dyrroth-DsOeL84LBD": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20x%20killua%20zolydick.zip",
