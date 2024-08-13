@@ -5704,13 +5704,13 @@
     "sort": "10"
   },
   "Alucard-gIoI8BLAqr": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20Ichigo.zip",
+    "key": "Alucard-gIoI8BLAqr",
     "hero": "Alucard",
+    "skin_name": "Ichigo",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20Ichigo.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2b811YNe5fW7HHUXb52O4pycv_AXjMip7jaFG5DzviTxV0QofyTfqDw&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2b811YNe5fW7HHUXb52O4pycv_AXjMip7jaFG5DzviTxV0QofyTfqDw&s=10",
-    "key": "Alucard-gIoI8BLAqr",
-    "skin_name": "Ichigo",
-    "sort": "11"
+    "sort": "30"
   },
   "Carmilla-8bnsCZsJ4w": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/carmilla%20epic.zip",
