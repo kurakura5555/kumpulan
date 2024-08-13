@@ -2761,13 +2761,13 @@
     "sort": "30"
   },
   "Chou-c9dW0YQZp7": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20itadori.zip",
+    "key": "Chou-c9dW0YQZp7",
     "hero": "Chou",
+    "skin_name": "Itadori",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20itadori.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqvBWyqADSVkBtfF8t1Vn8jYZ6OojszKzpg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqvBWyqADSVkBtfF8t1Vn8jYZ6OojszKzpg&usqp=CAU",
-    "key": "Chou-c9dW0YQZp7",
-    "skin_name": "Itadori",
-    "sort": "9"
+    "sort": "30"
   },
   "Claude-bWZVrlp9l5": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20x%20konohamaru.zip",
