@@ -5308,13 +5308,13 @@
     "sort": "30"
   },
   "Chou-1xH3Y1oLRT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20sanji.zip",
+    "key": "Chou-1xH3Y1oLRT",
     "hero": "Chou",
+    "skin_name": "Sanji",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20sanji.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
-    "key": "Chou-1xH3Y1oLRT",
-    "skin_name": "Sanji",
-    "sort": "4"
+    "sort": "30"
   },
   "Hayabusa-m3aabPsozB": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/haya%20x%20kakashi.zip",
