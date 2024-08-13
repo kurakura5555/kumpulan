@@ -5352,13 +5352,13 @@
     "sort": "30"
   },
   "Vexana-jcR1rEpCmY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20x%20megumi.zip",
+    "key": "Vexana-jcR1rEpCmY",
     "hero": "Vexana",
+    "skin_name": "Megumi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20x%20megumi.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20x%20megumi.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20x%20megumi.png",
-    "key": "Vexana-jcR1rEpCmY",
-    "skin_name": "Megumi",
-    "sort": "9"
+    "sort": "30"
   },
   "Layla-XEREdB5Vha": {
     "key": "Layla-XEREdB5Vha",
