@@ -5343,13 +5343,13 @@
     "sort": "30"
   },
   "Lancelot-u2DlVlvVNE": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20Levi.zip",
+    "key": "Lancelot-u2DlVlvVNE",
     "hero": "Lancelot",
+    "skin_name": "Levi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20Levi.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20Levi.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20Levi.png",
-    "key": "Lancelot-u2DlVlvVNE",
-    "skin_name": "Levi",
-    "sort": "8"
+    "sort": "30"
   },
   "Vexana-jcR1rEpCmY": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20x%20megumi.zip",
