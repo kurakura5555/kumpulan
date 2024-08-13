@@ -2590,13 +2590,13 @@
     "sort": "30"
   },
   "Chou-oUgXTO1AaF": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20eren.zip",
+    "key": "Chou-oUgXTO1AaF",
     "hero": "Chou",
+    "skin_name": "Eren",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20eren.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20eren.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20eren.png",
-    "key": "Chou-oUgXTO1AaF",
-    "skin_name": "Eren",
-    "sort": "4"
+    "sort": "30"
   },
   "Dyrroth-fCC9SYd45Q": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20x%20kaneki.zip",
