@@ -2616,13 +2616,13 @@
     "sort": "30"
   },
   "Ling-53IFrg1kfN": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20levi%20ackerman.zip",
+    "key": "Ling-53IFrg1kfN",
     "hero": "Ling",
+    "skin_name": "Levi Ackerman",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20levi%20ackerman.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20levi%20ackerman.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20levi%20ackerman.png",
-    "key": "Ling-53IFrg1kfN",
-    "skin_name": "Levi Ackerman",
-    "sort": "1"
+    "sort": "30"
   },
   "Lancelot-0tCp4EBLiO": {
     "key": "Lancelot-0tCp4EBLiO",
