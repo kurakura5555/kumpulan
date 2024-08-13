@@ -2797,13 +2797,13 @@
     "sort": "3"
   },
   "Hayabusa-QIPGi2FCOT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20x%20itachi.zip",
+    "key": "Hayabusa-QIPGi2FCOT",
     "hero": "Hayabusa",
+    "skin_name": "Itachi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20x%20itachi.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/hayabusa%20x%20itachi.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/hayabusa%20x%20itachi.png",
-    "key": "Hayabusa-QIPGi2FCOT",
-    "skin_name": "Itachi",
-    "sort": "4"
+    "sort": "30"
   },
   "Julian-xFZ3gxu70q": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20x%20ursed%20weapon.zip",
