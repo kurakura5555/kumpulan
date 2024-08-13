@@ -5623,13 +5623,13 @@
     "sort": "30"
   },
   "Alucard-tluUXcaBKS": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20shanks.zip",
+    "key": "Alucard-tluUXcaBKS",
     "hero": "Alucard",
+    "skin_name": "Shanks",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20shanks.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0DA4JDfwoU8sk501PoqvI51UPMb083PAUwP3Nphih8UrzsMdwbbCuI&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0DA4JDfwoU8sk501PoqvI51UPMb083PAUwP3Nphih8UrzsMdwbbCuI&s=10",
-    "key": "Alucard-tluUXcaBKS",
-    "skin_name": "Shanks",
-    "sort": "2"
+    "sort": "30"
   },
   "Chou-fngGFwnwnG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20yuji.zip",
