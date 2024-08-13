@@ -2688,13 +2688,13 @@
     "sort": "1"
   },
   "Aldous-j9RDLRlMFg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20saitama.zip",
+    "key": "Aldous-j9RDLRlMFg",
     "hero": "Aldous",
+    "skin_name": "Saitama",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20saitama.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20saitama.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20saitama.png",
-    "key": "Aldous-j9RDLRlMFg",
-    "skin_name": "Saitama",
-    "sort": "1"
+    "sort": "30"
   },
   "Arlott-7Rof7FXqMD": {
     "key": "Arlott-7Rof7FXqMD",
