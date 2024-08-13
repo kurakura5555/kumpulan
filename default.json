@@ -5361,13 +5361,13 @@
     "sort": "9"
   },
   "Layla-XEREdB5Vha": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20x%20summer.zip",
+    "key": "Layla-XEREdB5Vha",
     "hero": "Layla",
+    "skin_name": "Summer Fan Art",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20x%20summer.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20x%20summer.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20x%20summer.png",
-    "key": "Layla-XEREdB5Vha",
-    "skin_name": "Summer Fan Art",
-    "sort": "10"
+    "sort": "30"
   },
   "Lilya-J57NbKw1zU": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20x%20sakura%20flower.zip",
