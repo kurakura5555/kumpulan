@@ -4750,13 +4750,13 @@
     "sort": "13"
   },
   "Kadita-5taAKMilP8": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20x%20conan.zip",
+    "key": "Kadita-5taAKMilP8",
     "hero": "Kadita",
+    "skin_name": "X Conan",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20x%20conan.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/main/conan.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/main/conan.png",
-    "key": "Kadita-5taAKMilP8",
-    "skin_name": "X Conan",
-    "sort": "1"
+    "sort": "30"
   },
   "Tigreal-nPztfY0Bpl": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20lightborn.zip",
