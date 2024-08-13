@@ -5379,13 +5379,13 @@
     "sort": "30"
   },
   "Nana-cImVrFYTpP": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20x%20cabe.zip",
+    "key": "Nana-cImVrFYTpP",
     "hero": "Nana",
+    "skin_name": "Cabe",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20x%20cabe.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/nana%20x%20cabe.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/nana%20x%20cabe.png",
-    "key": "Nana-cImVrFYTpP",
-    "skin_name": "Cabe",
-    "sort": "12"
+    "sort": "30"
   },
   "Yin-76cg7fC5gG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20gojo.zip",
