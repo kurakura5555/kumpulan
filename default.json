@@ -5199,13 +5199,13 @@
     "sort": "30"
   },
   "Ling-IemEWc2uPL": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20levi.zip",
+    "key": "Ling-IemEWc2uPL",
     "hero": "Ling",
+    "skin_name": "Levi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20levi.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgyQhBGyNgkq4Fl4GMXFI9dNLDBq4tWpwUQ&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgyQhBGyNgkq4Fl4GMXFI9dNLDBq4tWpwUQ&usqp=CAU",
-    "key": "Ling-IemEWc2uPL",
-    "skin_name": "Levi",
-    "sort": "7"
+    "sort": "30"
   },
   "Ruby-TW6QHeeoIy": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20special.zip",
