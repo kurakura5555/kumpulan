@@ -2572,13 +2572,13 @@
     "sort": "30"
   },
   "Barats-8SUStg8Qju": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/barats%20x%20colossal%20titan.zip",
+    "key": "Barats-8SUStg8Qju",
     "hero": "Barats",
+    "skin_name": "Colossal Titan",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/barats%20x%20colossal%20titan.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVjNmf6A2_rOfYGCpxDx0yB_8yZCnefSR8A&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVjNmf6A2_rOfYGCpxDx0yB_8yZCnefSR8A&usqp=CAU",
-    "key": "Barats-8SUStg8Qju",
-    "skin_name": "Colossal Titan",
-    "sort": "2"
+    "sort": "30"
   },
   "Benedetta-oqxPC4iTvh": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20okita%20souji.zip",
