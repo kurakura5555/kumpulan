@@ -2698,13 +2698,13 @@
     "sort": "1"
   },
   "Arlott-7Rof7FXqMD": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20iguro%20obanai.zip",
+    "key": "Arlott-7Rof7FXqMD",
     "hero": "Arlott",
+    "skin_name": "Iguro Obanai",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20iguro%20obanai.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
-    "key": "Arlott-7Rof7FXqMD",
-    "skin_name": "Iguro Obanai",
-    "sort": "2"
+    "sort": "30"
   },
   "Arlott-lqTPd6l6X1": {
     "key": "Arlott-lqTPd6l6X1",
