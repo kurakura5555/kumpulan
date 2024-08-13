@@ -5299,13 +5299,13 @@
     "sort": "30"
   },
   "Cecilion-1bqbmGt1ZE": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20x%20geto.zip",
+    "key": "Cecilion-1bqbmGt1ZE",
     "hero": "Cecilion",
+    "skin_name": "Geto",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20x%20geto.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/cecilion%20x%20geto.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/cecilion%20x%20geto.png",
-    "key": "Cecilion-1bqbmGt1ZE",
-    "skin_name": "Geto",
-    "sort": "3"
+    "sort": "30"
   },
   "Chou-1xH3Y1oLRT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20sanji.zip",
