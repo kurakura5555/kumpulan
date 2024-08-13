@@ -5406,13 +5406,13 @@
     "sort": "30"
   },
   "Yin-qhIpahBC2O": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20yuji.zip",
+    "key": "Yin-qhIpahBC2O",
     "hero": "Yin",
+    "skin_name": "Yuji",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20yuji.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20yuji.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20yuji.png",
-    "key": "Yin-qhIpahBC2O",
-    "skin_name": "Yuji",
-    "sort": "15"
+    "sort": "30"
   },
   "Zilong-ugH9raxrDd": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20epic2.zip",
