@@ -2725,13 +2725,13 @@
     "sort": "30"
   },
   "Badang-LIC84QsI33": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20madara.zip",
+    "key": "Badang-LIC84QsI33",
     "hero": "Badang",
+    "skin_name": "Madara",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20madara.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20madara.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20madara.png",
-    "key": "Badang-LIC84QsI33",
-    "skin_name": "Madara",
-    "sort": "5"
+    "sort": "30"
   },
   "Benedetta-beQD72S5UK": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20shinobu.zip",
