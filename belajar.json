@@ -17,15 +17,6 @@
     "img2": "xjjd",
     "sort": "15"
   },
-  "Aamon-1723525830098": {
-    "key": "Aamon-1723525830098",
-    "hero": "Akai",
-    "skin_name": "remobe",
-    "download": "c",
-    "img": "remobe",
-    "img2": "remobe",
-    "sort": "30"
-  },
   "Aamon-1723526286206": {
     "key": "Aamon-1723526286206",
     "hero": "Aamon",
@@ -33,6 +24,15 @@
     "download": "aniem",
     "img": "anime",
     "img2": "anime",
+    "sort": "30"
+  },
+  "Aldous-1723528072148": {
+    "key": "Aldous-1723528072148",
+    "hero": "Aldous",
+    "skin_name": "remobe",
+    "download": "c",
+    "img": "remobe",
+    "img2": "remobe",
     "sort": "30"
   }
 }
