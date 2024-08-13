@@ -5632,13 +5632,13 @@
     "sort": "30"
   },
   "Chou-fngGFwnwnG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20yuji.zip",
+    "key": "Chou-fngGFwnwnG",
     "hero": "Chou",
+    "skin_name": "yuji",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20yuji.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0u-gjQFzj9XAED7kGfZQPtF6BrEKLy4vztvAHg3WfjH7gh68KdbkRSo&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0u-gjQFzj9XAED7kGfZQPtF6BrEKLy4vztvAHg3WfjH7gh68KdbkRSo&s=10",
-    "key": "Chou-fngGFwnwnG",
-    "skin_name": "yuji",
-    "sort": "3"
+    "sort": "30"
   },
   "Dyrroth-re0aJ3B9W5": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20x%20sasuke.zip",
