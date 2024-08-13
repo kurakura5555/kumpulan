@@ -2850,13 +2850,13 @@
     "sort": "30"
   },
   "Roger-eeHsjsKgeF": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20x%20megumi%20fushiguro.zip",
+    "key": "Roger-eeHsjsKgeF",
     "hero": "Roger",
+    "skin_name": "Megumi Fushiguro",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20x%20megumi%20fushiguro.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20megumi%20fushiguro.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20megumi%20fushiguro.png",
-    "key": "Roger-eeHsjsKgeF",
-    "skin_name": "Megumi Fushiguro",
-    "sort": "6"
+    "sort": "30"
   },
   "Selena-fUFObOlDGW": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20x%20nezuko.zip",
