@@ -2563,13 +2563,13 @@
     "sort": "1"
   },
   "Badang-JdiPCghzBB": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20neji.zip",
+    "key": "Badang-JdiPCghzBB",
     "hero": "Badang",
+    "skin_name": "Neji",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20neji.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20neji.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20neji.png",
-    "key": "Badang-JdiPCghzBB",
-    "skin_name": "Neji",
-    "sort": "1"
+    "sort": "30"
   },
   "Barats-8SUStg8Qju": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/barats%20x%20colossal%20titan.zip",
