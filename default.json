@@ -5668,13 +5668,13 @@
     "sort": "30"
   },
   "Kimmy-9joTegLDgy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kimmy%20x%20exorcists.zip",
+    "key": "Kimmy-9joTegLDgy",
     "hero": "Kimmy",
+    "skin_name": "Exorcists",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kimmy%20x%20exorcists.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/kimmy%20x%20exorcists.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/kimmy%20x%20exorcists.png",
-    "key": "Kimmy-9joTegLDgy",
-    "skin_name": "Exorcists",
-    "sort": "7"
+    "sort": "30"
   },
   "Paquito-r92HST8Z1e": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20x%20kyo%20kusanagi.zip",
