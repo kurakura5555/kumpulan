@@ -2823,13 +2823,13 @@
     "sort": "30"
   },
   "Ling-hvAbmmn31a": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20itachi%20anbu.zip",
+    "key": "Ling-hvAbmmn31a",
     "hero": "Ling",
+    "skin_name": "Itachi Anbu",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20itachi%20anbu.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxq20N6HQ8sh8DSp12xeYJZZiCHGbXJiZ6w&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxq20N6HQ8sh8DSp12xeYJZZiCHGbXJiZ6w&usqp=CAU",
-    "key": "Ling-hvAbmmn31a",
-    "skin_name": "Itachi Anbu",
-    "sort": "3"
+    "sort": "30"
   },
   "Ling-VOICDwRTTX": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20sasuke.zip",
