@@ -2770,13 +2770,13 @@
     "sort": "30"
   },
   "Claude-bWZVrlp9l5": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20x%20konohamaru.zip",
+    "key": "Claude-bWZVrlp9l5",
     "hero": "Claude",
+    "skin_name": "Konohamaru",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20x%20konohamaru.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/claude%20x%20konohamaru.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/claude%20x%20konohamaru.png",
-    "key": "Claude-bWZVrlp9l5",
-    "skin_name": "Konohamaru",
-    "sort": "1"
+    "sort": "30"
   },
   "Gusion-VHmoZF8STq": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20x%20minato.zip",
