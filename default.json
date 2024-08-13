@@ -2707,13 +2707,13 @@
     "sort": "2"
   },
   "Arlott-lqTPd6l6X1": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20kirito.zip",
+    "key": "Arlott-lqTPd6l6X1",
     "hero": "Arlott",
+    "skin_name": "Kirito",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20kirito.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20kirito.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20kirito.png",
-    "key": "Arlott-lqTPd6l6X1",
-    "skin_name": "Kirito",
-    "sort": "3"
+    "sort": "30"
   },
   "Badang-jpA4Y5dDiu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20genos.zip",
