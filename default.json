@@ -5281,13 +5281,13 @@
     "sort": "6"
   },
   "Alucard-odYZ2RJkhZ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20rengoku.zip",
+    "key": "Alucard-odYZ2RJkhZ",
     "hero": "Alucard",
+    "skin_name": "Rengoku",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20rengoku.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/alucard%20x%20rengoku.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/alucard%20x%20rengoku.png",
-    "key": "Alucard-odYZ2RJkhZ",
-    "skin_name": "Rengoku",
-    "sort": "1"
+    "sort": "30"
   },
   "Badang-e2qLvUD6oT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20akaza.zip",
