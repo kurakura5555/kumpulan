@@ -2734,13 +2734,13 @@
     "sort": "30"
   },
   "Benedetta-beQD72S5UK": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20shinobu.zip",
+    "key": "Benedetta-beQD72S5UK",
     "hero": "Benedetta",
+    "skin_name": "Shinobu",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20shinobu.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
-    "key": "Benedetta-beQD72S5UK",
-    "skin_name": "Shinobu",
-    "sort": "6"
+    "sort": "30"
   },
   "Bruno-h2YcPyNSqA": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20x%20tsubasa.zip",
