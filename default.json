@@ -5614,13 +5614,13 @@
     "sort": "1"
   },
   "Aldous-S6iIGZM6vV": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20dragon%20fall%20knight%20%20.zip",
+    "key": "Aldous-S6iIGZM6vV",
     "hero": "Aldous",
+    "skin_name": "Dragon Fall Knight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20dragon%20fall%20knight%20%20.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20dragon%20fall%20knight%20%20.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20dragon%20fall%20knight%20%20.png",
-    "key": "Aldous-S6iIGZM6vV",
-    "skin_name": "Dragon Fall Knight",
-    "sort": "1"
+    "sort": "30"
   },
   "Alucard-tluUXcaBKS": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20shanks.zip",
