@@ -5685,13 +5685,13 @@
     "sort": "8"
   },
   "Roger-tT2NMxbpY8": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20x%20exorcist.zip",
+    "key": "Roger-tT2NMxbpY8",
     "hero": "Roger",
+    "skin_name": "Exorcist",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20x%20exorcist.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20exorcist.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20exorcist.png",
-    "key": "Roger-tT2NMxbpY8",
-    "skin_name": "Exorcist",
-    "sort": "9"
+    "sort": "30"
   },
   "Selena-LcTYIXyhHC": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20epic%20x%20butterfly%20.zip",
