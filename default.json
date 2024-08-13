@@ -2643,13 +2643,13 @@
     "sort": "30"
   },
   "Sun-MzeujlLidG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20x%20naruto.zip",
+    "key": "Sun-MzeujlLidG",
     "hero": "Sun",
+    "skin_name": "Naruto",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20x%20naruto.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgMnZqJ7_hRRpmL_ypPVILWG8p7d9FbzG6SIitOBwrsgQLiuYCiMkmafT&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgMnZqJ7_hRRpmL_ypPVILWG8p7d9FbzG6SIitOBwrsgQLiuYCiMkmafT&s=10",
-    "key": "Sun-MzeujlLidG",
-    "skin_name": "Naruto",
-    "sort": "4"
+    "sort": "30"
   },
   "Zilong-j1mh5gpNLj": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20maeda%20keiji.zip",
