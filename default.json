@@ -5388,13 +5388,13 @@
     "sort": "30"
   },
   "Yin-76cg7fC5gG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20gojo.zip",
+    "key": "Yin-76cg7fC5gG",
     "hero": "Yin",
+    "skin_name": "Gojo",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20gojo.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20gojo.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20gojo.png",
-    "key": "Yin-76cg7fC5gG",
-    "skin_name": "Gojo",
-    "sort": "13"
+    "sort": "30"
   },
   "Yin-XSf0KFbdHB": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20naruto.zip",
