@@ -2752,13 +2752,13 @@
     "sort": "30"
   },
   "Chou-HFKbAyLzSp": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20armored%20titan.zip",
+    "key": "Chou-HFKbAyLzSp",
     "hero": "Chou",
+    "skin_name": "Armored Titan",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20armored%20titan.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20armored%20titan.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20armored%20titan.png",
-    "key": "Chou-HFKbAyLzSp",
-    "skin_name": "Armored Titan",
-    "sort": "8"
+    "sort": "30"
   },
   "Chou-c9dW0YQZp7": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20itadori.zip",
