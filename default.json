@@ -91,13 +91,13 @@
     "sort": "5"
   },
   "Benedetta-IU0LM3saZg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20collector.zip",
+    "key": "Benedetta-IU0LM3saZg",
     "hero": "Benedetta",
+    "skin_name": "Death Oath",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
-    "key": "Benedetta-IU0LM3saZg",
-    "skin_name": "Death Oath",
-    "sort": "6"
+    "sort": "30"
   },
   "Benedetta-uBkMblVEeu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20ducati.zip",
