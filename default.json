@@ -2508,13 +2508,13 @@
     "sort": "30"
   },
   "Lancelot-qy4YS5QJwg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20kirigakure%20saizo.zip",
+    "key": "Lancelot-qy4YS5QJwg",
     "hero": "Lancelot",
+    "skin_name": "Kirigakure Saizo",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20kirigakure%20saizo.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HBNHl3cjTb504G4g6t0gV9UCUB-eeMaOjQ&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HBNHl3cjTb504G4g6t0gV9UCUB-eeMaOjQ&usqp=CAU",
-    "key": "Lancelot-qy4YS5QJwg",
-    "skin_name": "Kirigakure Saizo",
-    "sort": "4"
+    "sort": "30"
   },
   "Popol & Kupa-SY0jowvLBB": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20x%20kiba.zip",
