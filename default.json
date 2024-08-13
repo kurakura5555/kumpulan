@@ -2814,13 +2814,13 @@
     "sort": "1"
   },
   "Lancelot-pU4YsoOxFC": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20flashy%20flash.zip",
+    "key": "Lancelot-pU4YsoOxFC",
     "hero": "Lancelot",
+    "skin_name": "Flash",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20flashy%20flash.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20flashy%20flash.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20flashy%20flash.png",
-    "key": "Lancelot-pU4YsoOxFC",
-    "skin_name": "Flash",
-    "sort": "2"
+    "sort": "30"
   },
   "Ling-hvAbmmn31a": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20itachi%20anbu.zip",
