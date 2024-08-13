@@ -2868,13 +2868,13 @@
     "sort": "30"
   },
   "Tigreal-XUPs125TxD": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20x%20thor.zip",
+    "key": "Tigreal-XUPs125TxD",
     "hero": "Tigreal",
+    "skin_name": "Thor",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20x%20thor.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzgnHTAyc36YU8Eyc28GEaohs7zFR6voxKA&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzgnHTAyc36YU8Eyc28GEaohs7zFR6voxKA&usqp=CAU",
-    "key": "Tigreal-XUPs125TxD",
-    "skin_name": "Thor",
-    "sort": "2"
+    "sort": "30"
   },
   "Benedetta-y5vPXlO8Ym": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20special.zip",
