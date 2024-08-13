@@ -2743,13 +2743,13 @@
     "sort": "30"
   },
   "Bruno-h2YcPyNSqA": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20x%20tsubasa.zip",
+    "key": "Bruno-h2YcPyNSqA",
     "hero": "Bruno",
+    "skin_name": "Tsubasa",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20x%20tsubasa.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ztMo7JoycJ0T5PAoXKc7GBJR7TIi2zDXbw&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ztMo7JoycJ0T5PAoXKc7GBJR7TIi2zDXbw&usqp=CAU",
-    "key": "Bruno-h2YcPyNSqA",
-    "skin_name": "Tsubasa",
-    "sort": "7"
+    "sort": "30"
   },
   "Chou-HFKbAyLzSp": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20armored%20titan.zip",
