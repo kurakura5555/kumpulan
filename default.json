@@ -3121,13 +3121,13 @@
     "sort": "2"
   },
   "Alucard-G0mNNQGuQB": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20X%20tanjiro.zip",
+    "key": "Alucard-G0mNNQGuQB",
     "hero": "Alucard",
+    "skin_name": "Tanjiro",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20X%20tanjiro.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
-    "key": "Alucard-G0mNNQGuQB",
-    "skin_name": "Tanjiro",
-    "sort": "3"
+    "sort": "30"
   },
   "Alucard-6Art1LCY7d": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20starwars.zip",
