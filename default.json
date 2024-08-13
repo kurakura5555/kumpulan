@@ -2832,13 +2832,13 @@
     "sort": "30"
   },
   "Ling-VOICDwRTTX": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20sasuke.zip",
+    "key": "Ling-VOICDwRTTX",
     "hero": "Ling",
+    "skin_name": "Sasuke",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20sasuke.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20sasuke.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20sasuke.png",
-    "key": "Ling-VOICDwRTTX",
-    "skin_name": "Sasuke",
-    "sort": "4"
+    "sort": "30"
   },
   "Ling-dtn9492J48": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20toshiro%20hitsugaya.zip",
