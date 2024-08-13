@@ -3229,13 +3229,13 @@
     "sort": "4"
   },
   "Dyrroth-htMFiD1YZC": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyroth%20lightborn(mod).zip",
+    "key": "Dyrroth-htMFiD1YZC",
     "hero": "Dyrroth",
+    "skin_name": "Lightborn fan art",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyroth%20lightborn(mod).zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUijeuZieL16Gj8MwcSkub1WosZEGmnN8bQq1b5P4P2w2BZBsRufmhnErE&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUijeuZieL16Gj8MwcSkub1WosZEGmnN8bQq1b5P4P2w2BZBsRufmhnErE&s=10",
-    "key": "Dyrroth-htMFiD1YZC",
-    "skin_name": "Lightborn fan art",
-    "sort": "1"
+    "sort": "30"
   },
   "Dyrroth-B3YQJr7fnH": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyroth%20starlight.zip",
