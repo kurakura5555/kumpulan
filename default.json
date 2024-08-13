@@ -5478,13 +5478,13 @@
     "sort": "30"
   },
   "Yu Zhong-5tDQn4T7By": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yu%20zhong%20x%20kaido.zip",
+    "key": "Yu Zhong-5tDQn4T7By",
     "hero": "Yu Zhong",
+    "skin_name": "Kaido",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yu%20zhong%20x%20kaido.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/yu%20zhong%20x%20kaido.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/yu%20zhong%20x%20kaido.png",
-    "key": "Yu Zhong-5tDQn4T7By",
-    "skin_name": "Kaido",
-    "sort": "2"
+    "sort": "30"
   },
   "Dyrroth-sqyT0VqL0w": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20venom.zip",
