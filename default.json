@@ -5173,13 +5173,13 @@
     "sort": "1"
   },
   "Alucard-FkJNZovJBY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20x%20kyo%20susanagi.zip",
+    "key": "Alucard-FkJNZovJBY",
     "hero": "Alucard",
+    "skin_name": "kyo kusanagi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20x%20kyo%20susanagi.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
-    "key": "Alucard-FkJNZovJBY",
-    "skin_name": "kyo kusanagi",
-    "sort": "3"
+    "sort": "30"
   },
   "Aurora-Qw636RF2xN": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20x%20conan.zip",
