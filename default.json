@@ -5650,13 +5650,13 @@
     "sort": "30"
   },
   "Gatotkaca-FIXxWZGibr": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gatotkaca%20x%20kyo%20kusanagi.zip",
+    "key": "Gatotkaca-FIXxWZGibr",
     "hero": "Gatotkaca",
+    "skin_name": "Kyo Kusanagi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gatotkaca%20x%20kyo%20kusanagi.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9Uq9QIpyF8Lmn7Cx4f02XxB4hH40uhEFd6uR99A39pHGxfBF7si64Vcc&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9Uq9QIpyF8Lmn7Cx4f02XxB4hH40uhEFd6uR99A39pHGxfBF7si64Vcc&s=10",
-    "key": "Gatotkaca-FIXxWZGibr",
-    "skin_name": "Kyo Kusanagi",
-    "sort": "5"
+    "sort": "30"
   },
   "Gatotkaca-oKbleCpaoq": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gatotkaca%20x%20tanjiro.zip",
