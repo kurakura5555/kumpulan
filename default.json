@@ -2778,13 +2778,13 @@
     "sort": "30"
   },
   "Gusion-VHmoZF8STq": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20x%20minato.zip",
+    "key": "Gusion-VHmoZF8STq",
     "hero": "Gusion",
+    "skin_name": "Minato",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20x%20minato.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20x%20minato.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20x%20minato.png",
-    "key": "Gusion-VHmoZF8STq",
-    "skin_name": "Minato",
-    "sort": "2"
+    "sort": "30"
   },
   "Hayabusa-n38a8A5jrl": {
     "key": "Hayabusa-n38a8A5jrl",
