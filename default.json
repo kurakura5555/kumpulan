@@ -2805,13 +2805,13 @@
     "sort": "30"
   },
   "Julian-xFZ3gxu70q": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20x%20ursed%20weapon.zip",
+    "key": "Julian-xFZ3gxu70q",
     "hero": "Julian",
+    "skin_name": "Ursed Weapon",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20x%20ursed%20weapon.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/julian%20x%20ursed%20weapon.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/julian%20x%20ursed%20weapon.png",
-    "key": "Julian-xFZ3gxu70q",
-    "skin_name": "Ursed Weapon",
-    "sort": "1"
+    "sort": "30"
   },
   "Lancelot-pU4YsoOxFC": {
     "key": "Lancelot-pU4YsoOxFC",
