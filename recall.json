@@ -691,5 +691,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
     "sort": "1"
+  },
+  "Classic Replacement-gztnrq": {
+    "key": "Classic Replacement-gztnrq",
+    "hero": "Classic Replacement",
+    "skin_name": "Summer Gala",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/summer%20gala.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
+    "sort": "1"
   }
 }
