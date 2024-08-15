@@ -646,5 +646,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
     "sort": "1"
+  },
+  "Classic Replacement-zux1l7": {
+    "key": "Classic Replacement-zux1l7",
+    "hero": "Classic Replacement",
+    "skin_name": "Seal Of Enternal Flower",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/seal%20of%20eternal%20flower.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
+    "sort": "1"
   }
 }
