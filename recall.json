@@ -700,5 +700,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
     "sort": "1"
+  },
+  "Classic Replacement-0uk01e": {
+    "key": "Classic Replacement-0uk01e",
+    "hero": "Classic Replacement",
+    "skin_name": "Thunder Returns",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/thunder%20returns.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
+    "sort": "1"
   }
 }
