@@ -628,5 +628,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
     "sort": "1"
+  },
+  "Classic Replacement-jbjagt": {
+    "key": "Classic Replacement-jbjagt",
+    "hero": "Classic Replacement",
+    "skin_name": "Return Of The Futur",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/return%20of%20the%20future.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Return_of_the_Future_Recall_Effect.png/revision/latest?cb=20210712122341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Return_of_the_Future_Recall_Effect.png/revision/latest?cb=20210712122341",
+    "sort": "1"
   }
 }
