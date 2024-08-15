@@ -493,5 +493,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Carp_Windsocks_Fluttering~.png/revision/latest?cb=20211204090100",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Carp_Windsocks_Fluttering~.png/revision/latest?cb=20211204090100",
     "sort": "1"
+  },
+  "Classic Replacement-3oikyp": {
+    "key": "Classic Replacement-3oikyp",
+    "hero": "Classic Replacement",
+    "skin_name": "Christmas",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/christmas.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_Recall_Effect.png/revision/latest?cb=20211204090315",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_Recall_Effect.png/revision/latest?cb=20211204090315",
+    "sort": "1"
   }
 }
