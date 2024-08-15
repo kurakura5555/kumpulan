@@ -610,5 +610,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
     "sort": "1"
+  },
+  "Classic Replacement-ibbvj9": {
+    "key": "Classic Replacement-ibbvj9",
+    "hero": "Classic Replacement",
+    "skin_name": "Party King",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/party%20king.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
+    "sort": "1"
   }
 }
