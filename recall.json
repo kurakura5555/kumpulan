@@ -664,5 +664,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
     "sort": "1"
+  },
+  "Classic Replacement-m82kv7": {
+    "key": "Classic Replacement-m82kv7",
+    "hero": "Classic Replacement",
+    "skin_name": "Snowman",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/snowman.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
+    "sort": "1"
   }
 }
