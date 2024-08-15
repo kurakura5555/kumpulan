@@ -565,5 +565,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
     "sort": "1"
+  },
+  "Classic Replacement-0dcsfc": {
+    "key": "Classic Replacement-0dcsfc",
+    "hero": "Classic Replacement",
+    "skin_name": "M2 Champion",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/m2%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
+    "sort": "1"
   }
 }
