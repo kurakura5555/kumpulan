@@ -655,5 +655,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
     "sort": "1"
+  },
+  "Classic Replacement-irrklu": {
+    "key": "Classic Replacement-irrklu",
+    "hero": "Classic Replacement",
+    "skin_name": "Sky Guardian",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/sky%20guardian.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
+    "sort": "1"
   }
 }
