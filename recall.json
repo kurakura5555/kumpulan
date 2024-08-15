@@ -682,5 +682,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
     "sort": "1"
+  },
+  "Classic Replacement-mb8x26": {
+    "key": "Classic Replacement-mb8x26",
+    "hero": "Classic Replacement",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
+    "sort": "1"
   }
 }
