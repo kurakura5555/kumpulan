@@ -538,5 +538,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/The_King_Of_Fighters_Recall_Effect.png/revision/latest?cb=20211204084259",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/The_King_Of_Fighters_Recall_Effect.png/revision/latest?cb=20211204084259",
     "sort": "1"
+  },
+  "Classic Replacement-en02y9": {
+    "key": "Classic Replacement-en02y9",
+    "hero": "Classic Replacement",
+    "skin_name": "Light & Dark",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/light%20&%20dark.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
+    "sort": "1"
   }
 }
