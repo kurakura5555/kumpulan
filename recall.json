@@ -511,5 +511,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Emerald_Road_Recall_Effect.png/revision/latest?cb=20211204090253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Emerald_Road_Recall_Effect.png/revision/latest?cb=20211204090253",
     "sort": "1"
+  },
+  "Classic Replacement-qfwuck": {
+    "key": "Classic Replacement-qfwuck",
+    "hero": "Classic Replacement",
+    "skin_name": "Halloween",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/halloween.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
+    "sort": "1"
   }
 }
