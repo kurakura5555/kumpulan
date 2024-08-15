@@ -592,5 +592,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
     "sort": "1"
+  },
+  "Classic Replacement-3xtvoj": {
+    "key": "Classic Replacement-3xtvoj",
+    "hero": "Classic Replacement",
+    "skin_name": "MCL Tournament",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/mcl%20tournament.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
+    "sort": "1"
   }
 }
