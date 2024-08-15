@@ -619,5 +619,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
     "sort": "1"
+  },
+  "Classic Replacement-vn83v6": {
+    "key": "Classic Replacement-vn83v6",
+    "hero": "Classic Replacement",
+    "skin_name": "Part Star",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/party%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+    "sort": "1"
   }
 }
