@@ -583,5 +583,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
     "sort": "1"
+  },
+  "Classic Replacement-06zhrr": {
+    "key": "Classic Replacement-06zhrr",
+    "hero": "Classic Replacement",
+    "skin_name": "M3 Savege Return",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/m3%20savege%20return.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
+    "sort": "1"
   }
 }
