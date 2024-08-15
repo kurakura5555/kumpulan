@@ -601,5 +601,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
     "sort": "1"
+  },
+  "Classic Replacement-94n3gh": {
+    "key": "Classic Replacement-94n3gh",
+    "hero": "Classic Replacement",
+    "skin_name": "MSC Tournament",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/msc%20tournament.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
+    "sort": "1"
   }
 }
