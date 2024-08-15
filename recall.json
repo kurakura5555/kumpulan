@@ -520,5 +520,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
     "sort": "1"
+  },
+  "Classic Replacement-v0oojq": {
+    "key": "Classic Replacement-v0oojq",
+    "hero": "Classic Replacement",
+    "skin_name": "Homebound Lily",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/homebound%20lily.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Homebound_Lily_Recall_Effect.png/revision/latest?cb=20211204082711",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Homebound_Lily_Recall_Effect.png/revision/latest?cb=20211204082711",
+    "sort": "1"
   }
 }
