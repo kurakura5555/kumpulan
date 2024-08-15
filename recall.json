@@ -673,5 +673,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
     "sort": "1"
+  },
+  "Classic Replacement-ncue17": {
+    "key": "Classic Replacement-ncue17",
+    "hero": "Classic Replacement",
+    "skin_name": "Spring Festival",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/spring%20festival.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
+    "sort": "1"
   }
 }
