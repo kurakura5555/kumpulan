@@ -556,5 +556,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Lightborn%27s_Soul_Recall_Effect.png/revision/latest?cb=20211204084047",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Lightborn%27s_Soul_Recall_Effect.png/revision/latest?cb=20211204084047",
     "sort": "1"
+  },
+  "Classic Replacement-b6f6m9": {
+    "key": "Classic Replacement-b6f6m9",
+    "hero": "Classic Replacement",
+    "skin_name": "M1 Glory",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/m1%20glory.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
+    "sort": "1"
   }
 }
