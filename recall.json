@@ -574,5 +574,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
     "sort": "1"
+  },
+  "Classic Replacement-t7wfal": {
+    "key": "Classic Replacement-t7wfal",
+    "hero": "Classic Replacement",
+    "skin_name": "M2 Glory",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/m2%20glory.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
+    "sort": "1"
   }
 }
