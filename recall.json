@@ -332,15 +332,6 @@
     "skin_name": "B",
     "sort": "0"
   },
-  "rc 30": {
-    "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Party%20King.zip",
-    "hero": "Party King Replacement",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
-    "key": "rc 30",
-    "skin_name": "Sea Of Anvil",
-    "sort": "1"
-  },
   "rc 4": {
     "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
     "hero": "The Return Of The Sword Replacement",
