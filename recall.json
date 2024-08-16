@@ -431,15 +431,6 @@
     "skin_name": "B",
     "sort": "0"
   },
-  "rc 71": {
-    "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Transformer%207.zip",
-    "hero": "MLBB X Transformers Replacement",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
-    "key": "rc 71",
-    "skin_name": "Sea Of Anvil",
-    "sort": "1"
-  },
   "Classic Replacement-alscwq": {
     "key": "Classic Replacement-alscwq",
     "hero": "Classic Replacement",
