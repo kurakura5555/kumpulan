@@ -6070,5 +6070,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero1243-portrait.png/revision/latest/scale-to-width-down/250?cb=20240720010941",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero1243-portrait.png/revision/latest/scale-to-width-down/250?cb=20240720010941",
     "sort": "15"
+  },
+  "Franco-1723865767702": {
+    "key": "Franco-1723865767702",
+    "hero": "Franco",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest?cb=20240811041412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest?cb=20240811041412",
+    "sort": "15"
   }
 }
