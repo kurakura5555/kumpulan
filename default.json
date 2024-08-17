@@ -6088,5 +6088,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808",
     "sort": "15"
+  },
+  "Natalia-1723865946191": {
+    "key": "Natalia-1723865946191",
+    "hero": "Natalia",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natalia%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZiGprKq9C6lyqd6gFoEsyGzuGC_vlidKZQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZiGprKq9C6lyqd6gFoEsyGzuGC_vlidKZQ&usqp=CAU",
+    "sort": "15"
   }
 }
