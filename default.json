@@ -6079,5 +6079,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest?cb=20240811041412",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest?cb=20240811041412",
     "sort": "15"
+  },
+  "Gatotkaca-1723865822345": {
+    "key": "Gatotkaca-1723865822345",
+    "hero": "Gatotkaca",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gatotkaca%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808",
+    "sort": "15"
   }
 }
