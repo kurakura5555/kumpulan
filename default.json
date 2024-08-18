@@ -6106,5 +6106,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
     "sort": "15"
+  },
+  "Aldous-1723968674404": {
+    "key": "Aldous-1723968674404",
+    "hero": "Aldous",
+    "skin_name": "Costum Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20star.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20star.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20star.png",
+    "sort": "30"
   }
 }
