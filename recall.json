@@ -601,5 +601,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
     "sort": "1"
+  },
+  "Classic Replacement-269c2k": {
+    "key": "Classic Replacement-269c2k",
+    "hero": "Classic Replacement",
+    "skin_name": "Fortification Return",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/fortification%20return.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/fortification%20return.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/fortification%20return.png",
+    "sort": "1"
   }
 }
