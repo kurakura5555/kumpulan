@@ -709,5 +709,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/m5%20prime.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/m5%20prime.png",
     "sort": "1"
+  },
+  "Classic Replacement-vdbvsz": {
+    "key": "Classic Replacement-vdbvsz",
+    "hero": "Classic Replacement",
+    "skin_name": "M5",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/m5.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/m5.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/m5.png",
+    "sort": "1"
   }
 }
