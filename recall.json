@@ -682,5 +682,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/freya%20legend.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/freya%20legend.png",
     "sort": "1"
+  },
+  "Classic Replacement-r6evlj": {
+    "key": "Classic Replacement-r6evlj",
+    "hero": "Classic Replacement",
+    "skin_name": "KOF97",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/kof97.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
+    "sort": "1"
   }
 }
