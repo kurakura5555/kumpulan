@@ -655,5 +655,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
     "sort": "1"
+  },
+  "Classic Replacement-ivsllx": {
+    "key": "Classic Replacement-ivsllx",
+    "hero": "Classic Replacement",
+    "skin_name": "Ducati",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/ducati.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ducati.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ducati.png",
+    "sort": "1"
   }
 }
