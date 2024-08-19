@@ -691,5 +691,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
     "sort": "1"
+  },
+  "Classic Replacement-xl8pdr": {
+    "key": "Classic Replacement-xl8pdr",
+    "hero": "Classic Replacement",
+    "skin_name": "Lunox Legend",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/lunox%20legend.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/lunox%20legend.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lunox%20legend.png",
+    "sort": "1"
   }
 }
