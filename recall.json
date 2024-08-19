@@ -754,5 +754,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/soul%20vessels.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/soul%20vessels.png",
     "sort": "1"
+  },
+  "Classic Replacement-hb4426": {
+    "key": "Classic Replacement-hb4426",
+    "hero": "Classic Replacement",
+    "skin_name": "Valir Legend",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/valir%20legend.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/valir%20legend.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/valir%20legend.png",
+    "sort": "1"
   }
 }
