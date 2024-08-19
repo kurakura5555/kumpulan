@@ -637,5 +637,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20here.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20here.png",
     "sort": "1"
+  },
+  "Classic Replacement-g5msnc": {
+    "key": "Classic Replacement-g5msnc",
+    "hero": "Classic Replacement",
+    "skin_name": "Champion Return",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/champions%20return.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
+    "sort": "1"
   }
 }
