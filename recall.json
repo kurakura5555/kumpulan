@@ -646,5 +646,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
     "sort": "1"
+  },
+  "Classic Replacement-ddhfvx": {
+    "key": "Classic Replacement-ddhfvx",
+    "hero": "Classic Replacement",
+    "skin_name": "Dragon",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/dragon.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
+    "sort": "1"
   }
 }
