@@ -5008,13 +5008,13 @@
     "sort": "2"
   },
   "Ixia-HPkPLnaNz5": {
-    "download": "1",
+    "key": "Ixia-HPkPLnaNz5",
     "hero": "Ixia",
+    "skin_name": "Skin",
+    "download": "1",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
-    "key": "Ixia-HPkPLnaNz5",
-    "skin_name": "Skin",
-    "sort": "1"
+    "sort": "0"
   },
   "Novaria-6fQrReVhGX": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/novaria%20star.zip",
