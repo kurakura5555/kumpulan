@@ -595,12 +595,12 @@
     "sort": "0"
   },
   "Chou-r": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/chou.zip",
+    "key": "Chou-r",
     "hero": "Chou",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/chou.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
-    "key": "Chou-r",
-    "skin_name": "",
     "sort": "0"
   },
   "Claude-NQwD6YWOextsnmuOPz0": {
