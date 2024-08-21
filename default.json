@@ -5035,13 +5035,13 @@
     "sort": "1"
   },
   "Novaria-S1qjsRB699": {
-    "download": "1",
+    "key": "Novaria-S1qjsRB699",
     "hero": "Novaria",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/novaria.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429",
-    "key": "Novaria-S1qjsRB699",
-    "skin_name": "Skin",
-    "sort": "1"
+    "sort": "0"
   },
   "Nolan-FIYRRVPY7R": {
     "key": "Nolan-FIYRRVPY7R",
