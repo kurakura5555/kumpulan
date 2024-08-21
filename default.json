@@ -828,12 +828,12 @@
     "sort": "0"
   },
   "Hylos-NQwGmSZO4kqVs14aXOv": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/hylos.zip",
+    "key": "Hylos-NQwGmSZO4kqVs14aXOv",
     "hero": "Hylos",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/hylos.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hylos.png/revision/latest?cb=20180820101206",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hylos.png/revision/latest?cb=20180820101206",
-    "key": "Hylos-NQwGmSZO4kqVs14aXOv",
-    "skin_name": "",
     "sort": "0"
   },
   "Irithel-NQwGorUb8xIiMTgC8A1": {
