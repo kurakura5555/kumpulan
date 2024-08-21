@@ -5468,13 +5468,13 @@
     "sort": "30"
   },
   "Beatrix-X4XHSTQCsH": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/beatrix.prime.zip",
+    "key": "Beatrix-X4XHSTQCsH",
     "hero": "Beatrix",
+    "skin_name": "Prime",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/beatrix.prime.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
-    "key": "Beatrix-X4XHSTQCsH",
-    "skin_name": "Prime",
-    "sort": "1"
+    "sort": "15"
   },
   "Hanabi-FUvls3AYkG": {
     "key": "Hanabi-FUvls3AYkG",
