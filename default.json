@@ -28,13 +28,13 @@
     "sort": "1"
   },
   "Beatrix-svmEwjpGiP": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/beatrix.zip",
+    "key": "Beatrix-svmEwjpGiP",
     "hero": "Beatrix",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/beatrix.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412",
-    "key": "Beatrix-svmEwjpGiP",
-    "skin_name": "",
-    "sort": "1"
+    "sort": "0"
   },
   "Yu Zhong-SYUasFdKvy": {
     "key": "Yu Zhong-SYUasFdKvy",
