@@ -451,14 +451,13 @@
     "sort": "0"
   },
   "Arlott-NQwBrrcFLAubAhH9N0b": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/arlot.zip",
+    "key": "Arlott-NQwBrrcFLAubAhH9N0b",
     "hero": "Arlott",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/arlot.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
-    "key": "Arlott-NQwBrrcFLAubAhH9N0b",
-    "skin_name": "1",
-    "sort": "0",
-    "skin": "1"
+    "sort": "0"
   },
   "Atlas-NQwByj2-Eqkl1Mx6fxe": {
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/atlas.zip",
