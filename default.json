@@ -4945,13 +4945,13 @@
     "sort": "1"
   },
   "Chip-fQ5Wyr8t8d": {
-    "download": "1",
+    "key": "Chip-fQ5Wyr8t8d",
     "hero": "Chip",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/chip.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
-    "key": "Chip-fQ5Wyr8t8d",
-    "skin_name": "Skin",
-    "sort": "1"
+    "sort": "0"
   },
   "Cici-Bkoamu72LR": {
     "download": "1",
