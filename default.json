@@ -4775,13 +4775,13 @@
     "sort": "6"
   },
   "Clint-urvVLo3F2E": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/clint.zip",
+    "key": "Clint-urvVLo3F2E",
     "hero": "Clint",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/clint.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
-    "key": "Clint-urvVLo3F2E",
-    "skin_name": "Skin",
-    "sort": "1"
+    "sort": "0"
   },
   "Khaleed-9gskt0jLXy": {
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/khaleed.zip",
