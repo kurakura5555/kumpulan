@@ -127,13 +127,13 @@
     "sort": "8"
   },
   "Dyrroth-Mn0Qg8PuWD": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/dyrroth.zip",
+    "key": "Dyrroth-Mn0Qg8PuWD",
     "hero": "Dyrroth",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/dyrroth.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
-    "key": "Dyrroth-Mn0Qg8PuWD",
-    "skin_name": "",
-    "sort": "1"
+    "sort": "15"
   },
   "Edith-zrNC83x5jn": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/edith%20clouds.zip",
