@@ -9,14 +9,13 @@
     "sort": "3"
   },
   "Fanny-NQwFczlPbDLlvDklebY": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/fanny.zip",
+    "key": "Fanny-NQwFczlPbDLlvDklebY",
     "hero": "Fanny",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/fanny.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20231010042000",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20231010042000",
-    "key": "Fanny-NQwFczlPbDLlvDklebY",
-    "skin_name": "",
-    "sort": "0",
-    "skin": ""
+    "sort": "0"
   },
   "Franco-bOQkqXBC1k": {
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/franco.zip",
