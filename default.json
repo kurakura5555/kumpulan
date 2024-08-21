@@ -388,12 +388,12 @@
     "sort": "0"
   },
   "Akai-NQwB2sjLsuGu3HxeZ00": {
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/akai.zip",
+    "key": "Akai-NQwB2sjLsuGu3HxeZ00",
     "hero": "Akai",
+    "skin_name": "R",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/akai.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305",
-    "key": "Akai-NQwB2sjLsuGu3HxeZ00",
-    "skin_name": "R",
     "sort": "0"
   },
   "Aldous-NQwB7zliG75hhqmHvod": {
