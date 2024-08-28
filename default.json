@@ -6230,5 +6230,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "sort": "15"
+  },
+  "Chou-1724828859157": {
+    "key": "Chou-1724828859157",
+    "hero": "Chou",
+    "skin_name": "Ace",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20ace.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGxgt4mhfRYknBLP2yVoAHAUNIq4hTRHEr6PTGgQKOnkz8g9Al8CAcwXs&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGxgt4mhfRYknBLP2yVoAHAUNIq4hTRHEr6PTGgQKOnkz8g9Al8CAcwXs&s=10",
+    "sort": "30"
   }
 }
