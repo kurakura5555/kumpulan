@@ -5530,13 +5530,13 @@
     "sort": "2"
   },
   "Aurora-Ul3Tvxj6Rd": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20collector.zip",
+    "key": "Aurora-Ul3Tvxj6Rd",
     "hero": "Aurora",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20collector.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aurora%20collector.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aurora%20collector.png",
-    "key": "Aurora-Ul3Tvxj6Rd",
-    "skin_name": "Collector",
-    "sort": "3"
+    "sort": "15"
   },
   "Clint-7f221WUEd8": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20epic.zip",
