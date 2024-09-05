@@ -5623,5 +5623,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest?cb=20220525164647",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20240619180759",
     "sort": "7"
+  },
+  "Brody-1725533838878": {
+    "key": "Brody-1725533838878",
+    "hero": "Brody",
+    "skin_name": "Basic > Champion",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/brody%20basic%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest?cb=20220525170319",
+    "img2": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/images (9)-picsay.png",
+    "sort": "1"
   }
 }
