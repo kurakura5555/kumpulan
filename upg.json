@@ -5632,5 +5632,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest?cb=20220525170319",
     "img2": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/images (9)-picsay.png",
     "sort": "1"
+  },
+  "Leomord-1725533936512": {
+    "key": "Leomord-1725533936512",
+    "hero": "Leomord",
+    "skin_name": "Basic To Ducati",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/leomord%20basic%20to%20ducati.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest?cb=20220628173711",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RIld7okZcCCYcMHa_0TeDnqJmrJUasqObufX4eJqBBqwD8wIXD7xh0U&s=10",
+    "sort": "1"
   }
 }
