@@ -6834,15 +6834,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/odette%20x%20valentine%20lotus%20charm.png",
     "sort": "30"
   },
-  "Odete-1726485318190": {
-    "key": "Odete-1726485318190",
-    "hero": "Odete",
-    "skin_name": "White Swan",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20x%20white%20swan.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ruby%20x%20white%20swan.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ruby%20x%20white%20swan.png",
-    "sort": "30"
-  },
   "Selena-1726485371795": {
     "key": "Selena-1726485371795",
     "hero": "Selena",
@@ -6850,6 +6841,15 @@
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20x%20kishin%20densetsu.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/selena%20x%20kishin%20densetsu.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/selena%20x%20kishin%20densetsu.png",
+    "sort": "30"
+  },
+  "Ruby-1726485401313": {
+    "key": "Ruby-1726485401313",
+    "hero": "Ruby",
+    "skin_name": "White Swan",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20x%20white%20swan.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ruby%20x%20white%20swan.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ruby%20x%20white%20swan.png",
     "sort": "30"
   }
 }
