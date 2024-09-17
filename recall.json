@@ -790,5 +790,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
     "sort": "1"
+  },
+  "Classic Replacement-grro41": {
+    "key": "Classic Replacement-grro41",
+    "hero": "Classic Replacement",
+    "skin_name": "Esport Geek",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/esport%20geek.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20geek.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20geek.png",
+    "sort": "1"
   }
 }
