@@ -781,5 +781,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20evos.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20evos.png",
     "sort": "1"
+  },
+  "Classic Replacement-rb1sa2": {
+    "key": "Classic Replacement-rb1sa2",
+    "hero": "Classic Replacement",
+    "skin_name": "Esport Fcon",
+    "download": "https://github.com/rahasia55/AG-Recall/raw/main/esport%20fcon.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
+    "sort": "1"
   }
 }
