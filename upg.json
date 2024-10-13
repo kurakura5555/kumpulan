@@ -5641,5 +5641,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest?cb=20220628173711",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RIld7okZcCCYcMHa_0TeDnqJmrJUasqObufX4eJqBBqwD8wIXD7xh0U&s=10",
     "sort": "1"
+  },
+  "Arlott-1728784443762": {
+    "key": "Arlott-1728784443762",
+    "hero": "Arlott",
+    "skin_name": "Basic > Collector",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/arlott%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxV72Zmh5FzK8EBtYT-nGwMW-Owk6PDrO3A&usqp=CAU",
+    "sort": "1"
   }
 }
