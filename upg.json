@@ -5650,5 +5650,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxV72Zmh5FzK8EBtYT-nGwMW-Owk6PDrO3A&usqp=CAU",
     "sort": "1"
+  },
+  "Fanny-1729468325850": {
+    "key": "Fanny-1729468325850",
+    "hero": "Fanny",
+    "skin_name": "Lightborn > Aspirant",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/funny lightborn aspirant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+    "sort": "12"
   }
 }
