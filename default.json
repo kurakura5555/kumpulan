@@ -6914,5 +6914,14 @@
     "img": "https://raw.githubusercontent.com/AnehDev/Script-As-MF/refs/heads/main/IMG_20241023_225140.jpg",
     "img2": "https://raw.githubusercontent.com/AnehDev/Script-As-MF/refs/heads/main/IMG_20241023_225140.jpg",
     "sort": "15"
+  },
+  "Claude-1730010439078": {
+    "key": "Claude-1730010439078",
+    "hero": "Claude",
+    "skin_name": "Challenger Spark",
+    "download": "https://github.com/AnehDev/Script-As-MF/raw/refs/heads/main/claude%20m6",
+    "img": "https://pbs.twimg.com/media/GZh6SQDaIAAXyKF?format=jpg&name=large",
+    "img2": "https://pbs.twimg.com/media/GZh6SQDaIAAXyKF?format=jpg&name=large",
+    "sort": "15"
   }
 }
