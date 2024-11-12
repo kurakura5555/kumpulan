@@ -6959,5 +6959,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
     "sort": "30"
+  },
+  "Johnson-1731383884642": {
+    "key": "Johnson-1731383884642",
+    "hero": "Johnson",
+    "skin_name": "Custom Chibi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/johnson%20x%20chibi.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/johnson%20x%20chibi.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/johnson%20x%20chibi.png",
+    "sort": "30"
   }
 }
