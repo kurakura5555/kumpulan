@@ -6977,5 +6977,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest?cb=20240430024127",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest?cb=20240430024127",
     "sort": "30"
+  },
+  "Valir-1731384273805": {
+    "key": "Valir-1731384273805",
+    "hero": "Valir",
+    "skin_name": "Ace",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/valir%20x%20ace.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjjbVfYPsYKrMCX6JaE_DpUDK0fRp6LNKm2FWDIobOAF4pkOXkiw4hQkn&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjjbVfYPsYKrMCX6JaE_DpUDK0fRp6LNKm2FWDIobOAF4pkOXkiw4hQkn&s=10",
+    "sort": "30"
   }
 }
