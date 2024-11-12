@@ -6932,5 +6932,14 @@
     "img": "https://i.pinimg.com/236x/a1/ec/46/a1ec4646a751917643d2b5e162146ad1.jpg",
     "img2": "https://i.pinimg.com/236x/a1/ec/46/a1ec4646a751917643d2b5e162146ad1.jpg",
     "sort": "15"
+  },
+  "Carmilla-1731383660601": {
+    "key": "Carmilla-1731383660601",
+    "hero": "Carmilla",
+    "skin_name": "Custom Halloween",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/carmilla%20x%20halloween.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/carmilla%20x%20halloween.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/carmilla%20x%20halloween.png",
+    "sort": "30"
   }
 }
