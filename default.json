@@ -7068,15 +7068,6 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVrvWtDKRlEc6jPeX-OLduNBYUv52cpc86pFr8SB1ybi2qFqpkZjdjfw&s=10",
     "sort": "30"
   },
-  "Moskov-1733402335636": {
-    "key": "Moskov-1733402335636",
-    "hero": "Moskov",
-    "skin_name": "Manga Night",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/nana%20x%20manga%20night.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
-    "sort": "30"
-  },
   "Novaria-1733402390641": {
     "key": "Novaria-1733402390641",
     "hero": "Novaria",
@@ -7084,6 +7075,15 @@
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/novaria%20x%20summer.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/novaria%20x%20summer.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/novaria%20x%20summer.png",
+    "sort": "30"
+  },
+  "Nana-1733402426347": {
+    "key": "Nana-1733402426347",
+    "hero": "Nana",
+    "skin_name": "Manga Night",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/nana%20x%20manga%20night.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
     "sort": "30"
   }
 }
