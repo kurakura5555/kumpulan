@@ -7067,5 +7067,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVrvWtDKRlEc6jPeX-OLduNBYUv52cpc86pFr8SB1ybi2qFqpkZjdjfw&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVrvWtDKRlEc6jPeX-OLduNBYUv52cpc86pFr8SB1ybi2qFqpkZjdjfw&s=10",
     "sort": "30"
+  },
+  "Moskov-1733402335636": {
+    "key": "Moskov-1733402335636",
+    "hero": "Moskov",
+    "skin_name": "Manga Night",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/nana%20x%20manga%20night.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/nana%20x%20manga%20night.png",
+    "sort": "30"
   }
 }
