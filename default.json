@@ -7139,5 +7139,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
     "sort": "15"
+  },
+  "Cecilion-1733659518217": {
+    "key": "Cecilion-1733659518217",
+    "hero": "Cecilion",
+    "skin_name": "Hisoka",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/cecilion%20hisoka.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHcKVurZLGjOCf9QgR47TI1n75pYTVF2b7lrhPIzY5kFzS9L9ssDqBXfg&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHcKVurZLGjOCf9QgR47TI1n75pYTVF2b7lrhPIzY5kFzS9L9ssDqBXfg&s=10",
+    "sort": "15"
   }
 }
