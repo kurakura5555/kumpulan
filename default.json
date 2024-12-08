@@ -7130,5 +7130,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero996-color01-portrait.png/revision/latest?cb=20241201052819",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero996-color01-portrait.png/revision/latest?cb=20241201052819",
     "sort": "15"
+  },
+  "Barats-1733659463969": {
+    "key": "Barats-1733659463969",
+    "hero": "Barats",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/barats%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
+    "sort": "15"
   }
 }
