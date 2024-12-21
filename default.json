@@ -7274,5 +7274,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest?cb=20241201052808",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest?cb=20241201052808",
     "sort": "15"
+  },
+  "Zhuxin-1734775136645": {
+    "key": "Zhuxin-1734775136645",
+    "hero": "Zhuxin",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/zhuxin%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
+    "sort": "15"
   }
 }
