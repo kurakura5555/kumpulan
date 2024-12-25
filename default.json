@@ -7283,5 +7283,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
     "sort": "15"
+  },
+  "Terizla-1735123654029": {
+    "key": "Terizla-1735123654029",
+    "hero": "Terizla",
+    "skin_name": "Soulblight Tyrant",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/terizcollextor",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgL-7CLpEHRsZNMGv2He1vc0Pl6KJGcswsA&s",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgL-7CLpEHRsZNMGv2He1vc0Pl6KJGcswsA&s",
+    "sort": "15"
   }
 }
