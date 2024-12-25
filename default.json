@@ -1741,13 +1741,13 @@
     "sort": "1"
   },
   "Cyclops-zlJbuEB8DG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20stars%20war.zip",
+    "key": "Cyclops-zlJbuEB8DG",
     "hero": "Cyclops",
+    "skin_name": "StarWars",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/cyclops%20star%20wars.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
-    "key": "Cyclops-zlJbuEB8DG",
-    "skin_name": "Stars War",
-    "sort": "2"
+    "sort": "15"
   },
   "Esmeralda-EeoLQRzw5q": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20hero.zip",
