@@ -7039,5 +7039,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgL-7CLpEHRsZNMGv2He1vc0Pl6KJGcswsA&s",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgL-7CLpEHRsZNMGv2He1vc0Pl6KJGcswsA&s",
     "sort": "15"
+  },
+  "Dyrroth-1736564225421": {
+    "key": "Dyrroth-1736564225421",
+    "hero": "Dyrroth",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/dyrroth%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "sort": "15"
   }
 }
