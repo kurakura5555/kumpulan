@@ -7075,5 +7075,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxn4nW6xQZwwFpp_2QOn8JEgJTYTVCRFDiYi7J6FBDCO1r42Zaen0krTc&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxn4nW6xQZwwFpp_2QOn8JEgJTYTVCRFDiYi7J6FBDCO1r42Zaen0krTc&s=10",
     "sort": "15"
+  },
+  "Aurora-1736673870865": {
+    "key": "Aurora-1736673870865",
+    "hero": "Aurora",
+    "skin_name": "Charistmas",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/aurora.x.christmas.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/aurora%20x%20christmas.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/aurora%20x%20christmas.png",
+    "sort": "30"
   }
 }
