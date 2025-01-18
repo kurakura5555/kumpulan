@@ -7228,5 +7228,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyiK-ehjZHH4916PnAGhuXJnSzAI26y8nycPcOeadBcgXHxH4aZmYXlc&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyiK-ehjZHH4916PnAGhuXJnSzAI26y8nycPcOeadBcgXHxH4aZmYXlc&s=10",
     "sort": "15"
+  },
+  "Alpha-1737189877445": {
+    "key": "Alpha-1737189877445",
+    "hero": "Alpha",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/alpha%20starlight.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/alpha%20star.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/alpha%20star.png",
+    "sort": "15"
   }
 }
