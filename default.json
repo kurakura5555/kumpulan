@@ -7480,5 +7480,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1062-portrait.png/revision/latest?cb=20240811090803",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1062-portrait.png/revision/latest?cb=20240811090803",
     "sort": "30"
+  },
+  "Phoveus-1738586398731": {
+    "key": "Phoveus-1738586398731",
+    "hero": "Phoveus",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/phoveus%20x%20mpl.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/phoveus%20x%20mpl.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/phoveus%20x%20mpl.png",
+    "sort": "30"
   }
 }
