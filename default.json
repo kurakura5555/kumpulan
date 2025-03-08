@@ -2811,13 +2811,13 @@
     "sort": "8"
   },
   "Hanzo-tdvPNtQRHw": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanzo%20special.zip",
-    "hero": "Hanzo",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
     "key": "Hanzo-tdvPNtQRHw",
+    "hero": "Hanzo",
     "skin_name": "Special",
-    "sort": "9"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanzo%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20250117142005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20250117142005",
+    "sort": "15"
   },
   "Hayabusa-Ok2vaIX37V": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20star.zip",
