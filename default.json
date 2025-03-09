@@ -7606,5 +7606,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
     "sort": "15"
+  },
+  "Lesley-1741515218760": {
+    "key": "Lesley-1741515218760",
+    "hero": "Lesley",
+    "skin_name": "Covenant",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/lesley%20covenant.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjJW3URtx6F6FooQ6w-lZD08FZPKOK33jF2uRDIyZzMLMJlEp5_jr4YI&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjJW3URtx6F6FooQ6w-lZD08FZPKOK33jF2uRDIyZzMLMJlEp5_jr4YI&s=10",
+    "sort": "15"
   }
 }
