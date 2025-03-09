@@ -7597,5 +7597,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest?cb=20250109154352",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest?cb=20250109154352",
     "sort": "15"
+  },
+  "Ruby-1741515140637": {
+    "key": "Ruby-1741515140637",
+    "hero": "Ruby",
+    "skin_name": "Neon Edge",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/ruby%20neon%20edge.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
+    "sort": "15"
   }
 }
