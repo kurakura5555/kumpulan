@@ -7633,5 +7633,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907",
     "sort": "15"
+  },
+  "Leomord-1741681466396": {
+    "key": "Leomord-1741681466396",
+    "hero": "Leomord",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/leomord%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
+    "sort": "15"
   }
 }
