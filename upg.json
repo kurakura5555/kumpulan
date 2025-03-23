@@ -5686,5 +5686,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
     "sort": "7"
+  },
+  "Dyrroth-1742725601377": {
+    "key": "Dyrroth-1742725601377",
+    "hero": "Dyrroth",
+    "skin_name": "basic - Gon",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/dyrroth%20basic%20to%20gon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+    "sort": "1"
   }
 }
