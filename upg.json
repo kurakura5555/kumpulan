@@ -5695,5 +5695,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
     "sort": "1"
+  },
+  "Dyrroth-1742725639090": {
+    "key": "Dyrroth-1742725639090",
+    "hero": "Dyrroth",
+    "skin_name": "Star - Gon",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/dyrroth%20starlight%20to%20gon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+    "sort": "7"
   }
 }
