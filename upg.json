@@ -5668,5 +5668,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest?cb=20220525164920",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
     "sort": "1"
+  },
+  "Alpha-1742725463046": {
+    "key": "Alpha-1742725463046",
+    "hero": "Alpha",
+    "skin_name": "Season - Legend",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/alpha%20season%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
+    "sort": "15"
   }
 }
