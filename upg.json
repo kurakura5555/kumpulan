@@ -5677,5 +5677,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
     "sort": "15"
+  },
+  "Alpha-1742725515086": {
+    "key": "Alpha-1742725515086",
+    "hero": "Alpha",
+    "skin_name": "Star - Legend",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/alpha%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
+    "sort": "7"
   }
 }
