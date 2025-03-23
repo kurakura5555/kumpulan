@@ -5659,5 +5659,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
     "sort": "12"
+  },
+  "Alpha-1742725403442": {
+    "key": "Alpha-1742725403442",
+    "hero": "Alpha",
+    "skin_name": "Basic - Legend",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/refs/heads/main/alpha%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest?cb=20220525164920",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
+    "sort": "1"
   }
 }
