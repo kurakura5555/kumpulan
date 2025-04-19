@@ -7705,5 +7705,14 @@
     "img": "https://i.pinimg.com/736x/c8/13/76/c813765273014c14babff75e3b964306.jpg",
     "img2": "https://i.pinimg.com/736x/c8/13/76/c813765273014c14babff75e3b964306.jpg",
     "sort": "15"
+  },
+  "Hanzo-1745028403592": {
+    "key": "Hanzo-1745028403592",
+    "hero": "Hanzo",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/hanzo%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL1CVhCcr0bdUK98-Yv7YcHlvxU4o46jkpilP1wDRT0K7-c3uaH8qC2eN&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL1CVhCcr0bdUK98-Yv7YcHlvxU4o46jkpilP1wDRT0K7-c3uaH8qC2eN&s=10",
+    "sort": "15"
   }
 }
