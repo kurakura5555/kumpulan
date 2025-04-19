@@ -7750,5 +7750,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
     "sort": "15"
+  },
+  "Miya-1745029243855": {
+    "key": "Miya-1745029243855",
+    "hero": "Miya",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/miya%20star2.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/miya%20star2.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/miya%20star2.jpg",
+    "sort": "15"
   }
 }
