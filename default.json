@@ -7642,5 +7642,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
     "sort": "15"
+  },
+  "Kimmy-1745482080498": {
+    "key": "Kimmy-1745482080498",
+    "hero": "Kimmy",
+    "skin_name": "Starwars",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kimmy%20starwars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest?cb=20220628180011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest?cb=20220628180011",
+    "sort": "15"
   }
 }
