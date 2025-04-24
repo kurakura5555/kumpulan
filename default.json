@@ -7660,5 +7660,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
     "sort": "15"
+  },
+  "Hayabusa-1745497108958": {
+    "key": "Hayabusa-1745497108958",
+    "hero": "Hayabusa",
+    "skin_name": "Custom Sasuke",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/hayabusa%20x%20sasuke.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_DDG-ERmruamCwu3P9YWOnwifQXG-Z_LWpq29Y3sWPB4U9E_tcG1vNE&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_DDG-ERmruamCwu3P9YWOnwifQXG-Z_LWpq29Y3sWPB4U9E_tcG1vNE&s=10",
+    "sort": "30"
   }
 }
