@@ -7678,5 +7678,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
     "sort": "15"
+  },
+  "Kimmy-1745909853940": {
+    "key": "Kimmy-1745909853940",
+    "hero": "Kimmy",
+    "skin_name": "Luckybox",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kimmy%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "sort": "15"
   }
 }
