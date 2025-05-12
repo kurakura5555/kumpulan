@@ -7589,15 +7589,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
     "sort": "15"
   },
-  "Lukas-1745028567336": {
-    "key": "Lukas-1745028567336",
-    "hero": "Lukas",
-    "skin_name": "Sakura",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kalea%20sakura.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
-    "sort": "15"
-  },
   "Suyou-1745028599744": {
     "key": "Suyou-1745028599744",
     "hero": "Suyou",
@@ -7686,6 +7677,15 @@
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kimmy%20luckybox.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "sort": "15"
+  },
+  "Kalea-1747034379253": {
+    "key": "Kalea-1747034379253",
+    "hero": "Kalea",
+    "skin_name": "Sakura",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kalea%20sakura.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
     "sort": "15"
   }
 }
