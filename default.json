@@ -7687,5 +7687,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
     "sort": "15"
+  },
+  "Aamon-1747275969101": {
+    "key": "Aamon-1747275969101",
+    "hero": "Aamon",
+    "skin_name": "Custom Naruto",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/aamon%20x%20naruto.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AyBnA2BwVe713fUJLbJ58YUl-rGwKJFv6nIEsYGt_EYYc6dJecevMaY&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AyBnA2BwVe713fUJLbJ58YUl-rGwKJFv6nIEsYGt_EYYc6dJecevMaY&s=10",
+    "sort": "15"
   }
 }
