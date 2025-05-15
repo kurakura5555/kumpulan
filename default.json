@@ -7732,5 +7732,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzI3bYBKnrrX2kkqouoFvHRI5FGerMVax1LVSiOrc-7dymT2m_JZGhcXE&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzI3bYBKnrrX2kkqouoFvHRI5FGerMVax1LVSiOrc-7dymT2m_JZGhcXE&s=10",
     "sort": "30"
+  },
+  "Aurora-1747277731748": {
+    "key": "Aurora-1747277731748",
+    "hero": "Aurora",
+    "skin_name": "Kishin Densetsu",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/aurora.x.kishin.densetsu.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/aurora%20x%20kishin%20densetsu.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/aurora%20x%20kishin%20densetsu.jpg",
+    "sort": "30"
   }
 }
