@@ -5322,13 +5322,13 @@
     "sort": "7"
   },
   "Odete-b9Vzsg4wPX": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20star.zip",
-    "hero": "Odete",
-    "img": "https://pbs.twimg.com/media/GS0dQLubUAAIVev?format=jpg&name=4096x4096",
-    "img2": "https://pbs.twimg.com/media/GS0dQLubUAAIVev?format=jpg&name=4096x4096",
     "key": "Odete-b9Vzsg4wPX",
+    "hero": "Odete",
     "skin_name": "Star",
-    "sort": "1"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest?cb=20240815144026",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest?cb=20240815144026",
+    "sort": "15"
   },
   "Aldous-S6iIGZM6vV": {
     "key": "Aldous-S6iIGZM6vV",
