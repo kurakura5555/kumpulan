@@ -2226,13 +2226,13 @@
     "sort": "6"
   },
   "Zhask-Yjo8WFkGyf": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zhask%20epic%20bone.zip",
+    "key": "Zhask-Yjo8WFkGyf",
     "hero": "Zhask",
+    "skin_name": "Luckybox",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/zhask%20luckybox.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
-    "key": "Zhask-Yjo8WFkGyf",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15"
   },
   "Zhask-V75L45QFei": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zhask%20zodiac.zip",
