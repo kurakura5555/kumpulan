@@ -2037,13 +2037,13 @@
     "sort": "1"
   },
   "Alucard-51pjAVTAnv": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20epic.zip",
-    "hero": "Alucard",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
     "key": "Alucard-51pjAVTAnv",
-    "skin_name": "Epic",
-    "sort": "3"
+    "hero": "Alucard",
+    "skin_name": "Luckybox",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/alu%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
+    "sort": "15"
   },
   "Alucard-aMJx9JcH7a": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20lightborn.zip",
