@@ -8002,5 +8002,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
     "sort": "15"
+  },
+  "Julian-1748049140004": {
+    "key": "Julian-1748049140004",
+    "hero": "Julian",
+    "skin_name": "Fatcat",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/julian%20fatcat.zip",
+    "img": "https://pbs.twimg.com/media/GiD9QsXakAAh6o2?format=jpg&name=medium",
+    "img2": "https://pbs.twimg.com/media/GiD9QsXakAAh6o2?format=jpg&name=medium",
+    "sort": "15"
   }
 }
