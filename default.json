@@ -3513,13 +3513,13 @@
     "sort": "1"
   },
   "Eudora-26zr99TQZ1": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20epic.zip",
-    "hero": "Eudora",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest?cb=20220525164633",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest?cb=20220525164633",
     "key": "Eudora-26zr99TQZ1",
-    "skin_name": "Epic",
-    "sort": "1"
+    "hero": "Eudora",
+    "skin_name": "Luckybox",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/eudora%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+    "sort": "15"
   },
   "Eudora-nvEMOWvD37": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20limited.zip",
