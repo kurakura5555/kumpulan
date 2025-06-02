@@ -8128,5 +8128,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero947-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142828",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero947-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142828",
     "sort": "15"
+  },
+  "Roger-1748838058921": {
+    "key": "Roger-1748838058921",
+    "hero": "Roger",
+    "skin_name": "Custom Eren",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/roger%20x%20eren.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccC5L3HdNbZjh4fj2XQdH3TN6BhEcGCiDYrVuQnxOIMQicB1yqzkGsJc&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccC5L3HdNbZjh4fj2XQdH3TN6BhEcGCiDYrVuQnxOIMQicB1yqzkGsJc&s=10",
+    "sort": "30"
   }
 }
