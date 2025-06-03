@@ -8209,5 +8209,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVr-F4Itziwmp7owfdz9Ev1OsS-sAitpFtNBeJR_SkQdVr08e9RU16dVb&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVr-F4Itziwmp7owfdz9Ev1OsS-sAitpFtNBeJR_SkQdVr08e9RU16dVb&s=10",
     "sort": "30"
+  },
+  "Cecilion-1748924195523": {
+    "key": "Cecilion-1748924195523",
+    "hero": "Cecilion",
+    "skin_name": "Custom Madara",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/cecilion%20x%20madara.zip",
+    "img": "https://static.wikia.nocookie.net/naruto/images/7/7f/Madara_Jinchuriki_anime.png/revision/latest?cb=20150607220026&path-prefix=id",
+    "img2": "https://static.wikia.nocookie.net/naruto/images/7/7f/Madara_Jinchuriki_anime.png/revision/latest?cb=20150607220026&path-prefix=id",
+    "sort": "30"
   }
 }
