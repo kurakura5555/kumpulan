@@ -8173,5 +8173,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVS6zuIEwyh5ZiZuy1L4anzCfFtB96wv3pWqOo-eMqbqIyfHgT5kTWKjNv&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVS6zuIEwyh5ZiZuy1L4anzCfFtB96wv3pWqOo-eMqbqIyfHgT5kTWKjNv&s=10",
     "sort": "30"
+  },
+  "Hayabusa-1748922511645": {
+    "key": "Hayabusa-1748922511645",
+    "hero": "Hayabusa",
+    "skin_name": "Custom Killua",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/hayabusa.x.killua.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0H2fYmAeKmzbl3s4IomOIj5Zqmxrz92LVwWEUhnGs4Ef7WaZVaKCQAW3&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0H2fYmAeKmzbl3s4IomOIj5Zqmxrz92LVwWEUhnGs4Ef7WaZVaKCQAW3&s=10",
+    "sort": "30"
   }
 }
