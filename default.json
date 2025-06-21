@@ -8317,5 +8317,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb1IcELnIF0EcXctD10COGb6rd-q3QmGohIe3EPY7Ys8GbIW7-kctO-E&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb1IcELnIF0EcXctD10COGb6rd-q3QmGohIe3EPY7Ys8GbIW7-kctO-E&s=10",
     "sort": "30"
+  },
+  "Saber-1750478698528": {
+    "key": "Saber-1750478698528",
+    "hero": "Saber",
+    "skin_name": "Kakashi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/saber%20x%20kakashi.zip",
+    "img": "https://media.printler.com/media/photo/192889.jpg?rmode=crop&width=725&height=1024",
+    "img2": "https://media.printler.com/media/photo/192889.jpg?rmode=crop&width=725&height=1024",
+    "sort": "30"
   }
 }
