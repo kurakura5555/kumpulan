@@ -8373,5 +8373,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "sort": "15"
+  },
+  "Esmeralda-1751123645188": {
+    "key": "Esmeralda-1751123645188",
+    "hero": "Esmeralda",
+    "skin_name": "mencoba 1",
+    "download": "mencoba",
+    "img": "mencoba 1",
+    "img2": "mencoba 1",
+    "sort": "15",
+    "date_upload": "2025-06-28"
   }
 }
