@@ -8394,5 +8394,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "sort": "15",
     "date_upload": "2025-06-28"
+  },
+  "Zhuxin-1751083363464": {
+    "key": "Zhuxin-1751083363464",
+    "hero": "Zhuxin",
+    "skin_name": "mencoba 4",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/zhuxin%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest?cb=20241123045031",
+    "sort": "15",
+    "date_upload": "2025-06-28"
   }
 }
