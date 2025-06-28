@@ -8354,5 +8354,14 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qHKFX6mxHCIP9o3QbrMm13QJFeWeHLFvYRKimejba9LHXsRBHt_YzBV9&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qHKFX6mxHCIP9o3QbrMm13QJFeWeHLFvYRKimejba9LHXsRBHt_YzBV9&s=10",
     "sort": "30"
+  },
+  "Zhuxin-1724325722226": {
+    "key": "Zhuxin-1724325722226",
+    "hero": "Zhuxin",
+    "skin_name": "basic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zhuxin%20basic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
+    "sort": "15"
   }
 }
