@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "AnehGamingOfficial-NWDKemnadnoZeKVDBRy": {
-    "key": "AnehGamingOfficial-NWDKemnadnoZeKVDBRy",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "SANCTUM ISLAND > PROMAX",
-    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
-    "sort": "2"
-  },
   "AnehGamingOfficial-NWDKqeT19kb2VQrFx0D": {
     "key": "AnehGamingOfficial-NWDKqeT19kb2VQrFx0D",
     "hero": "AnehGamingOfficial",
@@ -160,5 +151,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "sort": "1"
+  },
+  "SanctumIsland-lvlt6b": {
+    "key": "SanctumIsland-lvlt6b",
+    "hero": "SanctumIsland",
+    "skin_name": "SANCTUM ISLAND > PROMAX",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+    "sort": "2"
   }
 }
