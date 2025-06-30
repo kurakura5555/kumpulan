@@ -26,15 +26,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20zoro.jpg",
     "sort": "1"
   },
-  "AnehGamingOfficial-r58qtm": {
-    "key": "AnehGamingOfficial-r58qtm",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "SANCTUM ISLAND > MAP MLBB CHINA",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.mlbb.china.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
-    "sort": "1"
-  },
   "AnehGamingOfficial-0nr7ay": {
     "key": "AnehGamingOfficial-0nr7ay",
     "hero": "AnehGamingOfficial",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map5.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
+    "sort": "2"
+  },
+  "SanctumIsland-rjtmxo": {
+    "key": "SanctumIsland-rjtmxo",
+    "hero": "SanctumIsland",
+    "skin_name": "SANCTUM ISLAND > MAP MLBB CHINA",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.mlbb.china.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
     "sort": "2"
   }
 }
