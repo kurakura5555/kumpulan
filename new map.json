@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-bmqe56": {
-    "key": "ImperialSanctury-bmqe56",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > COLORFULL",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20colorfull.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
-    "sort": "1"
-  },
   "ImperialSanctury-kscj8y": {
     "key": "ImperialSanctury-kscj8y",
     "hero": "ImperialSanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20hd%20paving%20sakura.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hd%20paving%20sakura.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hd%20paving%20sakura.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-1rr92u": {
+    "key": "Imperial Sanctury-1rr92u",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > COLORFULL",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20colorfull.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
     "sort": "1"
   }
 }
