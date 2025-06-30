@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-3y0g66": {
-    "key": "ImperialSanctury-3y0g66",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > HUTAN BATU",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20hutan%20batu.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hutan%20batu.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hutan%20batu.jpg",
-    "sort": "1"
-  },
   "ImperialSanctury-392z3v": {
     "key": "ImperialSanctury-392z3v",
     "hero": "ImperialSanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20abstrak%20technology.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-4m8ati": {
+    "key": "Imperial Sanctury-4m8ati",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > HUTAN BATU",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20hutan%20batu.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hutan%20batu.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hutan%20batu.jpg",
     "sort": "1"
   }
 }
