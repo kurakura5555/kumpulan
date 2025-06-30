@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-kscj8y": {
-    "key": "ImperialSanctury-kscj8y",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > STROBERY",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20strobery.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
-    "sort": "1"
-  },
   "Imperial Sanctury-q841rx": {
     "key": "Imperial Sanctury-q841rx",
     "hero": "Imperial Sanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20colorfull.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-txgool": {
+    "key": "Imperial Sanctury-txgool",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > STROBERY",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20strobery.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "sort": "1"
   }
 }
