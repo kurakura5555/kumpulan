@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
     "sort": "1"
   },
-  "AnehGamingOfficial-tkwffy": {
-    "key": "AnehGamingOfficial-tkwffy",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "SANCTUM ISLAND > MWORLD 515",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.morld.515.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
-    "sort": "1"
-  },
   "AnehGamingOfficial-enkx40": {
     "key": "AnehGamingOfficial-enkx40",
     "hero": "AnehGamingOfficial",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.mlbb.china.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
+    "sort": "2"
+  },
+  "SanctumIsland-7bc6gs": {
+    "key": "SanctumIsland-7bc6gs",
+    "hero": "SanctumIsland",
+    "skin_name": "SANCTUM ISLAND > MWORLD 515",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.morld.515.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
     "sort": "2"
   }
 }
