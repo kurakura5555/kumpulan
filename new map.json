@@ -17,15 +17,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
     "sort": "1"
   },
-  "AnehGamingOfficial-NWDLNlHYR0LaOTv8OGl": {
-    "key": "AnehGamingOfficial-NWDLNlHYR0LaOTv8OGl",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "SANCTUM ISLAND > HIGH GRAPHICS",
-    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map5.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
-    "sort": "1"
-  },
   "AnehGamingOfficial-ka41jw": {
     "key": "AnehGamingOfficial-ka41jw",
     "hero": "AnehGamingOfficial",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map2.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
+    "sort": "2"
+  },
+  "SanctumIsland-a3gczj": {
+    "key": "SanctumIsland-a3gczj",
+    "hero": "SanctumIsland",
+    "skin_name": "SANCTUM ISLAND > HIGH GRAPHICS",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map5.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
     "sort": "2"
   }
 }
