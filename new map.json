@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-uk3lzu": {
-    "key": "ImperialSanctury-uk3lzu",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > ABSTRAK TECHNOLOGY",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20abstrak%20technology.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
-    "sort": "1"
-  },
   "ImperialSanctury-3y0g66": {
     "key": "ImperialSanctury-3y0g66",
     "hero": "ImperialSanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.halloween.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-rotpno": {
+    "key": "Imperial Sanctury-rotpno",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > ABSTRAK TECHNOLOGY",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20abstrak%20technology.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
     "sort": "1"
   }
 }
