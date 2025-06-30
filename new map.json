@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "SanctumIsland-towm2u": {
-    "key": "SanctumIsland-towm2u",
-    "hero": "SanctumIsland",
-    "skin_name": "SANCTUM ISLAND > NARUTO FLOWER",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20naruto%20flower.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
-    "sort": "2"
-  },
   "Imperial Sanctury-q841rx": {
     "key": "Imperial Sanctury-q841rx",
     "hero": "Imperial Sanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.morld.515.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
+    "sort": "2"
+  },
+  "Sanctum Island-tdsrrh": {
+    "key": "Sanctum Island-tdsrrh",
+    "hero": "Sanctum Island",
+    "skin_name": "SANCTUM ISLAND > NARUTO FLOWER",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20naruto%20flower.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   }
 }
