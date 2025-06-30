@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "SanctumIsland-lvlt6b": {
-    "key": "SanctumIsland-lvlt6b",
-    "hero": "SanctumIsland",
-    "skin_name": "SANCTUM ISLAND > PROMAX",
-    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
-    "sort": "2"
-  },
   "SanctumIsland-b8mc7a": {
     "key": "SanctumIsland-b8mc7a",
     "hero": "SanctumIsland",
@@ -160,5 +151,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "sort": "1"
+  },
+  "Sanctum Island-x9odpx": {
+    "key": "Sanctum Island-x9odpx",
+    "hero": "Sanctum Island",
+    "skin_name": "SANCTUM ISLAND > PROMAX",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+    "sort": "2"
   }
 }
