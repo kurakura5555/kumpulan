@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "AnehGamingOfficial-r9d2ad": {
-    "key": "AnehGamingOfficial-r9d2ad",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "IMPERIAL SANCTUARY > DARK MODE  AUTUM",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20dark%20mode%20autum.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20dark%20mode%20autum.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20dark%20mode%20autum.jpg",
-    "sort": "1"
-  },
   "AnehGamingOfficial-2ss8lx": {
     "key": "AnehGamingOfficial-2ss8lx",
     "hero": "AnehGamingOfficial",
@@ -159,6 +150,15 @@
     "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/map ultra hdr paving.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hdr.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hdr.jpg",
+    "sort": "1"
+  },
+  "ImperialSanctury-ach62e": {
+    "key": "ImperialSanctury-ach62e",
+    "hero": "ImperialSanctury",
+    "skin_name": "IMPERIAL SANCTUARY > DARK MODE  AUTUM",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20dark%20mode%20autum.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20dark%20mode%20autum.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20dark%20mode%20autum.jpg",
     "sort": "1"
   }
 }
