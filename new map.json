@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "SanctumIsland-7bc6gs": {
-    "key": "SanctumIsland-7bc6gs",
-    "hero": "SanctumIsland",
-    "skin_name": "SANCTUM ISLAND > MWORLD 515",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.morld.515.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
-    "sort": "2"
-  },
   "SanctumIsland-towm2u": {
     "key": "SanctumIsland-towm2u",
     "hero": "SanctumIsland",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.mlbb.china.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20china.jpg",
+    "sort": "2"
+  },
+  "Sanctum Island-i7zxv1": {
+    "key": "Sanctum Island-i7zxv1",
+    "hero": "Sanctum Island",
+    "skin_name": "SANCTUM ISLAND > MWORLD 515",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.morld.515.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20mworld%20515.jpg",
     "sort": "2"
   }
 }
