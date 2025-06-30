@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-3g6m4e": {
-    "key": "ImperialSanctury-3g6m4e",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > JALAN TOL",
-    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map3.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
-    "sort": "1"
-  },
   "ImperialSanctury-lhfnte": {
     "key": "ImperialSanctury-lhfnte",
     "hero": "ImperialSanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20strobery.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-q841rx": {
+    "key": "Imperial Sanctury-q841rx",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > JALAN TOL",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map3.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
     "sort": "1"
   }
 }
