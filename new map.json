@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "AnehGamingOfficial-4ghxch": {
-    "key": "AnehGamingOfficial-4ghxch",
-    "hero": "AnehGamingOfficial",
-    "skin_name": "IMPERIAL SANCTUARY > COLORFULL",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20colorfull.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
-    "sort": "1"
-  },
   "AnehGamingOfficial-lrcuok": {
     "key": "AnehGamingOfficial-lrcuok",
     "hero": "AnehGamingOfficial",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20hd%20paving%20sakura.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hd%20paving%20sakura.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hd%20paving%20sakura.jpg",
+    "sort": "1"
+  },
+  "ImperialSanctury-bmqe56": {
+    "key": "ImperialSanctury-bmqe56",
+    "hero": "ImperialSanctury",
+    "skin_name": "IMPERIAL SANCTUARY > COLORFULL",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20colorfull.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
     "sort": "1"
   }
 }
