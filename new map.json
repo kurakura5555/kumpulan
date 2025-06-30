@@ -8,15 +8,6 @@
     "skin_name": "Remove Map?",
     "sort": "0"
   },
-  "SanctumIsland-b8mc7a": {
-    "key": "SanctumIsland-b8mc7a",
-    "hero": "SanctumIsland",
-    "skin_name": "SANCTUM ISLAND > PASIR",
-    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map2.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
-    "sort": "2"
-  },
   "SanctumIsland-a3gczj": {
     "key": "SanctumIsland-a3gczj",
     "hero": "SanctumIsland",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map1.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+    "sort": "2"
+  },
+  "Sanctum Island-29w4ja": {
+    "key": "Sanctum Island-29w4ja",
+    "hero": "Sanctum Island",
+    "skin_name": "SANCTUM ISLAND > PASIR",
+    "download": "https://github.com/rahasia55/AG-MAPML/raw/main/map2.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
     "sort": "2"
   }
 }
