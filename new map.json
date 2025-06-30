@@ -1,12 +1,21 @@
 {
-  "AnehGamingOfficial-NWpKKj-aEHa48QvSkwy": {
+  "Imperial Sanctury-NWpKKj-aEHa48QvSkwy": {
     "download": "https://github.com/rahasia55/AG-FIX-FRANCO/raw/master/backup%20map.zip",
-    "hero": "AnehGamingOfficial",
+    "hero": "Imperial Sanctury",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
-    "key": "AnehGamingOfficial-NWpKKj-aEHa48QvSkwy",
-    "skin_name": "Remove Map?",
-    "sort": "0"
+    "key": "Imperial Sanctury-NWpKKj-aEHa48QvSkwy",
+    "skin_name": "Remove Map Imperial Sanctury?",
+    "sort": "1"
+  },
+    "Sanctum Island-NWpKKj-aEHa48QvSkwy": {
+    "download": "https://github.com/rahasia55/AG-FIX-FRANCO/raw/master/backup%20map.zip",
+    "hero": "Sanctum Island",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejtU55C1v0ATgxIc46EYTXGK7iZ2IkYeOSg&usqp=CAU",
+    "key": "Sanctum Island-NWpKKj-aEHa48QvSkwy",
+    "skin_name": "Remove Map Sanctum Island?",
+    "sort": "2"
   },
   "Imperial Sanctury-q841rx": {
     "key": "Imperial Sanctury-q841rx",
