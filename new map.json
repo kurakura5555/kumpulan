@@ -62,15 +62,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
   },
-  "ImperialSanctury-7lc9sa": {
-    "key": "ImperialSanctury-7lc9sa",
-    "hero": "ImperialSanctury",
-    "skin_name": "IMPERIAL SANCTUARY > HALLOWEEN",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.halloween.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
-    "sort": "1"
-  },
   "ImperialSanctury-uk3lzu": {
     "key": "ImperialSanctury-uk3lzu",
     "hero": "ImperialSanctury",
@@ -159,6 +150,15 @@
     "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20ultra%20hd.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hd.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hd.jpg",
+    "sort": "1"
+  },
+  "Imperial Sanctury-sglqm9": {
+    "key": "Imperial Sanctury-sglqm9",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > HALLOWEEN",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/map.halloween.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
     "sort": "1"
   }
 }
