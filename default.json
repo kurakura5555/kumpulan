@@ -161,7 +161,7 @@
     "key": "Hayabusa-RX8j4job2t",
     "skin_name": "Shadow Of Obsucurity",
     "sort": "6",
-    "tag":"https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20240815164310"
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20240815164310"
   },
   "Kagura-GhHX0MrbWE": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20exorcist.zip",
@@ -8366,5 +8366,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "sort": "15"
+  },
+  "Aldous-1751500348040": {
+    "key": "Aldous-1751500348040",
+    "hero": "Aldous",
+    "skin_name": "Naruto",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/aldous%20x%20naruto.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2HU7F7L8kmGLcRZFu79sNcCsEJNG6usjPtMVVhyDI6GNzjqQxSlfvgs&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2HU7F7L8kmGLcRZFu79sNcCsEJNG6usjPtMVVhyDI6GNzjqQxSlfvgs&s=10",
+    "sort": "30",
+    "date_upload": "2025-07-02"
   }
 }
