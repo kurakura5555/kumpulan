@@ -8446,5 +8446,15 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROKt2dktDg_a6dsPpvLaPVbG9MKElCOWvkfCJ35iR6f6UtW5f5CaU7Sw&s=10",
     "sort": "30",
     "date_upload": "2025-07-03"
+  },
+  "Granger-1751502921979": {
+    "key": "Granger-1751502921979",
+    "hero": "Granger",
+    "skin_name": "Astrocat",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/granger%20x%20astrocat.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
+    "sort": "30",
+    "date_upload": "2025-07-03"
   }
 }
