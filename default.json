@@ -2786,13 +2786,15 @@
     "sort": "10"
   },
   "Hayabusa-ZXuF4J2gaQ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20star2.zip",
+    "key": "Hayabusa-ZXuF4J2gaQ",
     "hero": "Hayabusa",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20star2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
-    "key": "Hayabusa-ZXuF4J2gaQ",
-    "skin_name": "Starlight",
-    "sort": "11"
+    "sort": "15",
+    "date_upload": "2025-07-03",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Karina-AnsUY6Nfvc": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20epic.zip",
