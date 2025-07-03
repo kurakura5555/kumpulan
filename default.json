@@ -8456,5 +8456,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
     "sort": "30",
     "date_upload": "2025-07-03"
+  },
+  "Hanabi-1751503078451": {
+    "key": "Hanabi-1751503078451",
+    "hero": "Hanabi",
+    "skin_name": "kurapika",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/hanabi%20x%20kurapika.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeD-Jsl50diGLMOhO2Ne3buJfOp9TJFIS9PMmF0g18nuqSxXwep7NQnt9&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeD-Jsl50diGLMOhO2Ne3buJfOp9TJFIS9PMmF0g18nuqSxXwep7NQnt9&s=10",
+    "sort": "30",
+    "date_upload": "2025-07-03"
   }
 }
