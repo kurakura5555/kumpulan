@@ -2977,13 +2977,15 @@
     "sort": "30"
   },
   "Alucard-6Art1LCY7d": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20starwars.zip",
+    "key": "Alucard-6Art1LCY7d",
     "hero": "Alucard",
+    "skin_name": "Star Wars",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20starwars.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
-    "key": "Alucard-6Art1LCY7d",
-    "skin_name": "Star Wars",
-    "sort": "4"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211212004634"
   },
   "Aulus-n7VFfKi7KY": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20basic.zip",
