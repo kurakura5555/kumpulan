@@ -3054,13 +3054,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Balmond-0hfheCXaGk": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20starlight.zip",
+    "key": "Balmond-0hfheCXaGk",
     "hero": "Balmond",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
-    "key": "Balmond-0hfheCXaGk",
-    "skin_name": "Starlight",
-    "sort": "10"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Bane-fYj1JFUbCG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bane%20epic.zip",
