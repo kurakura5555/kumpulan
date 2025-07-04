@@ -2111,13 +2111,15 @@
     "sort": "7"
   },
   "Atlas-5ITfqXWj4N": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20star.zip",
+    "key": "Atlas-5ITfqXWj4N",
     "hero": "Atlas",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
-    "key": "Atlas-5ITfqXWj4N",
-    "skin_name": "Star",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Aulus-FIN5NTeJjE": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20special.zip",
