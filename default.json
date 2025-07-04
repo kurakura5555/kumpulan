@@ -2218,13 +2218,15 @@
     "sort": "1"
   },
   "Badang-PRK2wgUTk5": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20collector.zip",
+    "key": "Badang-PRK2wgUTk5",
     "hero": "Badang",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-    "key": "Badang-PRK2wgUTk5",
-    "skin_name": "Collector",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Badang-i8kaatDLdU": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20zodiac.zip",
