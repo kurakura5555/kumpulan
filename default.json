@@ -3030,13 +3030,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Badang-uXcSL1rVhU": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20pegasus%20seiya.zip",
+    "key": "Badang-uXcSL1rVhU",
     "hero": "Badang",
+    "skin_name": "Pegasus Seiya",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20pegasus%20seiya.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
-    "key": "Badang-uXcSL1rVhU",
-    "skin_name": "Pegasus Seiya",
-    "sort": "7"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Balmond-AnvW81tIqT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20special.zip",
