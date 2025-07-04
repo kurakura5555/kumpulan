@@ -5321,13 +5321,15 @@
     "sort": "1"
   },
   "Atlas-6Qu5Tr2RzL": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20collector.zip",
+    "key": "Atlas-6Qu5Tr2RzL",
     "hero": "Atlas",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20collector.zip",
     "img": "https://pbs.twimg.com/media/GS5-n-rbIAAOY_L.jpg:large",
     "img2": "https://pbs.twimg.com/media/GS5-n-rbIAAOY_L.jpg:large",
-    "key": "Atlas-6Qu5Tr2RzL",
-    "skin_name": "Collector",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Aurora-Ul3Tvxj6Rd": {
     "key": "Aurora-Ul3Tvxj6Rd",
