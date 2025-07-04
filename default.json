@@ -4992,13 +4992,14 @@
     "date_upload": "2025-07-04"
   },
   "Julian-cW3GyPYBik": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20jjk.zip",
+    "key": "Julian-cW3GyPYBik",
     "hero": "Julian",
+    "skin_name": "JJK",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20jjk.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
-    "key": "Julian-cW3GyPYBik",
-    "skin_name": "JJK",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Alice-JGvd5FbK7r": {
     "key": "Alice-JGvd5FbK7r",
