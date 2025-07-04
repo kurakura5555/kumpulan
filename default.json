@@ -68,13 +68,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Argus-sHxZZv8vhM": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20starwars.zip",
+    "key": "Argus-sHxZZv8vhM",
     "hero": "Argus",
+    "skin_name": "Darth Vader",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20starwars.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
-    "key": "Argus-sHxZZv8vhM",
-    "skin_name": "Darth Vader",
-    "sort": "5"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211212004634"
   },
   "Benedetta-IU0LM3saZg": {
     "key": "Benedetta-IU0LM3saZg",
