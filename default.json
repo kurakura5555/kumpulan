@@ -3065,13 +3065,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Bane-fYj1JFUbCG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bane%20epic.zip",
+    "key": "Bane-fYj1JFUbCG",
     "hero": "Bane",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bane%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
-    "key": "Bane-fYj1JFUbCG",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Chou-ULhyE58qZ4": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20dragon%20shiryu.zip",
