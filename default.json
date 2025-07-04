@@ -4711,13 +4711,14 @@
     "sort": "2"
   },
   "Moskov-tbiO9pBrFP": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20allstar.zip",
+    "key": "Moskov-tbiO9pBrFP",
     "hero": "Moskov",
+    "skin_name": "All Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20allstar.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/moskov%20allstar.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/moskov%20allstar.png",
-    "key": "Moskov-tbiO9pBrFP",
-    "skin_name": "All Star",
-    "sort": "3"
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Terizla-p3M7h5j6zy": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20epic.zip",
