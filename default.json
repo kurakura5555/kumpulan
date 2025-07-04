@@ -1328,13 +1328,15 @@
     "sort": "1"
   },
   "Brody-BZdZK2LiTs": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20stun.zip",
+    "key": "Brody-BZdZK2LiTs",
     "hero": "Brody",
+    "skin_name": "S.T.U.N",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20stun.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
-    "key": "Brody-BZdZK2LiTs",
-    "skin_name": "S.T.U.N",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   },
   "Chou-X2P7szOdud": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20libra%20shinryu.zip",
