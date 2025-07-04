@@ -2747,13 +2747,15 @@
     "sort": "30"
   },
   "Benedetta-y5vPXlO8Ym": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20special.zip",
+    "key": "Benedetta-y5vPXlO8Ym",
     "hero": "Benedetta",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
-    "key": "Benedetta-y5vPXlO8Ym",
-    "skin_name": "Special",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Benedetta-IwqeS1fDCw": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20star.zip",
