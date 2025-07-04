@@ -4288,13 +4288,15 @@
     "sort": "2"
   },
   "Baxia-jbKk0PwOru": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/baxia%20special.zip",
+    "key": "Baxia-jbKk0PwOru",
     "hero": "Baxia",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/baxia%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
-    "key": "Baxia-jbKk0PwOru",
-    "skin_name": "Special",
-    "sort": "3"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Moskov-hmuzLbT5VF": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20epic.zip",
