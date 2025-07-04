@@ -5274,13 +5274,14 @@
     "sort": "0"
   },
   "Minsittar-JUn3NQmYPT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20collector.zip",
-    "hero": "Minsittar",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
     "key": "Minsittar-JUn3NQmYPT",
+    "hero": "Minsittar",
     "skin_name": "Collector",
-    "sort": "1"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero746-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131092447",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero746-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131092447",
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Esmeralda-cZXTpCyFwL": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20all%20star.zip",
