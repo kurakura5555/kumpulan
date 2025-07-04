@@ -1807,13 +1807,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220804140629"
   },
   "Argus-9Xyg9hxP3b": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20star.zip",
+    "key": "Argus-9Xyg9hxP3b",
     "hero": "Argus",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
-    "key": "Argus-9Xyg9hxP3b",
-    "skin_name": "Star",
-    "sort": "4"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Irithel-FKd0F8rpfk": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20zodiac.zip",
