@@ -3908,13 +3908,15 @@
     "sort": "1"
   },
   "Beatrix-nVIPKthh92": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/beatrix%20elite.zip",
+    "key": "Beatrix-nVIPKthh92",
     "hero": "Beatrix",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/beatrix%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
-    "key": "Beatrix-nVIPKthh92",
-    "skin_name": "Elite",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Beatrix-fAqF1eGZAq": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/beatrix%20m4.zip",
