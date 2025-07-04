@@ -281,13 +281,14 @@
     "sort": "4"
   },
   "X-Borg-0tTFAzBoqF": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/xborg%2011.11.zip",
+    "key": "X-Borg-0tTFAzBoqF",
     "hero": "X-Borg",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/xborg%2011.11.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Tesla_Maniac.jpg/revision/latest?cb=20211215020419",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Tesla_Maniac.jpg/revision/latest?cb=20211215020419",
-    "key": "X-Borg-0tTFAzBoqF",
-    "skin_name": "Epic",
-    "sort": "5"
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Xavier-C30NkKXNQP": {
     "key": "Xavier-C30NkKXNQP",
