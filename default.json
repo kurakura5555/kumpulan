@@ -3011,13 +3011,15 @@
     "sort": "5"
   },
   "Aulus-CSdLe4w2tp": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20elite%20barren.zip",
+    "key": "Aulus-CSdLe4w2tp",
     "hero": "Aulus",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20elite%20barren.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
-    "key": "Aulus-CSdLe4w2tp",
-    "skin_name": "Elite",
-    "sort": "6"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Badang-uXcSL1rVhU": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20pegasus%20seiya.zip",
