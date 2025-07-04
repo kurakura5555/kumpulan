@@ -2255,13 +2255,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Balerick-RNpmOmlNPm": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/belerick%20special2.zip",
+    "key": "Balerick-RNpmOmlNPm",
     "hero": "Balerick",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/belerick%20special2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
-    "key": "Balerick-RNpmOmlNPm",
-    "skin_name": "Special",
-    "sort": "5"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Yve-FWxcs112JT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yve%20elite.zip",
