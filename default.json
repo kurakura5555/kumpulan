@@ -1582,13 +1582,15 @@
     "sort": "1"
   },
   "Aldous-vuJs3lTryo": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20transformers.zip",
+    "key": "Aldous-vuJs3lTryo",
     "hero": "Aldous",
+    "skin_name": "transformers",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20transformers.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
-    "key": "Aldous-vuJs3lTryo",
-    "skin_name": "transformers",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
   },
   "Aamon-lMHFfndyCF": {
     "key": "Aamon-lMHFfndyCF",
