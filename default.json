@@ -3043,13 +3043,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Balmond-AnvW81tIqT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20special.zip",
+    "key": "Balmond-AnvW81tIqT",
     "hero": "Balmond",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
-    "key": "Balmond-AnvW81tIqT",
-    "skin_name": "Special",
-    "sort": "9"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Balmond-0hfheCXaGk": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20starlight.zip",
