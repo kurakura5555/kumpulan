@@ -3276,13 +3276,14 @@
     "sort": "11"
   },
   "Minsittar-l13Zqy8EBC": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20starlight.zip",
-    "hero": "Minsittar",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
     "key": "Minsittar-l13Zqy8EBC",
+    "hero": "Minsittar",
     "skin_name": "Starlight",
-    "sort": "12"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20starlight.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125755",
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Paquito-Z08swAu9ub": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20pacquiao.zip",
