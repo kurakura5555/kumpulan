@@ -4189,13 +4189,14 @@
     "sort": "11"
   },
   "Kaja-PxpFXISKbn": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20epic.zip",
-    "hero": "Kaja",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
     "key": "Kaja-PxpFXISKbn",
+    "hero": "Kaja",
     "skin_name": "Epic",
-    "sort": "12"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+    "sort": "15",
+    "date_upload": "2025-07-04"
   },
   "Kaja-nZgaVZILx7": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20starlight.zip",
