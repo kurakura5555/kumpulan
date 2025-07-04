@@ -2758,13 +2758,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Benedetta-IwqeS1fDCw": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20star.zip",
+    "key": "Benedetta-IwqeS1fDCw",
     "hero": "Benedetta",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
-    "key": "Benedetta-IwqeS1fDCw",
-    "skin_name": "Starlight",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Fanny-ipHpbDrfWp": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20christmas.zip",
