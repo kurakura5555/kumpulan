@@ -3971,13 +3971,15 @@
     "sort": "5"
   },
   "Bruno-oLNhnaITPG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20hello%20striker.zip",
+    "key": "Bruno-oLNhnaITPG",
     "hero": "Bruno",
+    "skin_name": "Hello Striker",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20hello%20striker.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
-    "key": "Bruno-oLNhnaITPG",
-    "skin_name": "Hello Striker",
-    "sort": "6"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Neymar_Jr_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20221111140645"
   },
   "Bruno-GAjFVWc7RS": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20star.zip",
