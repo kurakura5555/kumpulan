@@ -57,13 +57,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Alucard-syRKpPb0Mc": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20legend.zip",
+    "key": "Alucard-syRKpPb0Mc",
     "hero": "Alucard",
+    "skin_name": "Obsidian Blade",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
-    "key": "Alucard-syRKpPb0Mc",
-    "skin_name": "Obsidian Blade",
-    "sort": "3"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Argus-sHxZZv8vhM": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20starwars.zip",
