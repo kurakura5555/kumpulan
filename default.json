@@ -1789,13 +1789,15 @@
     "sort": "11"
   },
   "Akai-kegT8Ydvce": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/akai%20kungfu%20panda.zip",
+    "key": "Akai-kegT8Ydvce",
     "hero": "Akai",
+    "skin_name": "Kung Fu Pnada",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/akai%20kungfu%20panda.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325",
-    "key": "Akai-kegT8Ydvce",
-    "skin_name": "Kung Fu Pnada",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220804140629"
   },
   "Argus-9Xyg9hxP3b": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/argus%20star.zip",
