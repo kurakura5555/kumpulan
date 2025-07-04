@@ -88,13 +88,15 @@
     "sort": "15"
   },
   "Benedetta-uBkMblVEeu": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20ducati.zip",
+    "key": "Benedetta-uBkMblVEeu",
     "hero": "Benedetta",
+    "skin_name": "Panigale V4S Rider",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20ducati.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
-    "key": "Benedetta-uBkMblVEeu",
-    "skin_name": "Panigale V4S Rider",
-    "sort": "7"
+    "sort": "15",
+    "date_upload": "2025-07-04",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Ducati_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123933"
   },
   "Brody-pDI7P6fsr3": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20collector.zip",
