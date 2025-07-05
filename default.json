@@ -175,13 +175,14 @@
     "sort": "4"
   },
   "Lancelot-UeV8k5FrEL": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20dragon%20tamer.zip",
+    "key": "Lancelot-UeV8k5FrEL",
     "hero": "Lancelot",
+    "skin_name": "Dragon Tamer",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20dragon%20tamer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
-    "key": "Lancelot-UeV8k5FrEL",
-    "skin_name": "Dragon Tamer",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-05"
   },
   "Lancelot-wDOgTMQHG5": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20metador.zip",
