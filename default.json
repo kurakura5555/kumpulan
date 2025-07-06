@@ -1718,13 +1718,14 @@
     "sort": "3"
   },
   "Eudora-XdViNO9Ufg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20atomic%20pop.zip",
+    "key": "Eudora-XdViNO9Ufg",
     "hero": "Eudora",
+    "skin_name": "Atomic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20atomic%20pop.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
-    "key": "Eudora-XdViNO9Ufg",
-    "skin_name": "Atomic",
-    "sort": "4"
+    "sort": "15",
+    "date_upload": "2025-07-06"
   },
   "Franco-55k54xRfdb": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20epic.zip",
