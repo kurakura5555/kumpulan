@@ -303,13 +303,14 @@
     "sort": "15"
   },
   "Claude-Re8eR0TVFQ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20new%20valentine.zip",
+    "key": "Claude-Re8eR0TVFQ",
     "hero": "Claude",
+    "skin_name": "Heaart Aflame",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20new%20valentine.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
-    "key": "Claude-Re8eR0TVFQ",
-    "skin_name": "Heaart Aflame",
-    "sort": "1"
+    "sort": "15",
+    "date_upload": "2025-07-06"
   },
   "Claude-hks2dvJTgy": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20sanrio.zip",
