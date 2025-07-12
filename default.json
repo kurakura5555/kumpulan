@@ -7691,10 +7691,11 @@
     "key": "Novaria-1743747856703",
     "hero": "Novaria",
     "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/novaria%20collector.zip",
+    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/novaria.collector.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMgxxFvRTtdmuI3K2ZsXKuxEAp7z-mmOvb1H2bV2CwFRPiO1_Ku61eRQ&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMgxxFvRTtdmuI3K2ZsXKuxEAp7z-mmOvb1H2bV2CwFRPiO1_Ku61eRQ&s=10",
-    "sort": "15"
+    "sort": "15",
+    "date_upload": "2025-07-12"
   },
   "Hanzo-1745028403592": {
     "key": "Hanzo-1745028403592",
