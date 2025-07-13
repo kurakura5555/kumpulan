@@ -8797,5 +8797,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
     "sort": "15",
     "date_upload": "2025-07-13"
+  },
+  "Martis-1752397436244": {
+    "key": "Martis-1752397436244",
+    "hero": "Martis",
+    "skin_name": "Custom Zoro",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/martis%20x%20zoro.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbF2LBrsU4uIzNzefutLWGIlQTKZT6fZX0ZmtrszdFWHZplqC9TssQlPHk&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbF2LBrsU4uIzNzefutLWGIlQTKZT6fZX0ZmtrszdFWHZplqC9TssQlPHk&s=10",
+    "sort": "15",
+    "date_upload": "2025-07-13"
   }
 }
