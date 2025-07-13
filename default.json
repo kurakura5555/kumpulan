@@ -8847,5 +8847,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "sort": "15",
     "date_upload": "2025-07-13"
+  },
+  "Yin-1752398159608": {
+    "key": "Yin-1752398159608",
+    "hero": "Yin",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/yin%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSsh2S21yJPPDfSG8bgjXXLWeiYA-QI5kIyrifdh7cUDb6okxWqWQck6aH&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSsh2S21yJPPDfSG8bgjXXLWeiYA-QI5kIyrifdh7cUDb6okxWqWQck6aH&s=10",
+    "sort": "15",
+    "date_upload": "2025-07-13"
   }
 }
