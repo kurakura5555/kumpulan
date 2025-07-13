@@ -8,7 +8,7 @@
     "skin_name": "Remove Map Imperial Sanctury?",
     "sort": "0"
   },
-    "Sanctum Island-NWpKKj-aEHa48QvSkwy": {
+  "Sanctum Island-NWpKKj-aEHa48QvSkwy": {
     "download": "https://github.com/rahasia55/AG-FIX-FRANCO/raw/master/backup%20map.zip",
     "hero": "Sanctum Island",
     "img": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/1751732035-picsay.png",
@@ -169,5 +169,14 @@
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
     "sort": "2"
+  },
+  "Imperial Sanctury-tgzzqq": {
+    "key": "Imperial Sanctury-tgzzqq",
+    "hero": "Imperial Sanctury",
+    "skin_name": "IMPERIAL SANCTUARY > DORAEMON",
+    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20pro%20doraemon.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20doeraemon.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20doeraemon.jpg",
+    "sort": "1"
   }
 }
