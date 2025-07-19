@@ -5731,5 +5731,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
     "sort": "1"
+  },
+  "Hanzo-1752903860735": {
+    "key": "Hanzo-1752903860735",
+    "hero": "Hanzo",
+    "skin_name": "hanzo elite to collector",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/hanzo elite to collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
+    "sort": "2"
   }
 }
