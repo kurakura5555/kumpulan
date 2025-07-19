@@ -5722,5 +5722,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
     "sort": "4"
+  },
+  "Hanzo-1752903798243": {
+    "key": "Hanzo-1752903798243",
+    "hero": "Hanzo",
+    "skin_name": "hanzo basic to collector",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/hanzo basic to collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
+    "sort": "1"
   }
 }
