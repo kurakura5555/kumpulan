@@ -5740,5 +5740,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
     "sort": "2"
+  },
+  "Hanzo-1752903919535": {
+    "key": "Hanzo-1752903919535",
+    "hero": "Hanzo",
+    "skin_name": "hanzo spesial to collector",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/hanzo spesial to collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
+    "sort": "4"
   }
 }
