@@ -5713,5 +5713,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
     "sort": "7"
+  },
+  "Ling-1752902921751": {
+    "key": "Ling-1752902921751",
+    "hero": "Ling",
+    "skin_name": "Ling Spesial - Collector",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/ling spesial to collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+    "sort": "4"
   }
 }
