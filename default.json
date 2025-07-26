@@ -3857,13 +3857,14 @@
     "sort": "9"
   },
   "Nana-1cLj6m0VPV": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20summer.zip",
-    "hero": "Nana",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cb=20220525164409",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cb=20220525164409",
     "key": "Nana-1cLj6m0VPV",
+    "hero": "Nana",
     "skin_name": "Summer",
-    "sort": "10"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20summer.zip",
+    "img": "https://pbs.twimg.com/media/GvfSOPuXsAATVSy?format=jpg&name=small",
+    "img2": "https://pbs.twimg.com/media/GvfSOPuXsAATVSy?format=jpg&name=small",
+    "sort": "15",
+    "date_upload": "2025-07-26"
   },
   "Odete-doyS82mPQx": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20lunar%20fest.zip",
