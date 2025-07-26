@@ -2309,13 +2309,14 @@
     "sort": "3"
   },
   "Zilong-OaOaEETV8h": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20summer.zip",
-    "hero": "Zilong",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
     "key": "Zilong-OaOaEETV8h",
+    "hero": "Zilong",
     "skin_name": "Summer",
-    "sort": "4"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20summer.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChJVYzul4Zt6gL_MqgKIt_wQFtVsUWg1uMZvPDPOZcxm7yUbVccZBiFIt&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChJVYzul4Zt6gL_MqgKIt_wQFtVsUWg1uMZvPDPOZcxm7yUbVccZBiFIt&s=10",
+    "sort": "15",
+    "date_upload": "2025-07-26"
   },
   "Vexana-aDMWZc1Weu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20epic.zip",
