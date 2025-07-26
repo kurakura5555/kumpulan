@@ -2796,13 +2796,14 @@
     "date_upload": "2025-07-19"
   },
   "Fanny-MuWJYtReMy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20summer.zip",
-    "hero": "Fanny",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
     "key": "Fanny-MuWJYtReMy",
+    "hero": "Fanny",
     "skin_name": "Summer",
-    "sort": "5"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20summer.zip",
+    "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
+    "img2": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
+    "sort": "15",
+    "date_upload": "2025-07-26"
   },
   "Gusion-AK7gHf5QEQ": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20epic%20revelation.zip",
