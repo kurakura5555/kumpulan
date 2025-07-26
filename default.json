@@ -8883,5 +8883,15 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
     "sort": "15",
     "date_upload": "2025-07-26"
+  },
+  "Granger-1753502948268": {
+    "key": "Granger-1753502948268",
+    "hero": "Granger",
+    "skin_name": "Custom Metro Zero",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/granger%20metro%20zero.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/granger%20x%20metro%20zero.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/granger%20x%20metro%20zero.jpg",
+    "sort": "30",
+    "date_upload": "2025-07-26"
   }
 }
