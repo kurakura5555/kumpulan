@@ -4184,13 +4184,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Karrie-WiyRZByqJR": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20annual%20star.zip",
+    "key": "Karrie-WiyRZByqJR",
     "hero": "Karrie",
+    "skin_name": "Annual Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20annual%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest?cb=20220525165150",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest?cb=20220525165150",
-    "key": "Karrie-WiyRZByqJR",
-    "skin_name": "Annual Star",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Karrie-BiORFdQRRu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20epic.zip",
