@@ -1506,13 +1506,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000011"
   },
   "Lilya-2kwrzuzJ6q": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20neobest.zip",
+    "key": "Lilya-2kwrzuzJ6q",
     "hero": "Lilya",
+    "skin_name": "Neobest",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20neobest.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
-    "key": "Lilya-2kwrzuzJ6q",
-    "skin_name": "Neobest",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Neobeasts_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123944"
   },
   "Mathilda-HKZc0Doy7m": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/mathilda%20mdl.zip",
