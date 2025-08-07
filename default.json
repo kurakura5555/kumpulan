@@ -3124,13 +3124,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Chou-uTmhwjb5cg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20hero.zip",
+    "key": "Chou-uTmhwjb5cg",
     "hero": "Chou",
+    "skin_name": "Dawning",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20hero.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-    "key": "Chou-uTmhwjb5cg",
-    "skin_name": "Dawning",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230319055038"
   },
   "Chou-0yLdu79ug3": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20starlight.zip",
