@@ -332,13 +332,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Chou-M3EjxJk3CA": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20echo.zip",
+    "key": "Chou-M3EjxJk3CA",
     "hero": "Chou",
+    "skin_name": "ECHO",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20echo.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
-    "key": "Chou-M3EjxJk3CA",
-    "skin_name": "ECHO",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Aamon-NQwA-ydywxKI90hc3gk": {
     "key": "Aamon-NQwA-ydywxKI90hc3gk",
