@@ -6697,9 +6697,10 @@
     "hero": "Claude",
     "skin_name": "Challenger Spark",
     "download": "https://github.com/AnehDev/Script-As-MF/raw/refs/heads/main/claude%20m6",
-    "img": "https://pbs.twimg.com/media/GZh6SQDaIAAXyKF?format=jpg&name=large",
-    "img2": "https://pbs.twimg.com/media/GZh6SQDaIAAXyKF?format=jpg&name=large",
-    "sort": "15"
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/M6_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250406081431"
   },
   "Claude-1731123248579": {
     "key": "Claude-1731123248579",
