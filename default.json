@@ -4780,13 +4780,14 @@
     "sort": "0"
   },
   "Benedetta-LhdltaeR1d": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20mpl.zip",
+    "key": "Benedetta-LhdltaeR1d",
     "hero": "Benedetta",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20mpl.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
-    "key": "Benedetta-LhdltaeR1d",
-    "skin_name": "MPL",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Kagura-dCdtwCl56G": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20annual%20starlight.zip",
