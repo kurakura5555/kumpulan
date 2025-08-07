@@ -4153,13 +4153,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103144"
   },
   "Irithel-yI4X7LR4AJ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic.zip",
+    "key": "Irithel-yI4X7LR4AJ",
     "hero": "Irithel",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
-    "key": "Irithel-yI4X7LR4AJ",
-    "skin_name": "Epic",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Irithel-okBfUZAvA2": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic2.zip",
