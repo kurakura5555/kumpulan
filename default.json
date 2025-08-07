@@ -313,13 +313,14 @@
     "date_upload": "2025-07-06"
   },
   "Claude-hks2dvJTgy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20sanrio.zip",
+    "key": "Claude-hks2dvJTgy",
     "hero": "Claude",
+    "skin_name": "bad bro",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20sanrio.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
-    "key": "Claude-hks2dvJTgy",
-    "skin_name": "bad bro",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000457"
   },
   "Chou-pzv7nlUVAE": {
     "key": "Chou-pzv7nlUVAE",
