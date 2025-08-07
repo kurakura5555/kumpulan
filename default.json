@@ -2847,13 +2847,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Gusion-Sz6YWQZi48": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20special.zip",
+    "key": "Gusion-Sz6YWQZi48",
     "hero": "Gusion",
+    "skin_name": "Valentine",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
-    "key": "Gusion-Sz6YWQZi48",
-    "skin_name": "Valentine",
-    "sort": "7"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Gusion-XG7cW0I9Yq": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20venom.zip",
