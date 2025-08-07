@@ -4484,13 +4484,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Moskov-hmuzLbT5VF": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20epic.zip",
+    "key": "Moskov-hmuzLbT5VF",
     "hero": "Moskov",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
-    "key": "Moskov-hmuzLbT5VF",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Natan-TErArLTMyX": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natan%20starlight.zip",
