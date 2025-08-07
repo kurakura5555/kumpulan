@@ -1801,13 +1801,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Sparkle_Skin_Tag.png/revision/latest?cb=20240329064601"
   },
   "Leomord-yFvscuKRzu": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/leomord%20epic.zip",
+    "key": "Leomord-yFvscuKRzu",
     "hero": "Leomord",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/leomord%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
-    "key": "Leomord-yFvscuKRzu",
-    "skin_name": "Epic",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lesley-jGBThue6sS": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20legend.zip",
