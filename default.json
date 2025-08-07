@@ -3200,13 +3200,14 @@
     "sort": "6"
   },
   "Guinevere-rOZgD4oEP7": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20special2.zip",
+    "key": "Guinevere-rOZgD4oEP7",
     "hero": "Guinevere",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20special2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
-    "key": "Guinevere-rOZgD4oEP7",
-    "skin_name": "Special",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Guinevere-V8cIfBG23t": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20starlight.zip",
