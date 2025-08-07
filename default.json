@@ -3883,13 +3883,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Luo Yi-lWLzeEL2pP": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20epic.zip",
+    "key": "Luo Yi-lWLzeEL2pP",
     "hero": "Luo Yi",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
-    "key": "Luo Yi-lWLzeEL2pP",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Luo Yi-DmwOwq34NU": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20lunar%20fest.zip",
