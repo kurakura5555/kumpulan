@@ -4067,13 +4067,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Clint-SpDb3fhgg2": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20star2.zip",
+    "key": "Clint-SpDb3fhgg2",
     "hero": "Clint",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20star2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
-    "key": "Clint-SpDb3fhgg2",
-    "skin_name": "Star",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Hanabi-kHKsHjgl7O": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanabi%20collector.zip",
