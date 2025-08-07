@@ -3925,13 +3925,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Lilya-1vBwBs3OWG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20hallowen.zip",
+    "key": "Lilya-1vBwBs3OWG",
     "hero": "Lilya",
+    "skin_name": "Halloween",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20hallowen.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
-    "key": "Lilya-1vBwBs3OWG",
-    "skin_name": "Halloween",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20221111140633"
   },
   "Lilya-BQwHg5nVEP": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20special.zip",
