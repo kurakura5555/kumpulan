@@ -1426,13 +1426,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Lancelot-yCEUhymUpc": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20zodiac.zip",
+    "key": "Lancelot-yCEUhymUpc",
     "hero": "Lancelot",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
-    "key": "Lancelot-yCEUhymUpc",
-    "skin_name": "Zodiac",
-    "sort": "14"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Martis-vaml098GnN": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20epic%20revamp.zip",
