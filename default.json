@@ -2837,13 +2837,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Gusion-AK7gHf5QEQ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20epic%20revelation.zip",
+    "key": "Gusion-AK7gHf5QEQ",
     "hero": "Gusion",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20epic%20revelation.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
-    "key": "Gusion-AK7gHf5QEQ",
-    "skin_name": "Epic",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Gusion-Sz6YWQZi48": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20special.zip",
