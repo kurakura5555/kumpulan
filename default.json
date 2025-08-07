@@ -1987,13 +1987,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Gusion-G4cXjPcyp2": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20legend.zip",
+    "key": "Gusion-G4cXjPcyp2",
     "hero": "Gusion",
+    "skin_name": "Legend",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
-    "key": "Gusion-G4cXjPcyp2",
-    "skin_name": "Legend",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Kadita-S8GF1zoNS8": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20mpl.zip",
