@@ -5215,13 +5215,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Kadita-6JOPuRvCGJ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20create.zip",
+    "key": "Kadita-6JOPuRvCGJ",
     "hero": "Kadita",
+    "skin_name": "Create",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20create.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/kadita%20create.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/kadita%20create.png",
-    "key": "Kadita-6JOPuRvCGJ",
-    "skin_name": "Create",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Create_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123927"
   },
   "Layla-Tpo6monJSK": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20collector.zip",
