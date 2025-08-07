@@ -5724,13 +5724,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lunox-YamOkZfLru": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20elite2.zip",
+    "key": "Lunox-YamOkZfLru",
     "hero": "Lunox",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20elite2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
-    "key": "Lunox-YamOkZfLru",
-    "skin_name": "Elite",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Silvana-RWeBVKXhbW": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/silvanna%20special.zip",
