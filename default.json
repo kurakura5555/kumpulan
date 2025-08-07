@@ -4244,13 +4244,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Floryn-zFlFRYIsiT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20elite.zip",
+    "key": "Floryn-zFlFRYIsiT",
     "hero": "Floryn",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
-    "key": "Floryn-zFlFRYIsiT",
-    "skin_name": "Elite",
-    "sort": "11"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Kaja-PxpFXISKbn": {
     "key": "Kaja-PxpFXISKbn",
