@@ -2955,13 +2955,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/M-World_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220501041401"
   },
   "Ling-daNkd6vnHv": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20special.zip",
+    "key": "Ling-daNkd6vnHv",
     "hero": "Ling",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
-    "key": "Ling-daNkd6vnHv",
-    "skin_name": "Special",
-    "sort": "15"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Natalia-YV7gcY31x2": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natalia%20special.zip",
