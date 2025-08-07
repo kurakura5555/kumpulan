@@ -3169,13 +3169,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Freya-JuywDKtKFX": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/freya%20saber.zip",
+    "key": "Freya-JuywDKtKFX",
     "hero": "Freya",
+    "skin_name": "S.A.B.E.R",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/freya%20saber.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest?cb=20220525164809",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest?cb=20220525164809",
-    "key": "Freya-JuywDKtKFX",
-    "skin_name": "S.A.B.E.R",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137"
   },
   "Guinevere-5yCpAJYUIh": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20elite.zip",
