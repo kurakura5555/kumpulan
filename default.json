@@ -2796,13 +2796,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Fanny-ipHpbDrfWp": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20christmas.zip",
+    "key": "Fanny-ipHpbDrfWp",
     "hero": "Fanny",
+    "skin_name": "Christmas",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20christmas.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
-    "key": "Fanny-ipHpbDrfWp",
-    "skin_name": "Christmas",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201154100"
   },
   "Fanny-xIVHUyq7PB": {
     "key": "Fanny-xIVHUyq7PB",
