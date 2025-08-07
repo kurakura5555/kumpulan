@@ -1439,14 +1439,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Martis-vaml098GnN": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20epic%20revamp.zip",
+    "key": "Martis-vaml098GnN",
     "hero": "Martis",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20epic%20revamp.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
-    "key": "Martis-vaml098GnN",
-    "skin_name": "Epic",
-    "sort": "1",
-    "skin": "God Of War"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Miya-RNoz0TSwPJ": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20collector.zip",
