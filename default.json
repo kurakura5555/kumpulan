@@ -5458,13 +5458,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/ALLSTAR_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240329064455"
   },
   "Ling-3qH2YAxwvV": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20kungfu%20panda.zip",
+    "key": "Ling-3qH2YAxwvV",
     "hero": "Ling",
+    "skin_name": "Kungfu Panda",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20kungfu%20panda.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
-    "key": "Ling-3qH2YAxwvV",
-    "skin_name": "Kungfu Panda",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220804140629"
   },
   "Yin-oZACklVszl": {
     "key": "Yin-oZACklVszl",
