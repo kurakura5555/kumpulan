@@ -1855,13 +1855,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Irithel-FKd0F8rpfk": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20zodiac.zip",
+    "key": "Irithel-FKd0F8rpfk",
     "hero": "Irithel",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20220525165214",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20220525165214",
-    "key": "Irithel-FKd0F8rpfk",
-    "skin_name": "Zodiac",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Miya-m14EgiaERK": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20christmas.zip",
