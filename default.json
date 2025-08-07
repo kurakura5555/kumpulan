@@ -1580,13 +1580,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Layla-OsyLqOkk3q": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20star%20new.zip",
+    "key": "Layla-OsyLqOkk3q",
     "hero": "Layla",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20star%20new.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
-    "key": "Layla-OsyLqOkk3q",
-    "skin_name": "Starlight",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Vexana-SlZz4Y3HWO": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20collector.zip",
