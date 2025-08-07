@@ -151,13 +151,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Harley-vfNnOxP1GH": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harley%20collector.zip",
+    "key": "Harley-vfNnOxP1GH",
     "hero": "Harley",
+    "skin_name": "Dream Caster",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harley%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
-    "key": "Harley-vfNnOxP1GH",
-    "skin_name": "Dream Caster",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Hayabusa-RX8j4job2t": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20epic.zip",
