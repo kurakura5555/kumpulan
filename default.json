@@ -1833,13 +1833,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/scale-to-width-down/75?cb=20220113105315"
   },
   "Luo Yi-VfruLXiKVW": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20collector.zip",
+    "key": "Luo Yi-VfruLXiKVW",
     "hero": "Luo Yi",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
-    "key": "Luo Yi-VfruLXiKVW",
-    "skin_name": "Collector",
-    "sort": "9"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Odete-7BZ0ZFfAmt": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20zodiac.zip",
