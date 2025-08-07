@@ -226,13 +226,14 @@
     "sort": "6"
   },
   "Helcurt-oQylrZptVJ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/helcurt%20zodiac.zip",
+    "key": "Helcurt-oQylrZptVJ",
     "hero": "Helcurt",
+    "skin_name": "Scorpio",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/helcurt%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20230917050311",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20230917050311",
-    "key": "Helcurt-oQylrZptVJ",
-    "skin_name": "Scorpio",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Miya-hW4lvq5l3V": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20atomic.zip",
