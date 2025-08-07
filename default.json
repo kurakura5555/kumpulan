@@ -2209,13 +2209,14 @@
     "sort": "1"
   },
   "Harith-TnIemXVZWW": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harith%20christmas.zip",
+    "key": "Harith-TnIemXVZWW",
     "hero": "Harith",
+    "skin_name": "Christmas",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harith%20christmas.zip",
     "img": "https://pbs.twimg.com/media/F96QiRmaIAAx-KQ?format=jpg&name=large",
     "img2": "https://pbs.twimg.com/media/F96QiRmaIAAx-KQ?format=jpg&name=large",
-    "key": "Harith-TnIemXVZWW",
-    "skin_name": "Christmas",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201154100"
   },
   "Joy-6UcEorEQfj": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/joy%20elite.zip",
