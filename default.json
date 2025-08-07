@@ -1540,14 +1540,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Gusion-yAZUhifiCD": {
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-h2gyrxdx1pnum2h46o5w8gs%20padu-8mljgct9fbu/AnehGamingOfficial.zip",
+    "key": "Gusion-yAZUhifiCD",
     "hero": "Gusion",
+    "skin_name": "Night Old",
+    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-h2gyrxdx1pnum2h46o5w8gs%20padu-8mljgct9fbu/AnehGamingOfficial.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
-    "key": "Gusion-yAZUhifiCD",
-    "skin_name": "Night Old",
-    "sort": "1",
-    "skin": "Night Owl"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Kaja-XqxfozQfwk": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20epic%20inferno.zip",
