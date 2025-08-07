@@ -4887,13 +4887,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Kagura-dCdtwCl56G": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20annual%20starlight.zip",
+    "key": "Kagura-dCdtwCl56G",
     "hero": "Kagura",
+    "skin_name": "Water Lily",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20annual%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
-    "key": "Kagura-dCdtwCl56G",
-    "skin_name": "Water Lily",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Edith-bMtRkSrPVW": {
     "key": "Edith-bMtRkSrPVW",
