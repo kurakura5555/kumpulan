@@ -3289,13 +3289,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Lapu-Lapu-NCc1YvKN96": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20special.zip",
+    "key": "Lapu-Lapu-NCc1YvKN96",
     "hero": "Lapu-Lapu",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
-    "key": "Lapu-Lapu-NCc1YvKN96",
-    "skin_name": "Special",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Lapu-Lapu-YPnNu0LLgP": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20starlight.zip",
