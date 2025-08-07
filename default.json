@@ -131,13 +131,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   },
   "Fredrin-LFbiukm1Fi": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fredrinn%20neobeast.zip",
+    "key": "Fredrin-LFbiukm1Fi",
     "hero": "Fredrin",
+    "skin_name": "Neobeast",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fredrinn%20neobeast.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
-    "key": "Fredrin-LFbiukm1Fi",
-    "skin_name": "Neobeast",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Neobeasts_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123944"
   },
   "Gusion-CQ0y2okK17": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20kof.zip",
