@@ -4204,13 +4204,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Estes-zY7SnNCuGu": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20m3%20blacklist.zip",
+    "key": "Estes-zY7SnNCuGu",
     "hero": "Estes",
+    "skin_name": "Champion",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20m3%20blacklist.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
-    "key": "Estes-zY7SnNCuGu",
-    "skin_name": "Champion",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Faramis-Qqt7GaVGCh": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20mythic.zip",
