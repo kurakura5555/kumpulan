@@ -3964,13 +3964,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Brody-1GD9dr7SDg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20mpl.zip",
+    "key": "Brody-1GD9dr7SDg",
     "hero": "Brody",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20mpl.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
-    "key": "Brody-1GD9dr7SDg",
-    "skin_name": "MPL",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Brody-hIYAqTK113": {
     "key": "Brody-hIYAqTK113",
