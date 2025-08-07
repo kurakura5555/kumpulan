@@ -4233,13 +4233,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Mythic_2023_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250105161243"
   },
   "Faramis-d4HbxolLZG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20summer.zip",
+    "key": "Faramis-d4HbxolLZG",
     "hero": "Faramis",
+    "skin_name": "Summer",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20summer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
-    "key": "Faramis-d4HbxolLZG",
-    "skin_name": "Summer",
-    "sort": "10"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Floryn-zFlFRYIsiT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20elite.zip",
