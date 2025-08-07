@@ -4223,13 +4223,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Faramis-Qqt7GaVGCh": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20mythic.zip",
+    "key": "Faramis-Qqt7GaVGCh",
     "hero": "Faramis",
+    "skin_name": "Mythic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20mythic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
-    "key": "Faramis-Qqt7GaVGCh",
-    "skin_name": "Mythic",
-    "sort": "9"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Mythic_2023_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250105161243"
   },
   "Faramis-d4HbxolLZG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20summer.zip",
