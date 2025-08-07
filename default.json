@@ -3537,13 +3537,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Cecilion-URjVJ0hW91": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20star.zip",
+    "key": "Cecilion-URjVJ0hW91",
     "hero": "Cecilion",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest?cb=20220525170202",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest?cb=20220525170202",
-    "key": "Cecilion-URjVJ0hW91",
-    "skin_name": "Star",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Chang e-QJzNDaBthm": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/change%20epic.zip",
