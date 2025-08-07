@@ -4163,13 +4163,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Irithel-okBfUZAvA2": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic2.zip",
+    "key": "Irithel-okBfUZAvA2",
     "hero": "Irithel",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
-    "key": "Irithel-okBfUZAvA2",
-    "skin_name": "Epic",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Karrie-WiyRZByqJR": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20annual%20star.zip",
