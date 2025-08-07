@@ -4653,13 +4653,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137"
   },
   "Khufra-GVu3aZYssr": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khufra%20starlight.zip",
+    "key": "Khufra-GVu3aZYssr",
     "hero": "Khufra",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khufra%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829",
-    "key": "Khufra-GVu3aZYssr",
-    "skin_name": "Star",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Khufra-e8P4g4rXmW": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khufra%20valentine.zip",
