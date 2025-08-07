@@ -3893,13 +3893,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Luo Yi-DmwOwq34NU": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20lunar%20fest.zip",
+    "key": "Luo Yi-DmwOwq34NU",
     "hero": "Luo Yi",
+    "skin_name": "Lunar Fest",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20lunar%20fest.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
-    "key": "Luo Yi-DmwOwq34NU",
-    "skin_name": "Lunar Fest",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/scale-to-width-down/75?cb=20220113105315"
   },
   "Luo Yi-v4OD8I5IkP": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20star.zip",
