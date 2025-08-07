@@ -2003,13 +2003,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Kadita-S8GF1zoNS8": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20mpl.zip",
+    "key": "Kadita-S8GF1zoNS8",
     "hero": "Kadita",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20mpl.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
-    "key": "Kadita-S8GF1zoNS8",
-    "skin_name": "MPL",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Ling-1udj40cbM5": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20dragon%20tamer.zip",
