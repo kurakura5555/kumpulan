@@ -1405,13 +1405,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Kagura-PBRs5v0XOJ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20star.zip",
+    "key": "Kagura-PBRs5v0XOJ",
     "hero": "Kagura",
+    "skin_name": "Rainy Walk ",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
-    "key": "Kagura-PBRs5v0XOJ",
-    "skin_name": "Rainy Walk ",
-    "sort": "11"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Karina-lpjPRjmvNu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20kof.zip",
