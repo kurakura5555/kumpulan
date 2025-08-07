@@ -4937,13 +4937,14 @@
     "sort": "3"
   },
   "Granger-0nbj85OziY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20exorcist.zip",
+    "key": "Granger-0nbj85OziY",
     "hero": "Granger",
+    "skin_name": "Exorcist",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20exorcist.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx8jakyYtg45oLOHlLS-ayJjYrOPFUdhr3dwUed9zL_Kp2pmuqeMlSkM&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx8jakyYtg45oLOHlLS-ayJjYrOPFUdhr3dwUed9zL_Kp2pmuqeMlSkM&s=10",
-    "key": "Granger-0nbj85OziY",
-    "skin_name": "Exorcist",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140207"
   },
   "Ixia-fRI3JA9LzT": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ixia%20star.zip",
