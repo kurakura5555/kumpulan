@@ -4714,13 +4714,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Minotaur-ppEuTjkMuh": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minotaur%20special.zip",
+    "key": "Minotaur-ppEuTjkMuh",
     "hero": "Minotaur",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minotaur%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero196-portrait.png/revision/latest?cb=20240114091540",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero196-portrait.png/revision/latest?cb=20240114091540",
-    "key": "Minotaur-ppEuTjkMuh",
-    "skin_name": "Special",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Minotaur-RdfIbTt6Ha": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minotaur%20zodiac.zip",
