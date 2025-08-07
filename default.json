@@ -3112,13 +3112,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Chou-s4WaNA0tJa": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20epic.zip",
+    "key": "Chou-s4WaNA0tJa",
     "hero": "Chou",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
-    "key": "Chou-s4WaNA0tJa",
-    "skin_name": "Epic",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Chou-uTmhwjb5cg": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20hero.zip",
