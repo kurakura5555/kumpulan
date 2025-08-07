@@ -1347,13 +1347,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Chou-rjlTd3JOeB": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20stun.zip",
+    "key": "Chou-rjlTd3JOeB",
     "hero": "Chou",
+    "skin_name": "S.T.U.N",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20stun.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
-    "key": "Chou-rjlTd3JOeB",
-    "skin_name": "S.T.U.N",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   },
   "Claude-0044KiRM6g": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20chrismas%20revamp.zip",
