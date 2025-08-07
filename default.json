@@ -2920,13 +2920,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Karina-ClkK9gxIxp": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20zodiac.zip",
+    "key": "Karina-ClkK9gxIxp",
     "hero": "Karina",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
-    "key": "Karina-ClkK9gxIxp",
-    "skin_name": "Zodiac",
-    "sort": "13"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Ling-wOxBm4yJ4k": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20mworld.zip",
