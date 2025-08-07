@@ -171,13 +171,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Kagura-GhHX0MrbWE": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20exorcist.zip",
+    "key": "Kagura-GhHX0MrbWE",
     "hero": "Kagura",
+    "skin_name": "Exorcist",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20exorcist.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
-    "key": "Kagura-GhHX0MrbWE",
-    "skin_name": "Exorcist",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140207"
   },
   "Lancelot-UeV8k5FrEL": {
     "key": "Lancelot-UeV8k5FrEL",
