@@ -4362,13 +4362,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lesley-xcaVIATnIV": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20collector.zip",
+    "key": "Lesley-xcaVIATnIV",
     "hero": "Lesley",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
-    "key": "Lesley-xcaVIATnIV",
-    "skin_name": "Collector",
-    "sort": "16"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Lesley-epc4kNBlxc": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20special.zip",
