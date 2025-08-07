@@ -4428,13 +4428,14 @@
     "sort": "19"
   },
   "Miya-hVMZKUaOXh": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20anniversary.zip",
+    "key": "Miya-hVMZKUaOXh",
     "hero": "Miya",
+    "skin_name": "Anniversary",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20anniversary.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest?cb=20220224220136",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest?cb=20220224220136",
-    "key": "Miya-hVMZKUaOXh",
-    "skin_name": "Anniversary",
-    "sort": "20"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/5th_Anniversary_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210829100938"
   },
   "Miya-5L7XcNjgmF": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20legend.zip",
