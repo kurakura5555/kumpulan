@@ -3582,13 +3582,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Cyclops-LCTdNEsVHk": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20collector.zip",
+    "key": "Cyclops-LCTdNEsVHk",
     "hero": "Cyclops",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
-    "key": "Cyclops-LCTdNEsVHk",
-    "skin_name": "Collector",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Cyclops-u3kEChYfA6": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20halloween.zip",
