@@ -4310,13 +4310,14 @@
     "date_upload": "2025-07-04"
   },
   "Kaja-nZgaVZILx7": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20starlight.zip",
+    "key": "Kaja-nZgaVZILx7",
     "hero": "Kaja",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest?cb=20220525165551",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest?cb=20220525165551",
-    "key": "Kaja-nZgaVZILx7",
-    "skin_name": "Starlight",
-    "sort": "13"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Layla-MQP23OfK2c": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blue%20spectre.zip",
