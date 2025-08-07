@@ -1780,13 +1780,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
   },
   "Kagura-DIjQ4tqNQP": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20clouds.zip",
-    "hero": "Kagura",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/154?cb=20230805043819",
     "key": "Kagura-DIjQ4tqNQP",
+    "hero": "Kagura",
     "skin_name": "Beyond The Clouds",
-    "sort": "2"
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20clouds.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Sparkle_Skin_Tag.png/revision/latest?cb=20240329064601"
   },
   "Leomord-yFvscuKRzu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/leomord%20epic.zip",
