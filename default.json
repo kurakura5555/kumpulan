@@ -1640,13 +1640,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Gusion-LpOjdxCvVo": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%2011.11.zip",
+    "key": "Gusion-LpOjdxCvVo",
     "hero": "Gusion",
+    "skin_name": "11.11",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%2011.11.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-    "key": "Gusion-LpOjdxCvVo",
-    "skin_name": "11.11",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000032"
   },
   "Layla-n55zx486sR": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blazing.zip",
