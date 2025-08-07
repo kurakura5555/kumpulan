@@ -5588,13 +5588,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Floryn-iZcbBuXaMD": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20summer.zip",
+    "key": "Floryn-iZcbBuXaMD",
     "hero": "Floryn",
+    "skin_name": "Summer",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20summer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
-    "key": "Floryn-iZcbBuXaMD",
-    "skin_name": "Summer",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Gord-hcoNHKcTIi": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gord%20epic.zip",
