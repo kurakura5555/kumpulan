@@ -211,13 +211,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   },
   "Lesley-u7pg8Q7Yhg": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20anual.zip",
+    "key": "Lesley-u7pg8Q7Yhg",
     "hero": "Lesley",
+    "skin_name": "Hawk Eyes Sniper",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20anual.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
-    "key": "Lesley-u7pg8Q7Yhg",
-    "skin_name": "Hawk Eyes Sniper",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Lunox-cFukmPl6pd": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20zodiac+.zip",
