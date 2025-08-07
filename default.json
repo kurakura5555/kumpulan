@@ -3274,13 +3274,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Khaleed-gg1C5HZxVY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20elite.zip",
+    "key": "Khaleed-gg1C5HZxVY",
     "hero": "Khaleed",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero983-portrait.png/revision/latest?cb=20220525170302",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero983-portrait.png/revision/latest?cb=20220525170302",
-    "key": "Khaleed-gg1C5HZxVY",
-    "skin_name": "Elite",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Lapu-Lapu-NCc1YvKN96": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20special.zip",
