@@ -5104,13 +5104,14 @@
     "sort": "1"
   },
   "Khaleed-Bbx0Gm21uF": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20epic.zip",
+    "key": "Khaleed-Bbx0Gm21uF",
     "hero": "Khaleed",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20epic.zip",
     "img": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
     "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
-    "key": "Khaleed-Bbx0Gm21uF",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Helcurt-S5HZic6de1": {
     "key": "Helcurt-S5HZic6de1",
