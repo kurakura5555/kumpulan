@@ -1822,13 +1822,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Lolita-SFZFxayKQv": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lolita%20lunar%20fest.zip",
+    "key": "Lolita-SFZFxayKQv",
     "hero": "Lolita",
+    "skin_name": "Lunar Fest",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lolita%20lunar%20fest.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero204-portrait.png/revision/latest?cb=20220525164743",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero204-portrait.png/revision/latest?cb=20220525164743",
-    "key": "Lolita-SFZFxayKQv",
-    "skin_name": "Lunar Fest",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/scale-to-width-down/75?cb=20220113105315"
   },
   "Luo Yi-VfruLXiKVW": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20collector.zip",
