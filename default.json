@@ -3299,13 +3299,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Lapu-Lapu-YPnNu0LLgP": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20starlight.zip",
+    "key": "Lapu-Lapu-YPnNu0LLgP",
     "hero": "Lapu-Lapu",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lapu%20lapu%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
-    "key": "Lapu-Lapu-YPnNu0LLgP",
-    "skin_name": "Starlight",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Martis-lT7KKyTxjZ": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20special.zip",
