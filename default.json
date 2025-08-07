@@ -1370,13 +1370,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201154100"
   },
   "Floryn-6AjGXQzoQl": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20sanrio.zip",
+    "key": "Floryn-6AjGXQzoQl",
     "hero": "Floryn",
+    "skin_name": "Sanrio",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20sanrio.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
-    "key": "Floryn-6AjGXQzoQl",
-    "skin_name": "Sanrio",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000457"
   },
   "Granger-OFTmjeO3qY": {
     "key": "Granger-OFTmjeO3qY",
