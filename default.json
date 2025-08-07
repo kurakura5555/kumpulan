@@ -1358,13 +1358,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   },
   "Claude-0044KiRM6g": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20chrismas%20revamp.zip",
+    "key": "Claude-0044KiRM6g",
     "hero": "Claude",
+    "skin_name": "Christmas",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20chrismas%20revamp.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
-    "key": "Claude-0044KiRM6g",
-    "skin_name": "Christmas",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Floryn-6AjGXQzoQl": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20sanrio.zip",
