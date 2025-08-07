@@ -191,13 +191,14 @@
     "date_upload": "2025-07-05"
   },
   "Lancelot-wDOgTMQHG5": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20metador.zip",
+    "key": "Lancelot-wDOgTMQHG5",
     "hero": "Lancelot",
+    "skin_name": "Royal Matador",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20metador.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
-    "key": "Lancelot-wDOgTMQHG5",
-    "skin_name": "Royal Matador",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Layla-21DQO6wxIN": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20aspirant.zip",
