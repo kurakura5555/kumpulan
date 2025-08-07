@@ -4372,13 +4372,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Lesley-epc4kNBlxc": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20special.zip",
+    "key": "Lesley-epc4kNBlxc",
     "hero": "Lesley",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
-    "key": "Lesley-epc4kNBlxc",
-    "skin_name": "Special",
-    "sort": "17"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Lesley-P8xFcqMhFO": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20valentine.zip",
