@@ -2029,13 +2029,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Ling-1udj40cbM5": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20dragon%20tamer.zip",
+    "key": "Ling-1udj40cbM5",
     "hero": "Ling",
+    "skin_name": "Dragon Tamer",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20dragon%20tamer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
-    "key": "Ling-1udj40cbM5",
-    "skin_name": "Dragon Tamer",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101554"
   },
   "Ling-xD0iXqikP4": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20star.zip",
