@@ -3517,13 +3517,14 @@
     "sort": "2"
   },
   "Cecilion-Zk4lI6IhEo": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20elite.zip",
+    "key": "Cecilion-Zk4lI6IhEo",
     "hero": "Cecilion",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
-    "key": "Cecilion-Zk4lI6IhEo",
-    "skin_name": "Elite",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Cecilion-uvIMfnKJPQ": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20spesial.zip",
