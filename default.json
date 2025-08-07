@@ -161,14 +161,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Hayabusa-RX8j4job2t": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20epic.zip",
+    "key": "Hayabusa-RX8j4job2t",
     "hero": "Hayabusa",
+    "skin_name": "Shadow Of Obsucurity",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
-    "key": "Hayabusa-RX8j4job2t",
-    "skin_name": "Shadow Of Obsucurity",
-    "sort": "6",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20240815164310"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Kagura-GhHX0MrbWE": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20exorcist.zip",
