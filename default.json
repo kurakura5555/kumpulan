@@ -3862,13 +3862,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lunox-8YB0TVPYB7": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20epic2.zip",
+    "key": "Lunox-8YB0TVPYB7",
     "hero": "Lunox",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20epic2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
-    "key": "Lunox-8YB0TVPYB7",
-    "skin_name": "Epic",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lunox-m6Ku9ShV16": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20epic3.zip",
