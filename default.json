@@ -4578,13 +4578,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103144"
   },
   "Hilda-je49AiQEYO": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hilda%20special.zip",
+    "key": "Hilda-je49AiQEYO",
     "hero": "Hilda",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hilda%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
-    "key": "Hilda-je49AiQEYO",
-    "skin_name": "Special",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Hilda-IvMliCHdj9": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hilda%20zodiac.zip",
