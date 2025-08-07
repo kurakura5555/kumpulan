@@ -4057,13 +4057,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/M2_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203124149"
   },
   "Clint-s9z2DfrCCq": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20special.zip",
+    "key": "Clint-s9z2DfrCCq",
     "hero": "Clint",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest?cb=20220525164559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest?cb=20220525164559",
-    "key": "Clint-s9z2DfrCCq",
-    "skin_name": "Special",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Clint-SpDb3fhgg2": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20star2.zip",
