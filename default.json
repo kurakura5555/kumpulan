@@ -2224,13 +2224,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201154100"
   },
   "Joy-6UcEorEQfj": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/joy%20elite.zip",
+    "key": "Joy-6UcEorEQfj",
     "hero": "Joy",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/joy%20elite.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBn_1Ak52ZLl5fQyNspJoKZlb0GZ4bTWVe8g&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBn_1Ak52ZLl5fQyNspJoKZlb0GZ4bTWVe8g&usqp=CAU",
-    "key": "Joy-6UcEorEQfj",
-    "skin_name": "Elite",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Valentina-aBYk2VUPIG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valentina%20collector.zip",
