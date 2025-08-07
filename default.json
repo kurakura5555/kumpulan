@@ -3254,13 +3254,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Jawhead-WisVPceWKr": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/jawhead%20mpl.zip",
+    "key": "Jawhead-WisVPceWKr",
     "hero": "Jawhead",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/jawhead%20mpl.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
-    "key": "Jawhead-WisVPceWKr",
-    "skin_name": "MPL",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Khaleed-gg1C5HZxVY": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20elite.zip",
