@@ -3592,13 +3592,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Cyclops-u3kEChYfA6": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20halloween.zip",
+    "key": "Cyclops-u3kEChYfA6",
     "hero": "Cyclops",
+    "skin_name": "Halloween",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20halloween.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
-    "key": "Cyclops-u3kEChYfA6",
-    "skin_name": "Halloween",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20221111140633"
   },
   "Esmeralda-mIWfEymVWa": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20blazing.zip",
