@@ -4476,13 +4476,14 @@
     "sort": "15"
   },
   "Franco-DJ3F54BlCr": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20special.zip",
+    "key": "Franco-DJ3F54BlCr",
     "hero": "Franco",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
-    "key": "Franco-DJ3F54BlCr",
-    "skin_name": "Special",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Gatotkaca-UO5j94JBlk": {
     "key": "Gatotkaca-UO5j94JBlk",
