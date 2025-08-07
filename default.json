@@ -4171,13 +4171,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Diggie-yq1d6cAgO6": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/diggie%20epic.zip",
+    "key": "Diggie-yq1d6cAgO6",
     "hero": "Diggie",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/diggie%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero485-portrait.png/revision/latest?cb=20220525165305",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero485-portrait.png/revision/latest?cb=20220525165305",
-    "key": "Diggie-yq1d6cAgO6",
-    "skin_name": "Epic",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Estes-XN658eK9WD": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20dragon%20tamer.zip",
