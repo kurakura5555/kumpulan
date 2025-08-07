@@ -221,13 +221,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   },
   "Lunox-cFukmPl6pd": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20zodiac+.zip",
+    "key": "Lunox-cFukmPl6pd",
     "hero": "Lunox",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20zodiac+.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
-    "key": "Lunox-cFukmPl6pd",
-    "skin_name": "Zodiac",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Helcurt-oQylrZptVJ": {
     "key": "Helcurt-oQylrZptVJ",
