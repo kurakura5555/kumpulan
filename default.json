@@ -3604,13 +3604,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20221111140633"
   },
   "Esmeralda-mIWfEymVWa": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20blazing.zip",
+    "key": "Esmeralda-mIWfEymVWa",
     "hero": "Esmeralda",
+    "skin_name": "Blazing",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20blazing.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
-    "key": "Esmeralda-mIWfEymVWa",
-    "skin_name": "Blazing",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101551"
   },
   "Eudora-Fe4911Euel": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20christmas.zip",
