@@ -3791,13 +3791,14 @@
     "sort": "6"
   },
   "Kadita-YAgqSnuiUi": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20special.zip",
+    "key": "Kadita-YAgqSnuiUi",
     "hero": "Kadita",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
-    "key": "Kadita-YAgqSnuiUi",
-    "skin_name": "Special",
-    "sort": "7"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Yin-4SZyKKi7Hu": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20jjk.zip",
