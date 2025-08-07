@@ -5174,13 +5174,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240619173327"
   },
   "Gusion-XoKM8GLyMB": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20star2.zip",
+    "key": "Gusion-XoKM8GLyMB",
     "hero": "Gusion",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20star2.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20star2.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20star2.png",
-    "key": "Gusion-XoKM8GLyMB",
-    "skin_name": "Star",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Kadita-6JOPuRvCGJ": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20create.zip",
