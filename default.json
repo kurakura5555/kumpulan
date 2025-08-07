@@ -3804,13 +3804,14 @@
     "sort": "5"
   },
   "Kagura-wA4q1BehKN": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20epic.zip",
+    "key": "Kagura-wA4q1BehKN",
     "hero": "Kagura",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
-    "key": "Kagura-wA4q1BehKN",
-    "skin_name": "Epic",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Kagura-0erhoRqr8z": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20summer.zip",
