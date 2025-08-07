@@ -9028,5 +9028,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
     "sort": "0",
     "date_upload": "2025-08-03"
+  },
+  "Cici-1754549670056": {
+    "key": "Cici-1754549670056",
+    "hero": "Cici",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/cici%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154349",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154349",
+    "sort": "15",
+    "tag": ""
   }
 }
