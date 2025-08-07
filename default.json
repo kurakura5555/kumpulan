@@ -4134,13 +4134,14 @@
     "sort": "9"
   },
   "Carmilla-5fjjDqeBQZ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/carmilla%20valentine.zip",
+    "key": "Carmilla-5fjjDqeBQZ",
     "hero": "Carmilla",
+    "skin_name": "Valentine",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/carmilla%20valentine.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
-    "key": "Carmilla-5fjjDqeBQZ",
-    "skin_name": "Valentine",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Diggie-yq1d6cAgO6": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/diggie%20epic.zip",
