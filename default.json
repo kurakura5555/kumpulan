@@ -3367,13 +3367,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Minsittar-Ey7WMWqB62": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20elite.zip",
+    "key": "Minsittar-Ey7WMWqB62",
     "hero": "Minsittar",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
-    "key": "Minsittar-Ey7WMWqB62",
-    "skin_name": "Elite",
-    "sort": "11"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Minsittar-l13Zqy8EBC": {
     "key": "Minsittar-l13Zqy8EBC",
