@@ -4448,13 +4448,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Miya-YUWvNheClA": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20suzuhime.zip",
+    "key": "Miya-YUWvNheClA",
     "hero": "Miya",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20suzuhime.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest?cb=20220525164240",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest?cb=20220525164240",
-    "key": "Miya-YUWvNheClA",
-    "skin_name": "Special",
-    "sort": "22"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Akai-MoGTCVBFFb": {
     "key": "Akai-MoGTCVBFFb",
