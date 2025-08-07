@@ -1661,13 +1661,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000032"
   },
   "Layla-n55zx486sR": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blazing.zip",
+    "key": "Layla-n55zx486sR",
     "hero": "Layla",
+    "skin_name": "Blazing",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blazing.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
-    "key": "Layla-n55zx486sR",
-    "skin_name": "Blazing",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101551"
   },
   "Melissa-PSVNkTBDnP": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/melissa%20star.zip",
