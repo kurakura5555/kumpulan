@@ -3527,13 +3527,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Cecilion-uvIMfnKJPQ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20spesial.zip",
+    "key": "Cecilion-uvIMfnKJPQ",
     "hero": "Cecilion",
+    "skin_name": "Valentine",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20spesial.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
-    "key": "Cecilion-uvIMfnKJPQ",
-    "skin_name": "Valentine",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   },
   "Cecilion-URjVJ0hW91": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20star.zip",
