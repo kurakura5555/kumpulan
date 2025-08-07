@@ -1415,13 +1415,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Karina-lpjPRjmvNu": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20kof.zip",
+    "key": "Karina-lpjPRjmvNu",
     "hero": "Karina",
+    "skin_name": "KOF",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20kof.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-    "key": "Karina-lpjPRjmvNu",
-    "skin_name": "KOF",
-    "sort": "13"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Lancelot-yCEUhymUpc": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20zodiac.zip",
