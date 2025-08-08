@@ -5289,13 +5289,14 @@
     "sort": "30"
   },
   "Ruby-TW6QHeeoIy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20special.zip",
+    "key": "Ruby-TW6QHeeoIy",
     "hero": "Ruby",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20special.zip",
     "img": "https://pbs.twimg.com/media/GK4rLJMaoAAU5en?format=jpg&name=4096x4096",
     "img2": "https://pbs.twimg.com/media/GK4rLJMaoAAU5en?format=jpg&name=4096x4096",
-    "key": "Ruby-TW6QHeeoIy",
-    "skin_name": "Special",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Martis-T2pu0mZhsD": {
     "key": "Martis-T2pu0mZhsD",
