@@ -4560,13 +4560,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Popol & Kupa-Z7vwKOMwXp": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20elite.zip",
+    "key": "Popol & Kupa-Z7vwKOMwXp",
     "hero": "Popol & Kupa",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
-    "key": "Popol & Kupa-Z7vwKOMwXp",
-    "skin_name": "Elite",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Popol & Kupa-FWngLd2xBk": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20star.zip",
