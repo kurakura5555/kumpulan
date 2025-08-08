@@ -3979,13 +3979,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Nana-OWVpOiRJ5B": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20star.zip",
+    "key": "Nana-OWVpOiRJ5B",
     "hero": "Nana",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
-    "key": "Nana-OWVpOiRJ5B",
-    "skin_name": "Star",
-    "sort": "9"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Nana-1cLj6m0VPV": {
     "key": "Nana-1cLj6m0VPV",
