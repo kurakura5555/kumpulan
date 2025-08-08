@@ -1949,13 +1949,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137"
   },
   "Uranus-WMjPDMannj": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/uranus%20epic2.zip",
+    "key": "Uranus-WMjPDMannj",
     "hero": "Uranus",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/uranus%20epic2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest?cb=20220525165519",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest?cb=20220525165519",
-    "key": "Uranus-WMjPDMannj",
-    "skin_name": "Epic",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Vale-ES5pLHcw9H": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vale%20collector.zip",
