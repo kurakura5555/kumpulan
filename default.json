@@ -4549,13 +4549,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123939"
   },
   "Parsha-FEk5lsPaxA": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20star.zip",
+    "key": "Parsha-FEk5lsPaxA",
     "hero": "Parsha",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
-    "key": "Parsha-FEk5lsPaxA",
-    "skin_name": "Star",
-    "sort": "5"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Popol & Kupa-Z7vwKOMwXp": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20elite.zip",
