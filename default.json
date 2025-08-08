@@ -3050,13 +3050,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Selena-itH4oaH8lJ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20epic.zip",
+    "key": "Selena-itH4oaH8lJ",
     "hero": "Selena",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
-    "key": "Selena-itH4oaH8lJ",
-    "skin_name": "Epic",
-    "sort": "22"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Selena-GOFqezs0QL": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20epic2.zip",
