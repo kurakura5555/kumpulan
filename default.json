@@ -4056,13 +4056,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Valir-BCv5T3DzDl": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20collector.zip",
+    "key": "Valir-BCv5T3DzDl",
     "hero": "Valir",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
-    "key": "Valir-BCv5T3DzDl",
-    "skin_name": "Collector",
-    "sort": "15"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Valir-PlB5dz6ff1": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20dragon%20tamer.zip",
