@@ -4077,13 +4077,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101554"
   },
   "Valir-Ckx7UHAOR0": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20phoenik%20ikki.zip",
+    "key": "Valir-Ckx7UHAOR0",
     "hero": "Valir",
+    "skin_name": "Phoenik Ikki",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20phoenik%20ikki.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
-    "key": "Valir-Ckx7UHAOR0",
-    "skin_name": "Phoenik Ikki",
-    "sort": "17"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Wanwan-Hc4WSs8MJG": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%2011.11.zip",
