@@ -3959,13 +3959,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Nana-RcFlqkySLS": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20elite2.zip",
+    "key": "Nana-RcFlqkySLS",
     "hero": "Nana",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20elite2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
-    "key": "Nana-RcFlqkySLS",
-    "skin_name": "Elite",
-    "sort": "7"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Nana-LiVvmZT6KX": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20epic.zip",
