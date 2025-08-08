@@ -5714,13 +5714,14 @@
     "sort": "30"
   },
   "Paquito-r92HST8Z1e": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20x%20kyo%20kusanagi.zip",
+    "key": "Paquito-r92HST8Z1e",
     "hero": "Paquito",
+    "skin_name": "kyo Kusanagi",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20x%20kyo%20kusanagi.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
-    "key": "Paquito-r92HST8Z1e",
-    "skin_name": "kyo Kusanagi",
-    "sort": "8"
+    "sort": "30",
+    "tag": ""
   },
   "Roger-tT2NMxbpY8": {
     "key": "Roger-tT2NMxbpY8",
