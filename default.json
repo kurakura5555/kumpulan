@@ -281,13 +281,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   },
   "Selena-pLOI8bwEpM": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20zodiac.zip",
+    "key": "Selena-pLOI8bwEpM",
     "hero": "Selena",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
-    "key": "Selena-pLOI8bwEpM",
-    "skin_name": "Zodiac",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "X-Borg-ozIkZ6ZsAJ": {
     "key": "X-Borg-ozIkZ6ZsAJ",
