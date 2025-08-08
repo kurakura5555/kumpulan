@@ -3477,13 +3477,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
   },
   "Ruby-SzSYaFu9p5": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20elite2.zip",
+    "key": "Ruby-SzSYaFu9p5",
     "hero": "Ruby",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20elite2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
-    "key": "Ruby-SzSYaFu9p5",
-    "skin_name": "Elite",
-    "sort": "8"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Ruby-fZOxTvyEGX": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20epic.zip",
