@@ -3028,13 +3028,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Saber-WKYFgZWtTs": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/saber%20legend.zip",
+    "key": "Saber-WKYFgZWtTs",
     "hero": "Saber",
+    "skin_name": "Legend",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/saber%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
-    "key": "Saber-WKYFgZWtTs",
-    "skin_name": "Legend",
-    "sort": "20"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Saber-ALnjL5tWxa": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/saber%20star.zip",
