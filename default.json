@@ -1707,13 +1707,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Thamus-fAWLGFS0WS": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20kungfu%20panda.zip",
+    "key": "Thamus-fAWLGFS0WS",
     "hero": "Thamus",
+    "skin_name": "General Kai",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20kungfu%20panda.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-    "key": "Thamus-fAWLGFS0WS",
-    "skin_name": "General Kai",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220804140629"
   },
   "Wanwan-EU9G2LMbM9": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20mworld.zip",
