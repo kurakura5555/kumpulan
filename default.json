@@ -1691,13 +1691,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Odete-idaGbtqr2X": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20epic.zip",
+    "key": "Odete-idaGbtqr2X",
     "hero": "Odete",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
-    "key": "Odete-idaGbtqr2X",
-    "skin_name": "Epic",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Thamus-fAWLGFS0WS": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20kungfu%20panda.zip",
