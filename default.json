@@ -2404,13 +2404,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Wanwan-Slnlie74kY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20mpl.zip",
+    "key": "Wanwan-Slnlie74kY",
     "hero": "Wanwan",
+    "skin_name": "MPL",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20mpl.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
-    "key": "Wanwan-Slnlie74kY",
-    "skin_name": "MPL",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Freya-O0pI0Vp3Fd": {
     "key": "Freya-O0pI0Vp3Fd",
