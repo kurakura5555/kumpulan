@@ -3577,13 +3577,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Thamus-QlZ7nvYabc": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20starlight.zip",
+    "key": "Thamus-QlZ7nvYabc",
     "hero": "Thamus",
+    "skin_name": "Starlight",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20starlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
-    "key": "Thamus-QlZ7nvYabc",
-    "skin_name": "Starlight",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "X-Borg-EwqfVe0S9I": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/xborg%20star.zip",
