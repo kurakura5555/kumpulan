@@ -3424,13 +3424,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Roger-roQ3XITUR8": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20epic.zip",
+    "key": "Roger-roQ3XITUR8",
     "hero": "Roger",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
-    "key": "Roger-roQ3XITUR8",
-    "skin_name": "Epic",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Roger-LqZwVgK6lA": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20epic2.zip",
