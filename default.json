@@ -2997,13 +2997,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Natalia-T5MvrUZz42": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natalia%20special3.zip",
+    "key": "Natalia-T5MvrUZz42",
     "hero": "Natalia",
+    "skin_name": "Special",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natalia%20special3.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
-    "key": "Natalia-T5MvrUZz42",
-    "skin_name": "Special",
-    "sort": "18"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Saber-VTY5tuv5Le": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/saber%20epic.zip",
