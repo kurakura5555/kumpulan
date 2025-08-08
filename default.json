@@ -5105,13 +5105,14 @@
     "sort": "2"
   },
   "Nolan-ZKC6ICplil": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nolan%20basic.zip",
+    "key": "Nolan-ZKC6ICplil",
     "hero": "Nolan",
+    "skin_name": "Basic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nolan%20basic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb=20231227085831",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb=20231227085831",
-    "key": "Nolan-ZKC6ICplil",
-    "skin_name": "Basic",
-    "sort": "1"
+    "sort": "15",
+    "tag": ""
   },
   "Novaria-S1qjsRB699": {
     "key": "Novaria-S1qjsRB699",
