@@ -2345,13 +2345,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Yve-FWxcs112JT": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yve%20elite.zip",
+    "key": "Yve-FWxcs112JT",
     "hero": "Yve",
+    "skin_name": "Elite",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yve%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
-    "key": "Yve-FWxcs112JT",
-    "skin_name": "Elite",
-    "sort": "6"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Zhask-Yjo8WFkGyf": {
     "key": "Zhask-Yjo8WFkGyf",
