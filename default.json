@@ -1959,13 +1959,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Vale-ES5pLHcw9H": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vale%20collector.zip",
+    "key": "Vale-ES5pLHcw9H",
     "hero": "Vale",
+    "skin_name": "Collector",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vale%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
-    "key": "Vale-ES5pLHcw9H",
-    "skin_name": "Collector",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Wanwan-iMyI3hxu6f": {
     "key": "Wanwan-iMyI3hxu6f",
