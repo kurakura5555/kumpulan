@@ -4067,13 +4067,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Valir-PlB5dz6ff1": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20dragon%20tamer.zip",
+    "key": "Valir-PlB5dz6ff1",
     "hero": "Valir",
+    "skin_name": "Dragon Tamer",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20dragon%20tamer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
-    "key": "Valir-PlB5dz6ff1",
-    "skin_name": "Dragon Tamer",
-    "sort": "16"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101554"
   },
   "Valir-Ckx7UHAOR0": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20phoenik%20ikki.zip",
