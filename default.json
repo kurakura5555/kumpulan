@@ -1851,13 +1851,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Odete-7BZ0ZFfAmt": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20zodiac.zip",
+    "key": "Odete-7BZ0ZFfAmt",
     "hero": "Odete",
+    "skin_name": "Zodiac",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20zodiac.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
-    "key": "Odete-7BZ0ZFfAmt",
-    "skin_name": "Zodiac",
-    "sort": "11"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020801"
   },
   "Akai-kegT8Ydvce": {
     "key": "Akai-kegT8Ydvce",
