@@ -4880,13 +4880,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Uranus-qapfVt9B0a": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/uranus%20epic.zip",
+    "key": "Uranus-qapfVt9B0a",
     "hero": "Uranus",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/uranus%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest?cb=20220525165517",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest?cb=20220525165517",
-    "key": "Uranus-qapfVt9B0a",
-    "skin_name": "Epic",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Wanwan-pGsBPp5jgM": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20star.zip",
