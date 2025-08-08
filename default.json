@@ -1332,13 +1332,14 @@
     "sort": "30"
   },
   "Ruby-uB0cJK7Dyh": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20aspirant.zip",
+    "key": "Ruby-uB0cJK7Dyh",
     "hero": "Ruby",
+    "skin_name": "Aspirants",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20aspirant.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
-    "key": "Ruby-uB0cJK7Dyh",
-    "skin_name": "Aspirants",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   },
   "Brody-BZdZK2LiTs": {
     "key": "Brody-BZdZK2LiTs",
