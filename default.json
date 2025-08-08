@@ -4957,13 +4957,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/ALLSTAR_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240329064455"
   },
   "Terizla-p3M7h5j6zy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20epic.zip",
+    "key": "Terizla-p3M7h5j6zy",
     "hero": "Terizla",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20epic.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/terizla%20epic.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/terizla%20epic.png",
-    "key": "Terizla-p3M7h5j6zy",
-    "skin_name": "Epic",
-    "sort": "4"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Vexana-N9idQkN01B": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20zenith.zip",
