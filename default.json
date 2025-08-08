@@ -4869,13 +4869,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Tigreal-ytko7FYSQy": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20startlight.zip",
+    "key": "Tigreal-ytko7FYSQy",
     "hero": "Tigreal",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20startlight.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731",
-    "key": "Tigreal-ytko7FYSQy",
-    "skin_name": "Star",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Uranus-qapfVt9B0a": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/uranus%20epic.zip",
