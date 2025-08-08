@@ -3487,13 +3487,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Ruby-fZOxTvyEGX": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20epic.zip",
+    "key": "Ruby-fZOxTvyEGX",
     "hero": "Ruby",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
-    "key": "Ruby-fZOxTvyEGX",
-    "skin_name": "Epic",
-    "sort": "9"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Ruby-6Mop3ZMmjt": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20star.zip",
