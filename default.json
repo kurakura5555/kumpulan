@@ -271,13 +271,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083549"
   },
   "Selena-I0OeBTsHpx": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20stun.zip",
+    "key": "Selena-I0OeBTsHpx",
     "hero": "Selena",
+    "skin_name": "S.T.U.N",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20stun.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
-    "key": "Selena-I0OeBTsHpx",
-    "skin_name": "S.T.U.N",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   },
   "Selena-pLOI8bwEpM": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20zodiac.zip",
