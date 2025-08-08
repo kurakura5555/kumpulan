@@ -4007,13 +4007,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Odete-doyS82mPQx": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20lunar%20fest.zip",
+    "key": "Odete-doyS82mPQx",
     "hero": "Odete",
+    "skin_name": "Lunar Fest",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20lunar%20fest.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
-    "key": "Odete-doyS82mPQx",
-    "skin_name": "Lunar Fest",
-    "sort": "11"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/scale-to-width-down/75?cb=20220113105315"
   },
   "Parsha-x0c9jpoHBU": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20epic.zip",
