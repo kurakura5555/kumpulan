@@ -4091,13 +4091,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Wanwan-Hc4WSs8MJG": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%2011.11.zip",
+    "key": "Wanwan-Hc4WSs8MJG",
     "hero": "Wanwan",
+    "skin_name": "11.11",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%2011.11.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest?cb=20240114143134",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest?cb=20240114143134",
-    "key": "Wanwan-Hc4WSs8MJG",
-    "skin_name": "11.11",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000032"
   },
   "Beatrix-nVIPKthh92": {
     "key": "Beatrix-nVIPKthh92",
