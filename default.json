@@ -2493,13 +2493,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Vale-W5Esr0fU8d": {
-    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vale%20epic.zip",
+    "key": "Vale-W5Esr0fU8d",
     "hero": "Vale",
+    "skin_name": "Epic",
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vale%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
-    "key": "Vale-W5Esr0fU8d",
-    "skin_name": "Epic",
-    "sort": "3"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Aamon-kWIoqMAZCT": {
     "key": "Aamon-kWIoqMAZCT",
