@@ -3411,13 +3411,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Pacquiao_Licensed_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064618"
   },
   "Paquito-r58pZeoWQ6": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20star.zip",
+    "key": "Paquito-r58pZeoWQ6",
     "hero": "Paquito",
+    "skin_name": "Star",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20star.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
-    "key": "Paquito-r58pZeoWQ6",
-    "skin_name": "Star",
-    "sort": "2"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Roger-roQ3XITUR8": {
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20epic.zip",
