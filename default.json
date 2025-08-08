@@ -5632,13 +5632,14 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
   },
   "Valir-cF6SLjX0r0": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20seiya%20emas.zip",
+    "key": "Valir-cF6SLjX0r0",
     "hero": "Valir",
+    "skin_name": "Leo Ikki",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20seiya%20emas.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
-    "key": "Valir-cF6SLjX0r0",
-    "skin_name": "Leo Ikki",
-    "sort": "1"
+    "sort": "15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220915140211"
   },
   "Atlas-6Qu5Tr2RzL": {
     "key": "Atlas-6Qu5Tr2RzL",
