@@ -9485,5 +9485,16 @@
     "sort": "15",
     "date_upload": "2025-09-02",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
+  },
+  "Layla-1756808897544": {
+    "key": "Layla-1756808897544",
+    "hero": "Layla",
+    "skin_name": "Nexus Sea",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/layla%20nexus%20sea.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrkdsY1BHkYHjurfivNKNJH3R52mfH1_UPcOb-jX9F6CYgZ9iu1sGZgPJ&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrkdsY1BHkYHjurfivNKNJH3R52mfH1_UPcOb-jX9F6CYgZ9iu1sGZgPJ&s=10",
+    "sort": "15",
+    "date_upload": "2025-09-02",
+    "tag": ""
   }
 }
