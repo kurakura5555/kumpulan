@@ -18,5 +18,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
     "sort": "2"
+  },
+  "Aamon-ccp281edpb": {
+    "key": "Aamon-ccp281edpb",
+    "hero": "Aamon",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
+    "sort": "2"
   }
 }
