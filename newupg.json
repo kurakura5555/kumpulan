@@ -48,5 +48,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
     "sort": "3"
+  },
+  "Aamon-0p5anloa8h": {
+    "key": "Aamon-0p5anloa8h",
+    "hero": "Aamon",
+    "skin_name": "Star",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20star%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
+    "sort": "4"
   }
 }
