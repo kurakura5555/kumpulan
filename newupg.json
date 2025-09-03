@@ -168,5 +168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165622",
     "sort": "2"
+  },
+  "Aldous-pd7ps88afd": {
+    "key": "Aldous-pd7ps88afd",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "Mistbenders",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20mistbenders.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
+    "sort": "2"
   }
 }
