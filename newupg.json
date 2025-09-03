@@ -58,5 +58,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
     "sort": "4"
+  },
+  "Akai-lcoszies7i": {
+    "key": "Akai-lcoszies7i",
+    "hero": "Akai",
+    "skin_name": "Anniversary",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/akai%20anniversary%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero100910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115325",
+    "sort": "10"
   }
 }
