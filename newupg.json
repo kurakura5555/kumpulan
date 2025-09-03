@@ -178,5 +178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
     "sort": "2"
+  },
+  "Aldous-uo3g85qj4p": {
+    "key": "Aldous-uo3g85qj4p",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
+    "sort": "2"
   }
 }
