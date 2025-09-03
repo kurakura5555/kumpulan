@@ -8,5 +8,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
     "sort": "2"
+  },
+  "Aamon-7yxcpb9uzi": {
+    "key": "Aamon-7yxcpb9uzi",
+    "hero": "Aamon",
+    "skin_name": "Basic",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20basic%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
+    "sort": "2"
   }
 }
