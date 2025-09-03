@@ -158,5 +158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
     "sort": "2"
+  },
+  "Aldous-veo6plbwt7": {
+    "key": "Aldous-veo6plbwt7",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "M1",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20m1.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165622",
+    "sort": "2"
   }
 }
