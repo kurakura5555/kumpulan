@@ -188,5 +188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
     "sort": "2"
+  },
+  "Aldous-njtv94w1vk": {
+    "key": "Aldous-njtv94w1vk",
+    "hero": "Aldous",
+    "skin_name": "Blazing",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20blazing%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052815",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
+    "sort": "6"
   }
 }
