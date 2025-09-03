@@ -148,5 +148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052815",
     "sort": "2"
+  },
+  "Aldous-zcdop99w73": {
+    "key": "Aldous-zcdop99w73",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
+    "sort": "2"
   }
 }
