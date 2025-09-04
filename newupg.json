@@ -2128,5 +2128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "sort": "2"
+  },
+  "Benedetta-zc7zy5ehtu": {
+    "key": "Benedetta-zc7zy5ehtu",
+    "hero": "Benedetta",
+    "skin_name": "Collector",
+    "skin_name2": "Convenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20collector%20to%20convenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
+    "sort": "4"
   }
 }
