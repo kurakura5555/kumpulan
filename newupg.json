@@ -328,5 +328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165622",
     "sort": "4"
+  },
+  "Aldous-l3znn8rlz3": {
+    "key": "Aldous-l3znn8rlz3",
+    "hero": "Aldous",
+    "skin_name": "Star",
+    "skin_name2": "Mistbenders",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20star%20to%20mistbenders.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
+    "sort": "4"
   }
 }
