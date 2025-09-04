@@ -928,5 +928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
     "sort": "10"
+  },
+  "Angela-z6wqvyjfz5": {
+    "key": "Angela-z6wqvyjfz5",
+    "hero": "Angela",
+    "skin_name": "Annual Star",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20annual%20star%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
+    "sort": "10"
   }
 }
