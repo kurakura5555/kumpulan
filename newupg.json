@@ -1728,5 +1728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165819",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
     "sort": "3"
+  },
+  "Badang-w7l5dpjosd": {
+    "key": "Badang-w7l5dpjosd",
+    "hero": "Badang",
+    "skin_name": "Special",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/badang%20special%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
+    "sort": "3"
   }
 }
