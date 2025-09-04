@@ -1288,5 +1288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165435",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
     "sort": "6"
+  },
+  "Angela-496kvo1z2r": {
+    "key": "Angela-496kvo1z2r",
+    "hero": "Angela",
+    "skin_name": "Venom",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20venom%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
+    "sort": "4"
   }
 }
