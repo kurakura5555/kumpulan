@@ -1298,5 +1298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
     "sort": "4"
+  },
+  "Angela-4jhzn3y966": {
+    "key": "Angela-4jhzn3y966",
+    "hero": "Angela",
+    "skin_name": "Venom",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20venom%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
+    "sort": "4"
   }
 }
