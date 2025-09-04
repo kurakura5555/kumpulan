@@ -318,5 +318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
     "sort": "4"
+  },
+  "Aldous-0ifahxgx4o": {
+    "key": "Aldous-0ifahxgx4o",
+    "hero": "Aldous",
+    "skin_name": "Star",
+    "skin_name2": "M1",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20star%20to%20m1.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165622",
+    "sort": "4"
   }
 }
