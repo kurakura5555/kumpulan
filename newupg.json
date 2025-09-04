@@ -568,5 +568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164922",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
     "sort": "5"
+  },
+  "Alpha-btag3x8vbv": {
+    "key": "Alpha-btag3x8vbv",
+    "hero": "Alpha",
+    "skin_name": "Star",
+    "skin_name2": "Abss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20star%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043831",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
+    "sort": "7"
   }
 }
