@@ -548,5 +548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164922",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
     "sort": "5"
+  },
+  "Alpha-jvfolkhzvt": {
+    "key": "Alpha-jvfolkhzvt",
+    "hero": "Alpha",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164922",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero288-portrait.png/revision/latest/scale-to-width-down/150?cb=20240503043857",
+    "sort": "5"
   }
 }
