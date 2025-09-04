@@ -1358,5 +1358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
     "sort": "2"
+  },
+  "Argus-i8uexbadiq": {
+    "key": "Argus-i8uexbadiq",
+    "hero": "Argus",
+    "skin_name": "Elite",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20elite%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
+    "sort": "4"
   }
 }
