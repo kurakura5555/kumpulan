@@ -1948,5 +1948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
     "sort": "2"
+  },
+  "Beatrix-mmhht6wmiq": {
+    "key": "Beatrix-mmhht6wmiq",
+    "hero": "Beatrix",
+    "skin_name": "Basic",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20basic%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "sort": "2"
   }
 }
