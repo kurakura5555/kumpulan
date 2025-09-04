@@ -1438,5 +1438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115339",
     "sort": "2"
+  },
+  "Atlas-wwwtfsqly9": {
+    "key": "Atlas-wwwtfsqly9",
+    "hero": "Atlas",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170224",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest/scale-to-width-down/150?cb=20240918023911",
+    "sort": "3"
   }
 }
