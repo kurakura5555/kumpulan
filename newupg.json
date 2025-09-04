@@ -538,5 +538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164921",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
     "sort": "4"
+  },
+  "Alpha-xxzq8x3gun": {
+    "key": "Alpha-xxzq8x3gun",
+    "hero": "Alpha",
+    "skin_name": "Special",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20special%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164922",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
+    "sort": "5"
   }
 }
