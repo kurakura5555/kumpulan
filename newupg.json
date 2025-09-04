@@ -1368,5 +1368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
     "sort": "4"
+  },
+  "Argus-dubraalhs9": {
+    "key": "Argus-dubraalhs9",
+    "hero": "Argus",
+    "skin_name": "Season",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20season%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
+    "sort": "6"
   }
 }
