@@ -1548,5 +1548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero364-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165103",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212110806",
     "sort": "4"
+  },
+  "Aurora-7zl1tsj5uk": {
+    "key": "Aurora-7zl1tsj5uk",
+    "hero": "Aurora",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aurora%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112411",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103724",
+    "sort": "3"
   }
 }
