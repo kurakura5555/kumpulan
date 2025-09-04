@@ -1458,5 +1458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115339",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest/scale-to-width-down/150?cb=20240918023911",
     "sort": "4"
+  },
+  "Aurora-hqbshy03rv": {
+    "key": "Aurora-hqbshy03rv",
+    "hero": "Aurora",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aurora%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Hero362-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212111012",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103724",
+    "sort": "2"
   }
 }
