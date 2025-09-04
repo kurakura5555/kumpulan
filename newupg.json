@@ -398,5 +398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
     "sort": "5"
+  },
+  "Alpha-qsyjffcqle": {
+    "key": "Alpha-qsyjffcqle",
+    "hero": "Alpha",
+    "skin_name": "Abyss",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20abyss%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164918",
+    "sort": "6"
   }
 }
