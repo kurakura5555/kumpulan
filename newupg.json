@@ -1628,5 +1628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero772-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165818",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
     "sort": "2"
+  },
+  "Badang-379lf4xk9c": {
+    "key": "Badang-379lf4xk9c",
+    "hero": "Badang",
+    "skin_name": "Collector",
+    "skin_name2": "Saint seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/badang%20collector%20to%20pegasus%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165821",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122044",
+    "sort": "5"
   }
 }
