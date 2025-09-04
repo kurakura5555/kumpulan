@@ -348,5 +348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
     "sort": "4"
+  },
+  "Aldous-tlnystarmr": {
+    "key": "Aldous-tlnystarmr",
+    "hero": "Aldous",
+    "skin_name": "Transformers",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20transformers%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
+    "sort": "8"
   }
 }
