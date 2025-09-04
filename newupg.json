@@ -1998,5 +1998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
     "sort": "5"
+  },
+  "Beatrix-xis3daugqd": {
+    "key": "Beatrix-xis3daugqd",
+    "hero": "Beatrix",
+    "skin_name": "Special",
+    "skin_name2": "M4",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20special%20to%20m4.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043918",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "sort": "7"
   }
 }
