@@ -1088,5 +1088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165434",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
     "sort": "5"
+  },
+  "Angela-boy43botf7": {
+    "key": "Angela-boy43botf7",
+    "hero": "Angela",
+    "skin_name": "Halloween",
+    "skin_name2": "Kishin Densetsu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20halloween%20to%20kishin%20densetsu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165434",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
+    "sort": "5"
   }
 }
