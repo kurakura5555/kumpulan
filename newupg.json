@@ -978,5 +978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
     "sort": "9"
+  },
+  "Angela-l4ay1pxtpz": {
+    "key": "Angela-l4ay1pxtpz",
+    "hero": "Angela",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165431",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
+    "sort": "2"
   }
 }
