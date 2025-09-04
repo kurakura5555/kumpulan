@@ -1558,5 +1558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112411",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103724",
     "sort": "3"
+  },
+  "Aurora-woldl04z7m": {
+    "key": "Aurora-woldl04z7m",
+    "hero": "Aurora",
+    "skin_name": "Star",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aurora%20star%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112411",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112500",
+    "sort": "3"
   }
 }
