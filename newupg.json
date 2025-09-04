@@ -898,5 +898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164441",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
     "sort": "6"
+  },
+  "Alucard-hfn6mtm78j": {
+    "key": "Alucard-hfn6mtm78j",
+    "hero": "Alucard",
+    "skin_name": "Valentine",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20valentine%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164441",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
+    "sort": "6"
   }
 }
