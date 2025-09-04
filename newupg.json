@@ -1178,5 +1178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
     "sort": "8"
+  },
+  "Angela-5wr22aj7dw": {
+    "key": "Angela-5wr22aj7dw",
+    "hero": "Angela",
+    "skin_name": "Sanrio",
+    "skin_name2": "Kishin Densetsu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20sanrio%20to%20kishin%20densetu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
+    "sort": "8"
   }
 }
