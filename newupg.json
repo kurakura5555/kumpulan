@@ -1258,5 +1258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165435",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "sort": "6"
+  },
+  "Angela-5jg2zldyzr": {
+    "key": "Angela-5jg2zldyzr",
+    "hero": "Angela",
+    "skin_name": "Summer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20summer%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165435",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "6"
   }
 }
