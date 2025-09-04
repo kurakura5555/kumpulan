@@ -1018,5 +1018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165431",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
     "sort": "2"
+  },
+  "Angela-5yc1vt3vt8": {
+    "key": "Angela-5yc1vt3vt8",
+    "hero": "Angela",
+    "skin_name": "Basic",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20basic%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165431",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
+    "sort": "2"
   }
 }
