@@ -2418,5 +2418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "4"
+  },
+  "Brody-kimf4zc54t": {
+    "key": "Brody-kimf4zc54t",
+    "hero": "Brody",
+    "skin_name": "Star",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20star%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
+    "sort": "4"
   }
 }
