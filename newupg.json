@@ -1898,5 +1898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164316",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
     "sort": "7"
+  },
+  "Bane-9j01wsfhyq": {
+    "key": "Bane-9j01wsfhyq",
+    "hero": "Bane",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/bane%20basic%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
+    "sort": "3"
   }
 }
