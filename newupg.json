@@ -2198,5 +2198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
     "sort": "7"
+  },
+  "Benedetta-gnxnqzv31d": {
+    "key": "Benedetta-gnxnqzv31d",
+    "hero": "Benedetta",
+    "skin_name": "Mpl",
+    "skin_name2": "Ducati",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20mpl%20to%20ducati.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
+    "sort": "7"
   }
 }
