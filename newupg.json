@@ -2248,5 +2248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170256",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "sort": "5"
+  },
+  "Benedetta-mgnf1zb6i6": {
+    "key": "Benedetta-mgnf1zb6i6",
+    "hero": "Benedetta",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
+    "sort": "3"
   }
 }
