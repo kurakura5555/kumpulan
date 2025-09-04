@@ -2278,5 +2278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
     "sort": "3"
+  },
+  "Brody-2c438lqha2": {
+    "key": "Brody-2c438lqha2",
+    "hero": "Brody",
+    "skin_name": "Basic",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20basic%20to%20champions.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170319",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
+    "sort": "2"
   }
 }
