@@ -1688,5 +1688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122044",
     "sort": "7"
+  },
+  "Badang-3az3f0ayls": {
+    "key": "Badang-3az3f0ayls",
+    "hero": "Badang",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/badang%20sagittarius%20seiya%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
+    "sort": "7"
   }
 }
