@@ -2098,5 +2098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
     "sort": "2"
+  },
+  "Benedetta-ww6utj2jf2": {
+    "key": "Benedetta-ww6utj2jf2",
+    "hero": "Benedetta",
+    "skin_name": "Basic",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20basic%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
+    "sort": "2"
   }
 }
