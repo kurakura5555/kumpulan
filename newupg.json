@@ -718,5 +718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920090132",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164442",
     "sort": "9"
+  },
+  "Alucard-s59d2vr1bb": {
+    "key": "Alucard-s59d2vr1bb",
+    "hero": "Alucard",
+    "skin_name": "Lightborn",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20lightborn%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920090132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
+    "sort": "9"
   }
 }
