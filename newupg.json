@@ -2348,5 +2348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
     "sort": "6"
+  },
+  "Brody-91z33my0u9": {
+    "key": "Brody-91z33my0u9",
+    "hero": "Brody",
+    "skin_name": "Mpl",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20mpl%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170323",
+    "sort": "6"
   }
 }
