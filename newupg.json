@@ -948,5 +948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
     "sort": "9"
+  },
+  "Angela-q9cklcvbiu": {
+    "key": "Angela-q9cklcvbiu",
+    "hero": "Angela",
+    "skin_name": "Aspirants",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20aspirants%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "9"
   }
 }
