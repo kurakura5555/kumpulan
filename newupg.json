@@ -1848,5 +1848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164313",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164309",
     "sort": "6"
+  },
+  "Balmond-fwmgsavu9a": {
+    "key": "Balmond-fwmgsavu9a",
+    "hero": "Balmond",
+    "skin_name": "Special",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20special%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164313",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
+    "sort": "6"
   }
 }
