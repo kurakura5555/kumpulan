@@ -528,5 +528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164921",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero288-portrait.png/revision/latest/scale-to-width-down/150?cb=20240503043857",
     "sort": "4"
+  },
+  "Alpha-d6x8e28yvn": {
+    "key": "Alpha-d6x8e28yvn",
+    "hero": "Alpha",
+    "skin_name": "Season",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20season%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164921",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
+    "sort": "4"
   }
 }
