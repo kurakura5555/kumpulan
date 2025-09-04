@@ -1878,5 +1878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
     "sort": "9"
+  },
+  "Balmond-mx1w7ewd0b": {
+    "key": "Balmond-mx1w7ewd0b",
+    "hero": "Balmond",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164316",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164309",
+    "sort": "7"
   }
 }
