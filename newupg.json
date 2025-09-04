@@ -1118,5 +1118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
     "sort": "11"
+  },
+  "Angela-0pjcgn3qeh": {
+    "key": "Angela-0pjcgn3qeh",
+    "hero": "Angela",
+    "skin_name": "Kishin Densetsu",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20kishin%20densetsu%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
+    "sort": "11"
   }
 }
