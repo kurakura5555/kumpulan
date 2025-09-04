@@ -1488,5 +1488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Hero362-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212111012",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212110806",
     "sort": "2"
+  },
+  "Aurora-goa5agua0j": {
+    "key": "Aurora-goa5agua0j",
+    "hero": "Aurora",
+    "skin_name": "Collector",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aurora%20collector%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103724",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112500",
+    "sort": "7"
   }
 }
