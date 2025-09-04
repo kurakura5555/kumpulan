@@ -1408,5 +1408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest/scale-to-width-down/150?cb=20230208125754",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114160254",
     "sort": "2"
+  },
+  "Arlott-juu1rp1jn": {
+    "key": "Arlott-juu1rp1jn",
+    "hero": "Arlott",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/arlott%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114160254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1204-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124142",
+    "sort": "3"
   }
 }
