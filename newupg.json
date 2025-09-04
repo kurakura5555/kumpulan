@@ -2408,5 +2408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
     "sort": "4"
+  },
+  "Brody-nvnakplqnc": {
+    "key": "Brody-nvnakplqnc",
+    "hero": "Brody",
+    "skin_name": "Star",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20star%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
+    "sort": "4"
   }
 }
