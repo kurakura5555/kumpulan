@@ -2378,5 +2378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
     "sort": "6"
+  },
+  "Brody-26akvr7ged": {
+    "key": "Brody-26akvr7ged",
+    "hero": "Brody",
+    "skin_name": "Star",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20star%20to%20champions.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
+    "sort": "4"
   }
 }
