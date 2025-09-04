@@ -1958,5 +1958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
     "sort": "2"
+  },
+  "Beatrix-jcqahndnqk": {
+    "key": "Beatrix-jcqahndnqk",
+    "hero": "Beatrix",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170423",
+    "sort": "2"
   }
 }
