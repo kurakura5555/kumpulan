@@ -338,5 +338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
     "sort": "4"
+  },
+  "Aldous-5xbh5wcq2o": {
+    "key": "Aldous-5xbh5wcq2o",
+    "hero": "Aldous",
+    "skin_name": "Star",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20star%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
+    "sort": "4"
   }
 }
