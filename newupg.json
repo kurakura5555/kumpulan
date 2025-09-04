@@ -2288,5 +2288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170319",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
     "sort": "2"
+  },
+  "Brody-v5x403z15w": {
+    "key": "Brody-v5x403z15w",
+    "hero": "Brody",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170319",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170323",
+    "sort": "2"
   }
 }
