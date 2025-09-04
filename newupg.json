@@ -1278,5 +1278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165435",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
     "sort": "6"
+  },
+  "Angela-08b5j6jgjx": {
+    "key": "Angela-08b5j6jgjx",
+    "hero": "Angela",
+    "skin_name": "Summer",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20summer%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165435",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
+    "sort": "6"
   }
 }
