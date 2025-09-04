@@ -1338,5 +1338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165437",
     "sort": "4"
+  },
+  "Argus-t48ymqrdzh": {
+    "key": "Argus-t48ymqrdzh",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20basic%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
+    "sort": "2"
   }
 }
