@@ -2258,5 +2258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
     "sort": "3"
+  },
+  "Benedetta-w85rsyln25": {
+    "key": "Benedetta-w85rsyln25",
+    "hero": "Benedetta",
+    "skin_name": "Star",
+    "skin_name2": "Convenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20star%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
+    "sort": "3"
   }
 }
