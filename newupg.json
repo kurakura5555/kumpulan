@@ -2338,5 +2338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "7"
+  },
+  "Brody-6ulsd5ep07": {
+    "key": "Brody-6ulsd5ep07",
+    "hero": "Brody",
+    "skin_name": "Mpl",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/brody%20mpl%20to%20champions.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
+    "sort": "6"
   }
 }
