@@ -758,5 +758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
     "sort": "4"
+  },
+  "Alucard-h7l0gxtoeq": {
+    "key": "Alucard-h7l0gxtoeq",
+    "hero": "Alucard",
+    "skin_name": "Season",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20season%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164437",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164442",
+    "sort": "3"
   }
 }
