@@ -2188,5 +2188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
     "sort": "7"
+  },
+  "Benedetta-a77tll4yo0": {
+    "key": "Benedetta-a77tll4yo0",
+    "hero": "Benedetta",
+    "skin_name": "Mpl",
+    "skin_name2": "Convenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20mpl%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
+    "sort": "7"
   }
 }
