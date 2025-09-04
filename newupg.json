@@ -1418,5 +1418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114160254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1204-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124142",
     "sort": "3"
+  },
+  "Atlas-22jxm9ki8r": {
+    "key": "Atlas-22jxm9ki8r",
+    "hero": "Atlas",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest/scale-to-width-down/150?cb=20240918023911",
+    "sort": "2"
   }
 }
