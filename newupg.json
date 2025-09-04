@@ -848,5 +848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164439",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
     "sort": "11"
+  },
+  "Alucard-fk2217nbf7": {
+    "key": "Alucard-fk2217nbf7",
+    "hero": "Alucard",
+    "skin_name": "Star",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20star%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164439",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
+    "sort": "11"
   }
 }
