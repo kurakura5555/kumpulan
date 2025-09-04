@@ -2168,5 +2168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
     "sort": "8"
+  },
+  "Benedetta-dhnylu9s0a": {
+    "key": "Benedetta-dhnylu9s0a",
+    "hero": "Benedetta",
+    "skin_name": "Ducati",
+    "skin_name2": "Convenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20ducati%20to%20convenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
+    "sort": "6"
   }
 }
