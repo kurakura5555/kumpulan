@@ -1928,5 +1928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
     "sort": "4"
+  },
+  "Barats-vdmrshdf62": {
+    "key": "Barats-vdmrshdf62",
+    "hero": "Barats",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/barats%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170307",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052820",
+    "sort": "2"
   }
 }
