@@ -2218,5 +2218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170256",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
     "sort": "5"
+  },
+  "Benedetta-9qzyag58y0": {
+    "key": "Benedetta-9qzyag58y0",
+    "hero": "Benedetta",
+    "skin_name": "Special",
+    "skin_name2": "Convenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20special%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170256",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
+    "sort": "5"
   }
 }
