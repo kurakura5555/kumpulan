@@ -1218,5 +1218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
     "sort": "3"
+  },
+  "Angela-0sxkp4yf1y": {
+    "key": "Angela-0sxkp4yf1y",
+    "hero": "Angela",
+    "skin_name": "Star",
+    "skin_name2": "Kishin Densetsu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20star%20to%20kishin%20densetsu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144304",
+    "sort": "3"
   }
 }
