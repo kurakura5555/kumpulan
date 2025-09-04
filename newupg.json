@@ -2058,5 +2058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165734",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123907",
     "sort": "4"
+  },
+  "Balerick-0uyrwi2tqx": {
+    "key": "Balerick-0uyrwi2tqx",
+    "hero": "Balerick",
+    "skin_name": "Special",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/belerick%20special2%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165735",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123907",
+    "sort": "5"
   }
 }
