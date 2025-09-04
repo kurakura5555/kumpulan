@@ -498,5 +498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164918",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero288-portrait.png/revision/latest/scale-to-width-down/150?cb=20240503043857",
     "sort": "2"
+  },
+  "Alpha-e0uplsxlol": {
+    "key": "Alpha-e0uplsxlol",
+    "hero": "Alpha",
+    "skin_name": "Luckybox",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20luckybox%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164918",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
+    "sort": "2"
   }
 }
