@@ -408,5 +408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164918",
     "sort": "6"
+  },
+  "Alpha-f7r0qa5xdu": {
+    "key": "Alpha-f7r0qa5xdu",
+    "hero": "Alpha",
+    "skin_name": "Abyss",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20abyss%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
+    "sort": "6"
   }
 }
