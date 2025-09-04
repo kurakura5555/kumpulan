@@ -1818,5 +1818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
     "sort": "4"
+  },
+  "Balmond-r5a3pjka7i": {
+    "key": "Balmond-r5a3pjka7i",
+    "hero": "Balmond",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20elite2%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164316",
+    "sort": "4"
   }
 }
