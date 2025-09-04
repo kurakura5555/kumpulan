@@ -1348,5 +1348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
     "sort": "2"
+  },
+  "Argus-pgsncxdixi": {
+    "key": "Argus-pgsncxdixi",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
+    "sort": "2"
   }
 }
