@@ -998,5 +998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165431",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "sort": "2"
+  },
+  "Angela-ewm6bwun0s": {
+    "key": "Angela-ewm6bwun0s",
+    "hero": "Angela",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165431",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "2"
   }
 }
