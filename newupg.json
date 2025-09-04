@@ -448,5 +448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164920",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123855",
     "sort": "3"
+  },
+  "Alpha-tlxiuf5e8h": {
+    "key": "Alpha-tlxiuf5e8h",
+    "hero": "Alpha",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164920",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043831",
+    "sort": "3"
   }
 }
