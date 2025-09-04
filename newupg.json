@@ -1938,5 +1938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170307",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052820",
     "sort": "2"
+  },
+  "Beatrix-eb48qwwws5": {
+    "key": "Beatrix-eb48qwwws5",
+    "hero": "Beatrix",
+    "skin_name": "Basic",
+    "skin_name2": "M4",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20basic%20to%20m4.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "sort": "2"
   }
 }
