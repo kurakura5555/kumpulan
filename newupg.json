@@ -1078,5 +1078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165434",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "sort": "5"
+  },
+  "Angela-aywf6eckvz": {
+    "key": "Angela-aywf6eckvz",
+    "hero": "Angela",
+    "skin_name": "Halloween",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20halloween%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165434",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "5"
   }
 }
