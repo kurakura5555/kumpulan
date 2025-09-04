@@ -1648,5 +1648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165821",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
     "sort": "5"
+  },
+  "Badang-jxiczj4656": {
+    "key": "Badang-jxiczj4656",
+    "hero": "Badang",
+    "skin_name": "Collector",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/badang%20collector%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165821",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
+    "sort": "5"
   }
 }
