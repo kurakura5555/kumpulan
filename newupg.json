@@ -2118,5 +2118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170256",
     "sort": "2"
+  },
+  "Benedetta-pow69c6jpk": {
+    "key": "Benedetta-pow69c6jpk",
+    "hero": "Benedetta",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
+    "sort": "2"
   }
 }
