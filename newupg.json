@@ -248,5 +248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165620",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
     "sort": "3"
+  },
+  "Aldous-vgedy2tqn7": {
+    "key": "Aldous-vgedy2tqn7",
+    "hero": "Aldous",
+    "skin_name": "Elite",
+    "skin_name2": "Mistbenders",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20elite%20to%20mistbenders.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
+    "sort": "3"
   }
 }
