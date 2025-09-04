@@ -628,5 +628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
     "sort": "2"
+  },
+  "Alucard-1z44cwm64c": {
+    "key": "Alucard-1z44cwm64c",
+    "hero": "Alucard",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20basic%20to%20special%20s.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045033",
+    "sort": "2"
   }
 }
