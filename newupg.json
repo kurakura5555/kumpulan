@@ -1198,5 +1198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125211",
     "sort": "3"
+  },
+  "Angela-2xedgh3pje": {
+    "key": "Angela-2xedgh3pje",
+    "hero": "Angela",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20star%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
+    "sort": "3"
   }
 }
