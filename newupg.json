@@ -638,5 +638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045033",
     "sort": "2"
+  },
+  "Alucard-r8bi2r87sp": {
+    "key": "Alucard-r8bi2r87sp",
+    "hero": "Alucard",
+    "skin_name": "Basic",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20basic%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
+    "sort": "2"
   }
 }
