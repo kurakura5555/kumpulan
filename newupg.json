@@ -1508,5 +1508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103724",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212110806",
     "sort": "7"
+  },
+  "Aurora-1ysqpp5pzh": {
+    "key": "Aurora-1ysqpp5pzh",
+    "hero": "Aurora",
+    "skin_name": "Kof",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aurora%20kof%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212112500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest/scale-to-width-down/150?cb=20240212110806",
+    "sort": "6"
   }
 }
