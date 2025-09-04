@@ -2068,5 +2068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165735",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123907",
     "sort": "5"
+  },
+  "Benedetta-jkrdfubr": {
+    "key": "Benedetta-jkrdfubr",
+    "hero": "Benedetta",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
+    "sort": "2"
   }
 }
