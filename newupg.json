@@ -1308,5 +1308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134616",
     "sort": "4"
+  },
+  "Angela-zf18pig1vp": {
+    "key": "Angela-zf18pig1vp",
+    "hero": "Angela",
+    "skin_name": "Venom",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/angela%20venom%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165433",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "4"
   }
 }
