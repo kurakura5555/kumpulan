@@ -2468,5 +2468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero922-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170210",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero925-portrait.png/revision/latest/scale-to-width-down/150?cb=20240717044414",
     "sort": "2"
+  },
+  "Cecilion-b5b5wdrvn4": {
+    "key": "Cecilion-b5b5wdrvn4",
+    "hero": "Cecilion",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170158",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
+    "sort": "2"
   }
 }
