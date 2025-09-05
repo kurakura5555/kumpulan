@@ -3378,5 +3378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
     "sort": "8"
+  },
+  "Bruno-yp5mplxjib": {
+    "key": "Bruno-yp5mplxjib",
+    "hero": "Bruno",
+    "skin_name": "Neymar Jr",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/bruno%20neymar%20jr%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134235",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "sort": "9"
   }
 }
