@@ -3848,5 +3848,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
     "sort": "2"
+  },
+  "Clint-37bsgjku2z": {
+    "key": "Clint-37bsgjku2z",
+    "hero": "Clint",
+    "skin_name": "Valentine",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20valentine%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "3"
   }
 }
