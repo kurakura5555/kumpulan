@@ -2548,5 +2548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170202",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
     "sort": "5"
+  },
+  "Cecilion-zstarsb6ql": {
+    "key": "Cecilion-zstarsb6ql",
+    "hero": "Cecilion",
+    "skin_name": "Star",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20star%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170202",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero917-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073219",
+    "sort": "5"
   }
 }
