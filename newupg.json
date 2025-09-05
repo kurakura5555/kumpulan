@@ -3438,5 +3438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314064605",
     "sort": "2"
+  },
+  "Claude-p2xx6kohdw": {
+    "key": "Claude-p2xx6kohdw",
+    "hero": "Claude",
+    "skin_name": "Basic",
+    "skin_name2": "M6",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20basic%20to%20m6.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
+    "sort": "2"
   }
 }
