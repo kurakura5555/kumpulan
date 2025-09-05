@@ -3718,5 +3718,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK9U_6B0ELKEzy2wxq-JWYVKyuGxHKeC_CIJaLNxv6rVOVEQnj1eaU1g&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
     "sort": "5"
+  },
+  "Claude-umfbkk7o77": {
+    "key": "Claude-umfbkk7o77",
+    "hero": "Claude",
+    "skin_name": "Valentine",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20valentine%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
+    "sort": "10"
   }
 }
