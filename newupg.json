@@ -2938,5 +2938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
     "sort": "4"
+  },
+  "Chou-2jec3cr70q": {
+    "key": "Chou-2jec3cr70q",
+    "hero": "Chou",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20elite%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
+    "sort": "4"
   }
 }
