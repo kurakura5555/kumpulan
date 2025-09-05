@@ -3748,5 +3748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
     "sort": "6"
+  },
+  "Clint-95nfx2shu2": {
+    "key": "Clint-95nfx2shu2",
+    "hero": "Clint",
+    "skin_name": "Season",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20season%20to%20mythic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero101312-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073228",
+    "sort": "6"
   }
 }
