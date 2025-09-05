@@ -3398,5 +3398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164549",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
     "sort": "3"
+  },
+  "Bruno-3zkkt29p4y": {
+    "key": "Bruno-3zkkt29p4y",
+    "hero": "Bruno",
+    "skin_name": "Special",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/bruno%20special2%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "sort": "5"
   }
 }
