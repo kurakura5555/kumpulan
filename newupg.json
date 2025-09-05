@@ -2648,5 +2648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135007",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
     "sort": "3"
+  },
+  "Chang-e-27sf52yv0l": {
+    "key": "Chang-e-27sf52yv0l",
+    "hero": "Chang e",
+    "skin_name": "Elite",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20elite%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135007",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103139",
+    "sort": "3"
   }
 }
