@@ -3778,5 +3778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
     "sort": "5"
+  },
+  "Clint-i0896w9t53": {
+    "key": "Clint-i0896w9t53",
+    "hero": "Clint",
+    "skin_name": "Special",
+    "skin_name2": "M2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20special%20to%20m2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
+    "sort": "5"
   }
 }
