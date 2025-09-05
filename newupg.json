@@ -3788,5 +3788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
     "sort": "5"
+  },
+  "Clint-s4nytxl9hv": {
+    "key": "Clint-s4nytxl9hv",
+    "hero": "Clint",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164558",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "4"
   }
 }
