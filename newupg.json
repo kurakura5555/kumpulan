@@ -2588,5 +2588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170201",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170202",
     "sort": "4"
+  },
+  "Chang-e-m07ngydxpj": {
+    "key": "Chang-e-m07ngydxpj",
+    "hero": "Chang e",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20basic%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
+    "sort": "2"
   }
 }
