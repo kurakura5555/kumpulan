@@ -3738,5 +3738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "6"
+  },
+  "Clint-vsgiga09xx": {
+    "key": "Clint-vsgiga09xx",
+    "hero": "Clint",
+    "skin_name": "Season",
+    "skin_name2": "M2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20season%20to%20m2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
+    "sort": "6"
   }
 }
