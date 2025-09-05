@@ -3408,5 +3408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
     "sort": "5"
+  },
+  "Cici-726fherpds": {
+    "key": "Cici-726fherpds",
+    "hero": "Cici",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cici%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227083250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154349",
+    "sort": "2"
   }
 }
