@@ -3698,5 +3698,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK9U_6B0ELKEzy2wxq-JWYVKyuGxHKeC_CIJaLNxv6rVOVEQnj1eaU1g&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
     "sort": "5"
+  },
+  "Claude-fdvpgyl4e8": {
+    "key": "Claude-fdvpgyl4e8",
+    "hero": "Claude",
+    "skin_name": "Summer",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20summer%20to%20sanrio.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK9U_6B0ELKEzy2wxq-JWYVKyuGxHKeC_CIJaLNxv6rVOVEQnj1eaU1g&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165642",
+    "sort": "5"
   }
 }
