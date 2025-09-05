@@ -2508,5 +2508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero917-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073219",
     "sort": "6"
+  },
+  "Cecilion-2dgl024t44": {
+    "key": "Cecilion-2dgl024t44",
+    "hero": "Cecilion",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170200",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
+    "sort": "3"
   }
 }
