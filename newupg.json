@@ -3188,5 +3188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
     "sort": "5"
+  },
+  "Chou-jtvqw3o89z": {
+    "key": "Chou-jtvqw3o89z",
+    "hero": "Chou",
+    "skin_name": "Special",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20special%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
+    "sort": "5"
   }
 }
