@@ -3288,5 +3288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
     "sort": "9"
+  },
+  "Chou-6hhkb07tmf": {
+    "key": "Chou-6hhkb07tmf",
+    "hero": "Chou",
+    "skin_name": "Stun",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20stun%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
+    "sort": "9"
   }
 }
