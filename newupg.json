@@ -3468,5 +3468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165642",
     "sort": "2"
+  },
+  "Claude-l9or4k5ooh": {
+    "key": "Claude-l9or4k5ooh",
+    "hero": "Claude",
+    "skin_name": "Basic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20basic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
+    "sort": "2"
   }
 }
