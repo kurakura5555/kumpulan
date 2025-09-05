@@ -3068,5 +3068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164851",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
     "sort": "3"
+  },
+  "Chou-qlmetpucb4": {
+    "key": "Chou-qlmetpucb4",
+    "hero": "Chou",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20saint%20seiya%20dragon%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "sort": "3"
   }
 }
