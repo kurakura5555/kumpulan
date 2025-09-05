@@ -2998,5 +2998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
     "sort": "4"
+  },
+  "Chou-v6pxdldt1d": {
+    "key": "Chou-v6pxdldt1d",
+    "hero": "Chou",
+    "skin_name": "Kof",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20kof%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "sort": "4"
   }
 }
