@@ -3838,5 +3838,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
     "sort": "2"
+  },
+  "Clint-rukr5erwrm": {
+    "key": "Clint-rukr5erwrm",
+    "hero": "Clint",
+    "skin_name": "Summer",
+    "skin_name2": "M2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20summer%20to%20m2.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
+    "sort": "2"
   }
 }
