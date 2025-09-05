@@ -3358,5 +3358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
     "sort": "4"
+  },
+  "Bruno-e7d7erzkl6": {
+    "key": "Bruno-e7d7erzkl6",
+    "hero": "Bruno",
+    "skin_name": "Elite",
+    "skin_name2": "Halo Striker",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/bruno%20elite2%20to%20halo%20striker.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
+    "sort": "4"
   }
 }
