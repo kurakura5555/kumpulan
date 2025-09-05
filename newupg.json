@@ -3508,5 +3508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero658-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132640",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
     "sort": "8"
+  },
+  "Claude-r34qquv1qa": {
+    "key": "Claude-r34qquv1qa",
+    "hero": "Claude",
+    "skin_name": "Christmas",
+    "skin_name2": "M6",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20christmas%20to%20m6.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
+    "sort": "6"
   }
 }
