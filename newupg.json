@@ -3668,5 +3668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
     "sort": "3"
+  },
+  "Claude-zp5o4tzpmg": {
+    "key": "Claude-zp5o4tzpmg",
+    "hero": "Claude",
+    "skin_name": "Summer",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20summer%20to%20luckybox.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK9U_6B0ELKEzy2wxq-JWYVKyuGxHKeC_CIJaLNxv6rVOVEQnj1eaU1g&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314064605",
+    "sort": "5"
   }
 }
