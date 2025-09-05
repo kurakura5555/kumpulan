@@ -2718,5 +2718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103139",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
     "sort": "9"
+  },
+  "Chang-e-1ue9c00csr": {
+    "key": "Chang-e-1ue9c00csr",
+    "hero": "Chang e",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20lunar%20fest%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103139",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
+    "sort": "9"
   }
 }
