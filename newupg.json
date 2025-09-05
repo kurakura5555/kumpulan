@@ -3518,5 +3518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
     "sort": "6"
+  },
+  "Claude-972atv269m": {
+    "key": "Claude-972atv269m",
+    "hero": "Claude",
+    "skin_name": "Christmas",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20christmas%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
+    "sort": "6"
   }
 }
