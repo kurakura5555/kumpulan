@@ -3628,5 +3628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314064605",
     "sort": "3"
+  },
+  "Claude-1i6ubqmy9r": {
+    "key": "Claude-1i6ubqmy9r",
+    "hero": "Claude",
+    "skin_name": "Star",
+    "skin_name2": "M6",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20star%20to%20m6.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero106511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142701",
+    "sort": "3"
   }
 }
