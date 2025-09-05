@@ -3158,5 +3158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
     "sort": "5"
+  },
+  "Chou-j11pw01vhh": {
+    "key": "Chou-j11pw01vhh",
+    "hero": "Chou",
+    "skin_name": "Special",
+    "skin_name2": "Lickybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164851",
+    "sort": "5"
   }
 }
