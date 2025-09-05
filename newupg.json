@@ -3008,5 +3008,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
     "sort": "4"
+  },
+  "Chou-m2pjvrmwoj": {
+    "key": "Chou-m2pjvrmwoj",
+    "hero": "Chou",
+    "skin_name": "Kof",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20kof%20to%20saint%20seiya%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
+    "sort": "6"
   }
 }
