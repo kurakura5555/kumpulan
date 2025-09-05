@@ -2878,5 +2878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
     "sort": "12"
+  },
+  "Chou-6hzrj5k8cy": {
+    "key": "Chou-6hzrj5k8cy",
+    "hero": "Chou",
+    "skin_name": "Champion",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20champion%20to%20saint%20seiya%20libra.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
+    "sort": "12"
   }
 }
