@@ -2628,5 +2628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
     "sort": "2"
+  },
+  "Chang-e-63s2bo4zw4": {
+    "key": "Chang-e-63s2bo4zw4",
+    "hero": "Chang e",
+    "skin_name": "Aspirants",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20aspirants%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
+    "sort": "10"
   }
 }
