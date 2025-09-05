@@ -2898,5 +2898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
     "sort": "8"
+  },
+  "Chou-tsl2oy86lm": {
+    "key": "Chou-tsl2oy86lm",
+    "hero": "Chou",
+    "skin_name": "Dawning",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20dawning%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
+    "sort": "8"
   }
 }
