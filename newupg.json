@@ -2498,5 +2498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170158",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170202",
     "sort": "2"
+  },
+  "Cecilion-9uvxi8vpsk": {
+    "key": "Cecilion-9uvxi8vpsk",
+    "hero": "Cecilion",
+    "skin_name": "Collector",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20collector%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero917-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073219",
+    "sort": "2"
   }
 }
