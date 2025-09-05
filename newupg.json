@@ -3828,5 +3828,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "2"
+  },
+  "Clint-q4j3u1bcug": {
+    "key": "Clint-q4j3u1bcug",
+    "hero": "Clint",
+    "skin_name": "Summer",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20summer%20to%20epic.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
+    "sort": "2"
   }
 }
