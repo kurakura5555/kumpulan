@@ -3818,5 +3818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "8"
+  },
+  "Clint-7yimv5k0cu": {
+    "key": "Clint-7yimv5k0cu",
+    "hero": "Clint",
+    "skin_name": "Summer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20summer%20to%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiurypBtEupIeCMqHm85HUVcDHwNLw39E2DMmy8Yp_uq-dXlWRA_2nN6k&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "2"
   }
 }
