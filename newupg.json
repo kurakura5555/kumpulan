@@ -3028,5 +3028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
     "sort": "6"
+  },
+  "Chou-i2te20ptxd": {
+    "key": "Chou-i2te20ptxd",
+    "hero": "Chou",
+    "skin_name": "Luckybox",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20luckybox%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164851",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "sort": "3"
   }
 }
