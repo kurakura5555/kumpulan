@@ -3858,5 +3858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "3"
+  },
+  "Clint-d05j0u6hf2": {
+    "key": "Clint-d05j0u6hf2",
+    "hero": "Clint",
+    "skin_name": "Valentine",
+    "skin_name2": "M2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20valentine%20to%20m2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
+    "sort": "3"
   }
 }
