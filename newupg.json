@@ -3298,5 +3298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
     "sort": "9"
+  },
+  "Chou-5al4fercz6": {
+    "key": "Chou-5al4fercz6",
+    "hero": "Chou",
+    "skin_name": "Stun",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20stun%20to%20saint%20seiya%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
+    "sort": "9"
   }
 }
