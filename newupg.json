@@ -2958,5 +2958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
     "sort": "4"
+  },
+  "Chou-1vohth3lu9": {
+    "key": "Chou-1vohth3lu9",
+    "hero": "Chou",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164851",
+    "sort": "4"
   }
 }
