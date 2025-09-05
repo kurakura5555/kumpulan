@@ -2838,5 +2838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
     "sort": "2"
+  },
+  "Chou-wz61aft8ps": {
+    "key": "Chou-wz61aft8ps",
+    "hero": "Chou",
+    "skin_name": "Basic",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20basic%20to%20saint%20seiya%20libra.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
+    "sort": "2"
   }
 }
