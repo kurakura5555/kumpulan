@@ -3528,5 +3528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
     "sort": "6"
+  },
+  "Claude-euubz51qap": {
+    "key": "Claude-euubz51qap",
+    "hero": "Claude",
+    "skin_name": "Christmas",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20christmas%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165642",
+    "sort": "6"
   }
 }
