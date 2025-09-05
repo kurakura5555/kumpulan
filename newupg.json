@@ -2618,5 +2618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103139",
     "sort": "2"
+  },
+  "Chang-e-jiza46il74": {
+    "key": "Chang-e-jiza46il74",
+    "hero": "Chang e",
+    "skin_name": "Basic",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20basic%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
+    "sort": "2"
   }
 }
