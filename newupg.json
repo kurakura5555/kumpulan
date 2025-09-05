@@ -3348,5 +3348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164547",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
     "sort": "2"
+  },
+  "Bruno-jvxapkhbky": {
+    "key": "Bruno-jvxapkhbky",
+    "hero": "Bruno",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/bruno%20elite2%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "sort": "4"
   }
 }
