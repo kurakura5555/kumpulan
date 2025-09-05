@@ -2758,5 +2758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero614-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
     "sort": "4"
+  },
+  "Chang-e-yzp8vsovvo": {
+    "key": "Chang-e-yzp8vsovvo",
+    "hero": "Chang e",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20star%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165544",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
+    "sort": "6"
   }
 }
