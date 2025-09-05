@@ -3588,5 +3588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165640",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314064605",
     "sort": "7"
+  },
+  "Claude-n6v0gyjyhq": {
+    "key": "Claude-n6v0gyjyhq",
+    "hero": "Claude",
+    "skin_name": "Msc",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20msc%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165640",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
+    "sort": "7"
   }
 }
