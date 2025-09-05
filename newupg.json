@@ -2638,5 +2638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
     "sort": "10"
+  },
+  "Chang-e-nrvlo1ec0g": {
+    "key": "Chang-e-nrvlo1ec0g",
+    "hero": "Chang e",
+    "skin_name": "Elite",
+    "skin_name2": "Aspirats",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20elite%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135007",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130070359",
+    "sort": "3"
   }
 }
