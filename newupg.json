@@ -3428,5 +3428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero658-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132640",
     "sort": "2"
+  },
+  "Claude-azd9ciirn0": {
+    "key": "Claude-azd9ciirn0",
+    "hero": "Claude",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314064605",
+    "sort": "2"
   }
 }
