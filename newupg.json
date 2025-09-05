@@ -3658,5 +3658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165642",
     "sort": "3"
+  },
+  "Claude-7bbkfa6r5o": {
+    "key": "Claude-7bbkfa6r5o",
+    "hero": "Claude",
+    "skin_name": "Star",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20star%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035455",
+    "sort": "3"
   }
 }
