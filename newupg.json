@@ -2778,5 +2778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165544",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
     "sort": "6"
+  },
+  "Chou-mydeohcb0a": {
+    "key": "Chou-mydeohcb0a",
+    "hero": "Chou",
+    "skin_name": "Basic",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20basic%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "sort": "2"
   }
 }
