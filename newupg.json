@@ -3198,5 +3198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
     "sort": "5"
+  },
+  "Chou-qbw2sqf5el": {
+    "key": "Chou-qbw2sqf5el",
+    "hero": "Chou",
+    "skin_name": "Star",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20star%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164855",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
+    "sort": "7"
   }
 }
