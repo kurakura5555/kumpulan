@@ -2988,5 +2988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
     "sort": "4"
+  },
+  "Chou-epaobj6zwa": {
+    "key": "Chou-epaobj6zwa",
+    "hero": "Chou",
+    "skin_name": "Elite",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20elite%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
+    "sort": "4"
   }
 }
