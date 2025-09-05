@@ -3458,5 +3458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero106512-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142702",
     "sort": "2"
+  },
+  "Claude-edrk3plrci": {
+    "key": "Claude-edrk3plrci",
+    "hero": "Claude",
+    "skin_name": "Basic",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/claude%20basic%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165642",
+    "sort": "2"
   }
 }
