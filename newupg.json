@@ -2458,5 +2458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "3"
+  },
+  "Carmilla-0g7qgqo2ck": {
+    "key": "Carmilla-0g7qgqo2ck",
+    "hero": "Carmilla",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/carmilla%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero922-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170210",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero925-portrait.png/revision/latest/scale-to-width-down/150?cb=20240717044414",
+    "sort": "2"
   }
 }
