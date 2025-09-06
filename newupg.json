@@ -4948,5 +4948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
     "sort": "5"
+  },
+  "Fanny-r21yj1d45d": {
+    "key": "Fanny-r21yj1d45d",
+    "hero": "Fanny",
+    "skin_name": "Star",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20star%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
+    "sort": "5"
   }
 }
