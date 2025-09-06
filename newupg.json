@@ -4608,5 +4608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest/scale-to-width-down/150?cb=20230409114636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
     "sort": "3"
+  },
+  "Edith-ae2iweolvi": {
+    "key": "Edith-ae2iweolvi",
+    "hero": "Edith",
+    "skin_name": "Star",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20star%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest/scale-to-width-down/150?cb=20230409114636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1116-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163104",
+    "sort": "3"
   }
 }
