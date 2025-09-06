@@ -4798,5 +4798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "sort": "7"
+  },
+  "Fanny-jt70ofuahq": {
+    "key": "Fanny-jt70ofuahq",
+    "hero": "Fanny",
+    "skin_name": "Lightborn",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20lightborn%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
+    "sort": "7"
   }
 }
