@@ -5038,5 +5038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114134522",
     "sort": "2"
+  },
+  "Faramis-fpoe909h7w": {
+    "key": "Faramis-fpoe909h7w",
+    "hero": "Faramis",
+    "skin_name": "Basic",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/faramis%20basic%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125804",
+    "sort": "2"
   }
 }
