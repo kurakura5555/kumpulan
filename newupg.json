@@ -5088,5 +5088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170548",
     "sort": "6"
+  },
+  "Floryn-zcspsmuwxw": {
+    "key": "Floryn-zcspsmuwxw",
+    "hero": "Floryn",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
+    "sort": "4"
   }
 }
