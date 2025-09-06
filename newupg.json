@@ -5358,5 +5358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero413-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165156",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero414-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052810",
     "sort": "3"
+  },
+  "Gatotkaca-0kkrmk3pvj": {
+    "key": "Gatotkaca-0kkrmk3pvj",
+    "hero": "Gatotkaca",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gatotkaca%20elite2%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero415-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165158",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero414-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052810",
+    "sort": "5"
   }
 }
