@@ -4338,5 +4338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165042",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041009",
     "sort": "2"
+  },
+  "Estes-8vjjkvbigv": {
+    "key": "Estes-8vjjkvbigv",
+    "hero": "Estes",
+    "skin_name": "Basic",
+    "skin_name2": "Sparkle",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/estes%20basic%20to%20sparkle.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165042",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero349-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123130414",
+    "sort": "2"
   }
 }
