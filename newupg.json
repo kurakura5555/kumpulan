@@ -4688,5 +4688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
     "sort": "12"
+  },
+  "Fanny-ijfouvl8wg": {
+    "key": "Fanny-ijfouvl8wg",
+    "hero": "Fanny",
+    "skin_name": "Aspirants",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20aspirants%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
+    "sort": "10"
   }
 }
