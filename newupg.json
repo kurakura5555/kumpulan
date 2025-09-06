@@ -5048,5 +5048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125804",
     "sort": "2"
+  },
+  "Faramis-3wu9839230": {
+    "key": "Faramis-3wu9839230",
+    "hero": "Faramis",
+    "skin_name": "Elite",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/faramis%20elite%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero763-portrait.png/revision/latest/scale-to-width-down/150?cb=20220908164012",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125804",
+    "sort": "3"
   }
 }
