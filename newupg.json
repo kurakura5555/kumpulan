@@ -5118,5 +5118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170548",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
     "sort": "3"
+  },
+  "Floryn-q3istno6c6": {
+    "key": "Floryn-q3istno6c6",
+    "hero": "Floryn",
+    "skin_name": "Simmer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20summer%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619173600",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
+    "sort": "5"
   }
 }
