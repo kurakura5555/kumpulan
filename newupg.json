@@ -4178,5 +4178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170033",
     "sort": "5"
+  },
+  "Esmeralda-x3zaoqqthq": {
+    "key": "Esmeralda-x3zaoqqthq",
+    "hero": "Esmeralda",
+    "skin_name": "Basic",
+    "skin_name2": "Blazing",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/esmeralda%20basic%20to%20blazing.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132642",
+    "sort": "2"
   }
 }
