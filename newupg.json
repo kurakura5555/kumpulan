@@ -4558,5 +4558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
     "sort": "5"
+  },
+  "Edith-3sugmr6cck": {
+    "key": "Edith-3sugmr6cck",
+    "hero": "Edith",
+    "skin_name": "Collector",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20collector%20to%20clouds.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
+    "sort": "4"
   }
 }
