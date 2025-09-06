@@ -4538,5 +4538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1116-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163104",
     "sort": "2"
+  },
+  "Edith-vhn4ztreit": {
+    "key": "Edith-vhn4ztreit",
+    "hero": "Edith",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest/scale-to-width-down/150?cb=20230409114636",
+    "sort": "2"
   }
 }
