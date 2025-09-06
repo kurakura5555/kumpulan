@@ -4478,5 +4478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164634",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
     "sort": "5"
+  },
+  "Eudora-2f3w5hmgsw": {
+    "key": "Eudora-2f3w5hmgsw",
+    "hero": "Eudora",
+    "skin_name": "Season",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20season%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+    "sort": "6"
   }
 }
