@@ -3928,5 +3928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
     "sort": "8"
+  },
+  "Cyclops-giyuqrmd2b": {
+    "key": "Cyclops-giyuqrmd2b",
+    "hero": "Cyclops",
+    "skin_name": "Halloween",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20halloween%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165031",
+    "sort": "8"
   }
 }
