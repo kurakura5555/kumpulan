@@ -4528,5 +4528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
     "sort": "2"
+  },
+  "Edith-gqf9o4cx2l": {
+    "key": "Edith-gqf9o4cx2l",
+    "hero": "Edith",
+    "skin_name": "Basic",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20basic%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1116-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163104",
+    "sort": "2"
   }
 }
