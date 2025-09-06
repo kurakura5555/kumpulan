@@ -5058,5 +5058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero763-portrait.png/revision/latest/scale-to-width-down/150?cb=20220908164012",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125804",
     "sort": "3"
+  },
+  "Floryn-4ekyq0owlf": {
+    "key": "Floryn-4ekyq0owlf",
+    "hero": "Floryn",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
+    "sort": "2"
   }
 }
