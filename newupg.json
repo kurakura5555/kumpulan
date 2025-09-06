@@ -4888,5 +4888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
     "sort": "3"
+  },
+  "Fanny-exffr1ljkm": {
+    "key": "Fanny-exffr1ljkm",
+    "hero": "Fanny",
+    "skin_name": "Season",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20season%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
+    "sort": "3"
   }
 }
