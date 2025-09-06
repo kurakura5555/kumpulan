@@ -5138,5 +5138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619173600",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170548",
     "sort": "5"
+  },
+  "Franco-m9kgqqiuj7": {
+    "key": "Franco-m9kgqqiuj7",
+    "hero": "Franco",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/franco%20basic%20s%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero108-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164529",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103123",
+    "sort": "8"
   }
 }
