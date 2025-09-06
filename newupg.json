@@ -3868,5 +3868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
     "sort": "3"
+  },
+  "Cyclops-lvcbtmnqez": {
+    "key": "Cyclops-lvcbtmnqez",
+    "hero": "Cyclops",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165023",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
+    "sort": "2"
   }
 }
