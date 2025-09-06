@@ -4298,5 +4298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165936",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165939",
     "sort": "5"
+  },
+  "Esmeralda-wsa8f9g24j": {
+    "key": "Esmeralda-wsa8f9g24j",
+    "hero": "Esmeralda",
+    "skin_name": "Star",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/esmeralda%20star%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165938",
+    "sort": "5"
   }
 }
