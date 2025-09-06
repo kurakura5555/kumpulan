@@ -4278,5 +4278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165939",
     "sort": "3"
+  },
+  "Esmeralda-1qrtu2o0cu": {
+    "key": "Esmeralda-1qrtu2o0cu",
+    "hero": "Esmeralda",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/esmeralda%20elite%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165938",
+    "sort": "3"
   }
 }
