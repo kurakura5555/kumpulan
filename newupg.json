@@ -4988,5 +4988,15 @@
     "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "sort": "6"
+  },
+  "Fanny-hyeucgwelr": {
+    "key": "Fanny-hyeucgwelr",
+    "hero": "Fanny",
+    "skin_name": "Summer",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20summer%20to%20lightborn.zip",
+    "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
+    "sort": "6"
   }
 }
