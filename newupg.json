@@ -4838,5 +4838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
     "sort": "4"
+  },
+  "Fanny-z76nbx6b79": {
+    "key": "Fanny-z76nbx6b79",
+    "hero": "Fanny",
+    "skin_name": "Season",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20season%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
+    "sort": "3"
   }
 }
