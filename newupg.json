@@ -5028,5 +5028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
     "sort": "11"
+  },
+  "Faramis-ow3dwbdyyf": {
+    "key": "Faramis-ow3dwbdyyf",
+    "hero": "Faramis",
+    "skin_name": "Basic",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/faramis%20basic%20to%20mythic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114134522",
+    "sort": "2"
   }
 }
