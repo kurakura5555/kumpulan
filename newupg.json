@@ -4408,5 +4408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123130839",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
     "sort": "8"
+  },
+  "Eudora-g36gjedznh": {
+    "key": "Eudora-g36gjedznh",
+    "hero": "Eudora",
+    "skin_name": "Basic",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20basic%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164631",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+    "sort": "2"
   }
 }
