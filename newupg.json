@@ -4598,5 +4598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest/scale-to-width-down/150?cb=20230409114636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
     "sort": "3"
+  },
+  "Edith-f98579se6s": {
+    "key": "Edith-f98579se6s",
+    "hero": "Edith",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest/scale-to-width-down/150?cb=20230409114636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
+    "sort": "3"
   }
 }
