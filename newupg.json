@@ -5318,5 +5318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043932",
     "sort": "5"
+  },
+  "Gatotkaca-1h5wbvtwfl": {
+    "key": "Gatotkaca-1h5wbvtwfl",
+    "hero": "Gatotkaca",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gatotkaca%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero412-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165155",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero417-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114121812",
+    "sort": "2"
   }
 }
