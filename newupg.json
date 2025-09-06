@@ -3878,5 +3878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165023",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
     "sort": "2"
+  },
+  "Cyclops-s9nf8x6iy7": {
+    "key": "Cyclops-s9nf8x6iy7",
+    "hero": "Cyclops",
+    "skin_name": "Basic",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20basic%20to%20star%20wars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165023",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165031",
+    "sort": "2"
   }
 }
