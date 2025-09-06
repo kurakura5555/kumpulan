@@ -5068,5 +5068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154338",
     "sort": "2"
+  },
+  "Floryn-t3pk4ogu77": {
+    "key": "Floryn-t3pk4ogu77",
+    "hero": "Floryn",
+    "skin_name": "Basic",
+    "skin_name2": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20basic%20to%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170548",
+    "sort": "2"
   }
 }
