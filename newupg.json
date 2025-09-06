@@ -5288,5 +5288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220807093441",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
     "sort": "2"
+  },
+  "Fredrin-al7h5l72ar": {
+    "key": "Fredrin-al7h5l72ar",
+    "hero": "Fredrin",
+    "skin_name": "Elite",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fredrinn%20elite%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1173-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103153",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043932",
+    "sort": "3"
   }
 }
