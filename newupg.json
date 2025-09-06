@@ -5398,5 +5398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122155",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053627",
     "sort": "2"
+  },
+  "Gord-gnv7k1oymv": {
+    "key": "Gord-gnv7k1oymv",
+    "hero": "Gord",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero232-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164819",
+    "sort": "2"
   }
 }
