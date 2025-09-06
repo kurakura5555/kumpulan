@@ -4398,5 +4398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165045",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
     "sort": "5"
+  },
+  "Estes-oidm44voiw": {
+    "key": "Estes-oidm44voiw",
+    "hero": "Estes",
+    "skin_name": "Special",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/estes%20special2%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123130839",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
+    "sort": "8"
   }
 }
