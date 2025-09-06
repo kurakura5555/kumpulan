@@ -4378,5 +4378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero344-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
     "sort": "4"
+  },
+  "Estes-a9zgt25a8i": {
+    "key": "Estes-a9zgt25a8i",
+    "hero": "Estes",
+    "skin_name": "Sparkle",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/estes%20sparkle%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero349-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123130414",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
+    "sort": "9"
   }
 }
