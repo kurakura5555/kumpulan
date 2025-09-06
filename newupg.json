@@ -4318,5 +4318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165935",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165939",
     "sort": "4"
+  },
+  "Estes-xfbtel8zx0": {
+    "key": "Estes-xfbtel8zx0",
+    "hero": "Estes",
+    "skin_name": "Basic",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/estes%20basic%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165042",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
+    "sort": "2"
   }
 }
