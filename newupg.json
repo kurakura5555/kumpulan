@@ -5388,5 +5388,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest/scale-to-width-down/150?cb=20240811092808",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero414-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052810",
     "sort": "7"
+  },
+  "Gloo-sbca6vckoc": {
+    "key": "Gloo-sbca6vckoc",
+    "hero": "Gloo",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gloo%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122155",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053627",
+    "sort": "2"
   }
 }
