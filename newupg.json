@@ -5018,5 +5018,15 @@
     "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
     "sort": "6"
+  },
+  "Fanny-4rxmxzikmg": {
+    "key": "Fanny-4rxmxzikmg",
+    "hero": "Fanny",
+    "skin_name": "Valentine",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20valentine%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
+    "sort": "11"
   }
 }
