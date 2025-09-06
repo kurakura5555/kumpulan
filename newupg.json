@@ -4358,5 +4358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165046",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
     "sort": "6"
+  },
+  "Estes-4rr71yfu26": {
+    "key": "Estes-4rr71yfu26",
+    "hero": "Estes",
+    "skin_name": "Luckybox",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/estes%20luckybox%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041009",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115327",
+    "sort": "3"
   }
 }
