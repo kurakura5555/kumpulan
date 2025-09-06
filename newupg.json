@@ -4768,5 +4768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
     "sort": "2"
+  },
+  "Fanny-4b20497o01": {
+    "key": "Fanny-4b20497o01",
+    "hero": "Fanny",
+    "skin_name": "Elite",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20elite%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
+    "sort": "2"
   }
 }
