@@ -4248,5 +4248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132642",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165938",
     "sort": "6"
+  },
+  "Esmeralda-haai92odzk": {
+    "key": "Esmeralda-haai92odzk",
+    "hero": "Esmeralda",
+    "skin_name": "Collector",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/esmeralda%20collector%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165939",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165938",
+    "sort": "6"
   }
 }
