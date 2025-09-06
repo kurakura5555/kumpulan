@@ -4508,5 +4508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest/scale-to-width-down/150?cb=20220724063929",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
     "sort": "7"
+  },
+  "Edith-8ap7usir2s": {
+    "key": "Edith-8ap7usir2s",
+    "hero": "Edith",
+    "skin_name": "Basic",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20basic%20to%20clouds.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
+    "sort": "2"
   }
 }
