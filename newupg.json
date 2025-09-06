@@ -4568,5 +4568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest/scale-to-width-down/150?cb=20240405034912",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
     "sort": "4"
+  },
+  "Edith-i4xzau2i81": {
+    "key": "Edith-i4xzau2i81",
+    "hero": "Edith",
+    "skin_name": "Mpl",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/edith%20mpl%20to%20clouds.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1116-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163104",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043923",
+    "sort": "6"
   }
 }
