@@ -5198,5 +5198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164527",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103123",
     "sort": "6"
+  },
+  "Franco-a63s2boamx": {
+    "key": "Franco-a63s2boamx",
+    "hero": "Franco",
+    "skin_name": "Mpl",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/franco%20mpl%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240811041412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103123",
+    "sort": "10"
   }
 }
