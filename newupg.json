@@ -5308,5 +5308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1173-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103153",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
     "sort": "3"
+  },
+  "Fredrin-djh00sitgj": {
+    "key": "Fredrin-djh00sitgj",
+    "hero": "Fredrin",
+    "skin_name": "Sparkle",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fredrinn%20sparkle%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043932",
+    "sort": "5"
   }
 }
