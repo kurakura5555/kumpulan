@@ -4208,5 +4208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165933",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165938",
     "sort": "2"
+  },
+  "Esmeralda-vbblmksdo7": {
+    "key": "Esmeralda-vbblmksdo7",
+    "hero": "Esmeralda",
+    "skin_name": "As",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/esmeralda%20as%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero819-portrait.png/revision/latest/scale-to-width-down/150?cb=20240329064826",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165939",
+    "sort": "9"
   }
 }
