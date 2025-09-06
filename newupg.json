@@ -3898,5 +3898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165031",
     "sort": "9"
+  },
+  "Cyclops-yk8639d1zc": {
+    "key": "Cyclops-yk8639d1zc",
+    "hero": "Cyclops",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165024",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
+    "sort": "3"
   }
 }
