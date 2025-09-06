@@ -5428,5 +5428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero232-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
     "sort": "2"
+  },
+  "Gord-utmtzkl899": {
+    "key": "Gord-utmtzkl899",
+    "hero": "Gord",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero232-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero238-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101440",
+    "sort": "2"
   }
 }
