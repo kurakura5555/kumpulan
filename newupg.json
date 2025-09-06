@@ -5228,5 +5228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164525",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164527",
     "sort": "4"
+  },
+  "Franco-0k81aw3xr3": {
+    "key": "Franco-0k81aw3xr3",
+    "hero": "Franco",
+    "skin_name": "Special",
+    "skin_name2": "Blazing",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/franco%20special%20to%20blazing.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052806",
+    "sort": "2"
   }
 }
