@@ -4748,5 +4748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "sort": "2"
+  },
+  "Fanny-9hmlrkzk8f": {
+    "key": "Fanny-9hmlrkzk8f",
+    "hero": "Fanny",
+    "skin_name": "Elite",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20elite%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
+    "sort": "2"
   }
 }
