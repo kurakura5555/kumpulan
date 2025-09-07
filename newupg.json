@@ -6638,5 +6638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
     "sort": "8"
+  },
+  "Gusion-9b5e5q5hle": {
+    "key": "Gusion-9b5e5q5hle",
+    "hero": "Gusion",
+    "skin_name": "Legend",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20legend%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
+    "sort": "8"
   }
 }
