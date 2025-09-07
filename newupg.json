@@ -5958,5 +5958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
     "sort": "4"
+  },
+  "Granger-fk0m098l1o": {
+    "key": "Granger-fk0m098l1o",
+    "hero": "Granger",
+    "skin_name": "Star",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20star%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
+    "sort": "4"
   }
 }
