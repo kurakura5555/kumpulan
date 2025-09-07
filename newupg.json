@@ -6548,5 +6548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
     "sort": "3"
+  },
+  "Gusion-5datgjx4j7": {
+    "key": "Gusion-5datgjx4j7",
+    "hero": "Gusion",
+    "skin_name": "Epic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20epic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
+    "sort": "10"
   }
 }
