@@ -6278,5 +6278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
     "sort": "5"
+  },
+  "Guinevere-ku3cp7b9pw": {
+    "key": "Guinevere-ku3cp7b9pw",
+    "hero": "Guinevere",
+    "skin_name": "Special",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20special%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165927",
+    "sort": "5"
   }
 }
