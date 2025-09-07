@@ -5898,5 +5898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
     "sort": "5"
+  },
+  "Granger-nbper7cfbo": {
+    "key": "Granger-nbper7cfbo",
+    "hero": "Granger",
+    "skin_name": "Lightborn",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20lightborn%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
+    "sort": "5"
   }
 }
