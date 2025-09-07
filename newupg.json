@@ -6758,5 +6758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
     "sort": "5"
+  },
+  "Gusion-wt9onz87q9": {
+    "key": "Gusion-wt9onz87q9",
+    "hero": "Gusion",
+    "skin_name": "Valentine",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20valentine%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
+    "sort": "5"
   }
 }
