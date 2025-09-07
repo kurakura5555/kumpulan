@@ -6338,5 +6338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
     "img2": "https://pbs.twimg.com/media/G0FfqPBb0AA6hhc?format=jpg&name=small",
     "sort": "4"
+  },
+  "Guinevere-1cpuu8dfyo": {
+    "key": "Guinevere-1cpuu8dfyo",
+    "hero": "Guinevere",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165927",
+    "sort": "4"
   }
 }
