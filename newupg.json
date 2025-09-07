@@ -6568,5 +6568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
     "sort": "10"
+  },
+  "Gusion-oygjy51elz": {
+    "key": "Gusion-oygjy51elz",
+    "hero": "Gusion",
+    "skin_name": "Epic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20epic%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
+    "sort": "10"
   }
 }
