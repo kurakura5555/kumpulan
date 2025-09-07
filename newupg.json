@@ -5618,5 +5618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
     "sort": "2"
+  },
+  "Granger-xxe6318wmb": {
+    "key": "Granger-xxe6318wmb",
+    "hero": "Granger",
+    "skin_name": "Basic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20basic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest/scale-to-width-down/150?cb=20240201102949",
+    "sort": "2"
   }
 }
