@@ -5988,5 +5988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "sort": "4"
+  },
+  "Granger-ih1rxdxu4d": {
+    "key": "Granger-ih1rxdxu4d",
+    "hero": "Granger",
+    "skin_name": "Star",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20star%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
+    "sort": "4"
   }
 }
