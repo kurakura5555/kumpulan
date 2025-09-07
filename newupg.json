@@ -6818,5 +6818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165448",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
     "sort": "6"
+  },
+  "Joy-6hj34nyrdb": {
+    "key": "Joy-6hj34nyrdb",
+    "hero": "Joy",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/joy%20basic%20to%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
+    "sort": "2"
   }
 }
