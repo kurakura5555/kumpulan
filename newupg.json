@@ -5548,5 +5548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164820",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero238-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101440",
     "sort": "6"
+  },
+  "Granger-g6n6o03q4o": {
+    "key": "Granger-g6n6o03q4o",
+    "hero": "Granger",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160648",
+    "sort": "2"
   }
 }
