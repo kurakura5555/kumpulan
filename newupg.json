@@ -6518,5 +6518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
     "sort": "3"
+  },
+  "Gusion-1wvy9wtyg2": {
+    "key": "Gusion-1wvy9wtyg2",
+    "hero": "Gusion",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
+    "sort": "3"
   }
 }
