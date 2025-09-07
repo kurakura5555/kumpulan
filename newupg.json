@@ -5738,5 +5738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
     "sort": "3"
+  },
+  "Granger-szgfmady1k": {
+    "key": "Granger-szgfmady1k",
+    "hero": "Granger",
+    "skin_name": "Elite",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20elite%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
+    "sort": "3"
   }
 }
