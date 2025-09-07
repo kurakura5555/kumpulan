@@ -5918,5 +5918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
     "sort": "5"
+  },
+  "Granger-4857ze05c3": {
+    "key": "Granger-4857ze05c3",
+    "hero": "Granger",
+    "skin_name": "Lightborn",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20lightborn%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
+    "sort": "5"
   }
 }
