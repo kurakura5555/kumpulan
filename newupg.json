@@ -5878,5 +5878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
     "sort": "8"
+  },
+  "Granger-q91bt1fizt": {
+    "key": "Granger-q91bt1fizt",
+    "hero": "Granger",
+    "skin_name": "Lightborn",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20lightborn%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160648",
+    "sort": "5"
   }
 }
