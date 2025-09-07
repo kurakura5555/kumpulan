@@ -6078,5 +6078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest/scale-to-width-down/150?cb=20240201102949",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
     "sort": "11"
+  },
+  "Grock-ytgnocctxy": {
+    "key": "Grock-ytgnocctxy",
+    "hero": "Grock",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero442-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165220",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
+    "sort": "2"
   }
 }
