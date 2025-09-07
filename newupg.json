@@ -6128,5 +6128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero445-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
     "sort": "5"
+  },
+  "Guinevere-rwao7ln1hv": {
+    "key": "Guinevere-rwao7ln1hv",
+    "hero": "Guinevere",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20basic%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
+    "img2": "https://pbs.twimg.com/media/G0FfqPBb0AA6hhc?format=jpg&name=small",
+    "sort": "2"
   }
 }
