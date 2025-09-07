@@ -5888,5 +5888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160648",
     "sort": "5"
+  },
+  "Granger-pcaqsxg6pe": {
+    "key": "Granger-pcaqsxg6pe",
+    "hero": "Granger",
+    "skin_name": "Lightborn",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20lightborn%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
+    "sort": "5"
   }
 }
