@@ -6728,5 +6728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
     "sort": "12"
+  },
+  "Gusion-2gwkg530ld": {
+    "key": "Gusion-2gwkg530ld",
+    "hero": "Gusion",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20star2%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
+    "sort": "12"
   }
 }
