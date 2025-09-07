@@ -6468,5 +6468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
     "sort": "2"
+  },
+  "Gusion-17flojwnv6": {
+    "key": "Gusion-17flojwnv6",
+    "hero": "Gusion",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20basic%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
+    "sort": "2"
   }
 }
