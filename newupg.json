@@ -5558,5 +5558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160648",
     "sort": "2"
+  },
+  "Granger-h5i2fbil29": {
+    "key": "Granger-h5i2fbil29",
+    "hero": "Granger",
+    "skin_name": "Basic",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20basic%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
+    "sort": "2"
   }
 }
