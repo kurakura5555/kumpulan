@@ -6428,5 +6428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
     "sort": "2"
+  },
+  "Gusion-5klxhatewb": {
+    "key": "Gusion-5klxhatewb",
+    "hero": "Gusion",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
+    "sort": "2"
   }
 }
