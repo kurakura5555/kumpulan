@@ -6148,5 +6148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
     "sort": "2"
+  },
+  "Guinevere-58drokisno": {
+    "key": "Guinevere-58drokisno",
+    "hero": "Guinevere",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165927",
+    "sort": "2"
   }
 }
