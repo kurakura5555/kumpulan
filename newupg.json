@@ -5978,5 +5978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
     "sort": "4"
+  },
+  "Granger-ckgdjru83x": {
+    "key": "Granger-ckgdjru83x",
+    "hero": "Granger",
+    "skin_name": "Star",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20star%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
+    "sort": "4"
   }
 }
