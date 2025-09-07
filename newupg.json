@@ -5698,5 +5698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
     "sort": "9"
+  },
+  "Granger-zvh3p2a5tv": {
+    "key": "Granger-zvh3p2a5tv",
+    "hero": "Granger",
+    "skin_name": "Create",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20create%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
+    "sort": "9"
   }
 }
