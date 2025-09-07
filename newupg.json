@@ -6038,5 +6038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
     "sort": "8"
+  },
+  "Granger-t9m9c939uy": {
+    "key": "Granger-t9m9c939uy",
+    "hero": "Granger",
+    "skin_name": "Transformers",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20transformers%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
+    "sort": "8"
   }
 }
