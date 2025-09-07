@@ -6528,5 +6528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
     "sort": "3"
+  },
+  "Gusion-hj9wpqz2xo": {
+    "key": "Gusion-hj9wpqz2xo",
+    "hero": "Gusion",
+    "skin_name": "Elite",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20elite%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
+    "sort": "3"
   }
 }
