@@ -5598,5 +5598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "sort": "2"
+  },
+  "Granger-5aj43uvddl": {
+    "key": "Granger-5aj43uvddl",
+    "hero": "Granger",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "sort": "2"
   }
 }
