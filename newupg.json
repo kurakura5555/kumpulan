@@ -6268,5 +6268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
     "img2": "https://pbs.twimg.com/media/G0FfqPBb0AA6hhc?format=jpg&name=small",
     "sort": "5"
+  },
+  "Guinevere-itudy50w4h": {
+    "key": "Guinevere-itudy50w4h",
+    "hero": "Guinevere",
+    "skin_name": "Special",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20special%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
+    "sort": "5"
   }
 }
