@@ -6708,5 +6708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
     "sort": "12"
+  },
+  "Gusion-ib0rseim0i": {
+    "key": "Gusion-ib0rseim0i",
+    "hero": "Gusion",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20star2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
+    "sort": "12"
   }
 }
