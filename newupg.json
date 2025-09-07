@@ -5768,5 +5768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165844",
     "sort": "3"
+  },
+  "Granger-xejnw1ewmo": {
+    "key": "Granger-xejnw1ewmo",
+    "hero": "Granger",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "sort": "3"
   }
 }
