@@ -6398,5 +6398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165916",
     "sort": "8"
+  },
+  "Guinevere-ylnb4omlty": {
+    "key": "Guinevere-ylnb4omlty",
+    "hero": "Guinevere",
+    "skin_name": "Summer",
+    "skin_name2": "Kof",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/guinevere%20summer%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
+    "sort": "8"
   }
 }
