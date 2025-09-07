@@ -6748,5 +6748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
     "sort": "5"
+  },
+  "Gusion-c5b67wlygb": {
+    "key": "Gusion-c5b67wlygb",
+    "hero": "Gusion",
+    "skin_name": "Valentine",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20valentine%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
+    "sort": "5"
   }
 }
