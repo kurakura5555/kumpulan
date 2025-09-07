@@ -6368,5 +6368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
     "sort": "4"
+  },
+  "Guinevere-aj5fm53s35": {
+    "key": "Guinevere-aj5fm53s35",
+    "hero": "Guinevere",
+    "skin_name": "Summer",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20summer%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
+    "img2": "https://pbs.twimg.com/media/G0FfqPBb0AA6hhc?format=jpg&name=small",
+    "sort": "8"
   }
 }
