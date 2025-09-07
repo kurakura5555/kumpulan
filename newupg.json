@@ -5788,5 +5788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
     "sort": "3"
+  },
+  "Granger-9ba4hw9ydb": {
+    "key": "Granger-9ba4hw9ydb",
+    "hero": "Granger",
+    "skin_name": "Elite",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20elite%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest/scale-to-width-down/150?cb=20240201102949",
+    "sort": "3"
   }
 }
