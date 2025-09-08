@@ -8338,5 +8338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
     "sort": "7"
+  },
+  "Julian-j3h0urf5t7": {
+    "key": "Julian-j3h0urf5t7",
+    "hero": "Julian",
+    "skin_name": "Basic",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/julian%20basic%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073222",
+    "sort": "2"
   }
 }
