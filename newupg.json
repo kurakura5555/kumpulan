@@ -7848,5 +7848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165055",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100645",
     "sort": "6"
+  },
+  "Hylos-7quhrt2320": {
+    "key": "Hylos-7quhrt2320",
+    "hero": "Hylos",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hylos%20season%20to%20epic.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMOGBghA-EgMyB-SZrvUJauD--_irXnLWbiaPEsn8suCznv5UdO5LLtRu&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "sort": "4"
   }
 }
