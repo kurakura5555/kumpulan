@@ -7088,5 +7088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
     "sort": "2"
+  },
+  "Hanzo-pjbf71m396": {
+    "key": "Hanzo-pjbf71m396",
+    "hero": "Hanzo",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanzo%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
+    "sort": "2"
   }
 }
