@@ -8728,5 +8728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
     "sort": "6"
+  },
+  "Kagura-yucmfh8kja": {
+    "key": "Kagura-yucmfh8kja",
+    "hero": "Kagura",
+    "skin_name": "Summer",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20summer%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+    "sort": "4"
   }
 }
