@@ -7138,5 +7138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604141807",
     "sort": "2"
+  },
+  "Harith-49rq46sxz1": {
+    "key": "Harith-49rq46sxz1",
+    "hero": "Harith",
+    "skin_name": "Basic",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20basic%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073217",
+    "sort": "2"
   }
 }
