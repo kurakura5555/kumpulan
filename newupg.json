@@ -8788,5 +8788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero622-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165550",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
     "sort": "2"
+  },
+  "Kaja-j2vgowkcac": {
+    "key": "Kaja-j2vgowkcac",
+    "hero": "Kaja",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kaja%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165552",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+    "sort": "4"
   }
 }
