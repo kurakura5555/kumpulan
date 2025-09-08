@@ -7638,5 +7638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
     "sort": "10"
+  },
+  "Hayabusa-rnxbhhqo8v": {
+    "key": "Hayabusa-rnxbhhqo8v",
+    "hero": "Hayabusa",
+    "skin_name": "Luckybox",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20luckybox%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
+    "sort": "6"
   }
 }
