@@ -8528,5 +8528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164840",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
     "sort": "2"
+  },
+  "Kagura-xl1xo3j0un": {
+    "key": "Kagura-xl1xo3j0un",
+    "hero": "Kagura",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164840",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
+    "sort": "2"
   }
 }
