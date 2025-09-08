@@ -7678,5 +7678,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
     "sort": "7"
+  },
+  "Hayabusa-brjibrav7o": {
+    "key": "Hayabusa-brjibrav7o",
+    "hero": "Hayabusa",
+    "skin_name": "Star",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20star%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
+    "sort": "7"
   }
 }
