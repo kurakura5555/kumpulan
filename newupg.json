@@ -9048,5 +9048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
     "sort": "9"
+  },
+  "Karina-b21cgoxi3f": {
+    "key": "Karina-b21cgoxi3f",
+    "hero": "Karina",
+    "skin_name": "Christmas",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20christmas%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest/scale-to-width-down/150?cb=20250426102356",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+    "sort": "3"
   }
 }
