@@ -7518,5 +7518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
     "sort": "5"
+  },
+  "Hayabusa-7r0k8fps7e": {
+    "key": "Hayabusa-7r0k8fps7e",
+    "hero": "Hayabusa",
+    "skin_name": "Annual Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20annual%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
+    "sort": "5"
   }
 }
