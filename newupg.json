@@ -7098,5 +7098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
     "sort": "2"
+  },
+  "Hanzo-5f5bz79hvy": {
+    "key": "Hanzo-5f5bz79hvy",
+    "hero": "Hanzo",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanzo%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142003",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
+    "sort": "3"
   }
 }
