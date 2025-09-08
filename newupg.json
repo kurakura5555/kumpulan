@@ -8398,5 +8398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073222",
     "sort": "3"
+  },
+  "Julian-z4a0addr0c": {
+    "key": "Julian-z4a0addr0c",
+    "hero": "Julian",
+    "skin_name": "Jjk",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/julian%20jjk%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+    "sort": "3"
   }
 }
