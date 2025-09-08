@@ -9068,5 +9068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
     "sort": "2"
+  },
+  "Karina-mpo39cydov": {
+    "key": "Karina-mpo39cydov",
+    "hero": "Karina",
+    "skin_name": "Elite",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20elite%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+    "sort": "2"
   }
 }
