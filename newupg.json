@@ -7688,5 +7688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "sort": "7"
+  },
+  "Hayabusa-92xag1dq6x": {
+    "key": "Hayabusa-92xag1dq6x",
+    "hero": "Hayabusa",
+    "skin_name": "Star",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20star%20to%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+    "sort": "7"
   }
 }
