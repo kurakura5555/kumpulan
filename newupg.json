@@ -9098,5 +9098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164458",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
     "sort": "5"
+  },
+  "Karina-7b40gytdi7": {
+    "key": "Karina-7b40gytdi7",
+    "hero": "Karina",
+    "skin_name": "Kof",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20kof%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+    "sort": "7"
   }
 }
