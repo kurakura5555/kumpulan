@@ -8828,5 +8828,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero402-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
     "sort": "2"
+  },
+  "Karrie-viefx8vd72": {
+    "key": "Karrie-viefx8vd72",
+    "hero": "Karrie",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero402-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
+    "sort": "2"
   }
 }
