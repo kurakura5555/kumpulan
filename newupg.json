@@ -8448,5 +8448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
     "sort": "5"
+  },
+  "Kadita-my42v5djga": {
+    "key": "Kadita-my42v5djga",
+    "hero": "Kadita",
+    "skin_name": "Mpl",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kadita%20mpl%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "sort": "4"
   }
 }
