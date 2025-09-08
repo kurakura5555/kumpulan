@@ -8138,5 +8138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165416",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "5"
+  },
+  "Jawhead-ab8poucnzw": {
+    "key": "Jawhead-ab8poucnzw",
+    "hero": "Jawhead",
+    "skin_name": "Star",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20star%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165418",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "7"
   }
 }
