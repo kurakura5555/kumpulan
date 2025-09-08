@@ -8228,5 +8228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165016",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
     "sort": "4"
+  },
+  "Johnson-fyk4txlv7c": {
+    "key": "Johnson-fyk4txlv7c",
+    "hero": "Johnson",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165016",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
+    "sort": "4"
   }
 }
