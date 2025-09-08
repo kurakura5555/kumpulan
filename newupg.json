@@ -7548,5 +7548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
     "sort": "9"
+  },
+  "Hayabusa-9crazdlnmr": {
+    "key": "Hayabusa-9crazdlnmr",
+    "hero": "Hayabusa",
+    "skin_name": "Elite",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20elite%20s%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
+    "sort": "9"
   }
 }
