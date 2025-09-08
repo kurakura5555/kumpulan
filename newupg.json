@@ -8168,5 +8168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
     "sort": "2"
+  },
+  "Johnson-y4cusu23g2": {
+    "key": "Johnson-y4cusu23g2",
+    "hero": "Johnson",
+    "skin_name": "Basic",
+    "skin_name2": "Saber",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20basic%20to%20saber.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165012",
+    "sort": "2"
   }
 }
