@@ -8608,5 +8608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
     "sort": "10"
+  },
+  "Kagura-u8o8ydiiuk": {
+    "key": "Kagura-u8o8ydiiuk",
+    "hero": "Kagura",
+    "skin_name": "Exorcist",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20exorcist%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+    "sort": "8"
   }
 }
