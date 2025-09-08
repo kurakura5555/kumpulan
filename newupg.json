@@ -7328,5 +7328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165448",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
     "sort": "6"
+  },
+  "Harley-rcv01boaqe": {
+    "key": "Harley-rcv01boaqe",
+    "hero": "Harley",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero422-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165202",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
+    "sort": "2"
   }
 }
