@@ -9168,5 +9168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165828",
     "sort": "2"
+  },
+  "Khufra-b52l36b43g": {
+    "key": "Khufra-b52l36b43g",
+    "hero": "Khufra",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/khufra%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165829",
+    "sort": "2"
   }
 }
