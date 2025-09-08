@@ -8038,5 +8038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero1213-portrait.png/revision/latest/scale-to-width-down/150?cb=20240227093444",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ixia%20metro%20zero.jpg",
     "sort": "3"
+  },
+  "Jawhead-1gm6tlnlic": {
+    "key": "Jawhead-1gm6tlnlic",
+    "hero": "Jawhead",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero542-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165417",
+    "sort": "2"
   }
 }
