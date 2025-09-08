@@ -7958,5 +7958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165213",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045310",
     "sort": "4"
+  },
+  "Irithel-wcakro4nvo": {
+    "key": "Irithel-wcakro4nvo",
+    "hero": "Irithel",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165213",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920091656",
+    "sort": "4"
   }
 }
