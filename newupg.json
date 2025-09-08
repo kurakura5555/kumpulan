@@ -6848,5 +6848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1185-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123928",
     "sort": "3"
+  },
+  "Hanabi-nfm0981wfe": {
+    "key": "Hanabi-nfm0981wfe",
+    "hero": "Hanabi",
+    "skin_name": "Basic",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20basic%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103133",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133735",
+    "sort": "2"
   }
 }
