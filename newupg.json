@@ -8188,5 +8188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "sort": "2"
+  },
+  "Johnson-p73y4pu6bu": {
+    "key": "Johnson-p73y4pu6bu",
+    "hero": "Johnson",
+    "skin_name": "Anniversary",
+    "skin_name2": "Legen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20anniversary%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
+    "sort": "8"
   }
 }
