@@ -8488,5 +8488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
     "sort": "3"
+  },
+  "Kagura-dk67gxsfxi": {
+    "key": "Kagura-dk67gxsfxi",
+    "hero": "Kagura",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164840",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+    "sort": "2"
   }
 }
