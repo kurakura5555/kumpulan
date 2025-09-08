@@ -7358,5 +7358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero429-portrait.png/revision/latest/scale-to-width-down/150?cb=20240323055246",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
     "sort": "9"
+  },
+  "Harley-7odxh8logr": {
+    "key": "Harley-7odxh8logr",
+    "hero": "Harley",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165205",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
+    "sort": "5"
   }
 }
