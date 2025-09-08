@@ -9178,5 +9178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165829",
     "sort": "2"
+  },
+  "Khufra-nfrbr21se6": {
+    "key": "Khufra-nfrbr21se6",
+    "hero": "Khufra",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/khufra%20elite%20s%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133740",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165829",
+    "sort": "7"
   }
 }
