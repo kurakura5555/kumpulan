@@ -8478,5 +8478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
     "sort": "3"
+  },
+  "Kadita-fpuvuxdy7d": {
+    "key": "Kadita-fpuvuxdy7d",
+    "hero": "Kadita",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kadita%20special%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "sort": "3"
   }
 }
