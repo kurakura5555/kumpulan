@@ -8208,5 +8208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
     "sort": "8"
+  },
+  "Johnson-vy3xgo5h6n": {
+    "key": "Johnson-vy3xgo5h6n",
+    "hero": "Johnson",
+    "skin_name": "Anniversary",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20anniversary%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "sort": "8"
   }
 }
