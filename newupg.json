@@ -7838,5 +7838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165052",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100645",
     "sort": "3"
+  },
+  "Hilda-shahk9vjrg": {
+    "key": "Hilda-shahk9vjrg",
+    "hero": "Hilda",
+    "skin_name": "Special",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20special%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165055",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100645",
+    "sort": "6"
   }
 }
