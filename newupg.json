@@ -8918,5 +8918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero403-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165145",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
     "sort": "3"
+  },
+  "Karrie-t5pzn3isao": {
+    "key": "Karrie-t5pzn3isao",
+    "hero": "Karrie",
+    "skin_name": "Epic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20epic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+    "sort": "7"
   }
 }
