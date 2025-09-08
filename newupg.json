@@ -8028,5 +8028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero1213-portrait.png/revision/latest/scale-to-width-down/150?cb=20240227093444",
     "sort": "2"
+  },
+  "Ixia-rve5tzr2vz": {
+    "key": "Ixia-rve5tzr2vz",
+    "hero": "Ixia",
+    "skin_name": "Star",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ixia%20star%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero1213-portrait.png/revision/latest/scale-to-width-down/150?cb=20240227093444",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ixia%20metro%20zero.jpg",
+    "sort": "3"
   }
 }
