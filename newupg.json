@@ -8098,5 +8098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115329",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "8"
+  },
+  "Jawhead-2eztuvjwoo": {
+    "key": "Jawhead-2eztuvjwoo",
+    "hero": "Jawhead",
+    "skin_name": "Msc",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20msc%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165413",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "3"
   }
 }
