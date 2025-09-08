@@ -9118,5 +9118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
     "sort": "6"
+  },
+  "Karina-26av9n70ts": {
+    "key": "Karina-26av9n70ts",
+    "hero": "Karina",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
+    "sort": "4"
   }
 }
