@@ -6928,5 +6928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
     "sort": "8"
+  },
+  "Hanabi-j585ba51ni": {
+    "key": "Hanabi-j585ba51ni",
+    "hero": "Hanabi",
+    "skin_name": "Elite",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20elite%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero603-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133735",
+    "sort": "3"
   }
 }
