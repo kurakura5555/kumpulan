@@ -8708,5 +8708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
     "sort": "6"
+  },
+  "Kagura-htyn34bgpx": {
+    "key": "Kagura-htyn34bgpx",
+    "hero": "Kagura",
+    "skin_name": "Star",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20star%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
+    "sort": "6"
   }
 }
