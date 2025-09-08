@@ -7818,5 +7818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030306",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
     "sort": "6"
+  },
+  "Hilda-qmmdquttjz": {
+    "key": "Hilda-qmmdquttjz",
+    "hero": "Hilda",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20basic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero352-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165051",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100645",
+    "sort": "2"
   }
 }
