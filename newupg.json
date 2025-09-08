@@ -7868,5 +7868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165211",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045310",
     "sort": "2"
+  },
+  "Irithel-2hvocjxh6s": {
+    "key": "Irithel-2hvocjxh6s",
+    "hero": "Irithel",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165211",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920091656",
+    "sort": "2"
   }
 }
