@@ -8698,5 +8698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164841",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
     "sort": "3"
+  },
+  "Kagura-4oavoguz3t": {
+    "key": "Kagura-4oavoguz3t",
+    "hero": "Kagura",
+    "skin_name": "Star",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20star%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+    "sort": "6"
   }
 }
