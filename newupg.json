@@ -6948,5 +6948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero603-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
     "sort": "3"
+  },
+  "Hanabi-ph30kqsvr5": {
+    "key": "Hanabi-ph30kqsvr5",
+    "hero": "Hanabi",
+    "skin_name": "Elite",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20elite%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero603-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
+    "sort": "3"
   }
 }
