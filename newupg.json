@@ -7788,5 +7788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
     "sort": "2"
+  },
+  "Helcurt-e81kbsvk0n": {
+    "key": "Helcurt-e81kbsvk0n",
+    "hero": "Helcurt",
+    "skin_name": "Elite",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20elite%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
+    "sort": "3"
   }
 }
