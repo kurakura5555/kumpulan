@@ -8088,5 +8088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165414",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "4"
+  },
+  "Jawhead-a578mlyzye": {
+    "key": "Jawhead-a578mlyzye",
+    "hero": "Jawhead",
+    "skin_name": "Mpl",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20mpl%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "8"
   }
 }
