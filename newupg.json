@@ -8638,5 +8638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
     "sort": "5"
+  },
+  "Kagura-z3u2onb10g": {
+    "key": "Kagura-z3u2onb10g",
+    "hero": "Kagura",
+    "skin_name": "Luckybox",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20luckybox%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
+    "sort": "5"
   }
 }
