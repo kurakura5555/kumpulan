@@ -7978,5 +7978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165213",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114122258",
     "sort": "4"
+  },
+  "Irithel-3ilovyj3aq": {
+    "key": "Irithel-3ilovyj3aq",
+    "hero": "Irithel",
+    "skin_name": "Star",
+    "skin_name2": "Ducati",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20star2%20to%20ducati.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045310",
+    "sort": "8"
   }
 }
