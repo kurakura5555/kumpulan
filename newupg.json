@@ -9038,5 +9038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
     "sort": "9"
+  },
+  "Karina-fgb1qy0vxl": {
+    "key": "Karina-fgb1qy0vxl",
+    "hero": "Karina",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20basic%20s%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+    "sort": "9"
   }
 }
