@@ -8978,5 +8978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero104011-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144301",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
     "sort": "11"
+  },
+  "Karrie-y6g9pws8kz": {
+    "key": "Karrie-y6g9pws8kz",
+    "hero": "Karrie",
+    "skin_name": "Luckybox",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20luckybox%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+    "sort": "6"
   }
 }
