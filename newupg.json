@@ -8058,5 +8058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero542-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165412",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "2"
+  },
+  "Jawhead-1pr3wkheph": {
+    "key": "Jawhead-1pr3wkheph",
+    "hero": "Jawhead",
+    "skin_name": "Collector",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20collector%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165417",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "6"
   }
 }
