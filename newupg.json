@@ -7988,5 +7988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045310",
     "sort": "8"
+  },
+  "Irithel-qc0xnik8dd": {
+    "key": "Irithel-qc0xnik8dd",
+    "hero": "Irithel",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20star2%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114122258",
+    "sort": "8"
   }
 }
