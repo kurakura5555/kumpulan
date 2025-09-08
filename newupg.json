@@ -8298,5 +8298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165012",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "sort": "3"
+  },
+  "Johnson-n8l20rdjek": {
+    "key": "Johnson-n8l20rdjek",
+    "hero": "Johnson",
+    "skin_name": "Special",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20special%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
+    "sort": "6"
   }
 }
