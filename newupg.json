@@ -7748,5 +7748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
     "sort": "4"
+  },
+  "Hayabusa-7vsonwanny": {
+    "key": "Hayabusa-7vsonwanny",
+    "hero": "Hayabusa",
+    "skin_name": "Summer",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20summer%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
+    "sort": "4"
   }
 }
