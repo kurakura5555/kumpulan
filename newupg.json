@@ -8948,5 +8948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165147",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
     "sort": "5"
+  },
+  "Karrie-xfrq22ro8r": {
+    "key": "Karrie-xfrq22ro8r",
+    "hero": "Karrie",
+    "skin_name": "Halloween",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20halloween%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
+    "sort": "5"
   }
 }
