@@ -7718,5 +7718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
     "sort": "4"
+  },
+  "Hayabusa-cod5f083cn": {
+    "key": "Hayabusa-cod5f083cn",
+    "hero": "Hayabusa",
+    "skin_name": "Summer",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20summer%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
+    "sort": "4"
   }
 }
