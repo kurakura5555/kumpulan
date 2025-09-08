@@ -7148,5 +7148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073217",
     "sort": "2"
+  },
+  "Harith-lqd4anbdol": {
+    "key": "Harith-lqd4anbdol",
+    "hero": "Harith",
+    "skin_name": "Basic",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20basic%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165757",
+    "sort": "2"
   }
 }
