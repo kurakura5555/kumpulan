@@ -7738,5 +7738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "sort": "4"
+  },
+  "Hayabusa-m9a1wmcsw3": {
+    "key": "Hayabusa-m9a1wmcsw3",
+    "hero": "Hayabusa",
+    "skin_name": "Summer",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20summer%20to%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+    "sort": "4"
   }
 }
