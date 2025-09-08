@@ -7318,5 +7318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165757",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073217",
     "sort": "5"
+  },
+  "Gusion-txvbiawr2": {
+    "key": "Gusion-txvbiawr2",
+    "hero": "Gusion",
+    "skin_name": "Venom",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20venom%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
+    "sort": "6"
   }
 }
