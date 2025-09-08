@@ -7108,5 +7108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142003",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
     "sort": "3"
+  },
+  "Hanzo-uabj7eftnw": {
+    "key": "Hanzo-uabj7eftnw",
+    "hero": "Hanzo",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanzo%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
+    "sort": "4"
   }
 }
