@@ -7558,5 +7558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "sort": "9"
+  },
+  "Hayabusa-ahhqtabpib": {
+    "key": "Hayabusa-ahhqtabpib",
+    "hero": "Hayabusa",
+    "skin_name": "Elite",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20elite%20s%20to%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+    "sort": "9"
   }
 }
