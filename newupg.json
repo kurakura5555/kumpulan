@@ -6888,5 +6888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103133",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
     "sort": "2"
+  },
+  "Hanabi-vjq1y1i7cu": {
+    "key": "Hanabi-vjq1y1i7cu",
+    "hero": "Hanabi",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20basic%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103133",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/hanabi%20star2.jpg",
+    "sort": "2"
   }
 }
