@@ -9028,5 +9028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero404-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165146",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
     "sort": "4"
+  },
+  "Karina-3ctbukzq87": {
+    "key": "Karina-3ctbukzq87",
+    "hero": "Karina",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20basic%20s%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
+    "sort": "9"
   }
 }
