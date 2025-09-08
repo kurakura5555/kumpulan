@@ -7038,5 +7038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165525",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
     "sort": "5"
+  },
+  "Hanabi-6sfa24el7d": {
+    "key": "Hanabi-6sfa24el7d",
+    "hero": "Hanabi",
+    "skin_name": "Star",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20star%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165525",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
+    "sort": "5"
   }
 }
