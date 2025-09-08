@@ -8988,5 +8988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
     "sort": "6"
+  },
+  "Karrie-6kt6dya0ih": {
+    "key": "Karrie-6kt6dya0ih",
+    "hero": "Karrie",
+    "skin_name": "Star",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20star%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero404-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165146",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+    "sort": "4"
   }
 }
