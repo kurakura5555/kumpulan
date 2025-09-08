@@ -7048,5 +7048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165525",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
     "sort": "5"
+  },
+  "Hanabi-prz4w19cgu": {
+    "key": "Hanabi-prz4w19cgu",
+    "hero": "Hanabi",
+    "skin_name": "Venom",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20venom%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165524",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133735",
+    "sort": "4"
   }
 }
