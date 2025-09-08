@@ -9148,5 +9148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero982-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170301",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest/scale-to-width-down/150?cb=20240507150206",
     "sort": "2"
+  },
+  "Khaleed-ivoauatxaf": {
+    "key": "Khaleed-ivoauatxaf",
+    "hero": "Khaleed",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/khaleed%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero983-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170302",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest/scale-to-width-down/150?cb=20240507150206",
+    "sort": "3"
   }
 }
