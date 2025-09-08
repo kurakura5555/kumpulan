@@ -8428,5 +8428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134215",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
     "sort": "2"
+  },
+  "Kadita-2z8hdtrn07": {
+    "key": "Kadita-2z8hdtrn07",
+    "hero": "Kadita",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kadita%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134215",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "sort": "2"
   }
 }
