@@ -6998,5 +6998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero607-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165527",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133735",
     "sort": "7"
+  },
+  "Hanabi-qdn4optxtv": {
+    "key": "Hanabi-qdn4optxtv",
+    "hero": "Hanabi",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero607-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165527",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
+    "sort": "7"
   }
 }
