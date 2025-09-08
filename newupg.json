@@ -7398,5 +7398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
     "sort": "3"
+  },
+  "Harley-7hatyzcoy0": {
+    "key": "Harley-7hatyzcoy0",
+    "hero": "Harley",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165205",
+    "sort": "3"
   }
 }
