@@ -9228,5 +9228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165827",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165828",
     "sort": "4"
+  },
+  "Khufra-hfnv3cvt1f": {
+    "key": "Khufra-hfnv3cvt1f",
+    "hero": "Khufra",
+    "skin_name": "Valentine",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/khufra%20valentine%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165827",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165829",
+    "sort": "4"
   }
 }
