@@ -7428,5 +7428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164751",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
     "sort": "2"
+  },
+  "Hayabusa-n8zssg2isa": {
+    "key": "Hayabusa-n8zssg2isa",
+    "hero": "Hayabusa",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164751",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
+    "sort": "2"
   }
 }
