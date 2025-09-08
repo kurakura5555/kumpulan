@@ -7368,5 +7368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165205",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
     "sort": "5"
+  },
+  "Harley-8and2bq91r": {
+    "key": "Harley-8and2bq91r",
+    "hero": "Harley",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165204",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
+    "sort": "4"
   }
 }
