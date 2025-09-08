@@ -7668,5 +7668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
     "sort": "6"
+  },
+  "Hayabusa-sanz8iutwl": {
+    "key": "Hayabusa-sanz8iutwl",
+    "hero": "Hayabusa",
+    "skin_name": "Star",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20star%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
+    "sort": "7"
   }
 }
