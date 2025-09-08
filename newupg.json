@@ -8118,5 +8118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero549-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619175222",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "9"
+  },
+  "Jawhead-p6tvlfdids": {
+    "key": "Jawhead-p6tvlfdids",
+    "hero": "Jawhead",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165416",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165417",
+    "sort": "5"
   }
 }
