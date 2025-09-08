@@ -8748,5 +8748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
     "sort": "4"
+  },
+  "Kagura-fg06qdzz3c": {
+    "key": "Kagura-fg06qdzz3c",
+    "hero": "Kagura",
+    "skin_name": "Summer",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20summer%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
+    "sort": "4"
   }
 }
