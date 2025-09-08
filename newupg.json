@@ -7658,5 +7658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "sort": "6"
+  },
+  "Hayabusa-j1qos6umgo": {
+    "key": "Hayabusa-j1qos6umgo",
+    "hero": "Hayabusa",
+    "skin_name": "Luckybox",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20luckybox%20to%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+    "sort": "6"
   }
 }
