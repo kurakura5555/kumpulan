@@ -8268,5 +8268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
     "sort": "5"
+  },
+  "Johnson-u645hbjnni": {
+    "key": "Johnson-u645hbjnni",
+    "hero": "Johnson",
+    "skin_name": "Luckybox",
+    "skin_name2": "Transformerd",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20luckybox%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "sort": "5"
   }
 }
