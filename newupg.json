@@ -7578,5 +7578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
     "sort": "9"
+  },
+  "Hayabusa-87ahae4jnn": {
+    "key": "Hayabusa-87ahae4jnn",
+    "hero": "Hayabusa",
+    "skin_name": "Elite",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20elite%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
+    "sort": "3"
   }
 }
