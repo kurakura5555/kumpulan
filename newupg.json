@@ -7888,5 +7888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165211",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
     "sort": "2"
+  },
+  "Irithel-ad51ccbufb": {
+    "key": "Irithel-ad51ccbufb",
+    "hero": "Irithel",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20basic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165211",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114122258",
+    "sort": "2"
   }
 }
