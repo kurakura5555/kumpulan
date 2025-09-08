@@ -8108,5 +8108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165413",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
     "sort": "3"
+  },
+  "Jawhead-wbjtcbixe9": {
+    "key": "Jawhead-wbjtcbixe9",
+    "hero": "Jawhead",
+    "skin_name": "Season",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20season%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero549-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619175222",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "9"
   }
 }
