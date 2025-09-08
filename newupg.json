@@ -7218,5 +7218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165758",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073217",
     "sort": "6"
+  },
+  "Harith-hhesacldny": {
+    "key": "Harith-hhesacldny",
+    "hero": "Harith",
+    "skin_name": "Christmas",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20christmas%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero738-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132704",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604141807",
+    "sort": "8"
   }
 }
