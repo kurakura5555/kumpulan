@@ -7028,5 +7028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165525",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133735",
     "sort": "5"
+  },
+  "Hanabi-p8psxgvd1r": {
+    "key": "Hanabi-p8psxgvd1r",
+    "hero": "Hanabi",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165525",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
+    "sort": "5"
   }
 }
