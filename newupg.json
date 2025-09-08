@@ -8808,5 +8808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero626-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165554",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
     "sort": "6"
+  },
+  "Kaja-9ota6huhxz": {
+    "key": "Kaja-9ota6huhxz",
+    "hero": "Kaja",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kaja%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+    "sort": "3"
   }
 }
