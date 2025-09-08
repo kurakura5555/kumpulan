@@ -8598,5 +8598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
     "sort": "10"
+  },
+  "Kagura-sv75ome70h": {
+    "key": "Kagura-sv75ome70h",
+    "hero": "Kagura",
+    "skin_name": "Epic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20epic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
+    "sort": "10"
   }
 }
