@@ -8358,5 +8358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170651",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
     "sort": "2"
+  },
+  "Julian-29q9qe84vr": {
+    "key": "Julian-29q9qe84vr",
+    "hero": "Julian",
+    "skin_name": "Basic",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/julian%20basic%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+    "sort": "2"
   }
 }
