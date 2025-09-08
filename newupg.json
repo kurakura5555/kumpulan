@@ -8078,5 +8078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165414",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165417",
     "sort": "4"
+  },
+  "Jawhead-4pzh4f0v23": {
+    "key": "Jawhead-4pzh4f0v23",
+    "hero": "Jawhead",
+    "skin_name": "Elite",
+    "skin_name2": "Dino Pals",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/jawhead%20elite%20to%20dino%20pals.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165414",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "sort": "4"
   }
 }
