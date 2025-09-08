@@ -8558,5 +8558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
     "sort": "9"
+  },
+  "Kagura-zmnv2avwww": {
+    "key": "Kagura-zmnv2avwww",
+    "hero": "Kagura",
+    "skin_name": "Clouds",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20btc%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
+    "sort": "9"
   }
 }
