@@ -7858,5 +7858,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMOGBghA-EgMyB-SZrvUJauD--_irXnLWbiaPEsn8suCznv5UdO5LLtRu&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
     "sort": "4"
+  },
+  "Irithel-xwtp4h8eu7": {
+    "key": "Irithel-xwtp4h8eu7",
+    "hero": "Irithel",
+    "skin_name": "Basic",
+    "skin_name2": "Ducati",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/irithel%20basic%20to%20ducati.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165211",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045310",
+    "sort": "2"
   }
 }
