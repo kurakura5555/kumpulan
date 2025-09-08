@@ -7158,5 +7158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165757",
     "sort": "2"
+  },
+  "Harith-hyqzyvs0z5": {
+    "key": "Harith-hyqzyvs0z5",
+    "hero": "Harith",
+    "skin_name": "515",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20515%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165758",
+    "sort": "4"
   }
 }
