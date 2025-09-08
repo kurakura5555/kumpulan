@@ -7348,5 +7348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero422-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165202",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165205",
     "sort": "2"
+  },
+  "Harley-l6ucdw954a": {
+    "key": "Harley-l6ucdw954a",
+    "hero": "Harley",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20elite%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero429-portrait.png/revision/latest/scale-to-width-down/150?cb=20240323055246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
+    "sort": "9"
   }
 }
