@@ -8318,5 +8318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
     "sort": "6"
+  },
+  "Johnson-7d5lm9b86t": {
+    "key": "Johnson-7d5lm9b86t",
+    "hero": "Johnson",
+    "skin_name": "Special",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20special%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "sort": "6"
   }
 }
