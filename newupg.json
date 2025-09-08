@@ -7768,5 +7768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
     "sort": "4"
+  },
+  "Helcurt-1k4kb9ub77": {
+    "key": "Helcurt-1k4kb9ub77",
+    "hero": "Helcurt",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030306",
+    "sort": "2"
   }
 }
