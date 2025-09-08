@@ -8328,5 +8328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
     "sort": "6"
+  },
+  "Johnson-gc4ka0dd83": {
+    "key": "Johnson-gc4ka0dd83",
+    "hero": "Johnson",
+    "skin_name": "Transformers",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20transformers%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
+    "sort": "7"
   }
 }
