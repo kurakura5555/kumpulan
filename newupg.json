@@ -8158,5 +8158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
     "sort": "2"
+  },
+  "Johnson-bmpt0qq4d6": {
+    "key": "Johnson-bmpt0qq4d6",
+    "hero": "Johnson",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest/scale-to-width-down/150?cb=20240429080448",
+    "sort": "2"
   }
 }
