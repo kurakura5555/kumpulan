@@ -9128,5 +9128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
     "sort": "4"
+  },
+  "Karina-6cwzfdryla": {
+    "key": "Karina-6cwzfdryla",
+    "hero": "Karina",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karina%20star%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+    "sort": "4"
   }
 }
