@@ -7798,5 +7798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165334",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
     "sort": "3"
+  },
+  "Helcurt-tpsuuh3dcr": {
+    "key": "Helcurt-tpsuuh3dcr",
+    "hero": "Helcurt",
+    "skin_name": "Special",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20special%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
+    "sort": "4"
   }
 }
