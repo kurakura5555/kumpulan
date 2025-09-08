@@ -7418,5 +7418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
     "sort": "6"
+  },
+  "Hayabusa-h266zwd4z2": {
+    "key": "Hayabusa-h266zwd4z2",
+    "hero": "Hayabusa",
+    "skin_name": "Basic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20basic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164751",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
+    "sort": "2"
   }
 }
