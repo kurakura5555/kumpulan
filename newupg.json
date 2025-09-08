@@ -7008,5 +7008,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero607-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165527",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165528",
     "sort": "7"
+  },
+  "Hanabi-ze1tf4ilv2": {
+    "key": "Hanabi-ze1tf4ilv2",
+    "hero": "Hanabi",
+    "skin_name": "Special",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20special%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero607-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165527",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172748",
+    "sort": "7"
   }
 }
