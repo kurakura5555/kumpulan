@@ -9138,5 +9138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
     "sort": "4"
+  },
+  "Khaleed-4fofnl6jfm": {
+    "key": "Khaleed-4fofnl6jfm",
+    "hero": "Khaleed",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/khaleed%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero982-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170301",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest/scale-to-width-down/150?cb=20240507150206",
+    "sort": "2"
   }
 }
