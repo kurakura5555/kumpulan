@@ -7728,5 +7728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
     "sort": "4"
+  },
+  "Hayabusa-i0mkc9mq4f": {
+    "key": "Hayabusa-i0mkc9mq4f",
+    "hero": "Hayabusa",
+    "skin_name": "Summer",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hayabusa%20summer%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
+    "sort": "4"
   }
 }
