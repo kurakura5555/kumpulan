@@ -9378,5 +9378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165742",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
     "sort": "5"
+  },
+  "Kimmy-lsxeah5tub": {
+    "key": "Kimmy-lsxeah5tub",
+    "hero": "Kimmy",
+    "skin_name": "Special",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20special2%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
+    "sort": "8"
   }
 }
