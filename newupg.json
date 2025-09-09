@@ -9408,5 +9408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
     "sort": "8"
+  },
+  "Kimmy-4t0v9ff2rf": {
+    "key": "Kimmy-4t0v9ff2rf",
+    "hero": "Kimmy",
+    "skin_name": "Star",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20star%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero713-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165740",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
+    "sort": "3"
   }
 }
