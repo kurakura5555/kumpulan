@@ -9448,5 +9448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
     "sort": "7"
+  },
+  "Lancelot-vf8s5epqxx": {
+    "key": "Lancelot-vf8s5epqxx",
+    "hero": "Lancelot",
+    "skin_name": "Basic",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20basic%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
+    "sort": "2"
   }
 }
