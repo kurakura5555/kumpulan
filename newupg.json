@@ -9528,5 +9528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
     "sort": "9"
+  },
+  "Lancelot-070riycees": {
+    "key": "Lancelot-070riycees",
+    "hero": "Lancelot",
+    "skin_name": "Champion",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20champion%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
+    "sort": "9"
   }
 }
