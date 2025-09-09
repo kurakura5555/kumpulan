@@ -9558,5 +9558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
     "sort": "9"
+  },
+  "Lancelot-d6hyisobbx": {
+    "key": "Lancelot-d6hyisobbx",
+    "hero": "Lancelot",
+    "skin_name": "Christmas",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20christmas%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
+    "sort": "3"
   }
 }
