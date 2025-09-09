@@ -9358,5 +9358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165742",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
     "sort": "5"
+  },
+  "Kimmy-o5fg13d8qj": {
+    "key": "Kimmy-o5fg13d8qj",
+    "hero": "Kimmy",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165742",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165741",
+    "sort": "5"
   }
 }
