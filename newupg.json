@@ -9508,5 +9508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
     "sort": "2"
+  },
+  "Lancelot-fquweb8swc": {
+    "key": "Lancelot-fquweb8swc",
+    "hero": "Lancelot",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20basic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
+    "sort": "2"
   }
 }
