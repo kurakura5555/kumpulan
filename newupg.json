@@ -9248,5 +9248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero712-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320124926",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
     "sort": "2"
+  },
+  "Kimmy-dsflnw813d": {
+    "key": "Kimmy-dsflnw813d",
+    "hero": "Kimmy",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero712-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320124926",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165741",
+    "sort": "2"
   }
 }
