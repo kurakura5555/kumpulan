@@ -9398,5 +9398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165741",
     "sort": "8"
+  },
+  "Kimmy-jivl7xt6jm": {
+    "key": "Kimmy-jivl7xt6jm",
+    "hero": "Kimmy",
+    "skin_name": "Special",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20special2%20to%20starwars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
+    "sort": "8"
   }
 }
