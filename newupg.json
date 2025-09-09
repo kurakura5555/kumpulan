@@ -9318,5 +9318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero719-portrait.png/revision/latest/scale-to-width-down/150?cb=20241017120358",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165741",
     "sort": "9"
+  },
+  "Kimmy-f6t8mckv0l": {
+    "key": "Kimmy-f6t8mckv0l",
+    "hero": "Kimmy",
+    "skin_name": "Elite",
+    "skin_name2": "Starwars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20elite%20s%20to%20starwars.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero719-portrait.png/revision/latest/scale-to-width-down/150?cb=20241017120358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
+    "sort": "9"
   }
 }
