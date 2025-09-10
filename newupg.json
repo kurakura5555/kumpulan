@@ -10408,5 +10408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103141",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
     "sort": "7"
+  },
+  "Leomord-bnpu18e8i4": {
+    "key": "Leomord-bnpu18e8i4",
+    "hero": "Leomord",
+    "skin_name": "Ducati",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20ducati%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103141",
+    "sort": "8"
   }
 }
