@@ -10118,5 +10118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132639",
     "sort": "2"
+  },
+  "Layla-rwhuwtgq0u": {
+    "key": "Layla-rwhuwtgq0u",
+    "hero": "Layla",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172008",
+    "sort": "2"
   }
 }
