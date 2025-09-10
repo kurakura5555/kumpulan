@@ -9808,5 +9808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
     "sort": "7"
+  },
+  "Lancelot-m1hl2louu6": {
+    "key": "Lancelot-m1hl2louu6",
+    "hero": "Lancelot",
+    "skin_name": "Epic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20epic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
+    "sort": "7"
   }
 }
