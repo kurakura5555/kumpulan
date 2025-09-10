@@ -9578,5 +9578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
     "sort": "3"
+  },
+  "Lancelot-1kidztlq4v": {
+    "key": "Lancelot-1kidztlq4v",
+    "hero": "Lancelot",
+    "skin_name": "Christmas",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20christmas%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
+    "sort": "3"
   }
 }
