@@ -10388,5 +10388,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173711",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
     "sort": "2"
+  },
+  "Leomord-lcxpkkns8e": {
+    "key": "Leomord-lcxpkkns8e",
+    "hero": "Leomord",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173711",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "sort": "2"
   }
 }
