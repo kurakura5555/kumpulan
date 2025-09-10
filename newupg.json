@@ -10788,5 +10788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165408",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
     "sort": "9"
+  },
+  "Lesley-ryqwaesjb5": {
+    "key": "Lesley-ryqwaesjb5",
+    "hero": "Lesley",
+    "skin_name": "Covenant",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20covenant%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "sort": "13"
   }
 }
