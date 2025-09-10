@@ -9988,5 +9988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165115",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114105426",
     "sort": "2"
+  },
+  "Lapu-Lapu-8g716249po": {
+    "key": "Lapu-Lapu-8g716249po",
+    "hero": "Lapu-Lapu",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lapu%20lapu%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165115",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165117",
+    "sort": "2"
   }
 }
