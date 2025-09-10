@@ -10508,5 +10508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165657",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103141",
     "sort": "4"
+  },
+  "Leomord-b835ctdzgm": {
+    "key": "Leomord-b835ctdzgm",
+    "hero": "Leomord",
+    "skin_name": "Msc",
+    "skin_name2": "Ducati",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20msc%20to%20ducati.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165657",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
+    "sort": "4"
   }
 }
