@@ -10568,5 +10568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
     "sort": "2"
+  },
+  "Lesley-7dvlato287": {
+    "key": "Lesley-7dvlato287",
+    "hero": "Lesley",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20basic%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "sort": "2"
   }
 }
