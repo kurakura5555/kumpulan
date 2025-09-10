@@ -10468,5 +10468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165738",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
     "sort": "6"
+  },
+  "Leomord-x11g34ba0j": {
+    "key": "Leomord-x11g34ba0j",
+    "hero": "Leomord",
+    "skin_name": "Halloween",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20halloween%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "sort": "6"
   }
 }
