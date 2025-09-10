@@ -9918,5 +9918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
     "sort": "5"
+  },
+  "Lancelot-f7dvkbrpss": {
+    "key": "Lancelot-f7dvkbrpss",
+    "hero": "Lancelot",
+    "skin_name": "Star",
+    "skin_name2": "Kishin Densetsu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20star%20to%20kishin%20densetsu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
+    "sort": "5"
   }
 }
