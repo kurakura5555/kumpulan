@@ -10588,5 +10588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165408",
     "sort": "2"
+  },
+  "Lesley-i7i0boe1g9": {
+    "key": "Lesley-i7i0boe1g9",
+    "hero": "Lesley",
+    "skin_name": "Basic",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20basic%20to%20covenant%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero105313-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123934",
+    "sort": "2"
   }
 }
