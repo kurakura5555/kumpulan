@@ -10278,5 +10278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero187-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164724",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101810-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045332",
     "sort": "7"
+  },
+  "Layla-7615mgsdpz": {
+    "key": "Layla-7615mgsdpz",
+    "hero": "Layla",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20star%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
+    "sort": "3"
   }
 }
