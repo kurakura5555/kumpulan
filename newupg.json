@@ -10088,5 +10088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165117",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165118",
     "sort": "4"
+  },
+  "Lapu-Lapu-m96cw4nt0q": {
+    "key": "Lapu-Lapu-m96cw4nt0q",
+    "hero": "Lapu-Lapu",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lapu%20lapu%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165118",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114105426",
+    "sort": "5"
   }
 }
