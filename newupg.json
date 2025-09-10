@@ -10718,5 +10718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
     "sort": "11"
+  },
+  "Lesley-0crmf0kykh": {
+    "key": "Lesley-0crmf0kykh",
+    "hero": "Lesley",
+    "skin_name": "Aspirants",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20aspirants%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
+    "sort": "11"
   }
 }
