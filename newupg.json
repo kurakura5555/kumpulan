@@ -10648,5 +10648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
     "sort": "10"
+  },
+  "Lesley-c3v6ohhkee": {
+    "key": "Lesley-c3v6ohhkee",
+    "hero": "Lesley",
+    "skin_name": "Annual Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20annual%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+    "sort": "10"
   }
 }
