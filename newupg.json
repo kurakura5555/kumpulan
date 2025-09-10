@@ -10048,5 +10048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102332",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114105426",
     "sort": "6"
+  },
+  "Lapu-Lapu-zt8je4gjon": {
+    "key": "Lapu-Lapu-zt8je4gjon",
+    "hero": "Lapu-Lapu",
+    "skin_name": "Season",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lapu%20lapu%20season%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102332",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165117",
+    "sort": "6"
   }
 }
