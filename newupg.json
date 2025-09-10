@@ -10008,5 +10008,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165115",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165118",
     "sort": "2"
+  },
+  "Lapu-Lapu-k6vmfp6kow": {
+    "key": "Lapu-Lapu-k6vmfp6kow",
+    "hero": "Lapu-Lapu",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lapu%20lapu%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165116",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114105426",
+    "sort": "3"
   }
 }
