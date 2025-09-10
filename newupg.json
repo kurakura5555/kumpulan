@@ -10558,5 +10558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165656",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
     "sort": "3"
+  },
+  "Lesley-ny6j3i8z4": {
+    "key": "Lesley-ny6j3i8z4",
+    "hero": "Lesley",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
+    "sort": "2"
   }
 }
