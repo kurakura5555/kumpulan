@@ -9698,5 +9698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
     "sort": "11"
+  },
+  "Lancelot-cqn07yht8s": {
+    "key": "Lancelot-cqn07yht8s",
+    "hero": "Lancelot",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20elite%20s%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
+    "sort": "11"
   }
 }
