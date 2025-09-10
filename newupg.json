@@ -9888,5 +9888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
     "sort": "5"
+  },
+  "Lancelot-rzzx1zjswo": {
+    "key": "Lancelot-rzzx1zjswo",
+    "hero": "Lancelot",
+    "skin_name": "Star",
+    "skin_name2": "Christmad",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20star%20to%20christmas.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
+    "sort": "5"
   }
 }
