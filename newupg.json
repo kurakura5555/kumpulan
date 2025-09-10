@@ -10608,5 +10608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
     "sort": "2"
+  },
+  "Lesley-f2sgz74ta6": {
+    "key": "Lesley-f2sgz74ta6",
+    "hero": "Lesley",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
+    "sort": "2"
   }
 }
