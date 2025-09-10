@@ -9958,5 +9958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
     "sort": "6"
+  },
+  "Lancelot-29i621gxf6": {
+    "key": "Lancelot-29i621gxf6",
+    "hero": "Lancelot",
+    "skin_name": "Zodiac",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20zodiac%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
+    "sort": "6"
   }
 }
