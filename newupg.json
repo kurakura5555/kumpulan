@@ -10628,5 +10628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
     "sort": "2"
+  },
+  "Lesley-6wpgn7t659": {
+    "key": "Lesley-6wpgn7t659",
+    "hero": "Lesley",
+    "skin_name": "Basic",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20basic%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "sort": "2"
   }
 }
