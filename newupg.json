@@ -10818,5 +10818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165408",
     "sort": "13"
+  },
+  "Lesley-mrqwpstl68": {
+    "key": "Lesley-mrqwpstl68",
+    "hero": "Lesley",
+    "skin_name": "Covenant",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20covenant%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
+    "sort": "13"
   }
 }
