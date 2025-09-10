@@ -9938,5 +9938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
     "sort": "5"
+  },
+  "Lancelot-bv0u04u8po": {
+    "key": "Lancelot-bv0u04u8po",
+    "hero": "Lancelot",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20star%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
+    "sort": "5"
   }
 }
