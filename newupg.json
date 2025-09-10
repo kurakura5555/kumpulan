@@ -9708,5 +9708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
     "sort": "11"
+  },
+  "Lancelot-zu43gn7wc6": {
+    "key": "Lancelot-zu43gn7wc6",
+    "hero": "Lancelot",
+    "skin_name": "Elite",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20elite%20s%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
+    "sort": "11"
   }
 }
