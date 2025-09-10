@@ -10958,5 +10958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
     "sort": "5"
+  },
+  "Lesley-giize8xjbh": {
+    "key": "Lesley-giize8xjbh",
+    "hero": "Lesley",
+    "skin_name": "Luckybox",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20luckybox%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "sort": "5"
   }
 }
