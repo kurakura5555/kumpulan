@@ -10888,5 +10888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero533-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165401",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
     "sort": "3"
+  },
+  "Lesley-q9hj73roiy": {
+    "key": "Lesley-q9hj73roiy",
+    "hero": "Lesley",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero533-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
+    "sort": "3"
   }
 }
