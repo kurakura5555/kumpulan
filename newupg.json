@@ -10108,5 +10108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
     "sort": "2"
+  },
+  "Layla-pwozm2jgo7": {
+    "key": "Layla-pwozm2jgo7",
+    "hero": "Layla",
+    "skin_name": "Basic",
+    "skin_name2": "Blazing",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20basic%20to%20blazing.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132639",
+    "sort": "2"
   }
 }
