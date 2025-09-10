@@ -10458,5 +10458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165738",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
     "sort": "6"
+  },
+  "Leomord-j8r1qr9rdb": {
+    "key": "Leomord-j8r1qr9rdb",
+    "hero": "Leomord",
+    "skin_name": "Halloween",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20halloween%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
+    "sort": "6"
   }
 }
