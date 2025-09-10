@@ -10018,5 +10018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165116",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114105426",
     "sort": "3"
+  },
+  "Lapu-Lapu-xejo3esyke": {
+    "key": "Lapu-Lapu-xejo3esyke",
+    "hero": "Lapu-Lapu",
+    "skin_name": "Elite",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lapu%20lapu%20elite%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165116",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165117",
+    "sort": "3"
   }
 }
