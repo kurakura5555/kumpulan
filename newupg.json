@@ -10198,5 +10198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164722",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172008",
     "sort": "5"
+  },
+  "Layla-sfo1hmyq6v": {
+    "key": "Layla-sfo1hmyq6v",
+    "hero": "Layla",
+    "skin_name": "Blue Spectre",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20blue%20spectre%20to%20star2%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164722",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101810-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045332",
+    "sort": "5"
   }
 }
