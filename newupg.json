@@ -9798,5 +9798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
     "sort": "7"
+  },
+  "Lancelot-mv13gq5oab": {
+    "key": "Lancelot-mv13gq5oab",
+    "hero": "Lancelot",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
+    "sort": "7"
   }
 }
