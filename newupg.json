@@ -10378,5 +10378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173711",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
     "sort": "2"
+  },
+  "Leomord-vm4hsml4p9": {
+    "key": "Leomord-vm4hsml4p9",
+    "hero": "Leomord",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173711",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
+    "sort": "2"
   }
 }
