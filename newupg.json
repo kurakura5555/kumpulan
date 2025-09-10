@@ -10168,5 +10168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132639",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
     "sort": "9"
+  },
+  "Layla-0v0j6qolpb": {
+    "key": "Layla-0v0j6qolpb",
+    "hero": "Layla",
+    "skin_name": "Blazing",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20blazing%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132639",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172008",
+    "sort": "8"
   }
 }
