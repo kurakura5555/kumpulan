@@ -10978,5 +10978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165408",
     "sort": "5"
+  },
+  "Lesley-tenva93kq7": {
+    "key": "Lesley-tenva93kq7",
+    "hero": "Lesley",
+    "skin_name": "Luckybox",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20luckybox%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero105313-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123939",
+    "sort": "5"
   }
 }
