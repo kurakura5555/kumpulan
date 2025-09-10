@@ -9908,5 +9908,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
     "sort": "5"
+  },
+  "Lancelot-gnio8low0c": {
+    "key": "Lancelot-gnio8low0c",
+    "hero": "Lancelot",
+    "skin_name": "Star",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20star%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
+    "sort": "5"
   }
 }
