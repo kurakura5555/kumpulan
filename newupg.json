@@ -12348,5 +12348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035448",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
     "sort": "3"
+  },
+  "Melissa-p3lfhxunjv": {
+    "key": "Melissa-p3lfhxunjv",
+    "hero": "Melissa",
+    "skin_name": "Sparkle",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/melissa%20sparkle%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero1145-portrait.png/revision/latest/scale-to-width-down/150?cb=20240402085724",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
+    "sort": "4"
   }
 }
