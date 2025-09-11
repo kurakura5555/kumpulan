@@ -11398,5 +11398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
     "sort": "7"
+  },
+  "Ling-8rxt3acr36": {
+    "key": "Ling-8rxt3acr36",
+    "hero": "Ling",
+    "skin_name": "Neobeast",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20neobeast%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
+    "sort": "9"
   }
 }
