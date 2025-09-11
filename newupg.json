@@ -11938,5 +11938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170246",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170248",
     "sort": "3"
+  },
+  "Luo-Yi-gijtk9wemy": {
+    "key": "Luo-Yi-gijtk9wemy",
+    "hero": "Luo Yi",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/luo%20yi%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163426",
+    "sort": "7"
   }
 }
