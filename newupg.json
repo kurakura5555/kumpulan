@@ -12628,5 +12628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
     "sort": "11"
+  },
+  "Miya-gbkgrmgwkk": {
+    "key": "Miya-gbkgrmgwkk",
+    "hero": "Miya",
+    "skin_name": "Collector",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20collector%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
+    "sort": "11"
   }
 }
