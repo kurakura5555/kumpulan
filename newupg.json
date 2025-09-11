@@ -13218,5 +13218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "sort": "10"
+  },
+  "Mathilda-159gkhqtap": {
+    "key": "Mathilda-159gkhqtap",
+    "hero": "Mathilda",
+    "skin_name": "As",
+    "skin_name2": "Abyss",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/moskov%20as%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
+    "sort": "11"
   }
 }
