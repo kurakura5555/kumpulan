@@ -12028,5 +12028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170048",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
     "sort": "2"
+  },
+  "Lilya-nplfmjf2lq": {
+    "key": "Lilya-nplfmjf2lq",
+    "hero": "Lilya",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lylia%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170048",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest/scale-to-width-down/150?cb=20240401090131",
+    "sort": "2"
   }
 }
