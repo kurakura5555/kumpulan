@@ -13228,5 +13228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "sort": "11"
+  },
+  "Mathilda-l9xh6c0n7s": {
+    "key": "Mathilda-l9xh6c0n7s",
+    "hero": "Mathilda",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/mathilda%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154335",
+    "sort": "2"
   }
 }
