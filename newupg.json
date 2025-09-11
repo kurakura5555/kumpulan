@@ -12358,5 +12358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero1145-portrait.png/revision/latest/scale-to-width-down/150?cb=20240402085724",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
     "sort": "5"
+  },
+  "Melissa-tvlp020rpc": {
+    "key": "Melissa-tvlp020rpc",
+    "hero": "Melissa",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/melissa%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1144-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045331",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
+    "sort": "4"
   }
 }
