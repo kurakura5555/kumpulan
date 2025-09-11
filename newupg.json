@@ -13738,5 +13738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165237",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165241",
     "sort": "3"
+  },
+  "Odete-odgtje29hy": {
+    "key": "Odete-odgtje29hy",
+    "hero": "Odete",
+    "skin_name": "Christmas",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20christmas%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165237",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815144026",
+    "sort": "3"
   }
 }
