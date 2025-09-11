@@ -13668,5 +13668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163407",
     "sort": "2"
+  },
+  "Odete-oc1dennd4b": {
+    "key": "Odete-oc1dennd4b",
+    "hero": "Odete",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165238",
+    "sort": "2"
   }
 }
