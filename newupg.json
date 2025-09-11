@@ -13618,5 +13618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227085831",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
     "sort": "2"
+  },
+  "Nolan-3urwwp72bm": {
+    "key": "Nolan-3urwwp72bm",
+    "hero": "Nolan",
+    "skin_name": "Star",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nolan%20star%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142659",
+    "sort": "3"
   }
 }
