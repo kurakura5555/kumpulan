@@ -13628,5 +13628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142659",
     "sort": "3"
+  },
+  "Novaria-fb13pd18fi": {
+    "key": "Novaria-fb13pd18fi",
+    "hero": "Novaria",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/novaria%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuloPr5SOyiMy_ND1wCSh5N1QDCL37uo9A8G33RKtfPxod9-WlZNcsWFE&s=10",
+    "sort": "2"
   }
 }
