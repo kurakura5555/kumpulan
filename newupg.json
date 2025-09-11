@@ -12078,5 +12078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest/scale-to-width-down/150?cb=20240401090131",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
     "sort": "7"
+  },
+  "Martis-aml97fxq4h": {
+    "key": "Martis-aml97fxq4h",
+    "hero": "Martis",
+    "skin_name": "Basic",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20basic%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
+    "sort": "2"
   }
 }
