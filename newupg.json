@@ -11988,5 +11988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133616",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163426",
     "sort": "4"
+  },
+  "Luo-Yi-91y1s6a3q9": {
+    "key": "Luo-Yi-91y1s6a3q9",
+    "hero": "Luo Yi",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/luo%20yi%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170248",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180005",
+    "sort": "5"
   }
 }
