@@ -12098,5 +12098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115332",
     "sort": "2"
+  },
+  "Martis-ex9n67pn5c": {
+    "key": "Martis-ex9n67pn5c",
+    "hero": "Martis",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20basic%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
+    "sort": "2"
   }
 }
