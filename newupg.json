@@ -13778,5 +13778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163407",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043847",
     "sort": "8"
+  },
+  "Odete-nixq1f6su7": {
+    "key": "Odete-nixq1f6su7",
+    "hero": "Odete",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20luckybox%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043847",
+    "sort": "4"
   }
 }
