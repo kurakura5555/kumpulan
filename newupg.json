@@ -13358,5 +13358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114100424",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164410",
     "sort": "10"
+  },
+  "Nana-9zw9755r6y": {
+    "key": "Nana-9zw9755r6y",
+    "hero": "Nana",
+    "skin_name": "Mpl",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20mpl%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164410",
+    "sort": "5"
   }
 }
