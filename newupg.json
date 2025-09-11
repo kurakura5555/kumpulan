@@ -13538,5 +13538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
     "sort": "3"
+  },
+  "Natan-657paxj7rv": {
+    "key": "Natan-657paxj7rv",
+    "hero": "Natan",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
+    "sort": "6"
   }
 }
