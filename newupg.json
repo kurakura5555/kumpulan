@@ -13248,5 +13248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170345",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero1024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170347",
     "sort": "2"
+  },
+  "Mathilda-8cgxu2cgdt": {
+    "key": "Mathilda-8cgxu2cgdt",
+    "hero": "Mathilda",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/mathilda%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero1023-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170346",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154335",
+    "sort": "3"
   }
 }
