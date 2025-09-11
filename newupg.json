@@ -12988,5 +12988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
     "sort": "7"
+  },
+  "Moskov-fty3c9umov": {
+    "key": "Moskov-fty3c9umov",
+    "hero": "Moskov",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
+    "sort": "7"
   }
 }
