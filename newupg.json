@@ -12878,5 +12878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
     "sort": "7"
+  },
+  "Miya-4gsnpsmk52": {
+    "key": "Miya-4gsnpsmk52",
+    "hero": "Miya",
+    "skin_name": "Valentine",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20valentine%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
+    "sort": "7"
   }
 }
