@@ -12418,5 +12418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero746-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131092447",
     "sort": "2"
+  },
+  "Minsittar-989hbdbom1": {
+    "key": "Minsittar-989hbdbom1",
+    "hero": "Minsittar",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minsitthar%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125755",
+    "sort": "2"
   }
 }
