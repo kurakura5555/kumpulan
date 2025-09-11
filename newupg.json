@@ -13168,5 +13168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
     "sort": "3"
+  },
+  "Moskov-mnwos77at2": {
+    "key": "Moskov-mnwos77at2",
+    "hero": "Moskov",
+    "skin_name": "Star",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20star2%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "sort": "10"
   }
 }
