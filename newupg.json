@@ -11878,5 +11878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170244",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163426",
     "sort": "2"
+  },
+  "Luo-Yi-7e8yjfrlp4": {
+    "key": "Luo-Yi-7e8yjfrlp4",
+    "hero": "Luo Yi",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/luo%20yi%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170244",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170248",
+    "sort": "2"
   }
 }
