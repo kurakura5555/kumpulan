@@ -11228,5 +11228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
     "sort": "2"
+  },
+  "Ling-d6ol84ekah": {
+    "key": "Ling-d6ol84ekah",
+    "hero": "Ling",
+    "skin_name": "Basic",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20basic%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
+    "sort": "2"
   }
 }
