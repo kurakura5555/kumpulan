@@ -11248,5 +11248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
     "sort": "2"
+  },
+  "Ling-df0sm495qf": {
+    "key": "Ling-df0sm495qf",
+    "hero": "Ling",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
+    "sort": "2"
   }
 }
