@@ -13648,5 +13648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102653",
     "sort": "2"
+  },
+  "Novaria-h90am86g0h": {
+    "key": "Novaria-h90am86g0h",
+    "hero": "Novaria",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/novaria%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102653",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuloPr5SOyiMy_ND1wCSh5N1QDCL37uo9A8G33RKtfPxod9-WlZNcsWFE&s=10",
+    "sort": "3"
   }
 }
