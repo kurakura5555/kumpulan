@@ -13038,5 +13038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165006",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
     "sort": "8"
+  },
+  "Moskov-3gtzn95w94": {
+    "key": "Moskov-3gtzn95w94",
+    "hero": "Moskov",
+    "skin_name": "Luckybox",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20luckybox%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "sort": "6"
   }
 }
