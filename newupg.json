@@ -12218,5 +12218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
     "sort": "8"
+  },
+  "Martis-jy5nbq8jci": {
+    "key": "Martis-jy5nbq8jci",
+    "hero": "Martis",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20star2%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115332",
+    "sort": "8"
   }
 }
