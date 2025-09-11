@@ -12828,5 +12828,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164219",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
     "sort": "4"
+  },
+  "Miya-1t05bmxaqd": {
+    "key": "Miya-1t05bmxaqd",
+    "hero": "Miya",
+    "skin_name": "Star",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20star%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164219",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
+    "sort": "4"
   }
 }
