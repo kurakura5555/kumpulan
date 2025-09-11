@@ -13488,5 +13488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero243-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164832",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
     "sort": "3"
+  },
+  "Natan-xuolgsdu1n": {
+    "key": "Natan-xuolgsdu1n",
+    "hero": "Natan",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natalia%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170443",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
+    "sort": "2"
   }
 }
