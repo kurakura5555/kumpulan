@@ -12118,5 +12118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
     "sort": "2"
+  },
+  "Martis-2vkle9c38l": {
+    "key": "Martis-2vkle9c38l",
+    "hero": "Martis",
+    "skin_name": "Aot",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20aot%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
+    "sort": "7"
   }
 }
