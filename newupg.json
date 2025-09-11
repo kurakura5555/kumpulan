@@ -12228,5 +12228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115332",
     "sort": "8"
+  },
+  "Martis-qfoyx34bnx": {
+    "key": "Martis-qfoyx34bnx",
+    "hero": "Martis",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20star2%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
+    "sort": "8"
   }
 }
