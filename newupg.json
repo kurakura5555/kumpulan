@@ -13708,5 +13708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043847",
     "sort": "2"
+  },
+  "Odete-dpl7lrjqm6": {
+    "key": "Odete-dpl7lrjqm6",
+    "hero": "Odete",
+    "skin_name": "Christmas",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20christmas%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165237",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163407",
+    "sort": "3"
   }
 }
