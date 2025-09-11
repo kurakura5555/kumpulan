@@ -11118,5 +11118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165407",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
     "sort": "8"
+  },
+  "Lesley-1r32w1uoe3": {
+    "key": "Lesley-1r32w1uoe3",
+    "hero": "Lesley",
+    "skin_name": "Star",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20star%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "sort": "8"
   }
 }
