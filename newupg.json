@@ -11418,5 +11418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
     "sort": "9"
+  },
+  "Ling-zll7rhhsbu": {
+    "key": "Ling-zll7rhhsbu",
+    "hero": "Ling",
+    "skin_name": "Neobeast",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20neobeast%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
+    "sort": "9"
   }
 }
