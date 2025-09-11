@@ -12708,5 +12708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164225",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
     "sort": "5"
+  },
+  "Miya-smrbbrl36": {
+    "key": "Miya-smrbbrl36",
+    "hero": "Miya",
+    "skin_name": "Luckybox",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20luckybox%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
+    "sort": "3"
   }
 }
