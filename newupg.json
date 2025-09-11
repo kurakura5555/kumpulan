@@ -12608,5 +12608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
     "sort": "9"
+  },
+  "Miya-nule71vevx": {
+    "key": "Miya-nule71vevx",
+    "hero": "Miya",
+    "skin_name": "Collector",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20collector%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
+    "sort": "11"
   }
 }
