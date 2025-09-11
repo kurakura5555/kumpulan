@@ -11538,5 +11538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103748",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
     "sort": "2"
+  },
+  "Lunox-ztnxxp45ne": {
+    "key": "Lunox-ztnxxp45ne",
+    "hero": "Lunox",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165719",
+    "sort": "2"
   }
 }
