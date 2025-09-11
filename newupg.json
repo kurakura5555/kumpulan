@@ -12378,5 +12378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1144-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045331",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035448",
     "sort": "4"
+  },
+  "Minotaur-obfa4m9kwt": {
+    "key": "Minotaur-obfa4m9kwt",
+    "hero": "Minotaur",
+    "skin_name": "Elite",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minotaur%20elite%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164733",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133655",
+    "sort": "2"
   }
 }
