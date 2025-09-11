@@ -12438,5 +12438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
     "sort": "2"
+  },
+  "Miya-lyq7czhfwi": {
+    "key": "Miya-lyq7czhfwi",
+    "hero": "Miya",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
+    "sort": "2"
   }
 }
