@@ -11948,5 +11948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170246",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163426",
     "sort": "7"
+  },
+  "Luo-Yi-0voowhsun0": {
+    "key": "Luo-Yi-0voowhsun0",
+    "hero": "Luo Yi",
+    "skin_name": "Epic",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/luo%20yi%20epic%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
+    "sort": "7"
   }
 }
