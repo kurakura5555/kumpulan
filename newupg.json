@@ -11198,5 +11198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121813",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
     "sort": "6"
+  },
+  "Ling-4ttffwg2nk": {
+    "key": "Ling-4ttffwg2nk",
+    "hero": "Ling",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
+    "sort": "2"
   }
 }
