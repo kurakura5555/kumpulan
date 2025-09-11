@@ -12858,5 +12858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
     "sort": "13"
+  },
+  "Miya-jzy02h2geg": {
+    "key": "Miya-jzy02h2geg",
+    "hero": "Miya",
+    "skin_name": "Valentine",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20valentine%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
+    "sort": "7"
   }
 }
