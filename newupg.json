@@ -12108,5 +12108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124137",
     "sort": "2"
+  },
+  "Martis-hgu67p1kmq": {
+    "key": "Martis-hgu67p1kmq",
+    "hero": "Martis",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20basic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
+    "sort": "2"
   }
 }
