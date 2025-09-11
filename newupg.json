@@ -11838,5 +11838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050312",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125739",
     "sort": "5"
+  },
+  "Lunox-shj85nh01h": {
+    "key": "Lunox-shj85nh01h",
+    "hero": "Lunox",
+    "skin_name": "Zodiac",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20zodiac%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050312",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165718",
+    "sort": "5"
   }
 }
