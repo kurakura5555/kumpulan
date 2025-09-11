@@ -13208,5 +13208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "sort": "6"
+  },
+  "Mathilda-e4e501ydml": {
+    "key": "Mathilda-e4e501ydml",
+    "hero": "Mathilda",
+    "skin_name": "Star",
+    "skin_name2": "Abyss",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/moskov%20star2%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
+    "sort": "10"
   }
 }
