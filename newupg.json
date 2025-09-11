@@ -11148,5 +11148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121813",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165408",
     "sort": "6"
+  },
+  "Lesley-8bdv24pghs": {
+    "key": "Lesley-8bdv24pghs",
+    "hero": "Lesley",
+    "skin_name": "Valentine",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/lesley%20valentine%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121813",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "sort": "6"
   }
 }
