@@ -12588,5 +12588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
     "sort": "9"
+  },
+  "Miya-sm9imutdcs": {
+    "key": "Miya-sm9imutdcs",
+    "hero": "Miya",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20basic%20s%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
+    "sort": "9"
   }
 }
