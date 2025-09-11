@@ -11508,5 +11508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
     "sort": "3"
+  },
+  "Ling-71c8nwrumy": {
+    "key": "Ling-71c8nwrumy",
+    "hero": "Ling",
+    "skin_name": "Star",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20star%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
+    "sort": "3"
   }
 }
