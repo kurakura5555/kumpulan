@@ -11778,5 +11778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165719",
     "sort": "4"
+  },
+  "Lunox-feph8hy9m6": {
+    "key": "Lunox-feph8hy9m6",
+    "hero": "Lunox",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20star%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165720",
+    "sort": "4"
   }
 }
