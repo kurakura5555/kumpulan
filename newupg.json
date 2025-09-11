@@ -13468,5 +13468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134504",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTssomIPC1Kgxg5Exp6Hr3SKEMRZy4IwV2lDZYCcolFBnjOJndqc5KNyOkx&s=10",
     "sort": "2"
+  },
+  "Natalia-fsulrmlg7t": {
+    "key": "Natalia-fsulrmlg7t",
+    "hero": "Natalia",
+    "skin_name": "Elite",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natalia%20elite%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero244-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
+    "sort": "4"
   }
 }
