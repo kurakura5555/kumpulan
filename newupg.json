@@ -11498,5 +11498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
     "sort": "3"
+  },
+  "Ling-wwa6e01pvl": {
+    "key": "Ling-wwa6e01pvl",
+    "hero": "Ling",
+    "skin_name": "Star",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20star%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
+    "sort": "3"
   }
 }
