@@ -11078,5 +11078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165407",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134621",
     "sort": "8"
+  },
+  "Lesley-sth55y5xr1": {
+    "key": "Lesley-sth55y5xr1",
+    "hero": "Lesley",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20star%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065924",
+    "sort": "8"
   }
 }
