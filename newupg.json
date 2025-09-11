@@ -13658,5 +13658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102653",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuloPr5SOyiMy_ND1wCSh5N1QDCL37uo9A8G33RKtfPxod9-WlZNcsWFE&s=10",
     "sort": "3"
+  },
+  "Odete-pi65tkidvi": {
+    "key": "Odete-pi65tkidvi",
+    "hero": "Odete",
+    "skin_name": "Basic",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20basic%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163407",
+    "sort": "2"
   }
 }
