@@ -12498,5 +12498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest/scale-to-width-down/150?cb=20220224220136",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
     "sort": "10"
+  },
+  "Miya-e34bydiawj": {
+    "key": "Miya-e34bydiawj",
+    "hero": "Miya",
+    "skin_name": "Anniversary",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20anniversary%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest/scale-to-width-down/150?cb=20220224220136",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
+    "sort": "10"
   }
 }
