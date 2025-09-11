@@ -11058,5 +11058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165402",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165406",
     "sort": "4"
+  },
+  "Lesley-ifcfoqd07s": {
+    "key": "Lesley-ifcfoqd07s",
+    "hero": "Lesley",
+    "skin_name": "Special",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20special%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165402",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "sort": "4"
   }
 }
