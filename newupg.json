@@ -13238,5 +13238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170345",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154335",
     "sort": "2"
+  },
+  "Mathilda-j8kzxx6qy5": {
+    "key": "Mathilda-j8kzxx6qy5",
+    "hero": "Mathilda",
+    "skin_name": "Basic",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/mathilda%20basic%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero1024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170347",
+    "sort": "2"
   }
 }
