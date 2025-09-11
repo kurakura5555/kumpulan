@@ -12978,5 +12978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "sort": "7"
+  },
+  "Moskov-qey75m6k1u": {
+    "key": "Moskov-qey75m6k1u",
+    "hero": "Moskov",
+    "skin_name": "Elite",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20elite%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "sort": "7"
   }
 }
