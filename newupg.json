@@ -12598,5 +12598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
     "sort": "9"
+  },
+  "Miya-ornu6c8wea": {
+    "key": "Miya-ornu6c8wea",
+    "hero": "Miya",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20basic%20s%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
+    "sort": "9"
   }
 }
