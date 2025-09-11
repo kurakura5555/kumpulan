@@ -13498,5 +13498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170443",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
     "sort": "2"
+  },
+  "Natan-uy7sr93qm4": {
+    "key": "Natan-uy7sr93qm4",
+    "hero": "Natan",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170443",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "sort": "2"
   }
 }
