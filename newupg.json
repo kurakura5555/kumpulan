@@ -12788,5 +12788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164240",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
     "sort": "8"
+  },
+  "Miya-veo9bnf235": {
+    "key": "Miya-veo9bnf235",
+    "hero": "Miya",
+    "skin_name": "Star",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20star%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164219",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
+    "sort": "4"
   }
 }
