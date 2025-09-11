@@ -13528,5 +13528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
     "sort": "3"
+  },
+  "Natan-wnxx2iarii": {
+    "key": "Natan-wnxx2iarii",
+    "hero": "Natan",
+    "skin_name": "Elite",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20elite%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "sort": "3"
   }
 }
