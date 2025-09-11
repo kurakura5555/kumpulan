@@ -12248,5 +12248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
     "sort": "5"
+  },
+  "Masha-6dkbvylgiz": {
+    "key": "Masha-6dkbvylgiz",
+    "hero": "Masha",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/masha%20basic%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero882-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170108",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "sort": "2"
   }
 }
