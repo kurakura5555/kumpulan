@@ -11558,5 +11558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165720",
     "sort": "2"
+  },
+  "Lunox-xkcv9d9y0n": {
+    "key": "Lunox-xkcv9d9y0n",
+    "hero": "Lunox",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125739",
+    "sort": "2"
   }
 }
