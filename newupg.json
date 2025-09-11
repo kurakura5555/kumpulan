@@ -11568,5 +11568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125739",
     "sort": "2"
+  },
+  "Lunox-8p6u7vuwi3": {
+    "key": "Lunox-8p6u7vuwi3",
+    "hero": "Lunox",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165718",
+    "sort": "2"
   }
 }
