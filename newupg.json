@@ -13128,5 +13128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165001",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
     "sort": "5"
+  },
+  "Moskov-fd7c2n0rmq": {
+    "key": "Moskov-fd7c2n0rmq",
+    "hero": "Moskov",
+    "skin_name": "Star",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20star%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
+    "sort": "3"
   }
 }
