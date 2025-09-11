@@ -11818,5 +11818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050312",
     "sort": "4"
+  },
+  "Lunox-hfjcc0sluh": {
+    "key": "Lunox-hfjcc0sluh",
+    "hero": "Lunox",
+    "skin_name": "Zodiac",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20zodiac%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050312",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165720",
+    "sort": "5"
   }
 }
