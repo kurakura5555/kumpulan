@@ -13438,5 +13438,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_n3-uGtoZGD_9-ZJs81G4-2Jaw-faf8RR6O8Q2YGc0AelJm9EfvdpMz8G&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114100424",
     "sort": "7"
+  },
+  "Natalia-zrpfhzoy87": {
+    "key": "Natalia-zrpfhzoy87",
+    "hero": "Natalia",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natalia%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134504",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero248-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919031336",
+    "sort": "2"
   }
 }
