@@ -11458,5 +11458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
     "sort": "5"
+  },
+  "Ling-5mj46r4sfg": {
+    "key": "Ling-5mj46r4sfg",
+    "hero": "Ling",
+    "skin_name": "Special",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20special%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
+    "sort": "5"
   }
 }
