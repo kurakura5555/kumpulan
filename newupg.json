@@ -12968,5 +12968,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
     "sort": "11"
+  },
+  "Moskov-vo7bo17oaa": {
+    "key": "Moskov-vo7bo17oaa",
+    "hero": "Moskov",
+    "skin_name": "Elite",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20elite%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
+    "sort": "7"
   }
 }
