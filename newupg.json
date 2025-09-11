@@ -12448,5 +12448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
     "sort": "2"
+  },
+  "Miya-7u05lap9ff": {
+    "key": "Miya-7u05lap9ff",
+    "hero": "Miya",
+    "skin_name": "Elite",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20elite%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
+    "sort": "2"
   }
 }
