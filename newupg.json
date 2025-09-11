@@ -12938,5 +12938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero312-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114104739",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
     "sort": "2"
+  },
+  "Moskov-q554eclicq": {
+    "key": "Moskov-q554eclicq",
+    "hero": "Moskov",
+    "skin_name": "Abyss",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20abyss%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "sort": "9"
   }
 }
