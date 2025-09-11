@@ -12428,5 +12428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125755",
     "sort": "2"
+  },
+  "Miya-a5da1s1ivt": {
+    "key": "Miya-a5da1s1ivt",
+    "hero": "Miya",
+    "skin_name": "Elite",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20elite%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
+    "sort": "2"
   }
 }
