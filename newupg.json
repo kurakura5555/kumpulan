@@ -12308,5 +12308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170622",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035448",
     "sort": "2"
+  },
+  "Melissa-fsu3peuzu8": {
+    "key": "Melissa-fsu3peuzu8",
+    "hero": "Melissa",
+    "skin_name": "Basic",
+    "skin_name2": "Sparkle",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/melissa%20basic%20to%20sparkle.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero1145-portrait.png/revision/latest/scale-to-width-down/150?cb=20240402085724",
+    "sort": "2"
   }
 }
