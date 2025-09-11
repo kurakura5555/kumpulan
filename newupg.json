@@ -12128,5 +12128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
     "sort": "7"
+  },
+  "Martis-keglrzuclz": {
+    "key": "Martis-keglrzuclz",
+    "hero": "Martis",
+    "skin_name": "Luckybox",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20luckybox%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115332",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
+    "sort": "4"
   }
 }
