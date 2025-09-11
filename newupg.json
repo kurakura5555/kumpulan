@@ -12338,5 +12338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035448",
     "sort": "6"
+  },
+  "Melissa-pmmbydrb8u": {
+    "key": "Melissa-pmmbydrb8u",
+    "hero": "Melissa",
+    "skin_name": "Jjk",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/melissa%20jjk%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
+    "sort": "3"
   }
 }
