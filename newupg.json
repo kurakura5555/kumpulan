@@ -13448,5 +13448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134504",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero248-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919031336",
     "sort": "2"
+  },
+  "Natalia-rckllni671": {
+    "key": "Natalia-rckllni671",
+    "hero": "Natalia",
+    "skin_name": "Basic",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natalia%20basic%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134504",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
+    "sort": "2"
   }
 }
