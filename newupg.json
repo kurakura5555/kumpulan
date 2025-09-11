@@ -12288,5 +12288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170111",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "5"
+  },
+  "Melissa-0h2v6su7i8": {
+    "key": "Melissa-0h2v6su7i8",
+    "hero": "Melissa",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/melissa%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
+    "sort": "2"
   }
 }
