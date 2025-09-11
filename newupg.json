@@ -12038,5 +12038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170048",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest/scale-to-width-down/150?cb=20240401090131",
     "sort": "2"
+  },
+  "Lilya-259wi4jugj": {
+    "key": "Lilya-259wi4jugj",
+    "hero": "Lilya",
+    "skin_name": "Elite",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lylia%20elite%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170049",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
+    "sort": "3"
   }
 }
