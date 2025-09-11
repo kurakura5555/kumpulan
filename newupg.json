@@ -11188,5 +11188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121813",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest/scale-to-width-down/150?cb=20250209101031",
     "sort": "6"
+  },
+  "Lesley-mva2qbq08o": {
+    "key": "Lesley-mva2qbq08o",
+    "hero": "Lesley",
+    "skin_name": "Valentine",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20valentine%20to%20mystic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121813",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "sort": "6"
   }
 }
