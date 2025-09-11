@@ -11348,5 +11348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
     "sort": "8"
+  },
+  "Ling-3sxwuc7ts2": {
+    "key": "Ling-3sxwuc7ts2",
+    "hero": "Ling",
+    "skin_name": "Kungfu Panda",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20kungfu%20panda%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
+    "sort": "8"
   }
 }
