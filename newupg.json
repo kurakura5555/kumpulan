@@ -12268,5 +12268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170110",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "4"
+  },
+  "Masha-eb1ns0dr3y": {
+    "key": "Masha-eb1ns0dr3y",
+    "hero": "Masha",
+    "skin_name": "Season",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/masha%20season%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170111",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170110",
+    "sort": "5"
   }
 }
