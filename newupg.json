@@ -12158,5 +12158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165510",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
     "sort": "6"
+  },
+  "Martis-avfeouwd9w": {
+    "key": "Martis-avfeouwd9w",
+    "hero": "Martis",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115332",
+    "sort": "6"
   }
 }
