@@ -12018,5 +12018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170248",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163426",
     "sort": "5"
+  },
+  "Lilya-3node5zeg4": {
+    "key": "Lilya-3node5zeg4",
+    "hero": "Lilya",
+    "skin_name": "Basic",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lylia%20basic%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170048",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
+    "sort": "2"
   }
 }
