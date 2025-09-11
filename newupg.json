@@ -11738,5 +11738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125739",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165718",
     "sort": "8"
+  },
+  "Lunox-ysupv7ekzq": {
+    "key": "Lunox-ysupv7ekzq",
+    "hero": "Lunox",
+    "skin_name": "Legend",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20legend%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050312",
+    "sort": "8"
   }
 }
