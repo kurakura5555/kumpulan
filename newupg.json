@@ -13478,5 +13478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero244-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134638",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
     "sort": "4"
+  },
+  "Natalia-pp5kyc9g69": {
+    "key": "Natalia-pp5kyc9g69",
+    "hero": "Natalia",
+    "skin_name": "Star",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natalia%20star%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero243-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164832",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
+    "sort": "3"
   }
 }
