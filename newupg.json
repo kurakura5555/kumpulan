@@ -13278,5 +13278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero1024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170347",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154335",
     "sort": "4"
+  },
+  "Nana-ux0vqe5w7": {
+    "key": "Nana-ux0vqe5w7",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164410",
+    "sort": "2"
   }
 }
