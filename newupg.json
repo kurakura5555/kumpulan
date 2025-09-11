@@ -12998,5 +12998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
     "sort": "7"
+  },
+  "Moskov-0yx9t6adev": {
+    "key": "Moskov-0yx9t6adev",
+    "hero": "Moskov",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
+    "sort": "7"
   }
 }
