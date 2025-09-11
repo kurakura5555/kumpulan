@@ -12398,5 +12398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164735",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133655",
     "sort": "4"
+  },
+  "Minotaur-z319dilex8": {
+    "key": "Minotaur-z319dilex8",
+    "hero": "Minotaur",
+    "skin_name": "Season",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minotaur%20season%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164734",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133655",
+    "sort": "3"
   }
 }
