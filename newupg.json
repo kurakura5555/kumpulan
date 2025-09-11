@@ -13188,5 +13188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
     "sort": "10"
+  },
+  "Mathilda-30uwxoz2mo": {
+    "key": "Mathilda-30uwxoz2mo",
+    "hero": "Mathilda",
+    "skin_name": "Luckybox",
+    "skin_name2": "Collector",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/moskov%20luckybox%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165004",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-FOpMMwdKGYLverK7PAnxWEtKfCYLu11JQ&s",
+    "sort": "6"
   }
 }
