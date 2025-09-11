@@ -13318,5 +13318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164410",
     "sort": "4"
+  },
+  "Nana-gricxocaf0": {
+    "key": "Nana-gricxocaf0",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Mistbenders",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20elite2%20to%20mistbenders.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114100424",
+    "sort": "4"
   }
 }
