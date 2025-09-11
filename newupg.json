@@ -13098,5 +13098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165001",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "sort": "5"
+  },
+  "Moskov-msoyqc1kbv": {
+    "key": "Moskov-msoyqc1kbv",
+    "hero": "Moskov",
+    "skin_name": "Special",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20special%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165001",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "sort": "5"
   }
 }
