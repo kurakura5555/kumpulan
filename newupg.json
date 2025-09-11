@@ -12048,5 +12048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170049",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
     "sort": "3"
+  },
+  "Lilya-o2f62zd5c5": {
+    "key": "Lilya-o2f62zd5c5",
+    "hero": "Lilya",
+    "skin_name": "Halloween",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lylia%20halloween%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170051",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043912",
+    "sort": "5"
   }
 }
