@@ -12668,5 +12668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164225",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748",
     "sort": "5"
+  },
+  "Miya-4w7x5ug3b7": {
+    "key": "Miya-4w7x5ug3b7",
+    "hero": "Miya",
+    "skin_name": "Limited",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20limited%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164225",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343",
+    "sort": "5"
   }
 }
