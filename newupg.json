@@ -12888,5 +12888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158",
     "sort": "7"
+  },
+  "Miya-j5czc7a97a": {
+    "key": "Miya-j5czc7a97a",
+    "hero": "Miya",
+    "skin_name": "Valentine",
+    "skin_name2": "Legend",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/miya%20valentine%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164230",
+    "sort": "7"
   }
 }
