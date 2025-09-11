@@ -11288,5 +11288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
     "sort": "6"
+  },
+  "Ling-ubwfnc81t6": {
+    "key": "Ling-ubwfnc81t6",
+    "hero": "Ling",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20dragon%20tamer%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
+    "sort": "4"
   }
 }
