@@ -14148,5 +14148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045337",
     "sort": "2"
+  },
+  "Parsha-luvealkofo": {
+    "key": "Parsha-luvealkofo",
+    "hero": "Parsha",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
+    "sort": "2"
   }
 }
