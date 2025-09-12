@@ -14548,5 +14548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
     "sort": "6"
+  },
+  "Roger-hl9uzndra8": {
+    "key": "Roger-hl9uzndra8",
+    "hero": "Roger",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
+    "sort": "2"
   }
 }
