@@ -15068,5 +15068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero299-portrait.png/revision/latest/scale-to-width-down/150?cb=20240609013617",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
     "sort": "9"
+  },
+  "Ruby-kle5s4escv": {
+    "key": "Ruby-kle5s4escv",
+    "hero": "Ruby",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20star%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "6"
   }
 }
