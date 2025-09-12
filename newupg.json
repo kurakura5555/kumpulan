@@ -14688,5 +14688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165135",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
     "sort": "6"
+  },
+  "Roger-dyzef06gzw": {
+    "key": "Roger-dyzef06gzw",
+    "hero": "Roger",
+    "skin_name": "Luckybox",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20luckybox%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920092342",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
+    "sort": "4"
   }
 }
