@@ -14638,5 +14638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
     "sort": "5"
+  },
+  "Roger-i4m802bori": {
+    "key": "Roger-i4m802bori",
+    "hero": "Roger",
+    "skin_name": "Epic",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20epic%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
+    "sort": "5"
   }
 }
