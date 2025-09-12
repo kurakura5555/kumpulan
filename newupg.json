@@ -14108,5 +14108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
     "sort": "5"
+  },
+  "Paquito-7ozux83gq3": {
+    "key": "Paquito-7ozux83gq3",
+    "hero": "Paquito",
+    "skin_name": "Star",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20star%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
+    "sort": "5"
   }
 }
