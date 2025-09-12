@@ -14308,5 +14308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165344",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
     "sort": "5"
+  },
+  "Parsha-qr9dg3mhds": {
+    "key": "Parsha-qr9dg3mhds",
+    "hero": "Parsha",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165344",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
+    "sort": "5"
   }
 }
