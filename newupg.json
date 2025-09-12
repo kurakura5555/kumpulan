@@ -14648,5 +14648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
     "sort": "5"
+  },
+  "Roger-d2q645uani": {
+    "key": "Roger-d2q645uani",
+    "hero": "Roger",
+    "skin_name": "Epic",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20epic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
+    "sort": "5"
   }
 }
