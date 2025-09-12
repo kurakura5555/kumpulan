@@ -14208,5 +14208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165343",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
     "sort": "4"
+  },
+  "Parsha-zb4eq78ldi": {
+    "key": "Parsha-zb4eq78ldi",
+    "hero": "Parsha",
+    "skin_name": "Collector",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20collector%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "sort": "6"
   }
 }
