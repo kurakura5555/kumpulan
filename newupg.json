@@ -14798,5 +14798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165133",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
     "sort": "4"
+  },
+  "Roger-ztkq2mba6t": {
+    "key": "Roger-ztkq2mba6t",
+    "hero": "Roger",
+    "skin_name": "Transformers",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20transformers%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
+    "sort": "9"
   }
 }
