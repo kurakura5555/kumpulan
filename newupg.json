@@ -13838,5 +13838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165239",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165237",
     "sort": "5"
+  },
+  "Odete-1vslv1hg6o": {
+    "key": "Odete-1vslv1hg6o",
+    "hero": "Odete",
+    "skin_name": "Special",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20special%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163407",
+    "sort": "5"
   }
 }
