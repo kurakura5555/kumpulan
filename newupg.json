@@ -14468,5 +14468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero946-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114142734",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170232",
     "sort": "6"
+  },
+  "Popol-&-Kupa-jgdelzjcdr": {
+    "key": "Popol-&-Kupa-jgdelzjcdr",
+    "hero": "Popol & Kupa",
+    "skin_name": "Transformers",
+    "skin_name2": "Collector",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/popol%20%26%20kupa%20transformers%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170232",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero946-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114142734",
+    "sort": "5"
   }
 }
