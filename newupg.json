@@ -14888,5 +14888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
     "sort": "3"
+  },
+  "Ruby-lopd7rp14k": {
+    "key": "Ruby-lopd7rp14k",
+    "hero": "Ruby",
+    "skin_name": "Elite",
+    "skin_name2": "Golden Month",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20elite%20to%20golden%20month.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154352",
+    "sort": "3"
   }
 }
