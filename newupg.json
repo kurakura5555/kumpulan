@@ -14738,5 +14738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165136",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
     "sort": "7"
+  },
+  "Roger-0b5vh2klry": {
+    "key": "Roger-0b5vh2klry",
+    "hero": "Roger",
+    "skin_name": "Prime",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20prime%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
+    "sort": "8"
   }
 }
