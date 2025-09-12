@@ -14828,5 +14828,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
     "sort": "2"
+  },
+  "Ruby-hzm1q3qd1r": {
+    "key": "Ruby-hzm1q3qd1r",
+    "hero": "Ruby",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
+    "sort": "2"
   }
 }
