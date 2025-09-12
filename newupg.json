@@ -14068,5 +14068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
     "sort": "4"
+  },
+  "Paquito-wkg34y1urc": {
+    "key": "Paquito-wkg34y1urc",
+    "hero": "Paquito",
+    "skin_name": "Special",
+    "skin_name2": "Pacquiao",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20special%20to%20pacquiao.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "sort": "4"
   }
 }
