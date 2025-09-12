@@ -14578,5 +14578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920092342",
     "sort": "2"
+  },
+  "Roger-gt8gbc1us2": {
+    "key": "Roger-gt8gbc1us2",
+    "hero": "Roger",
+    "skin_name": "Basic",
+    "skin_name2": "M3",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20basic%20to%20m3.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165136",
+    "sort": "2"
   }
 }
