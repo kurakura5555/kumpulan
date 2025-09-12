@@ -14488,5 +14488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133649",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
     "sort": "8"
+  },
+  "Rafaela-29nt9kgif8": {
+    "key": "Rafaela-29nt9kgif8",
+    "hero": "Rafaela",
+    "skin_name": "Christmas",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/rafaela%20christmas%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
+    "sort": "7"
   }
 }
