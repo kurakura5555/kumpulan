@@ -13968,5 +13968,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "sort": "2"
+  },
+  "Paquito-qoi700ef4c": {
+    "key": "Paquito-qoi700ef4c",
+    "hero": "Paquito",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
+    "sort": "2"
   }
 }
