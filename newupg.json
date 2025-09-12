@@ -14588,5 +14588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165136",
     "sort": "2"
+  },
+  "Roger-ugnnzqfwdp": {
+    "key": "Roger-ugnnzqfwdp",
+    "hero": "Roger",
+    "skin_name": "Basic",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20basic%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
+    "sort": "2"
   }
 }
