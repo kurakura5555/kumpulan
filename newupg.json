@@ -15088,5 +15088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
     "sort": "6"
+  },
+  "Ruby-fisf9ui6d7": {
+    "key": "Ruby-fisf9ui6d7",
+    "hero": "Ruby",
+    "skin_name": "Star",
+    "skin_name2": "Golden Month",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20star%20to%20golden%20month.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154352",
+    "sort": "6"
   }
 }
