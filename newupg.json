@@ -14538,5 +14538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164616",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
     "sort": "5"
+  },
+  "Rafaela-0klpkhrmxy": {
+    "key": "Rafaela-0klpkhrmxy",
+    "hero": "Rafaela",
+    "skin_name": "Season",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/rafaela%20season%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
+    "sort": "6"
   }
 }
