@@ -14158,5 +14158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
     "sort": "2"
+  },
+  "Parsha-q22j26zar9": {
+    "key": "Parsha-q22j26zar9",
+    "hero": "Parsha",
+    "skin_name": "Basic",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20basic%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "sort": "2"
   }
 }
