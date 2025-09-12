@@ -14368,5 +14368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1062-portrait.png/revision/latest/scale-to-width-down/150?cb=20240811090803",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
     "sort": "2"
+  },
+  "Popol-&-Kupa-jc1jl9chhx": {
+    "key": "Popol-&-Kupa-jc1jl9chhx",
+    "hero": "Popol & Kupa",
+    "skin_name": "Basic",
+    "skin_name2": "As",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/popol%20%26%20kupa%20basic%20to%20as.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero942-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero947-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142828",
+    "sort": "2"
   }
 }
