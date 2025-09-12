@@ -14178,5 +14178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
     "sort": "2"
+  },
+  "Parsha-e3xxvh731l": {
+    "key": "Parsha-e3xxvh731l",
+    "hero": "Parsha",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20basic2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
+    "sort": "4"
   }
 }
