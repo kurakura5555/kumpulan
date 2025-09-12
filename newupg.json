@@ -14218,5 +14218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
     "sort": "6"
+  },
+  "Parsha-dp2f27uh1v": {
+    "key": "Parsha-dp2f27uh1v",
+    "hero": "Parsha",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
+    "sort": "3"
   }
 }
