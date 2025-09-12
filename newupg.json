@@ -14818,5 +14818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
     "sort": "9"
+  },
+  "Ruby-ywjp4da6qe": {
+    "key": "Ruby-ywjp4da6qe",
+    "hero": "Ruby",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20basic%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "2"
   }
 }
