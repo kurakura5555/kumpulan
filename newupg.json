@@ -14778,5 +14778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165133",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
     "sort": "4"
+  },
+  "Roger-hgztzg8rxx": {
+    "key": "Roger-hgztzg8rxx",
+    "hero": "Roger",
+    "skin_name": "Star",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20star%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165133",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
+    "sort": "4"
   }
 }
