@@ -13988,5 +13988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
     "sort": "2"
+  },
+  "Paquito-r2z76bwt7t": {
+    "key": "Paquito-r2z76bwt7t",
+    "hero": "Paquito",
+    "skin_name": "Collector",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20collector%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
+    "sort": "7"
   }
 }
