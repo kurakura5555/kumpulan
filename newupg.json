@@ -14988,5 +14988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
     "sort": "11"
+  },
+  "Ruby-cn8evtvu68": {
+    "key": "Ruby-cn8evtvu68",
+    "hero": "Ruby",
+    "skin_name": "Luckybox",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20luckybox%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "5"
   }
 }
