@@ -14968,5 +14968,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
     "sort": "4"
+  },
+  "Ruby-issuh0vs1p": {
+    "key": "Ruby-issuh0vs1p",
+    "hero": "Ruby",
+    "skin_name": "Golden Month",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20golden%20month%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154352",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "10"
   }
 }
