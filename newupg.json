@@ -13858,5 +13858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165239",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165238",
     "sort": "5"
+  },
+  "Odete-ftiwgngwm7": {
+    "key": "Odete-ftiwgngwm7",
+    "hero": "Odete",
+    "skin_name": "Special",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20special%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165241",
+    "sort": "5"
   }
 }
