@@ -14868,5 +14868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
     "sort": "2"
+  },
+  "Ruby-t4jytr6099": {
+    "key": "Ruby-t4jytr6099",
+    "hero": "Ruby",
+    "skin_name": "Elite",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20elite%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "3"
   }
 }
