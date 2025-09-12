@@ -14248,5 +14248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165342",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
     "sort": "3"
+  },
+  "Parsha-hweobc1qfr": {
+    "key": "Parsha-hweobc1qfr",
+    "hero": "Parsha",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
+    "sort": "3"
   }
 }
