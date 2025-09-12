@@ -14348,5 +14348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
     "sort": "8"
+  },
+  "Parsha-bgmvwaivlj": {
+    "key": "Parsha-bgmvwaivlj",
+    "hero": "Parsha",
+    "skin_name": "Star",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20star%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "sort": "8"
   }
 }
