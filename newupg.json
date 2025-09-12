@@ -14268,5 +14268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
     "sort": "10"
+  },
+  "Parsha-x36g3zd1v4": {
+    "key": "Parsha-x36g3zd1v4",
+    "hero": "Parsha",
+    "skin_name": "Msc",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20msc%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "sort": "9"
   }
 }
