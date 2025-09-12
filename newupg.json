@@ -15078,5 +15078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
     "sort": "6"
+  },
+  "Ruby-n1rgzim0mq": {
+    "key": "Ruby-n1rgzim0mq",
+    "hero": "Ruby",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
+    "sort": "6"
   }
 }
