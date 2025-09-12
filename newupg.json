@@ -13958,5 +13958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
     "sort": "2"
+  },
+  "Paquito-egrq91p5wh": {
+    "key": "Paquito-egrq91p5wh",
+    "hero": "Paquito",
+    "skin_name": "Basic",
+    "skin_name2": "Pacquito",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20basic%20to%20pacquiao.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "sort": "2"
   }
 }
