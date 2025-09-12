@@ -14698,5 +14698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920092342",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZkwjRf4X905pG-OLjXUPqxv0tD7qrgalIg&usqp=CAU",
     "sort": "4"
+  },
+  "Roger-wiyuoselo1": {
+    "key": "Roger-wiyuoselo1",
+    "hero": "Roger",
+    "skin_name": "Luckybox",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20luckybox%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920092342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
+    "sort": "4"
   }
 }
