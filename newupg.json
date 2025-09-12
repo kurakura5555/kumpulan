@@ -14358,5 +14358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
     "sort": "8"
+  },
+  "Phoveus-1oi96t45j9": {
+    "key": "Phoveus-1oi96t45j9",
+    "hero": "Phoveus",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/phoveus%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1062-portrait.png/revision/latest/scale-to-width-down/150?cb=20240811090803",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
+    "sort": "2"
   }
 }
