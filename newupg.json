@@ -14258,5 +14258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165342",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165347",
     "sort": "3"
+  },
+  "Parsha-754qq36g2d": {
+    "key": "Parsha-754qq36g2d",
+    "hero": "Parsha",
+    "skin_name": "Epic",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20epic%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045337",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "sort": "10"
   }
 }
