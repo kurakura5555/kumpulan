@@ -14858,5 +14858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
     "sort": "2"
+  },
+  "Ruby-kab7e4hwp6": {
+    "key": "Ruby-kab7e4hwp6",
+    "hero": "Ruby",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/ruby%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
+    "sort": "2"
   }
 }
