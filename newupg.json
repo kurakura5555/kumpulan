@@ -14118,5 +14118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
     "sort": "5"
+  },
+  "Paquito-finvm8cot": {
+    "key": "Paquito-finvm8cot",
+    "hero": "Paquito",
+    "skin_name": "Star",
+    "skin_name2": "Pacquiao",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20star%20to%20pacquiao.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "sort": "5"
   }
 }
