@@ -14608,5 +14608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165137",
     "sort": "2"
+  },
+  "Roger-gh8pbnqgsk": {
+    "key": "Roger-gh8pbnqgsk",
+    "hero": "Roger",
+    "skin_name": "Basic",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/roger%20basic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165139",
+    "sort": "2"
   }
 }
