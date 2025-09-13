@@ -16478,5 +16478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115341",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
     "sort": "3"
+  },
+  "Valentina-zp1pe8qrl9": {
+    "key": "Valentina-zp1pe8qrl9",
+    "hero": "Valentina",
+    "skin_name": "Msc",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20msc%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "6"
   }
 }
