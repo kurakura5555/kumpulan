@@ -16118,5 +16118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
     "sort": "4"
+  },
+  "Tigreal-hzbn4ohboq": {
+    "key": "Tigreal-hzbn4ohboq",
+    "hero": "Tigreal",
+    "skin_name": "Season",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20season%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
+    "sort": "4"
   }
 }
