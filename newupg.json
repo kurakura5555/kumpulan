@@ -16168,5 +16168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero593-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165516",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
     "sort": "3"
+  },
+  "Uranus-0pgfte9ahx": {
+    "key": "Uranus-0pgfte9ahx",
+    "hero": "Uranus",
+    "skin_name": "Season",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20season%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero597-portrait.png/revision/latest/scale-to-width-down/150?cb=20220903145643",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "7"
   }
 }
