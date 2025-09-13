@@ -16428,5 +16428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
     "sort": "5"
+  },
+  "Vale-tjez1th1ha": {
+    "key": "Vale-tjez1th1ha",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "5"
   }
 }
