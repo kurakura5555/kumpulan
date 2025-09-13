@@ -16368,5 +16368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
     "sort": "7"
+  },
+  "Vale-yxteuo11t1": {
+    "key": "Vale-yxteuo11t1",
+    "hero": "Vale",
+    "skin_name": "Epic",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20epic%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "7"
   }
 }
