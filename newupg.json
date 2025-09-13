@@ -15518,5 +15518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
     "sort": "6"
+  },
+  "Selena-92orhynp5j": {
+    "key": "Selena-92orhynp5j",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "5"
   }
 }
