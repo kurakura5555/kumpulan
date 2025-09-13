@@ -16158,5 +16158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
     "sort": "6"
+  },
+  "Uranus-styt0xguqi": {
+    "key": "Uranus-styt0xguqi",
+    "hero": "Uranus",
+    "skin_name": "Rising",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20rising%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero593-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165516",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "3"
   }
 }
