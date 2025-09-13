@@ -16018,5 +16018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165943",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero826-portrait.png/revision/latest/scale-to-width-down/150?cb=20240417022448",
     "sort": "2"
+  },
+  "Terizla-23nmcnpe4a": {
+    "key": "Terizla-23nmcnpe4a",
+    "hero": "Terizla",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165944",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "3"
   }
 }
