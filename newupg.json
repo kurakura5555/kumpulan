@@ -16288,5 +16288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
     "sort": "6"
+  },
+  "Vale-d7u2nkrlao": {
+    "key": "Vale-d7u2nkrlao",
+    "hero": "Vale",
+    "skin_name": "Dawning",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20dawning%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "3"
   }
 }
