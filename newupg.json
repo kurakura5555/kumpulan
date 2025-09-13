@@ -15808,5 +15808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
     "sort": "6"
+  },
+  "Silvana-z50qboqskh": {
+    "key": "Silvana-z50qboqskh",
+    "hero": "Silvana",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619174651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "9"
   }
 }
