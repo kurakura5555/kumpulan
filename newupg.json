@@ -15488,5 +15488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
     "sort": "6"
+  },
+  "Selena-mqvkc6zat1": {
+    "key": "Selena-mqvkc6zat1",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "6"
   }
 }
