@@ -15228,5 +15228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest/scale-to-width-down/150?cb=20240927083754",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
     "sort": "7"
+  },
+  "Saber-yysrseu9g3": {
+    "key": "Saber-yysrseu9g3",
+    "hero": "Saber",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/saber%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164328",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
+    "sort": "3"
   }
 }
