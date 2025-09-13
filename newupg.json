@@ -15468,5 +15468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
     "sort": "3"
+  },
+  "Selena-hyw1a6v1p1": {
+    "key": "Selena-hyw1a6v1p1",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "3"
   }
 }
