@@ -15288,5 +15288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "sort": "2"
+  },
+  "Selena-qj07urup47": {
+    "key": "Selena-qj07urup47",
+    "hero": "Selena",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "sort": "2"
   }
 }
