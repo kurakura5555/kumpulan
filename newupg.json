@@ -15558,5 +15558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
     "sort": "5"
+  },
+  "Selena-2vhbitxhn4": {
+    "key": "Selena-2vhbitxhn4",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "5"
   }
 }
