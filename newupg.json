@@ -16218,5 +16218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
     "sort": "2"
+  },
+  "Vale-f89a3nk6ro": {
+    "key": "Vale-f89a3nk6ro",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "2"
   }
 }
