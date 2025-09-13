@@ -15708,5 +15708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
     "sort": "2"
+  },
+  "Silvana-mzy1quhajw": {
+    "key": "Silvana-mzy1quhajw",
+    "hero": "Silvana",
+    "skin_name": "Basic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20basic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "sort": "2"
   }
 }
