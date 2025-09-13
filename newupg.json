@@ -15268,5 +15268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
     "sort": "2"
+  },
+  "Selena-wbjrsx3ny4": {
+    "key": "Selena-wbjrsx3ny4",
+    "hero": "Selena",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "sort": "2"
   }
 }
