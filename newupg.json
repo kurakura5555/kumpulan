@@ -15868,5 +15868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
     "sort": "8"
+  },
+  "Sun-dtuqnr62zl": {
+    "key": "Sun-dtuqnr62zl",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20basic%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "6"
   }
 }
