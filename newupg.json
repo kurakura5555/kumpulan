@@ -15798,5 +15798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
     "sort": "5"
+  },
+  "Silvana-w03kgg3k46": {
+    "key": "Silvana-w03kgg3k46",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite2%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "sort": "5"
   }
 }
