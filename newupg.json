@@ -16328,5 +16328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
     "sort": "4"
+  },
+  "Vale-e0306955gd": {
+    "key": "Vale-e0306955gd",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "4"
   }
 }
