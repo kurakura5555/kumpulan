@@ -16178,5 +16178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero597-portrait.png/revision/latest/scale-to-width-down/150?cb=20220903145643",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
     "sort": "7"
+  },
+  "Uranus-b2jdgjwncj": {
+    "key": "Uranus-b2jdgjwncj",
+    "hero": "Uranus",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20season%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero597-portrait.png/revision/latest/scale-to-width-down/150?cb=20220903145643",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
+    "sort": "7"
   }
 }
