@@ -16138,5 +16138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165515",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
     "sort": "2"
+  },
+  "Uranus-0bccs4mjnj": {
+    "key": "Uranus-0bccs4mjnj",
+    "hero": "Uranus",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165515",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "2"
   }
 }
