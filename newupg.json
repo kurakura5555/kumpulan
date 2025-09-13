@@ -15738,5 +15738,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
     "sort": "7"
+  },
+  "Silvana-ec9sbh9bfm": {
+    "key": "Silvana-ec9sbh9bfm",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20s%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "7"
   }
 }
