@@ -16058,5 +16058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165945",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
     "sort": "4"
+  },
+  "Tigreal-ervtd45zf6": {
+    "key": "Tigreal-ervtd45zf6",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
+    "sort": "2"
   }
 }
