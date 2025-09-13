@@ -16208,5 +16208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
     "sort": "2"
+  },
+  "Vale-oqclzx6bcy": {
+    "key": "Vale-oqclzx6bcy",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "2"
   }
 }
