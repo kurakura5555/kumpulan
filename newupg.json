@@ -15358,5 +15358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
     "sort": "9"
+  },
+  "Selena-8jvpfzzj01": {
+    "key": "Selena-8jvpfzzj01",
+    "hero": "Selena",
+    "skin_name": "Abyss",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20abyss%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "9"
   }
 }
