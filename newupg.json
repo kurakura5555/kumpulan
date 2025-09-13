@@ -15338,5 +15338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "sort": "9"
+  },
+  "Selena-vev4rhfr8k": {
+    "key": "Selena-vev4rhfr8k",
+    "hero": "Selena",
+    "skin_name": "Abyss",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20abyss%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "sort": "9"
   }
 }
