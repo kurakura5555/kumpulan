@@ -16298,5 +16298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
     "sort": "3"
+  },
+  "Vale-ztw1ascuqe": {
+    "key": "Vale-ztw1ascuqe",
+    "hero": "Vale",
+    "skin_name": "Dawning",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20dawning%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "3"
   }
 }
