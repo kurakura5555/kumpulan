@@ -16048,5 +16048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165946",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
     "sort": "5"
+  },
+  "Terizla-xl0uuvohbf": {
+    "key": "Terizla-xl0uuvohbf",
+    "hero": "Terizla",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165945",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "4"
   }
 }
