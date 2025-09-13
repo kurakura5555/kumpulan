@@ -16338,5 +16338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
     "sort": "4"
+  },
+  "Vale-j6ip50yjqc": {
+    "key": "Vale-j6ip50yjqc",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "4"
   }
 }
