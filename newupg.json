@@ -16448,5 +16448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
     "sort": "2"
+  },
+  "Valentina-4dcnfncuw3": {
+    "key": "Valentina-4dcnfncuw3",
+    "hero": "Valentina",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
+    "sort": "2"
   }
 }
