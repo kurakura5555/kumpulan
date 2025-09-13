@@ -16128,5 +16128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
     "sort": "4"
+  },
+  "Uranus-hm1dwzruyx": {
+    "key": "Uranus-hm1dwzruyx",
+    "hero": "Uranus",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165515",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
+    "sort": "2"
   }
 }
