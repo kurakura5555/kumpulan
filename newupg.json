@@ -15748,5 +15748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
     "sort": "7"
+  },
+  "Silvana-qno8vn8plk": {
+    "key": "Silvana-qno8vn8plk",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "3"
   }
 }
