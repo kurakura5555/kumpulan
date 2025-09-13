@@ -15328,5 +15328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
     "sort": "2"
+  },
+  "Selena-qg6i7h5zm8": {
+    "key": "Selena-qg6i7h5zm8",
+    "hero": "Selena",
+    "skin_name": "Abyss",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20abyss%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "9"
   }
 }
