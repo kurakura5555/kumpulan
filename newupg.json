@@ -15548,5 +15548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "sort": "5"
+  },
+  "Selena-6yzmv3v9g5": {
+    "key": "Selena-6yzmv3v9g5",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "5"
   }
 }
