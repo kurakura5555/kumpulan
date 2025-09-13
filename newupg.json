@@ -16408,5 +16408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
     "sort": "5"
+  },
+  "Vale-pmrbql1gaw": {
+    "key": "Vale-pmrbql1gaw",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "5"
   }
 }
