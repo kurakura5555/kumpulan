@@ -15538,5 +15538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
     "sort": "5"
+  },
+  "Selena-f1kpyjy4lh": {
+    "key": "Selena-f1kpyjy4lh",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "5"
   }
 }
