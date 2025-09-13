@@ -15408,5 +15408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
     "sort": "7"
+  },
+  "Selena-nx7wgvgm4w": {
+    "key": "Selena-nx7wgvgm4w",
+    "hero": "Selena",
+    "skin_name": "Elite",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20elite%20s%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "7"
   }
 }
