@@ -16088,5 +16088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802033731",
     "sort": "2"
+  },
+  "Tigreal-hibtll9oy7": {
+    "key": "Tigreal-hibtll9oy7",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite2%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
+    "sort": "3"
   }
 }
