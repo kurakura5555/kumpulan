@@ -15148,5 +15148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
     "sort": "11"
+  },
+  "Saber-wdapz3lx7g": {
+    "key": "Saber-wdapz3lx7g",
+    "hero": "Saber",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/saber%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164327",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
+    "sort": "2"
   }
 }
