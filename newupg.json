@@ -16468,5 +16468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035444",
     "sort": "2"
+  },
+  "Valentina-mb3xwmg6xq": {
+    "key": "Valentina-mb3xwmg6xq",
+    "hero": "Valentina",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "3"
   }
 }
