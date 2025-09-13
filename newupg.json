@@ -16228,5 +16228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
     "sort": "2"
+  },
+  "Vale-6dvb6z7yau": {
+    "key": "Vale-6dvb6z7yau",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "2"
   }
 }
