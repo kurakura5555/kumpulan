@@ -16318,5 +16318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
     "sort": "4"
+  },
+  "Vale-3vruy4g19m": {
+    "key": "Vale-3vruy4g19m",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "4"
   }
 }
