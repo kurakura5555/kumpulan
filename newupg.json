@@ -15998,5 +15998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest/scale-to-width-down/150?cb=20241002022300",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
     "sort": "2"
+  },
+  "Terizla-s892yvr2u2": {
+    "key": "Terizla-s892yvr2u2",
+    "hero": "Terizla",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165943",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "2"
   }
 }
