@@ -15208,5 +15208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164330",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
     "sort": "5"
+  },
+  "Saber-qk94e4gp67": {
+    "key": "Saber-qk94e4gp67",
+    "hero": "Saber",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/saber%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164330",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest/scale-to-width-down/150?cb=20240927083754",
+    "sort": "5"
   }
 }
