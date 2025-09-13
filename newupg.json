@@ -16278,5 +16278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
     "sort": "6"
+  },
+  "Vale-in3lomxrnl": {
+    "key": "Vale-in3lomxrnl",
+    "hero": "Vale",
+    "skin_name": "Collector",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20collector%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "6"
   }
 }
