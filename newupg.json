@@ -15508,5 +15508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
     "sort": "6"
+  },
+  "Selena-tq3wnhki2e": {
+    "key": "Selena-tq3wnhki2e",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "6"
   }
 }
