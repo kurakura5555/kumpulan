@@ -15928,5 +15928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
     "sort": "3"
+  },
+  "Sun-y2el4keuys": {
+    "key": "Sun-y2el4keuys",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "3"
   }
 }
