@@ -17878,5 +17878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170334",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170335",
     "sort": "2"
+  },
+  "Yve-czpcdoajh5": {
+    "key": "Yve-czpcdoajh5",
+    "hero": "Yve",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yve%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170334",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIk88Dg9jIrF3VUXeBujsiuhjn2RUEjjqWGQ&usqp=CAU",
+    "sort": "2"
   }
 }
