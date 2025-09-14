@@ -17058,5 +17058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
     "sort": "3"
+  },
+  "Wanwan-cwkipi6exm": {
+    "key": "Wanwan-cwkipi6exm",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "3"
   }
 }
