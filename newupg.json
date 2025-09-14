@@ -16788,5 +16788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
     "sort": "3"
+  },
+  "Valir-2mfj7xug82": {
+    "key": "Valir-2mfj7xug82",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "sort": "4"
   }
 }
