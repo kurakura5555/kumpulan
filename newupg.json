@@ -17418,5 +17418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
     "sort": "2"
+  },
+  "Yi-Shun-Shin-hs8rsyr4pr": {
+    "key": "Yi-Shun-Shin-hs8rsyr4pr",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "2"
   }
 }
