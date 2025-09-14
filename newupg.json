@@ -17248,5 +17248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
     "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
     "sort": "2"
+  },
+  "X-Borg-n9nn59ybgx": {
+    "key": "X-Borg-n9nn59ybgx",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "sort": "2"
   }
 }
