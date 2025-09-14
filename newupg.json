@@ -17368,5 +17368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
     "sort": "4"
+  },
+  "X-Borg-u5tjue6r32": {
+    "key": "X-Borg-u5tjue6r32",
+    "hero": "X-Borg",
+    "skin_name": "Star",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20star%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "4"
   }
 }
