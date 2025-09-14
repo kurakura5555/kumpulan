@@ -17638,5 +17638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
     "sort": "6"
+  },
+  "Yin-q3pvmputos": {
+    "key": "Yin-q3pvmputos",
+    "hero": "Yin",
+    "skin_name": "Aot",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20aot%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "6"
   }
 }
