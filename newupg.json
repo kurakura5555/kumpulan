@@ -17328,5 +17328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
     "sort": "3"
+  },
+  "X-Borg-lm6q8rjudy": {
+    "key": "X-Borg-lm6q8rjudy",
+    "hero": "X-Borg",
+    "skin_name": "Mcgg",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20mcgg%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "7"
   }
 }
