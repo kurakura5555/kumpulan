@@ -17578,5 +17578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
     "sort": "2"
+  },
+  "Yin-8a971b06pd": {
+    "key": "Yin-8a971b06pd",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "2"
   }
 }
