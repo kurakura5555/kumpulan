@@ -17458,5 +17458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
     "sort": "3"
+  },
+  "Yi-Shun-Shin-gh5pxytfht": {
+    "key": "Yi-Shun-Shin-gh5pxytfht",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "3"
   }
 }
