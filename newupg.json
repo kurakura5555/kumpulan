@@ -17718,5 +17718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
     "sort": "2"
+  },
+  "Yu-Zhong-uv1rvgsw0u": {
+    "key": "Yu-Zhong-uv1rvgsw0u",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "2"
   }
 }
