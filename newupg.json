@@ -17068,5 +17068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "sort": "3"
+  },
+  "Wanwan-sl539v5jwq": {
+    "key": "Wanwan-sl539v5jwq",
+    "hero": "Wanwan",
+    "skin_name": "Mpl",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mpl%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "6"
   }
 }
