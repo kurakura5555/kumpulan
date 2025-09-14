@@ -17918,5 +17918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
     "sort": "2"
+  },
+  "Zhask-gvqg9oedn5": {
+    "key": "Zhask-gvqg9oedn5",
+    "hero": "Zhask",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20luckybox%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "4"
   }
 }
