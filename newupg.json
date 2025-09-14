@@ -17188,5 +17188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170636",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
     "sort": "2"
+  },
+  "Xavier-2xsuwfppks": {
+    "key": "Xavier-2xsuwfppks",
+    "hero": "Xavier",
+    "skin_name": "Clouds",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20btc%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
+    "sort": "5"
   }
 }
