@@ -17208,5 +17208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
     "sort": "3"
+  },
+  "Xavier-y8kna67l5s": {
+    "key": "Xavier-y8kna67l5s",
+    "hero": "Xavier",
+    "skin_name": "Star",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20star%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "sort": "4"
   }
 }
