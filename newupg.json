@@ -17378,5 +17378,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
     "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
     "sort": "4"
+  },
+  "X-Borg-z4c7emf7oy": {
+    "key": "X-Borg-z4c7emf7oy",
+    "hero": "X-Borg",
+    "skin_name": "Star",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20star%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "4"
   }
 }
