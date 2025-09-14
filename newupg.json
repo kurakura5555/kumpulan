@@ -17938,5 +17938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
     "sort": "6"
+  },
+  "Zhask-zj3p9fpm93": {
+    "key": "Zhask-zj3p9fpm93",
+    "hero": "Zhask",
+    "skin_name": "Special",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20special%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "6"
   }
 }
