@@ -17258,5 +17258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
     "sort": "2"
+  },
+  "X-Borg-dbphcnc1xh": {
+    "key": "X-Borg-dbphcnc1xh",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "2"
   }
 }
