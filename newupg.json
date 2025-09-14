@@ -18068,5 +18068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
     "sort": "8"
+  },
+  "Zilong-vchs129hy7": {
+    "key": "Zilong-vchs129hy7",
+    "hero": "Zilong",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20basic%20s%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "8"
   }
 }
