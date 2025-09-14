@@ -17168,5 +17168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "sort": "4"
+  },
+  "Xavier-hqwe2lb88m": {
+    "key": "Xavier-hqwe2lb88m",
+    "hero": "Xavier",
+    "skin_name": "Basic",
+    "skin_name2": "Cluods",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20basic%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "sort": "2"
   }
 }
