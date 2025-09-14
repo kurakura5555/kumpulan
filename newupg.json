@@ -16758,5 +16758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
     "sort": "3"
+  },
+  "Valir-b1n935bz3l": {
+    "key": "Valir-b1n935bz3l",
+    "hero": "Valir",
+    "skin_name": "Special",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20special%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "3"
   }
 }
