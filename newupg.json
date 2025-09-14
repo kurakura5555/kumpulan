@@ -17868,5 +17868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
     "sort": "3"
+  },
+  "Yve-trxb4zio5d": {
+    "key": "Yve-trxb4zio5d",
+    "hero": "Yve",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yve%20basic%20to%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170335",
+    "sort": "2"
   }
 }
