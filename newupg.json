@@ -17698,5 +17698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
     "sort": "5"
+  },
+  "Yin-9nxy3hv720": {
+    "key": "Yin-9nxy3hv720",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "5"
   }
 }
