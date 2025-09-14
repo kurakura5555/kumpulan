@@ -16988,5 +16988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "sort": "2"
+  },
+  "Wanwan-qggimokxur": {
+    "key": "Wanwan-qggimokxur",
+    "hero": "Wanwan",
+    "skin_name": "Collector",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20collector%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "5"
   }
 }
