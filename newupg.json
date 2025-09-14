@@ -16828,5 +16828,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
     "sort": "4"
+  },
+  "Valir-xmdsubfdu8": {
+    "key": "Valir-xmdsubfdu8",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "4"
   }
 }
