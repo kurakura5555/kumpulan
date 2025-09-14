@@ -16978,5 +16978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
     "sort": "2"
+  },
+  "Wanwan-izxx0no0n4": {
+    "key": "Wanwan-izxx0no0n4",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "2"
   }
 }
