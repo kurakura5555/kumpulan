@@ -16648,5 +16648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
     "sort": "5"
+  },
+  "Valir-5ue4kyp6av": {
+    "key": "Valir-5ue4kyp6av",
+    "hero": "Valir",
+    "skin_name": "Elite",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106160149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "10"
   }
 }
