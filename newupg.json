@@ -16948,5 +16948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
     "sort": "5"
+  },
+  "Wanwan-ffk670gj11": {
+    "key": "Wanwan-ffk670gj11",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "2"
   }
 }
