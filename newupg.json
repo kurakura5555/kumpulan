@@ -18138,5 +18138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
     "sort": "12"
+  },
+  "Zilong-qeacagxsr8": {
+    "key": "Zilong-qeacagxsr8",
+    "hero": "Zilong",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "4"
   }
 }
