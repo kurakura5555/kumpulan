@@ -17308,5 +17308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
     "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
     "sort": "3"
+  },
+  "X-Borg-opajfhu8xe": {
+    "key": "X-Borg-opajfhu8xe",
+    "hero": "X-Borg",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "sort": "3"
   }
 }
