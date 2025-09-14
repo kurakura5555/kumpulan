@@ -16518,5 +16518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
     "sort": "2"
+  },
+  "Valir-fu8ik9lz1f": {
+    "key": "Valir-fu8ik9lz1f",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "2"
   }
 }
