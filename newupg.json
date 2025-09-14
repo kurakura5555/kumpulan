@@ -16918,5 +16918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
     "sort": "4"
+  },
+  "Vexana-vifvfu869c": {
+    "key": "Vexana-vifvfu869c",
+    "hero": "Vexana",
+    "skin_name": "Season",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20season%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "4"
   }
 }
