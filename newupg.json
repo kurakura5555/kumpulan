@@ -16508,5 +16508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
     "sort": "2"
+  },
+  "Valir-mydxhbkqu6": {
+    "key": "Valir-mydxhbkqu6",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "sort": "2"
   }
 }
