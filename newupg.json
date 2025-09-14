@@ -17898,5 +17898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170335",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIk88Dg9jIrF3VUXeBujsiuhjn2RUEjjqWGQ&usqp=CAU",
     "sort": "3"
+  },
+  "Zhask-nov5n4i7gr": {
+    "key": "Zhask-nov5n4i7gr",
+    "hero": "Zhask",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "sort": "2"
   }
 }
