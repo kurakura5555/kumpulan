@@ -16838,5 +16838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
     "sort": "4"
+  },
+  "Vexana-4xtbnbuyhu": {
+    "key": "Vexana-4xtbnbuyhu",
+    "hero": "Vexana",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "2"
   }
 }
