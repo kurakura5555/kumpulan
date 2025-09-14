@@ -17138,5 +17138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
     "sort": "4"
+  },
+  "Wanwan-8jtb9tqkpw": {
+    "key": "Wanwan-8jtb9tqkpw",
+    "hero": "Wanwan",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "4"
   }
 }
