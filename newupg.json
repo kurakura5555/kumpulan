@@ -17408,5 +17408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
     "sort": "2"
+  },
+  "Yi-Shun-Shin-fhd30u732m": {
+    "key": "Yi-Shun-Shin-fhd30u732m",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "2"
   }
 }
