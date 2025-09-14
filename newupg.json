@@ -17998,5 +17998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164645",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
     "sort": "2"
+  },
+  "Zilong-rt0vv8ixag": {
+    "key": "Zilong-rt0vv8ixag",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "2"
   }
 }
