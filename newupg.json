@@ -17978,5 +17978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
     "sort": "3"
+  },
+  "Zhuxin-j9pzu0p9wo": {
+    "key": "Zhuxin-j9pzu0p9wo",
+    "hero": "Zhuxin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhuxin%20basic%20to%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815082622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero1253-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073223",
+    "sort": "2"
   }
 }
