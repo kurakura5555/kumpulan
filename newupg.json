@@ -16578,5 +16578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
     "sort": "6"
+  },
+  "Valir-7ei1vpr5ka": {
+    "key": "Valir-7ei1vpr5ka",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "6"
   }
 }
