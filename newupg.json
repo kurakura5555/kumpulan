@@ -17788,5 +17788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
     "sort": "5"
+  },
+  "Yu-Zhong-7bkabmr3fi": {
+    "key": "Yu-Zhong-7bkabmr3fi",
+    "hero": "Yu Zhong",
+    "skin_name": "M5",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20m5%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "6"
   }
 }
