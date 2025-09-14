@@ -17628,5 +17628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125839",
     "sort": "4"
+  },
+  "Yin-7214clw1z6": {
+    "key": "Yin-7214clw1z6",
+    "hero": "Yin",
+    "skin_name": "Aot",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20aot%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "6"
   }
 }
