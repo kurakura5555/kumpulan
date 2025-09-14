@@ -17228,5 +17228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
     "sort": "4"
+  },
+  "X-Borg-h4qtbtmfii": {
+    "key": "X-Borg-h4qtbtmfii",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "2"
   }
 }
