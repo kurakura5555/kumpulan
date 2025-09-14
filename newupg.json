@@ -17688,5 +17688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
     "sort": "5"
+  },
+  "Yin-2o1grh8bh9": {
+    "key": "Yin-2o1grh8bh9",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "5"
   }
 }
