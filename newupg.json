@@ -16698,5 +16698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
     "sort": "7"
+  },
+  "Valir-frfl3r8byo": {
+    "key": "Valir-frfl3r8byo",
+    "hero": "Valir",
+    "skin_name": "Legend",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20legend%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "7"
   }
 }
