@@ -16658,5 +16658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106160149",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
     "sort": "10"
+  },
+  "Valir-dzna0od9x2": {
+    "key": "Valir-dzna0od9x2",
+    "hero": "Valir",
+    "skin_name": "Elite",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106160149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "10"
   }
 }
