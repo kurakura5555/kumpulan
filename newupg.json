@@ -17028,5 +17028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
     "sort": "8"
+  },
+  "Wanwan-0ehfmza6tk": {
+    "key": "Wanwan-0ehfmza6tk",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "3"
   }
 }
