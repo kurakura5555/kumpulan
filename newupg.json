@@ -16868,5 +16868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
     "sort": "2"
+  },
+  "Vexana-zl3em604nl": {
+    "key": "Vexana-zl3em604nl",
+    "hero": "Vexana",
+    "skin_name": "Collector",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20collector%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "6"
   }
 }
