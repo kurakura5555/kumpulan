@@ -16568,5 +16568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
     "sort": "6"
+  },
+  "Valir-1bivl3folg": {
+    "key": "Valir-1bivl3folg",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "6"
   }
 }
