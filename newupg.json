@@ -17118,5 +17118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
     "sort": "7"
+  },
+  "Wanwan-3ay4hm5u3s": {
+    "key": "Wanwan-3ay4hm5u3s",
+    "hero": "Wanwan",
+    "skin_name": "Mworld",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mworld%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "7"
   }
 }
