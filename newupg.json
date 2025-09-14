@@ -16928,5 +16928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
     "sort": "4"
+  },
+  "Vexana-s7qkri2q5x": {
+    "key": "Vexana-s7qkri2q5x",
+    "hero": "Vexana",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "5"
   }
 }
