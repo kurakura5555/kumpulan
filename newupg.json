@@ -18058,5 +18058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112731",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
     "sort": "11"
+  },
+  "Zilong-0nk78n2d69": {
+    "key": "Zilong-0nk78n2d69",
+    "hero": "Zilong",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20basic%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "8"
   }
 }
