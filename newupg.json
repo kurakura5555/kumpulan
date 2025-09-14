@@ -17558,5 +17558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
     "sort": "6"
+  },
+  "Yin-o47iofb7rg": {
+    "key": "Yin-o47iofb7rg",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "sort": "2"
   }
 }
