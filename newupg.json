@@ -17768,5 +17768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
     "sort": "4"
+  },
+  "Yu-Zhong-a2fwpa2d9g": {
+    "key": "Yu-Zhong-a2fwpa2d9g",
+    "hero": "Yu Zhong",
+    "skin_name": "Collector",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20collector%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "4"
   }
 }
