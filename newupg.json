@@ -16498,5 +16498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
     "sort": "4"
+  },
+  "Valir-zcnhezo0qb": {
+    "key": "Valir-zcnhezo0qb",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "sort": "2"
   }
 }
