@@ -16638,5 +16638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
     "sort": "5"
+  },
+  "Valir-c35q875owz": {
+    "key": "Valir-c35q875owz",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "5"
   }
 }
