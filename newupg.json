@@ -17038,5 +17038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
     "sort": "3"
+  },
+  "Wanwan-dfxaysurwe": {
+    "key": "Wanwan-dfxaysurwe",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "3"
   }
 }
