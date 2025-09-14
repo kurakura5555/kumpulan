@@ -18168,5 +18168,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ-V3MopBzrKFpZDRTx1wPy1PmnQHrZnz1SZXyQN84kVwMc-NQAuxo7Q&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
     "sort": "9"
+  },
+  "Zilong-wa8hazj4rk": {
+    "key": "Zilong-wa8hazj4rk",
+    "hero": "Zilong",
+    "skin_name": "Summer",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20summer%20to%20luckybox.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ-V3MopBzrKFpZDRTx1wPy1PmnQHrZnz1SZXyQN84kVwMc-NQAuxo7Q&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "9"
   }
 }
