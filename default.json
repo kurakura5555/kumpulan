@@ -9401,5 +9401,16 @@
     "sort": "0",
     "date_upload": "2025-09-18",
     "tag": ""
+  },
+  "Thamus-1758169854986": {
+    "key": "Thamus-1758169854986",
+    "hero": "Thamus",
+    "skin_name": "The Annihilator",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/thamuz%20nexus%20sea.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "15",
+    "date_upload": "2025-09-18",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000032"
   }
 }
