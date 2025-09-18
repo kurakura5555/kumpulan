@@ -18138,5 +18138,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ-V3MopBzrKFpZDRTx1wPy1PmnQHrZnz1SZXyQN84kVwMc-NQAuxo7Q&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
     "sort": "9"
+  },
+  "Kalea-st4pzxhunm": {
+    "key": "Kalea-st4pzxhunm",
+    "hero": "Kalea",
+    "skin_name": "Basic",
+    "skin_name2": "Sakura",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kalea%20basic%20to%20sakura.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123931",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101453",
+    "sort": "2"
   }
 }
