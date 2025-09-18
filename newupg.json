@@ -18008,5 +18008,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
     "sort": "3"
+  },
+  "Thamus-gyguf3aq5w": {
+    "key": "Thamus-gyguf3aq5w",
+    "hero": "Thamus",
+    "skin_name": "Elite",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20elite%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "3"
   }
 }
