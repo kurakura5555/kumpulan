@@ -9592,5 +9592,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Bane-1758246556104": {
+    "key": "Bane-1758246556104",
+    "hero": "Bane",
+    "skin_name": "Warlord",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/bane%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   }
 }
