@@ -3156,13 +3156,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211212004634"
   },
   "Aulus-n7VFfKi7KY": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20basic.zip",
+    "key": "Aulus-n7VFfKi7KY",
     "hero": "Aulus",
+    "skin_name": "Berserker",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20basic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
-    "key": "Aulus-n7VFfKi7KY",
-    "skin_name": "Basic",
-    "sort": "5"
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   },
   "Aulus-CSdLe4w2tp": {
     "key": "Aulus-CSdLe4w2tp",
