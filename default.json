@@ -9528,5 +9528,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "Alpha-1758243452750": {
+    "key": "Alpha-1758243452750",
+    "hero": "Alpha",
+    "skin_name": "Star Enforcer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/alpha%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043831",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043831",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   }
 }
