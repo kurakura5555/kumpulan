@@ -9683,5 +9683,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": ""
+  },
+  "Carmilla-1758250705451": {
+    "key": "Carmilla-1758250705451",
+    "hero": "Carmilla",
+    "skin_name": "Magician Girl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/carmilla%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170212",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   }
 }
