@@ -9581,5 +9581,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": ""
+  },
+  "Bane-1758246498556": {
+    "key": "Bane-1758246498556",
+    "hero": "Bane",
+    "skin_name": "Underworld Outlaw",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/bane%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   }
 }
