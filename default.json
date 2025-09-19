@@ -1779,11 +1779,12 @@
   "Chang e-6wXHE7hqSn": {
     "key": "Chang e-6wXHE7hqSn",
     "hero": "Chang e",
-    "skin_name": "Sanrio",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/change%20sanrio.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest?cb=20220217001724",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest?cb=20220217001724",
+    "skin_name": "Moon Artist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/change%20sanrio.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165546",
     "sort": "15",
+    "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000457"
   },
   "Cyclops-zlJbuEB8DG": {
