@@ -4526,13 +4526,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Atlas-VbyEBTJ8CQ": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20msc.zip",
+    "key": "Atlas-VbyEBTJ8CQ",
     "hero": "Atlas",
+    "skin_name": "Rune of Sentinel",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20msc.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
-    "key": "Atlas-VbyEBTJ8CQ",
-    "skin_name": "MSC",
-    "sort": "2"
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   },
   "Baxia-jbKk0PwOru": {
     "key": "Baxia-jbKk0PwOru",
