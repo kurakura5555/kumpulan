@@ -9563,5 +9563,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Argus-1758245243412": {
+    "key": "Argus-1758245243412",
+    "hero": "Argus",
+    "skin_name": "Winged Nightmare",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/argus%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   }
 }
