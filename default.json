@@ -5025,11 +5025,12 @@
   "Benedetta-LhdltaeR1d": {
     "key": "Benedetta-LhdltaeR1d",
     "hero": "Benedetta",
-    "skin_name": "MPL",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20mpl.zip",
+    "skin_name": "Quantum Edge",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/benedetta%20mpl.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
     "sort": "15",
+    "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest?cb=20210826073827"
   },
   "Kagura-dCdtwCl56G": {
