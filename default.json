@@ -9506,5 +9506,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
+  },
+  "Alpha-1758243382674": {
+    "key": "Alpha-1758243382674",
+    "hero": "Alpha",
+    "skin_name": "Sea Gladiator",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/alpha%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164921",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164921",
+    "sort": "15",
+    "date_upload": "2025-09-19",
+    "tag": ""
   }
 }
