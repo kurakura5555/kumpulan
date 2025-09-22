@@ -4234,12 +4234,13 @@
   "Clint-DuMcyAyCOn": {
     "key": "Clint-DuMcyAyCOn",
     "hero": "Clint",
-    "skin_name": "M2",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20m2.zip",
+    "skin_name": "Shadow Omen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/clint%20m2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
     "sort": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/M2_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203124149"
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/M2_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203124149|https://static.wikia.nocookie.net/mobile-legends/images/4/4e/M2_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203124149"
   },
   "Clint-s9z2DfrCCq": {
     "key": "Clint-s9z2DfrCCq",
