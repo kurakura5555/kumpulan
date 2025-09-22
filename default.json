@@ -9795,5 +9795,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137"
+  },
+  "Cyclops-1758506412612": {
+    "key": "Cyclops-1758506412612",
+    "hero": "Cyclops",
+    "skin_name": "Zombie Bambino",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/cyclops%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero336-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165030",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero336-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165030",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": ""
   }
 }
