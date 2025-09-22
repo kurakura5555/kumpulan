@@ -9732,5 +9732,16 @@
     "sort": "15",
     "date_upload": "2025-09-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Claude-1758505086707": {
+    "key": "Claude-1758505086707",
+    "hero": "Claude",
+    "skin_name": "Plunderous Pirate",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/claude%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero653-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165636",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
