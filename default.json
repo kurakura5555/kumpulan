@@ -9987,5 +9987,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Floryn-1758511590330": {
+    "key": "Floryn-1758511590330",
+    "hero": "Floryn",
+    "skin_name": "Springtide",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/floryn%20basic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": ""
   }
 }
