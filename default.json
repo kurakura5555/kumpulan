@@ -9856,5 +9856,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Esmeralda-1758508101546": {
+    "key": "Esmeralda-1758508101546",
+    "hero": "Esmeralda",
+    "skin_name": "Cleopatra",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/esmeralda%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165936",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
