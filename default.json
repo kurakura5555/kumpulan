@@ -9962,5 +9962,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Faramis-1758511153153": {
+    "key": "Faramis-1758511153153",
+    "hero": "Faramis",
+    "skin_name": "Dark Necro",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/faramis%20basic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173753",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": ""
   }
 }
