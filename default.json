@@ -9910,5 +9910,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Edith-1758510393945": {
+    "key": "Edith-1758510393945",
+    "hero": "Edith",
+    "skin_name": "Celestial Safeguard",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/edith%20basic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170534",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": ""
   }
 }
