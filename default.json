@@ -2911,11 +2911,12 @@
   "Fanny-xIVHUyq7PB": {
     "key": "Fanny-xIVHUyq7PB",
     "hero": "Fanny",
-    "skin_name": "Lightborn",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20lightborn.zip",
+    "skin_name": "Lightborn - Ranger",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/fanny%20lightborn.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211021856"
   },
   "Fanny-MuWJYtReMy": {
