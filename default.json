@@ -9867,5 +9867,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Esmeralda-1758508225433": {
+    "key": "Esmeralda-1758508225433",
+    "hero": "Esmeralda",
+    "skin_name": "Lady Thief",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/esmeralda%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165935",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165935",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   }
 }
