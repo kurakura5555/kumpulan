@@ -1442,11 +1442,12 @@
   "Granger-OFTmjeO3qY": {
     "key": "Granger-OFTmjeO3qY",
     "hero": "Granger",
-    "skin_name": "Legend",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20legend.zip",
+    "skin_name": "Starfall Knight",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/granger%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Guinevere-RJpUW7GDUS": {
