@@ -9949,5 +9949,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": ""
+  },
+  "Fanny-1758511011628": {
+    "key": "Fanny-1758511011628",
+    "hero": "Fanny",
+    "skin_name": "Royal Cavalry",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/fanny%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
