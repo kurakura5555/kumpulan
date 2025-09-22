@@ -1453,11 +1453,12 @@
   "Guinevere-RJpUW7GDUS": {
     "key": "Guinevere-RJpUW7GDUS",
     "hero": "Guinevere",
-    "skin_name": "Legend",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20legend.zip",
+    "skin_name": "Psion of Tomorrow",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/guinevere%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Kagura-PBRs5v0XOJ": {
