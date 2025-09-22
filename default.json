@@ -9845,5 +9845,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "Esmeralda-1758508072454": {
+    "key": "Esmeralda-1758508072454",
+    "hero": "Esmeralda",
+    "skin_name": "Poison Vine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/esmeralda%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165934",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   }
 }
