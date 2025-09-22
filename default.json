@@ -10060,5 +10060,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211021856"
+  },
+  "Granger-1758520800441": {
+    "key": "Granger-1758520800441",
+    "hero": "Granger",
+    "skin_name": "Biosoldier",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/granger%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
