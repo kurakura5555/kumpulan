@@ -5706,11 +5706,12 @@
   "Granger-GWUE91wIUk": {
     "key": "Granger-GWUE91wIUk",
     "hero": "Granger",
-    "skin_name": "Transformers",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20transformers.zip",
+    "skin_name": "Megatron",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/granger%20transformers.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest?cb=20220525165847",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest?cb=20220525165847",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
   },
   "Valir-cF6SLjX0r0": {
