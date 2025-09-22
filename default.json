@@ -128,11 +128,12 @@
   "Fanny-gC2aHDKWqD": {
     "key": "Fanny-gC2aHDKWqD",
     "hero": "Fanny",
-    "skin_name": "Aspirants",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20aspirant.zip",
+    "skin_name": "Blade of Kibou",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/fanny%20aspirants.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   },
   "Fredrin-LFbiukm1Fi": {
