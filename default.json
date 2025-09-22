@@ -4405,11 +4405,12 @@
   "Estes-zY7SnNCuGu": {
     "key": "Estes-zY7SnNCuGu",
     "hero": "Estes",
-    "skin_name": "Champion",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20m3%20blacklist.zip",
+    "skin_name": "Blacklist International",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/estes%20champion.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Faramis-Qqt7GaVGCh": {
