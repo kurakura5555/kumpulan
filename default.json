@@ -5138,13 +5138,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Cici-nghgg0jkQe": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cici%20basic.zip",
+    "key": "Cici-nghgg0jkQe",
     "hero": "Cici",
+    "skin_name": "Whimsical Carnival",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cici%20basic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest?cb=20231227083250",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest?cb=20231227083250",
-    "key": "Cici-nghgg0jkQe",
-    "skin_name": "Basic",
-    "sort": "3"
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": ""
   },
   "Granger-0nbj85OziY": {
     "key": "Granger-0nbj85OziY",
