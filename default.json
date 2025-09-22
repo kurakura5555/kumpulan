@@ -1808,11 +1808,12 @@
   "Esmeralda-EeoLQRzw5q": {
     "key": "Esmeralda-EeoLQRzw5q",
     "hero": "Esmeralda",
-    "skin_name": "Dawning",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20hero.zip",
+    "skin_name": "The Foreseer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/esmeralda%20dawning.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
     "sort": "15",
+    "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230319055038"
   },
   "Eudora-XdViNO9Ufg": {
