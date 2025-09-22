@@ -9773,5 +9773,16 @@
     "sort": "15",
     "date_upload": "2025-09-22",
     "tag": ""
+  },
+  "Cyclops-1758506335720": {
+    "key": "Cyclops-1758506335720",
+    "hero": "Cyclops",
+    "skin_name": "Super Adventurer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/cyclops%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165024",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165024",
+    "sort": "15",
+    "date_upload": "2025-09-22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   }
 }
