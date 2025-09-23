@@ -18078,5 +18078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
     "sort": "7"
+  },
+  "Aamon-dhi4tpuutv": {
+    "key": "Aamon-dhi4tpuutv",
+    "hero": "Aamon",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "2"
   }
 }
