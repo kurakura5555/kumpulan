@@ -18228,5 +18228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164709",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_w5thjPfSStn8KjK-3NOO9Syhz8TpPAJCjymiLLmnjABNCHnhjkqIRY&s=10",
     "sort": "9"
+  },
+  "Fanny-8yck9ezypz": {
+    "key": "Fanny-8yck9ezypz",
+    "hero": "Fanny",
+    "skin_name": "Christmas",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20christmas%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_w5thjPfSStn8KjK-3NOO9Syhz8TpPAJCjymiLLmnjABNCHnhjkqIRY&s=10",
+    "sort": "8"
   }
 }
