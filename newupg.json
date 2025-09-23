@@ -18068,5 +18068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163423",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
     "sort": "6"
+  },
+  "Ruby-65mmcg5oan": {
+    "key": "Ruby-65mmcg5oan",
+    "hero": "Ruby",
+    "skin_name": "Collector",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/ruby%20collector%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "7"
   }
 }
