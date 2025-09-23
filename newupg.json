@@ -18108,5 +18108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
     "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
     "sort": "5"
+  },
+  "Aamon-jreskriy63": {
+    "key": "Aamon-jreskriy63",
+    "hero": "Aamon",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "4"
   }
 }
