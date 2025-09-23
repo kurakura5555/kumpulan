@@ -18118,5 +18118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
     "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
     "sort": "4"
+  },
+  "Aldous-e3h0wojsrq": {
+    "key": "Aldous-e3h0wojsrq",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKG1pZE66cljQ-VfOdvegowlKMCJVHOBGYAkNF3He4Qrrx8u5EJbqSDjo&s=10",
+    "sort": "2"
   }
 }
