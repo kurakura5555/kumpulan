@@ -18098,5 +18098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
     "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
     "sort": "3"
+  },
+  "Aamon-xtg3boci18": {
+    "key": "Aamon-xtg3boci18",
+    "hero": "Aamon",
+    "skin_name": "Soul Vessel",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20soul%20vessel%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "5"
   }
 }
