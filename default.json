@@ -7362,11 +7362,12 @@
   "Johnson-1734659076687": {
     "key": "Johnson-1734659076687",
     "hero": "Johnson",
-    "skin_name": "Legend",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/johnson.legend.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/johnson%20legend.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/johnson%20legend.png",
+    "skin_name": "Sovereign of Realms",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/johnson%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero329-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045019",
     "sort": "15",
+    "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Ruby-1734774620425": {
