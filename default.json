@@ -10160,5 +10160,16 @@
     "sort": "15",
     "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103144"
+  },
+  "Hayabusa-1758623866199": {
+    "key": "Hayabusa-1758623866199",
+    "hero": "Hayabusa",
+    "skin_name": "Sushi Master",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/hayabusa%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
+    "sort": "15",
+    "date_upload": "2025-09-23",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   }
 }
