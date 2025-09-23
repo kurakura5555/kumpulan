@@ -10123,5 +10123,16 @@
     "sort": "15",
     "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Harley-1758623403431": {
+    "key": "Harley-1758623403431",
+    "hero": "Harley",
+    "skin_name": "Pulsar Prodigy",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/harley%20special2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122657",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122657",
+    "sort": "15",
+    "date_upload": "2025-09-23",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   }
 }
