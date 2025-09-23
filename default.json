@@ -4859,11 +4859,12 @@
   "Johnson-F2OZIvFAQQ": {
     "key": "Johnson-F2OZIvFAQQ",
     "hero": "Johnson",
-    "skin_name": "S.A.B.E.R",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/johnson%20saber.zip",
+    "skin_name": "S.A.B.E.R. Automata",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/johnson%20saber.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
     "sort": "15",
+    "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137"
   },
   "Khufra-GVu3aZYssr": {
