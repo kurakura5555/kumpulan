@@ -3844,11 +3844,12 @@
   "Harith-AbhTjsoiSt": {
     "key": "Harith-AbhTjsoiSt",
     "hero": "Harith",
-    "skin_name": "Champion",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harith%20champion.zip",
+    "skin_name": "EVOS Legends",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/harith%20champion.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
     "sort": "15",
+    "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   },
   "Harith-HPbplrLqG2": {
