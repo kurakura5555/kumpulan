@@ -10240,5 +10240,16 @@
     "sort": "15",
     "date_upload": "2025-09-23",
     "tag": ""
+  },
+  "Joy-1758625592619": {
+    "key": "Joy-1758625592619",
+    "hero": "Joy",
+    "skin_name": "ONIC PH",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/joy%20champion.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgR-zaaAAPh8-9u9MlDrs3Jm4xiwNsb3jc1sKZ0iBJAE7NYIz2fV0eU84&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgR-zaaAAPh8-9u9MlDrs3Jm4xiwNsb3jc1sKZ0iBJAE7NYIz2fV0eU84&s=10",
+    "sort": "15",
+    "date_upload": "2025-09-23",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123925"
   }
 }
