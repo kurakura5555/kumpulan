@@ -18188,5 +18188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227083250",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLM70MZiY4BWqHrU4_Wh_cjBjHyQtb1yokE4m6uPCOr2frkHUz4iYQUM&s=10",
     "sort": "2"
+  },
+  "Cici-jirnffnlyc": {
+    "key": "Cici-jirnffnlyc",
+    "hero": "Cici",
+    "skin_name": "Star",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cici%20star%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154349",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLM70MZiY4BWqHrU4_Wh_cjBjHyQtb1yokE4m6uPCOr2frkHUz4iYQUM&s=10",
+    "sort": "3"
   }
 }
