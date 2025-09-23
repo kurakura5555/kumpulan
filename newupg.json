@@ -18128,5 +18128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKG1pZE66cljQ-VfOdvegowlKMCJVHOBGYAkNF3He4Qrrx8u5EJbqSDjo&s=10",
     "sort": "2"
+  },
+  "Alice-oln0vu89ts": {
+    "key": "Alice-oln0vu89ts",
+    "hero": "Alice",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
+    "sort": "2"
   }
 }
