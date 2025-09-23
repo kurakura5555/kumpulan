@@ -9250,11 +9250,12 @@
   "Ixia-1753503133014": {
     "key": "Ixia-1753503133014",
     "hero": "Ixia",
-    "skin_name": "Metro Zero",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/ixia%20metro%20zero.zip",
+    "skin_name": "Invoker's Command",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/ixia%20metro%20zero.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ixia%20metro%20zero.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ixia%20metro%20zero.jpg",
     "sort": "15",
+    "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Covenant_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103131"
   },
   "Layla-1753503862447": {
