@@ -18178,5 +18178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
     "sort": "5"
+  },
+  "Cici-gh35mim6kb": {
+    "key": "Cici-gh35mim6kb",
+    "hero": "Cici",
+    "skin_name": "Basic",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cici%20basic%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227083250",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLM70MZiY4BWqHrU4_Wh_cjBjHyQtb1yokE4m6uPCOr2frkHUz4iYQUM&s=10",
+    "sort": "2"
   }
 }
