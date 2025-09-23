@@ -18138,5 +18138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151404",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
     "sort": "2"
+  },
+  "Alice-g34lqm845y": {
+    "key": "Alice-g34lqm845y",
+    "hero": "Alice",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
+    "sort": "7"
   }
 }
