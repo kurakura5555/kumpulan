@@ -2333,11 +2333,12 @@
   "Joy-6UcEorEQfj": {
     "key": "Joy-6UcEorEQfj",
     "hero": "Joy",
-    "skin_name": "Elite",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/joy%20elite.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBn_1Ak52ZLl5fQyNspJoKZlb0GZ4bTWVe8g&usqp=CAU",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBn_1Ak52ZLl5fQyNspJoKZlb0GZ4bTWVe8g&usqp=CAU",
+    "skin_name": "Royal Protector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/joy%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
     "sort": "15",
+    "date_upload": "2025-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Natan-zOdIDDNRWT": {
