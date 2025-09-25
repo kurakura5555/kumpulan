@@ -5710,11 +5710,12 @@
   "Ling-3qH2YAxwvV": {
     "key": "Ling-3qH2YAxwvV",
     "hero": "Ling",
-    "skin_name": "Kungfu Panda",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20kungfu%20panda.zip",
+    "skin_name": "Lord Shen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/ling%20kungfu%20panda.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220804140629"
   },
   "Yin-oZACklVszl": {
