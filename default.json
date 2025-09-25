@@ -5207,11 +5207,12 @@
   "Lancelot-bHPI3GkVTj": {
     "key": "Lancelot-bHPI3GkVTj",
     "hero": "Lancelot",
-    "skin_name": "Dawning",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20hero.zip",
+    "skin_name": "Swordmaster",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/lancelot%20dawning.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230319055038"
   },
   "Lancelot-ccw0qzbVjc": {
