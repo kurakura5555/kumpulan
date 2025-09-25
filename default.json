@@ -1745,11 +1745,12 @@
   "Layla-n55zx486sR": {
     "key": "Layla-n55zx486sR",
     "hero": "Layla",
-    "skin_name": "Blazing",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blazing.zip",
+    "skin_name": "Blazing Gun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/layla%20blazing.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101551"
   },
   "Melissa-PSVNkTBDnP": {
