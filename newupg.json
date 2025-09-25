@@ -18229,34 +18229,14 @@
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "9"
   },
-  "Aamon-cj86oqkl9x": {
-    "key": "Aamon-cj86oqkl9x",
-    "hero": "Aamon",
-    "skin_name": "jdjd",
-    "skin_name2": "zjxj",
-    "download": "sjsj",
-    "img": "zjjd",
-    "img2": "sjsj",
-    "sort": "21"
-  },
-  "Aamon-pae150yj2o": {
-    "key": "Aamon-pae150yj2o",
-    "hero": "Aamon",
-    "skin_name": "jdjd",
-    "skin_name2": "sjdj",
-    "download": "djdj",
-    "img": "zjjz",
-    "img2": "djdj",
-    "sort": "21"
-  },
-  "Aamon-417ibrb0r5": {
-    "key": "Aamon-417ibrb0r5",
-    "hero": "Aamon",
-    "skin_name": "jsnzj",
-    "skin_name2": "xxnjx",
-    "download": "djdjd",
-    "img": "xjjx",
-    "img2": "xjxj",
-    "sort": "21"
+  "Fanny-2ag2k1dvyr": {
+    "key": "Fanny-2ag2k1dvyr",
+    "hero": "Fanny",
+    "skin_name": "Christmas",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20christmas%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
+    "sort": "8"
   }
 }
