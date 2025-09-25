@@ -4540,13 +4540,15 @@
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
   "Layla-MQP23OfK2c": {
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blue%20spectre.zip",
+    "key": "Layla-MQP23OfK2c",
     "hero": "Layla",
+    "skin_name": "Blue Spectre",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blue%20spectre.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
-    "key": "Layla-MQP23OfK2c",
-    "skin_name": "Blue Spectre",
-    "sort": "14"
+    "sort": "15",
+    "date_upload": "2025-09-25",
+    "tag": ""
   },
   "Lesley-I9AnF03fNO": {
     "key": "Lesley-I9AnF03fNO",
