@@ -1485,11 +1485,12 @@
   "Karina-lpjPRjmvNu": {
     "key": "Karina-lpjPRjmvNu",
     "hero": "Karina",
-    "skin_name": "KOF",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20kof.zip",
+    "skin_name": "Leona",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/karina%20kof.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Lancelot-yCEUhymUpc": {
