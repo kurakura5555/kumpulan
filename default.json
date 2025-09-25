@@ -1642,11 +1642,12 @@
   "Kaja-XqxfozQfwk": {
     "key": "Kaja-XqxfozQfwk",
     "hero": "Kaja",
-    "skin_name": "Epic",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20epic%20inferno.zip",
+    "skin_name": "Inferno Taskmaster",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/kaja%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Lancelot-dQneugdVXV": {
