@@ -4412,11 +4412,12 @@
   "Karrie-BiORFdQRRu": {
     "key": "Karrie-BiORFdQRRu",
     "hero": "Karrie",
-    "skin_name": "LuckyBox",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20epic.zip",
+    "skin_name": "Hawkwatch",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/karrie%20luckybox.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest?cb=20240124032357",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest?cb=20240124032357",
     "sort": "15",
+    "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Karrie-6RKZNSbBF2": {
