@@ -9505,11 +9505,11 @@
     "key": "Layla-1756808897544",
     "hero": "Layla",
     "skin_name": "Nexus Sea",
-    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/layla%20nexus%20sea.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrkdsY1BHkYHjurfivNKNJH3R52mfH1_UPcOb-jX9F6CYgZ9iu1sGZgPJ&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrkdsY1BHkYHjurfivNKNJH3R52mfH1_UPcOb-jX9F6CYgZ9iu1sGZgPJ&s=10",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/layla%20nexus%20sea.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
     "sort": "15",
-    "date_upload": "2025-09-02",
+    "date_upload": "2025-09-25",
     "tag": ""
   },
   "Zhuxin-1756809215440": {
