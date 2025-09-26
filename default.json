@@ -7969,11 +7969,12 @@
   "Melissa-1741441276752": {
     "key": "Melissa-1741441276752",
     "hero": "Melissa",
-    "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/melissa%20collector.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEMePdeE09cKz8GRRubanO-DUuvOxTOUuR-P0_IwEV7o_u6bTPSlVbO8B&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEMePdeE09cKz8GRRubanO-DUuvOxTOUuR-P0_IwEV7o_u6bTPSlVbO8B&s=10",
+    "skin_name": "Umbra Bloom",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/melissa%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1146-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123919",
     "sort": "15",
+    "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Edith-1741441637809": {
