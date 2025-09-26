@@ -8188,11 +8188,12 @@
   "Kimmy-1745909817168": {
     "key": "Kimmy-1745909817168",
     "hero": "Kimmy",
-    "skin_name": "Dragon tamer",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kimmy%20dragon%20tamer.zip",
+    "skin_name": "Frost Wing",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/kimmy%20dragon%20tamer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
     "sort": "15",
+    "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220714101554"
   },
   "Kimmy-1745909853940": {
