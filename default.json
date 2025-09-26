@@ -5378,11 +5378,12 @@
   "Masha-6fgTWLPrpu": {
     "key": "Masha-6fgTWLPrpu",
     "hero": "Masha",
-    "skin_name": "KOF",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/masha%20kof.zip",
-    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/masha%20kof.png?raw=true",
-    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/masha%20kof.png?raw=true",
+    "skin_name": "Mai Shiranui",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/masha%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "15",
+    "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Nolan-ddqAT4yP67": {
