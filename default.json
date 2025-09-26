@@ -3477,11 +3477,12 @@
   "Martis-lT7KKyTxjZ": {
     "key": "Martis-lT7KKyTxjZ",
     "hero": "Martis",
-    "skin_name": "Special",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20special.zip",
+    "skin_name": "Deathrock",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/martis%20special.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
     "sort": "15",
+    "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   },
   "Martis-clESv0ZSYV": {
