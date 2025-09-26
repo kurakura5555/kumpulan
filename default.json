@@ -8199,11 +8199,12 @@
   "Kimmy-1745909853940": {
     "key": "Kimmy-1745909853940",
     "hero": "Kimmy",
-    "skin_name": "Luckybox",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kimmy%20luckybox.zip",
+    "skin_name": "Astrocat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/kimmy%20luckybox.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
     "sort": "15",
+    "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Kalea-1747034379253": {
