@@ -10336,5 +10336,16 @@
     "sort": "15",
     "date_upload": "2025-09-25",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Minotaur-1758872178133": {
+    "key": "Minotaur-1758872178133",
+    "hero": "Minotaur",
+    "skin_name": "Nether Overseer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/minotaur%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
+    "sort": "15",
+    "date_upload": "2025-09-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
