@@ -3708,11 +3708,12 @@
   "Sun-oaLwlQivm0": {
     "key": "Sun-oaLwlQivm0",
     "hero": "Sun",
-    "skin_name": "Lunar Fest",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20lunar%20fest.zip",
+    "skin_name": "Spring Blessings",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/sun%20lunar%20fest.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/scale-to-width-down/75?cb=20220113105315"
   },
   "Terizla-XE90YMRJvg": {
