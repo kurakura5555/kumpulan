@@ -9401,11 +9401,12 @@
   "Natalia-1753945534456": {
     "key": "Natalia-1753945534456",
     "hero": "Natalia",
-    "skin_name": "Epic",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/natalia%20epic.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOW3vTqVL9GRLmt4GCdQTFhptxdZDRRLpf8rF4t67CMCvZcrd0rI4SvSV&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOW3vTqVL9GRLmt4GCdQTFhptxdZDRRLpf8rF4t67CMCvZcrd0rI4SvSV&s=10",
+    "skin_name": "Soul Huntress",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/natalia%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natalia%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natalia%20epic.jpg",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Johnson-1753945592565": {
