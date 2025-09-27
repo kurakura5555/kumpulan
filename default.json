@@ -10350,5 +10350,16 @@
     "sort": "15",
     "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Beatrix-1758944315610": {
+    "key": "Beatrix-1758944315610",
+    "hero": "Beatrix",
+    "skin_name": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/beatrix%20fmvp.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "sort": "15",
+    "date_upload": "2025-09-27",
+    "tag": ""
   }
 }
