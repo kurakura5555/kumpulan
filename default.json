@@ -5439,11 +5439,12 @@
   "Paquito-q96sEDL2fn": {
     "key": "Paquito-q96sEDL2fn",
     "hero": "Paquito",
-    "skin_name": "KOF",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paqoito%20kof.zip",
-    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
-    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
+    "skin_name": "Terry Bogard",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/paquito%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Khaleed-Bbx0Gm21uF": {
