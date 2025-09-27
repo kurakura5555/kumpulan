@@ -1997,12 +1997,13 @@
   "Miya-m14EgiaERK": {
     "key": "Miya-m14EgiaERK",
     "hero": "Miya",
-    "skin_name": "Christmas",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20christmas.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
+    "skin_name": "Christmas Carnival",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/miya%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
     "sort": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201154100"
+    "date_upload": "2025-09-27",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Nana-OWk1gKCGHI": {
     "key": "Nana-OWk1gKCGHI",
