@@ -1545,11 +1545,12 @@
   "Roger-7wTDcJ8Fsw": {
     "key": "Roger-7wTDcJ8Fsw",
     "hero": "Roger",
-    "skin_name": "prime",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20fiend%20hunter.zip",
+    "skin_name": "Fiend Hunter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/roger%20prime.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cb=20220525165137",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cb=20220525165137",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201153613"
   },
   "Clint-lxnSpJxjoI": {
