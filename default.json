@@ -9180,12 +9180,13 @@
   "Natan-1752396591213": {
     "key": "Natan-1752396591213",
     "hero": "Natan",
-    "skin_name": "MSC",
-    "download": "https://github.com/rahasia55/new-backup/releases/download/backup/natan.msc.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcPbCCO3mLlxwg_RAtFqKsqUD0DF042Vh0RvIycTw5vZvkepxskkABUiR&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcPbCCO3mLlxwg_RAtFqKsqUD0DF042Vh0RvIycTw5vZvkepxskkABUiR&s=10",
+    "skin_name": "Archon of Knowledge",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/natan%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
     "sort": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/MSC_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123943"
+    "date_upload": "2025-09-27",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/MSC_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123943|https://static.wikia.nocookie.net/mobile-legends/images/d/db/MSC_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123943"
   },
   "Yin-1752396722624": {
     "key": "Yin-1752396722624",
