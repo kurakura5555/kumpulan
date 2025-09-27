@@ -2192,11 +2192,12 @@
   "Ruby-PS8GVN3yrW": {
     "key": "Ruby-PS8GVN3yrW",
     "hero": "Ruby",
-    "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20collector.zip",
+    "skin_name": "Prismatic Plume",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/ruby%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Valir-zEN6Ya9UkG": {
