@@ -4755,12 +4755,13 @@
   "Parsha-0VZizFwyJ4": {
     "key": "Parsha-0VZizFwyJ4",
     "hero": "Parsha",
-    "skin_name": "MSC",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20msc.zip",
+    "skin_name": "Hierophant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/pharsa%20msc.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
     "sort": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123939"
+    "date_upload": "2025-09-27",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123939|https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123939"
   },
   "Parsha-FEk5lsPaxA": {
     "key": "Parsha-FEk5lsPaxA",
