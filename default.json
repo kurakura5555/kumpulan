@@ -2345,11 +2345,12 @@
   "Nana-jQEDmHvAKN": {
     "key": "Nana-jQEDmHvAKN",
     "hero": "Nana",
-    "skin_name": "Mistbender",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20mistbender.zip",
-    "img": "https://i.pinimg.com/736x/e7/89/b9/e789b9f67a600f541267626c399c6482.jpg",
-    "img2": "https://i.pinimg.com/736x/e7/89/b9/e789b9f67a600f541267626c399c6482.jpg",
+    "skin_name": "Mistbender Nana",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/nana%20mistbenders.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114100424",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114100424",
     "sort": "15",
+    "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mistbenders_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240322093906"
   },
   "Harith-TnIemXVZWW": {
