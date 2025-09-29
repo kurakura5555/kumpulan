@@ -2095,11 +2095,12 @@
   "Wanwan-bikSQU8vyW": {
     "key": "Wanwan-bikSQU8vyW",
     "hero": "Wanwan",
-    "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20collector.zip",
+    "skin_name": "Pixel Blast",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/wanwan%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Yu Zhong-nIMI3rlM8x": {
