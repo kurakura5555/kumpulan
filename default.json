@@ -2604,11 +2604,12 @@
   "Vale-W5Esr0fU8d": {
     "key": "Vale-W5Esr0fU8d",
     "hero": "Vale",
-    "skin_name": "Epic",
-    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/vale%20epic.zip",
+    "skin_name": "Keeper of the Winds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/vale%20epic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
   "Aamon-kWIoqMAZCT": {
