@@ -5084,11 +5084,12 @@
   "Tigreal-nPztfY0Bpl": {
     "key": "Tigreal-nPztfY0Bpl",
     "hero": "Tigreal",
-    "skin_name": "Lightborn",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20lightborn.zip",
+    "skin_name": "Lightborn - Defender",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/tigreal%20lightborn.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211021856"
   },
   "Tigreal-PLccsvNXkd": {
