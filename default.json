@@ -2210,11 +2210,12 @@
   "Valir-zEN6Ya9UkG": {
     "key": "Valir-zEN6Ya9UkG",
     "hero": "Valir",
-    "skin_name": "Legend",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20legend.zip",
+    "skin_name": "Infernal Blaze",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/valir%20legend.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
   },
   "Xavier-umPWwlWGHQ": {
