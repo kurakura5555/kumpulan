@@ -9085,11 +9085,13 @@
   "Zhuxin-1724325722226": {
     "key": "Zhuxin-1724325722226",
     "hero": "Zhuxin",
-    "skin_name": "basic",
+    "skin_name": "Ethereal Serenity",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zhuxin%20basic.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
-    "sort": "15"
+    "sort": "15",
+    "date_upload": "2025-09-29",
+    "tag": ""
   },
   "Aldous-1751500348040": {
     "key": "Aldous-1751500348040",
