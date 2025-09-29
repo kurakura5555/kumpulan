@@ -1812,11 +1812,12 @@
   "Wanwan-EU9G2LMbM9": {
     "key": "Wanwan-EU9G2LMbM9",
     "hero": "Wanwan",
-    "skin_name": "Mworld",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20mworld.zip",
+    "skin_name": "M-World Wanwan",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/wanwan%20mworld.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/M-World_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220501041401"
   },
   "Balmond-FMbNsbAq8k": {
