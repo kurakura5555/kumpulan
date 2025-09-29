@@ -5454,11 +5454,12 @@
   "Valir-zfuiwiWMRB": {
     "key": "Valir-zfuiwiWMRB",
     "hero": "Valir",
-    "skin_name": "KOF",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20kof.zip",
-    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/valir%20kof.png?raw=true",
-    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/valir%20kof.png?raw=true",
+    "skin_name": "Kyo Kusanagi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/valir%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   },
   "Julian-IUGyFSpIbQ": {
