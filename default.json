@@ -2470,11 +2470,12 @@
   "Zhask-Yjo8WFkGyf": {
     "key": "Zhask-Yjo8WFkGyf",
     "hero": "Zhask",
-    "skin_name": "Luckybox",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/zhask%20luckybox.zip",
+    "skin_name": "Bone Flamen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/zhask%20luckybox.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
   },
   "Zhask-V75L45QFei": {
