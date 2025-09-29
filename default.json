@@ -4042,11 +4042,12 @@
   "Yin-PxVWb6kRV1": {
     "key": "Yin-PxVWb6kRV1",
     "hero": "Yin",
-    "skin_name": "Mworld",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20mworld.zip",
+    "skin_name": "M-World Yin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/yin%20mworld.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/M-World_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220501041401"
   },
   "Yin-HCzjNh6adf": {
