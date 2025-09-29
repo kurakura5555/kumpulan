@@ -2143,11 +2143,12 @@
   "Zilong-kudXycaIKK": {
     "key": "Zilong-kudXycaIKK",
     "hero": "Zilong",
-    "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20collector.zip",
+    "skin_name": "Empyrean Paladin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/zilong%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Esmeralda-KgEs6dogFA": {
