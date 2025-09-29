@@ -9390,11 +9390,12 @@
   "Wanwan-1752398051066": {
     "key": "Wanwan-1752398051066",
     "hero": "Wanwan",
-    "skin_name": "Summer",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/wanwan%20summer.zip",
+    "skin_name": "Summer Splash",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/wanwan%20summer.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   },
   "Clint-1753499083784": {
