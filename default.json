@@ -4259,11 +4259,12 @@
   "Valir-BCv5T3DzDl": {
     "key": "Valir-BCv5T3DzDl",
     "hero": "Valir",
-    "skin_name": "Collector",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20collector.zip",
+    "skin_name": "Demonlord",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/valir%20collector.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
   "Valir-PlB5dz6ff1": {
