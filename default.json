@@ -3724,11 +3724,12 @@
   "Terizla-XE90YMRJvg": {
     "key": "Terizla-XE90YMRJvg",
     "hero": "Terizla",
-    "skin_name": "Elite",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20elite.zip",
+    "skin_name": "Flare",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/terizla%20elite.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
     "sort": "15",
+    "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
   },
   "Terizla-hB9xUbwSY6": {
