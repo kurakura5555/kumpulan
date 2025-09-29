@@ -10580,5 +10580,16 @@
     "sort": "15",
     "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Yi-Shun-Shin-1759131130323": {
+    "key": "Yi-Shun-Shin-1759131130323",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Azure Sentry",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/yss%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "15",
+    "date_upload": "2025-09-29",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
