@@ -519,13 +519,15 @@
     "sort": "0"
   },
   "Balerick-NQwCMEhvMg248ERAJQZ": {
-    "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Balerick.zip",
-    "hero": "Balerick",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png/revision/latest?cb=20191129092353",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png/revision/latest?cb=20191129092353",
     "key": "Balerick-NQwCMEhvMg248ERAJQZ",
-    "skin_name": "",
-    "sort": "0"
+    "hero": "Balerick",
+    "skin_name": "Backup",
+    "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Balerick.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142334",
+    "sort": "0",
+    "date_upload": "2025-10-01",
+    "tag": ""
   },
   "Balmond-NQwCOpt1B3h6oEM2gbO": {
     "key": "Balmond-NQwCOpt1B3h6oEM2gbO",
