@@ -10666,5 +10666,16 @@
     "sort": "15",
     "date_upload": "2025-10-09",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Dyrroth-1760050177775": {
+    "key": "Dyrroth-1760050177775",
+    "hero": "Dyrroth",
+    "skin_name": "Naraka Flame",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/dyrroth%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+    "sort": "15",
+    "date_upload": "2025-10-09",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
