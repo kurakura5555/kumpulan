@@ -10655,5 +10655,16 @@
     "sort": "15",
     "date_upload": "2025-10-09",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Bane-1760050115875": {
+    "key": "Bane-1760050115875",
+    "hero": "Bane",
+    "skin_name": "Castle Master",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/bane%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+    "sort": "15",
+    "date_upload": "2025-10-09",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
