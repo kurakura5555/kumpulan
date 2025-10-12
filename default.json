@@ -10699,5 +10699,16 @@
     "sort": "15",
     "date_upload": "2025-10-09",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20241211072857"
+  },
+  "Sun-1760233077348": {
+    "key": "Sun-1760233077348",
+    "hero": "Sun",
+    "skin_name": "Queller of Chaos",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/sun%20annual%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "sort": "15",
+    "date_upload": "2025-10-12",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211211020157"
   }
 }
