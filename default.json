@@ -10721,5 +10721,16 @@
     "sort": "15",
     "date_upload": "2025-10-12",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "Karina-1760350218092": {
+    "key": "Karina-1760350218092",
+    "hero": "Karina",
+    "skin_name": "Shadow Blade",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/karina%20mcgg.zip",
+    "img": "https://i.pinimg.com/736x/21/e1/86/21e1860d508db1607fe802a6e03d9685.jpg",
+    "img2": "https://i.pinimg.com/736x/21/e1/86/21e1860d508db1607fe802a6e03d9685.jpg",
+    "sort": "15",
+    "date_upload": "2025-10-13",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/MCGG_Skin_Tag.png/revision/latest/thumbnail-down/width/200/height/200?cb=20250406081423"
   }
 }
