@@ -10732,5 +10732,16 @@
     "sort": "15",
     "date_upload": "2025-10-13",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/MCGG_Skin_Tag.png/revision/latest/thumbnail-down/width/200/height/200?cb=20250406081423"
+  },
+  "Fredrin-1760756228423": {
+    "key": "Fredrin-1760756228423",
+    "hero": "Fredrin",
+    "skin_name": "Royal Marshal",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/fredrinn%20star.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8igw_8867zd4V77gOBpFcdCI_m2rSUdaBbTNEx0Z3tmnhRbvRebH-C1s&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8igw_8867zd4V77gOBpFcdCI_m2rSUdaBbTNEx0Z3tmnhRbvRebH-C1s&s=10",
+    "sort": "15",
+    "date_upload": "2025-10-18",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
