@@ -10776,5 +10776,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest?cb=20240619173327"
+  },
+  "Cyclops-1764550094988": {
+    "key": "Cyclops-1764550094988",
+    "hero": "Cyclops",
+    "skin_name": "Spongebob",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/cyclops%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-01",
+    "tag": ""
   }
 }
