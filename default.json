@@ -10798,5 +10798,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "Gloo-1764550453886": {
+    "key": "Gloo-1764550453886",
+    "hero": "Gloo",
+    "skin_name": "Patrick",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/gloo%20patrick.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gloo%20patrick.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gloo%20patrick.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-01",
+    "tag": ""
   }
 }
