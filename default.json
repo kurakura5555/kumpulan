@@ -10754,5 +10754,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest?cb=20240619173327"
+  },
+  "Cecilion-1764549770501": {
+    "key": "Cecilion-1764549770501",
+    "hero": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/cecilion%20soul%20vessel.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest?cb=20240619173327"
   }
 }
