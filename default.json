@@ -10765,5 +10765,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest?cb=20240619173327"
+  },
+  "Clint-1764550037765": {
+    "key": "Clint-1764550037765",
+    "hero": "Clint",
+    "skin_name": "Vessel of Ruin",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/clint%20soul%20vessel.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest?cb=20240619173327"
   }
 }
