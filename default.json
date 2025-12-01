@@ -10787,5 +10787,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": ""
+  },
+  "Gatotkaca-1764550403225": {
+    "key": "Gatotkaca-1764550403225",
+    "hero": "Gatotkaca",
+    "skin_name": "Tide Preserver",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/gatotkaca%20special.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gatotkaca%20special.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gatotkaca%20special.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   }
 }
