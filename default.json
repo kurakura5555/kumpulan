@@ -10822,5 +10822,16 @@
     "sort": "15",
     "date_upload": "2025-12-02",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Mythic_2026_Skin_Tag.png/revision/latest/thumbnail-down/width/200/height/200?cb=20250105161250"
+  },
+  "Hylos-1764637527194": {
+    "key": "Hylos-1764637527194",
+    "hero": "Hylos",
+    "skin_name": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/granger%20m7.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-02",
+    "tag": ""
   }
 }
