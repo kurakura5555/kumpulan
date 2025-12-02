@@ -10833,5 +10833,16 @@
     "sort": "15",
     "date_upload": "2025-12-02",
     "tag": ""
+  },
+  "Granger-1764637683458": {
+    "key": "Granger-1764637683458",
+    "hero": "Granger",
+    "skin_name": "Cosmic Finality",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/granger%20prime.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-02",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201153613"
   }
 }
