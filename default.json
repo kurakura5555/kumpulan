@@ -10811,5 +10811,16 @@
     "sort": "15",
     "date_upload": "2025-12-01",
     "tag": ""
+  },
+  "Hylos-1764637356288": {
+    "key": "Hylos-1764637356288",
+    "hero": "Hylos",
+    "skin_name": "The Abyssal Warrior",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/hylos%20mythic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-02",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Mythic_2026_Skin_Tag.png/revision/latest/thumbnail-down/width/200/height/200?cb=20250105161250"
   }
 }
