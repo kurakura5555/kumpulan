@@ -10844,5 +10844,16 @@
     "sort": "15",
     "date_upload": "2025-12-02",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211201153613"
+  },
+  "Kimmy-1764637939725": {
+    "key": "Kimmy-1764637939725",
+    "hero": "Kimmy",
+    "skin_name": "Future Force",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/kimmy%20collector.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "15",
+    "date_upload": "2025-12-02",
+    "tag": ""
   }
 }
