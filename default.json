@@ -1,5 +1,18 @@
 [
   {
+    "id": "entry_1765603099987",
+    "model": "bus",
+    "nama": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "gambar": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "timestamp": 1765603099987,
+    "uploaded": "Baru saja",
+    "download": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "img1": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "livery1": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "img2": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
+    "livery2": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg"
+  },
+  {
     "model": "bus",
     "nama": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
