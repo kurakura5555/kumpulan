@@ -1,14 +1,26 @@
 [
   {
     "model": "bus",
-    "nama": "bus",
+    "nama": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
-    "timestamp": 1765601389959,
-    "uploaded": "baru saja",
+    "timestamp": 1765601450526,
+    "uploaded": "4 menit lalu",
     "download": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "img1": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "img2": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "livery1": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif",
     "livery2": "https://raw.githubusercontent.com/kurakura5555/bussid/main/1000699505.gif"
+  },
+  {
+    "model": "mobil",
+    "nama": "ccc",
+    "gambar": "https://raw.githubusercontent.com/.../img1.jpg",
+    "timestamp": 1765601727901,
+    "uploaded": "baru saja",
+    "download": "https://raw.githubusercontent.com/.../img1.jpg",
+    "img1": "https://raw.githubusercontent.com/.../img1.jpg",
+    "img2": "https://raw.githubusercontent.com/.../img1.jpg",
+    "livery1": "https://raw.githubusercontent.com/.../img1.jpg",
+    "livery2": "https://raw.githubusercontent.com/.../img1.jpg"
   }
 ]
