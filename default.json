@@ -10899,5 +10899,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Freya-1769424928101": {
+    "key": "Freya-1769424928101",
+    "hero": "Freya",
+    "skin_name": "Twin Crescent",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/refs/heads/main/hanabi%20golden%20month.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hanabi%20golden%20month.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hanabi%20golden%20month.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": ""
   }
 }
