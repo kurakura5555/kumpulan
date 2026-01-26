@@ -11042,5 +11042,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
+  },
+  "Vexana-1769427841214": {
+    "key": "Vexana-1769427841214",
+    "hero": "Vexana",
+    "skin_name": "Eternal Vows",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/vexana%20epic2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
