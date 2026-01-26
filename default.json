@@ -11009,5 +11009,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Covenant_Skin_Tag.png/revision/latest?cb=20250308103131"
+  },
+  "Nolan-1769427617873": {
+    "key": "Nolan-1769427617873",
+    "hero": "Nolan",
+    "skin_name": "Spectral Strider",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/nolan%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/nolan%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/nolan%20epic.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
