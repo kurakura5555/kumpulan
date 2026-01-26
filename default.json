@@ -10943,5 +10943,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Floryn-1769425420599": {
+    "key": "Floryn-1769425420599",
+    "hero": "Floryn",
+    "skin_name": "Herald of Autumn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/floryn%20eternal%20season.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/floryn%20eternal%20season.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/floryn%20eternal%20season.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": ""
   }
 }
