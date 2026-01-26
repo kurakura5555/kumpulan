@@ -11031,5 +11031,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": ""
+  },
+  "Odete-1769427769323": {
+    "key": "Odete-1769427769323",
+    "hero": "Odete",
+    "skin_name": "Song of Devotion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/odette%20valentine.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   }
 }
