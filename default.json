@@ -10910,5 +10910,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": ""
+  },
+  "Harley-1769425132109": {
+    "key": "Harley-1769425132109",
+    "hero": "Harley",
+    "skin_name": "Dreaming Koi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/harley%20star2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/harley%20star2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/harley%20star2.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
