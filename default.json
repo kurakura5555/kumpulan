@@ -10976,5 +10976,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Covenant_Skin_Tag.png/revision/latest?cb=20250308103131"
+  },
+  "Leomord-1769427318247": {
+    "key": "Leomord-1769427318247",
+    "hero": "Leomord",
+    "skin_name": "Auspicious Blaze",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/leomord%20lunar%20fest.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest?cb=20220113105315"
   }
 }
