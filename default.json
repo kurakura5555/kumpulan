@@ -10888,5 +10888,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "Freya-1769424755966": {
+    "key": "Freya-1769424755966",
+    "hero": "Freya",
+    "skin_name": "Starborn Resolve",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/freya%20star2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/freya%20star2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/freya%20star2.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
