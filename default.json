@@ -11020,5 +11020,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Miya-1769427689483": {
+    "key": "Miya-1769427689483",
+    "hero": "Miya",
+    "skin_name": "Arrow of Spring",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/miya%20eternal%20season.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": ""
   }
 }
