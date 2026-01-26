@@ -10998,5 +10998,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
+  },
+  "Natan-1769427544346": {
+    "key": "Natan-1769427544346",
+    "hero": "Natan",
+    "skin_name": "Sanguine Steward",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/natan%20covenant.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "15",
+    "date_upload": "2026-01-26",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Covenant_Skin_Tag.png/revision/latest?cb=20250308103131"
   }
 }
