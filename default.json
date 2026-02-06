@@ -11053,5 +11053,16 @@
     "sort": "15",
     "date_upload": "2026-01-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Gusion-1770367862007": {
+    "key": "Gusion-1770367862007",
+    "hero": "Gusion",
+    "skin_name": "Minato",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/gusion%20minato.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
+    "sort": "15",
+    "date_upload": "2026-02-06",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Naruto_Shippuden_Skin_Tag.png/revision/latest?cb=20250109163517"
   }
 }
