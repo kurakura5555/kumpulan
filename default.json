@@ -11013,5 +11013,16 @@
     "sort": "15",
     "date_upload": "2026-02-19",
     "tag": ""
+  },
+  "Hilda-1771493331221": {
+    "key": "Hilda-1771493331221",
+    "hero": "Hilda",
+    "skin_name": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/hilda%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "15",
+    "date_upload": "2026-02-19",
+    "tag": ""
   }
 }
