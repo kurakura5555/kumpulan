@@ -11002,5 +11002,16 @@
     "sort": "15",
     "date_upload": "2026-02-06",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Naruto_Shippuden_Skin_Tag.png/revision/latest?cb=20250109163517"
+  },
+  "Eudora-1771493218468": {
+    "key": "Eudora-1771493218468",
+    "hero": "Eudora",
+    "skin_name": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/eudora%20covenant.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
+    "sort": "15",
+    "date_upload": "2026-02-19",
+    "tag": ""
   }
 }
