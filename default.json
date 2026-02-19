@@ -11024,5 +11024,16 @@
     "sort": "15",
     "date_upload": "2026-02-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Zetian-1771513991105": {
+    "key": "Zetian-1771513991105",
+    "hero": "Zetian",
+    "skin_name": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/zetian%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
+    "sort": "15",
+    "date_upload": "2026-02-19",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
