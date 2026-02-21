@@ -11025,5 +11025,16 @@
     "sort": "15",
     "date_upload": "2026-02-19",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Guinevere-1771647373246": {
+    "key": "Guinevere-1771647373246",
+    "hero": "Guinevere",
+    "skin_name": "Aspirants",
+    "download": "https://github.com/KANEKIML/DefaultSkin/raw/refs/heads/main/guinevere%20aspirants.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/guinevere%20aspirants.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/guinevere%20aspirants.jpg",
+    "sort": "15",
+    "date_upload": "2026-02-21",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   }
 }
