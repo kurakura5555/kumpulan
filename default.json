@@ -11025,5 +11025,16 @@
     "sort": "15",
     "date_upload": "2026-03-09",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
+  },
+  "Grock-1774597692674": {
+    "key": "Grock-1774597692674",
+    "hero": "Grock",
+    "skin_name": "Tremor of the Deep",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/grock%20collector.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "15",
+    "date_upload": "2026-03-27",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
