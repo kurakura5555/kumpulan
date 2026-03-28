@@ -8734,11 +8734,13 @@
   "Lancelot-1748837631783": {
     "key": "Lancelot-1748837631783",
     "hero": "Lancelot",
-    "skin_name": "Custom Sasuke",
+    "skin_name": "Sasuke",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/lancelot%20x%20sasuke.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSd-ZXoGx5Fu4E-qqB03mbX8Ba74xwUh3tC2XwYieuvP26k_F7NUFd9D7i&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSd-ZXoGx5Fu4E-qqB03mbX8Ba74xwUh3tC2XwYieuvP26k_F7NUFd9D7i&s=10",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Nolan-1748837790398": {
     "key": "Nolan-1748837790398",
