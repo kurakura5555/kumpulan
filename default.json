@@ -8287,11 +8287,13 @@
   "Hayabusa-1745497108958": {
     "key": "Hayabusa-1745497108958",
     "hero": "Hayabusa",
-    "skin_name": "Custom Sasuke",
+    "skin_name": "Sasuke",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/hayabusa%20x%20sasuke.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_DDG-ERmruamCwu3P9YWOnwifQXG-Z_LWpq29Y3sWPB4U9E_tcG1vNE&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_DDG-ERmruamCwu3P9YWOnwifQXG-Z_LWpq29Y3sWPB4U9E_tcG1vNE&s=10",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Kimmy-1745909817168": {
     "key": "Kimmy-1745909817168",
