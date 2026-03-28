@@ -6230,11 +6230,13 @@
   "Aldous-1723444122772": {
     "key": "Aldous-1723444122772",
     "hero": "Aldous",
-    "skin_name": "Costom Exorcist",
+    "skin_name": "Exorcist",
     "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/aldous%20x%20exorcist.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20exorcist.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20exorcist.png",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20exorcist.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20exorcist.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Alucard-1723444184446": {
     "key": "Alucard-1723444184446",
