@@ -6908,11 +6908,13 @@
   "Rafaela-1725536464305": {
     "key": "Rafaela-1725536464305",
     "hero": "Rafaela",
-    "skin_name": "Custom Arcade",
+    "skin_name": "Arcade",
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/rafaela.x.arcede.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/rafaela%20x%20arcede.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/rafaela%20x%20arcede.png",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/rafaela%20x%20arcade.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/rafaela%20x%20arcade.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Odete-1725536521893": {
     "key": "Odete-1725536521893",
