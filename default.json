@@ -6324,11 +6324,13 @@
   "Aldous-1723626977869": {
     "key": "Aldous-1723626977869",
     "hero": "Aldous",
-    "skin_name": "Custom Saber",
+    "skin_name": "Saber",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20saber.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20saber.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20saber.png",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20saber.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20saber.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Alucard-1723627228161": {
     "key": "Alucard-1723627228161",
