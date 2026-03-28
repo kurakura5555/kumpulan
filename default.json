@@ -6319,11 +6319,13 @@
   "Beatrix-1723626917680": {
     "key": "Beatrix-1723626917680",
     "hero": "Beatrix",
-    "skin_name": "Custom Aspirants",
+    "skin_name": "Aspirants",
     "download": "https://github.com/rahasia55/new-backup/releases/download/backup/beatrix.x.aspirants.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/beatrix%20x%20aspirant.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/beatrix%20x%20aspirant.png",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/beatrix%20x%20aspirants.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/beatrix%20x%20aspirants.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Aldous-1723626977869": {
     "key": "Aldous-1723626977869",
