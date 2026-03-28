@@ -8880,11 +8880,13 @@
   "Gusion-1748925230066": {
     "key": "Gusion-1748925230066",
     "hero": "Gusion",
-    "skin_name": "Custom Sasuke",
+    "skin_name": "Sasuke",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/gusion%20x%20sasuke.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1Dw76NCYzGCPKV4JctK0STttzIYvpkupPJAYc4Ndl82KZTvdA5TVvBOQ&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1Dw76NCYzGCPKV4JctK0STttzIYvpkupPJAYc4Ndl82KZTvdA5TVvBOQ&s=10",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Johnson-1748925408244": {
     "key": "Johnson-1748925408244",
