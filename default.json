@@ -6344,11 +6344,13 @@
   "Arlott-1723627260954": {
     "key": "Arlott-1723627260954",
     "hero": "Arlott",
-    "skin_name": "Custom Epic",
+    "skin_name": "Exorcist",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20epic.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20epic.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20epic.png",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/arlott%20x%20exorcist.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/arlott%20x%20exorcist.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Brody-1723627325663": {
     "key": "Brody-1723627325663",
