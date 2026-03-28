@@ -8587,11 +8587,13 @@
   "Ling-1747814496091": {
     "key": "Ling-1747814496091",
     "hero": "Ling",
-    "skin_name": "Cuatom Sasuke",
+    "skin_name": "Sasuke",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/ling%20x%20sasuke2.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ling%20x%20sasuke2.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/ling%20x%20sasuke2.jpg",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Nana-1747814932293": {
     "key": "Nana-1747814932293",
