@@ -6593,11 +6593,13 @@
   "Aldous-1724831552107": {
     "key": "Aldous-1724831552107",
     "hero": "Aldous",
-    "skin_name": "Custom Legend",
+    "skin_name": "Legend",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20x%20legend.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20legend.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aldous%20x%20legend.jpg",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20legend.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/aldous%20x%20legend.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Beatrix-1724831589369": {
     "key": "Beatrix-1724831589369",
