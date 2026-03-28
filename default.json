@@ -8311,11 +8311,13 @@
   "Aamon-1747275969101": {
     "key": "Aamon-1747275969101",
     "hero": "Aamon",
-    "skin_name": "Custom Naruto",
+    "skin_name": "Naruto",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/aamon%20x%20naruto.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AyBnA2BwVe713fUJLbJ58YUl-rGwKJFv6nIEsYGt_EYYc6dJecevMaY&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AyBnA2BwVe713fUJLbJ58YUl-rGwKJFv6nIEsYGt_EYYc6dJecevMaY&s=10",
-    "sort": "30"
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Chou-1747276128650": {
     "key": "Chou-1747276128650",
