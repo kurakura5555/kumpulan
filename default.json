@@ -6630,11 +6630,13 @@
   "Benedetta-1724831659759": {
     "key": "Benedetta-1724831659759",
     "hero": "Benedetta",
-    "skin_name": "Custom Aspirant",
+    "skin_name": "Aspirant",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20aspirants.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20aspirants.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20aspirants.jpg",
-    "sort": "30"
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/benedetta%20x%20aspirants.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/benedetta%20x%20aspirants.png",
+    "sort": "30",
+    "date_upload": "2026-03-28",
+    "tag": ""
   },
   "Franco-1724831696520": {
     "key": "Franco-1724831696520",
