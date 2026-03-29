@@ -8888,11 +8888,13 @@
   "Cecilion-1748924195523": {
     "key": "Cecilion-1748924195523",
     "hero": "Cecilion",
-    "skin_name": "Custom Madara",
+    "skin_name": "Madara",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/cecilion%20x%20madara.zip",
     "img": "https://static.wikia.nocookie.net/naruto/images/7/7f/Madara_Jinchuriki_anime.png/revision/latest?cb=20150607220026&path-prefix=id",
     "img2": "https://static.wikia.nocookie.net/naruto/images/7/7f/Madara_Jinchuriki_anime.png/revision/latest?cb=20150607220026&path-prefix=id",
-    "sort": "30"
+    "sort": "30",
+    "date_upload": "2026-03-29",
+    "tag": ""
   },
   "Fanny-1748925015439": {
     "key": "Fanny-1748925015439",
