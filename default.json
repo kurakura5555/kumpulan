@@ -8396,9 +8396,11 @@
     "hero": "Argus",
     "skin_name": "Neobeast",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/argus%20x%20neobeast.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/argus%20x%20neobeast.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/argus%20x%20neobeast.jpg",
-    "sort": "30"
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "sort": "30",
+    "date_upload": "2026-03-29",
+    "tag": ""
   },
   "Argus-1747449958950": {
     "key": "Argus-1747449958950",
