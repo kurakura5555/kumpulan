@@ -6622,11 +6622,13 @@
   "Beatrix-1724831589369": {
     "key": "Beatrix-1724831589369",
     "hero": "Beatrix",
-    "skin_name": "Custom Collector",
+    "skin_name": "Collector",
     "download": "https://github.com/rahasia55/New-Default-skin/raw/main/beatrix%20x%20collector.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/beatrix%20x%20collector.jpg",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/beatrix%20x%20collector.jpg",
-    "sort": "30"
+    "sort": "30",
+    "date_upload": "2026-03-29",
+    "tag": ""
   },
   "Beatrix-1724831623938": {
     "key": "Beatrix-1724831623938",
