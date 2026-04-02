@@ -1,43 +1,61 @@
 [
   
   {
-  "judul" : "effect recall",
-  "desc" : "for recall",
+  "judul" : "effect Recall",
+  "desc" : "for Recall",
   "img" : "url here",
   "roll" : "Recall",
   "her" : "Classic Replacement",
-  "url" : "https://raw.githubusercontent.com/rahasia55/arjun/main/lari.json"
+  "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/recall.json"
   },
   {
-  "judul" : "effect recall",
-  "desc" : "for recall",
+  "judul" : "effect Elimination",
+  "desc" : "for Kill",
   "img" : "url here",
   "roll" : "Recall",
-  "her" : "Lari Replacement",
-   "url" : "https://raw.githubusercontent.com/rahasia55/arjun/main/lari.json"
+  "her" : "Classic Replacement",
+   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/eliminasi.json"
+  },
+
+  {
+  "judul" : "effect Spawn",
+  "desc" : "for Kill",
+  "img" : "url here",
+  "roll" : "Recall",
+  "her" : "Classic Replacement",
+   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/spawn.json"
   },
   {
-    "judul" : "map MLBB",
-  "desc" : "for recall",
+  "judul" : "Battle Emote",
+  "desc" : "for Emote",
+  "img" : "url here",
+  "roll" : "Recall",
+  "her" : "Genius Replacement",
+   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/emote.json"
+  },
+  {
+  "judul" : "Effect Trails",
+  "desc" : "for Trail",
+  "img" : "url here",
+  "roll" : "Recall",
+  "her" : "Genius! Replacement",
+   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/trail.json"
+  },
+  {
+    "judul" : "Map Sanctum Island",
+  "desc" : "for Map Sanctum Island",
   "img" : "url here",
   "roll" : "Map",
-  "her" : "Imperial Sanctury"
+  "her" : "Sanctum Island",
+    "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/new%20map.json"
   },
   {
-    "judul" : "map MLBB",
-  "desc" : "for recall",
+    "judul" : "Map Imperial Sanctury",
+  "desc" : "for Imperial Sanctury",
   "img" : "url here",
-  "roll" : "Panjang",
+  "roll" : "Map",
   "her" : "Imperial Sanctury",
-    "url" : "https://raw.githubusercontent.com/rahasia55/arjun/main/kucing.json"
-  },
-  {
-    "judul" : "map MLBB",
-  "desc" : "for recall",
-  "img" : "url here",
-  "roll" : "Map",
-  "her" : "map kucing",
-  "url" : "https://raw.githubusercontent.com/rahasia55/arjun/main/kucing.json"
+  "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/new%20map.json"
     
   }
   
