@@ -1,40 +1,40 @@
 [
   
   {
-  "judul" : "effect Recall",
+  "judul" : "Recall Effect List",
   "desc" : "for Recall",
-  "img" : "url here",
+  "img" : "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
   "roll" : "Recall",
   "her" : "Classic Replacement",
   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/recall.json"
   },
   {
-  "judul" : "effect Elimination",
+  "judul" : "Elimination Effect List",
   "desc" : "for Kill",
-  "img" : "url here",
+  "img" : "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
   "roll" : "Recall",
   "her" : "Classic Replacement",
    "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/eliminasi.json"
   },
 
   {
-  "judul" : "effect Spawn",
+  "judul" : "Spawn Effect List",
   "desc" : "for Kill",
-  "img" : "url here",
+  "img" : "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest?cb=20211203144023",
   "roll" : "Recall",
   "her" : "Classic Replacement",
    "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/spawn.json"
   },
   {
   "judul" : "Battle Emote",
-  "desc" : "for Emote",
-  "img" : "url here",
+  "desc" : "for Emote Genuis",
+  "img" : "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20220118062722",
   "roll" : "Recall",
   "her" : "Genius! Replacement",
    "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/emote.json"
   },
   {
-  "judul" : "Effect Trails",
+  "judul" : "Trails Effect List",
   "desc" : "for Trail",
   "img" : "url here",
   "roll" : "Recall",
