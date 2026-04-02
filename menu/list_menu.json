@@ -19,7 +19,7 @@
 
   {
   "judul" : "Spawn Effect List",
-  "desc" : "for Kill",
+  "desc" : "for Spawn",
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest?cb=20211203144023",
   "roll" : "Recall",
   "her" : "Classic Replacement",
@@ -36,7 +36,7 @@
   {
   "judul" : "Trails Effect List",
   "desc" : "for Trail",
-  "img" : "url here",
+  "img" : "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Classic_Trail_Effect.png/revision/latest?cb=20211203174006",
   "roll" : "Recall",
   "her" : "Trail Replacement",
    "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/trail.json"
