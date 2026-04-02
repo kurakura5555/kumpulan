@@ -7361,15 +7361,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/guinevere%20x%20water%20lily.png",
     "sort": "30"
   },
-  "Guinevere-1733402149885": {
-    "key": "Guinevere-1733402149885",
-    "hero": "Guinevere",
-    "skin_name": "Cyber Bunny",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kagura%20x%20cyber%20bunny.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/kagura%20x%20cyber%20bunny.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/kagura%20x%20cyber%20bunny.png",
-    "sort": "30"
-  },
   "Guinevere-1733402197799": {
     "key": "Guinevere-1733402197799",
     "hero": "Guinevere",
@@ -11118,5 +11109,16 @@
     "sort": "15",
     "date_upload": "2026-03-31",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Kagura-1775109622462": {
+    "key": "Kagura-1775109622462",
+    "hero": "Kagura",
+    "skin_name": "Cyber Bunny",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/kagura%20x%20cyber%20bunny.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/kagura%20x%20cyber%20bunny.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/kagura%20x%20cyber%20bunny.png",
+    "sort": "30",
+    "date_upload": "2026-04-02",
+    "tag": ""
   }
 }
