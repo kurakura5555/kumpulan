@@ -11120,5 +11120,16 @@
     "sort": "30",
     "date_upload": "2026-04-02",
     "tag": ""
+  },
+  "Alpha-1775362771800": {
+    "key": "Alpha-1775362771800",
+    "hero": "Alpha",
+    "skin_name": "Edict of the Sands",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/alpha%20epic.zip",
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alpha%20epic.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/alpha%20epic.png",
+    "sort": "15",
+    "date_upload": "2026-04-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
