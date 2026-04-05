@@ -11142,5 +11142,16 @@
     "sort": "15",
     "date_upload": "2026-04-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "Obsidia-1775363063234": {
+    "key": "Obsidia-1775363063234",
+    "hero": "Obsidia",
+    "skin_name": "Magitech Wraith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/obsidia%20star.zip",
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/obsidia%20star.png",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/obsidia%20star.png",
+    "sort": "15",
+    "date_upload": "2026-04-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
