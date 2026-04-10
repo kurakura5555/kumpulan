@@ -3,22 +3,7 @@
     "her": "Aamon",
     "roll": "Assassin",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725"
-  },
-  {
-    "her": "Kalea",
-    "roll": "Tank",
-    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846"
-  },
-  {
-    "her": "Obsidia",
-    "roll": "Marksman",
-    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest?cb=20250615074243"
-  },
-  {
-    "her": "Zetian",
-    "roll": "Mage",
-    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250402014540"
-  },
+  },  
   {
     "her": "Akai",
     "roll": "Tank",
@@ -360,6 +345,11 @@
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140357"
   },
   {
+    "her": "Kalea",
+    "roll": "Tank",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846"
+  },
+  {
     "her": "Khaleed",
     "roll": "Fighter",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143032"
@@ -430,6 +420,11 @@
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142730"
   },
   {
+    "her": "Marcel",
+    "roll": "Support",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png/revision/latest?cb=20260311075303"
+  },
+  {
     "her": "Martis",
     "roll": "Fighter",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142036"
@@ -495,6 +490,11 @@
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140722"
   },
   {
+    "her": "Obsidia",
+    "roll": "Marksman",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest?cb=20250615074243"
+  },
+  {
     "her": "Odete",
     "roll": "Mage",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117141936"
@@ -558,6 +558,11 @@
     "her": "Suyou",
     "roll": "Assassin",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20240621033337"
+  },
+  {
+    "her": "Sora",
+    "roll": "Fighter",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest?cb=20251218014024"
   },
   {
     "her": "Terizla",
@@ -643,6 +648,11 @@
     "her": "Zhuxin",
     "roll": "Mage",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20240621033609"
+  },
+  {
+    "her": "Zetian",
+    "roll": "Mage",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250402014540"
   },
   {
     "her": "Zilong",
