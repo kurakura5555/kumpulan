@@ -11153,5 +11153,16 @@
     "sort": "15",
     "date_upload": "2026-04-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Argus-1775824091860": {
+    "key": "Argus-1775824091860",
+    "hero": "Argus",
+    "skin_name": "Toji Fushiguro",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Files/toji.zio.zip",
+    "img": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Images/1000165281.jpg",
+    "img2": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Images/1000165281.jpg",
+    "sort": "15",
+    "date_upload": "2026-04-10",
+    "tag": "Test"
   }
 }
