@@ -251,15 +251,6 @@
     "skin_name": "Aspirant",
     "sort": "1"
   },
-  "rc 2": {
-    "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
-    "hero": "The Oriental Fighter Replacement",
-    "img": "",
-    "img2": "",
-    "key": "rc 2",
-    "skin_name": "B",
-    "sort": "0"
-  },
   "Classic Replacement-alscwq": {
     "key": "Classic Replacement-alscwq",
     "hero": "Classic Replacement",
