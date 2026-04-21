@@ -745,5 +745,14 @@
     "img": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/Screenshot_2025-07-08-11-46-01-738_com.mobile.legends-picsay.png",
     "img2": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/Screenshot_2025-07-08-11-46-01-738_com.mobile.legends-picsay.png",
     "sort": "1"
+  },
+  "Classic Replacement-l2mdm0": {
+    "key": "Classic Replacement-l2mdm0",
+    "hero": "Classic Replacement",
+    "skin_name": "Abyssal Thunder",
+    "download": "https://github.com/KANEKIML/Recall/raw/refs/heads/main/abyssal%20thunder.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/abyssal%20thunder.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/abyssal%20thunder.jpg",
+    "sort": "1"
   }
 }
