@@ -763,5 +763,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/The_Oriental_Fighters_Recall_Effect.png/revision/latest?cb=20211204085044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/The_Oriental_Fighters_Recall_Effect.png/revision/latest?cb=20211204085044",
     "sort": "0"
+  },
+  "Oriental Fighter-o449u9jb": {
+    "key": "Oriental Fighter-o449u9jb",
+    "hero": "Oriental Fighter",
+    "skin_name": "Seal Of Anvil",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/oriental fighter to seal of anvil.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+    "sort": "1"
   }
 }
