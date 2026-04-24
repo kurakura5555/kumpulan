@@ -16,9 +16,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d941e",
-              "_updatedAt": 1765974302907,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42818d794bbe6206d10e9658013ab033.png",
                 "skillid": 3630
               },
               "id": 109870,
@@ -27,9 +27,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d941f",
-              "_updatedAt": 1765974302907,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
                 "skillid": 3620
               },
               "id": 109871,
@@ -38,9 +38,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d941c",
-              "_updatedAt": 1765974302907,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
                 "skillid": 3610
               },
               "id": 109868,
@@ -72,9 +72,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d941f",
-              "_updatedAt": 1765974302907,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
                 "skillid": 3620
               },
               "id": 109871,
@@ -83,9 +83,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d941c",
-              "_updatedAt": 1765974302907,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
                 "skillid": 3610
               },
               "id": 109868,

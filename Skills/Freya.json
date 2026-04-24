@@ -24,8 +24,28 @@
               "id": 109797,
               "sourceId": 2674712
             },
-            2299,
-            2298,
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f7697f",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c2350b4a4d8b8526e9e19c4daba69155.png",
+                "skillid": 2299
+              },
+              "id": 122701,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f76980",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122702,
+              "sourceId": 2674712
+            },
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d93d0",
@@ -37,7 +57,17 @@
               "id": 109792,
               "sourceId": 2674712
             },
-            2298,
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f76980",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122702,
+              "sourceId": 2674712
+            },
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d93d0",
@@ -72,8 +102,28 @@
           "desc": "Use Freya's 1st Skill to close the gap on enemies and knock them Airborne while giving herself a shield. Use her 2nd Skill once followed by 2 enhanced Basic Attacks to make use of the Attack Speed bonus and generate more Sacred Orbs from her Passive.",
           "hero_id": 22,
           "skill_id": [
-            2299,
-            2298,
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f7697f",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c2350b4a4d8b8526e9e19c4daba69155.png",
+                "skillid": 2299
+              },
+              "id": 122701,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f76980",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122702,
+              "sourceId": 2674712
+            },
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d93d0",
@@ -85,7 +135,17 @@
               "id": 109792,
               "sourceId": 2674712
             },
-            2298,
+            {
+              "_createdAt": 1776932104818,
+              "_id": "69e9d50854ae2bda46f76980",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122702,
+              "sourceId": 2674712
+            },
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d93d0",

@@ -3,22 +3,22 @@
   "data": {
     "records": [
       {
-        "_id": "661fffbe17071f48448b2270",
-        "caption": "奥利",
+        "_id": "69e9d2e03551b4a0f71221e8",
+        "caption": "翻新奥利-团战",
         "configId": 144237,
-        "createdAt": 1713373118235,
+        "createdAt": 1776931552667,
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In teamfights, use his 1st Skill to charge into the midst of the enemy team and use his Ultimate to hit as many targets as possible. Follow up with his 2nd Skill,\r\nbefore unleashing a flurry of Basic Attacks for considerable damage.",
+          "desc": "In teamfights, use Aulus's 1st Skill to gain Movement Speed and Control Immunity to quickly enter the fray. Use his 2nd Skill's second cast to get onto key targets, then activate his Ultimate and stay on them for continuous damage. Finally, use his enhanced Basic Attacks to clean up the battlefield.",
           "hero_id": 108,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d9599",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac3d6ad3a919532d4254a1102cd2a0f.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_e59b01cde830c737ad24c462840c73dd.png",
                 "skillid": 10810
               },
               "id": 110249,
@@ -26,10 +26,32 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d959b",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d959c",
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1902ab838ff6bc7c0eab00e15822a9c.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
+                "skillid": 10820
+              },
+              "id": 110252,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d959c",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
+                "skillid": 10820
+              },
+              "id": 110252,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d959b",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_3df0c4668657ef5cdaec0ebbd529772f.png",
                 "skillid": 10830
               },
               "id": 110251,
@@ -37,13 +59,13 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d959c",
+              "_id": "672c5d399d856a6db37d959a",
               "_updatedAt": 1758787887535,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37c793b8c6ae49e9c85a2b80c796e3a8.png",
-                "skillid": 10820
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 10800
               },
-              "id": 110252,
+              "id": 110250,
               "sourceId": 2674712
             },
             {
@@ -61,31 +83,42 @@
           "title": "TEAMFIGHT COMBOS"
         },
         "dynamic": null,
-        "id": 2695048,
+        "id": 3290871,
         "linkId": [
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1713373398291,
+        "updatedAt": 1776931552667,
         "updatedUser": "rubickguo"
       },
       {
-        "_id": "661fffbe17071f48448b226c",
-        "caption": "奥利",
+        "_id": "69e9d2d53551b4a0f71221e4",
+        "caption": "翻新奥利-对线",
         "configId": 144237,
-        "createdAt": 1713373118225,
+        "createdAt": 1776931541253,
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In the laning phase, wear down enemies with 2nd Skill\r\nand use his enhanced Basic Attacks to quickly build passive stacks. When the time is right, close the distance with his 1st Skill and follow up with his 2nd Skill, then finish the enemy with Basic Attacks.",
+          "desc": "When ganking in the early game, use Aulus's 1st Skill for Movement Speed and Control Immunity to quickly close in on the target. Then, use his 2nd Skill to slow them while weaving in Basic Attacks. Use his 2nd Skill again to stay on the target, and activate his Ultimate to chase while dealing damage, then finish them off with his enhanced Basic Attacks.",
           "hero_id": 108,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d959c",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d9599",
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37c793b8c6ae49e9c85a2b80c796e3a8.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_e59b01cde830c737ad24c462840c73dd.png",
+                "skillid": 10810
+              },
+              "id": 110249,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d959c",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
                 "skillid": 10820
               },
               "id": 110252,
@@ -104,24 +137,35 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d9599",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d959c",
+              "_updatedAt": 1776932104818,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac3d6ad3a919532d4254a1102cd2a0f.png",
-                "skillid": 10810
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
+                "skillid": 10820
               },
-              "id": 110249,
+              "id": 110252,
               "sourceId": 2674712
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d959c",
+              "_id": "672c5d399d856a6db37d959a",
               "_updatedAt": 1758787887535,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37c793b8c6ae49e9c85a2b80c796e3a8.png",
-                "skillid": 10820
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 10800
               },
-              "id": 110252,
+              "id": 110250,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d959b",
+              "_updatedAt": 1776932104818,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_3df0c4668657ef5cdaec0ebbd529772f.png",
+                "skillid": 10830
+              },
+              "id": 110251,
               "sourceId": 2674712
             },
             {
@@ -136,15 +180,15 @@
               "sourceId": 2674712
             }
           ],
-          "title": "LANING COMBOS"
+          "title": "JUNGLER COMBOS"
         },
         "dynamic": null,
-        "id": 2695047,
+        "id": 3290870,
         "linkId": [
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1713373398291,
+        "updatedAt": 1776931541253,
         "updatedUser": "rubickguo"
       }
     ],
