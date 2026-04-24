@@ -79,5 +79,14 @@
     "key": "Classic Replacement-NWC6w1nVaWXT0TcBirf",
     "skin_name": "Brens",
     "sort": "1"
+  },
+  "Classic Replacement-n7wl4x": {
+    "key": "Classic Replacement-n7wl4x",
+    "hero": "Classic Replacement",
+    "skin_name": "Elimination",
+    "download": "https://github.com/rahasia55/AG-RESPAWN/raw/main/respawn%20backup.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
+    "sort": "0"
   }
 }
