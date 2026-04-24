@@ -1,22 +1,21 @@
 {
   "code": 0,
-  "message": "OK",
   "data": {
     "records": [
       {
-        "_id": "65f2e280fd1bb8e47d25e0ab",
-        "caption": "108奥利",
+        "_id": "69e622cb3551b4a0f710bdc0",
+        "caption": "108翻新奥利",
         "configId": 144237,
-        "createdAt": 1710416512609,
-        "createdUser": "nickjin",
+        "createdAt": 1776689867877,
+        "createdUser": "v_zhu",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_c200a863e7014f2ea721abbfac8f1a27.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_882d9e4fe4067e09acc97ab6be99f06b.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/b48762283aac961dd0ef0792e021e1d4.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/df1df2053afbdda1167d647bbb8b3a81.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef42af5771f18c5009f0",
-            "_updatedAt": 1758787900299,
+            "_updatedAt": 1776932105838,
             "data": {
               "abilityshow": [
                 "60",
@@ -25,15 +24,15 @@
                 "40"
               ],
               "difficulty": "40",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
               "heroid": 108,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Aulus adds a stack of <font color=\"a6aafb\">Fighting Spirit</font> to his axe per second for 3s after dealing damage to any enemy (up to 3 stacks). Each stack grants 15% extra Attack Speed. Aulus also deals 42-210 extra <font color=\"fb1f1f\">Physical Damage</font> with his Basic Attacks at max <font color=\"a6aafb\">Fighting Spirit</font> stacks (scales with level). The damage counts as Attack Effect.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7c4332cf35097a899d0081622974fc30.png",
+                      "skilldesc": "After dealing damage, Aulus adds a stack of <font color=\"a6aafb\">Fighting Spirit</font> to his axe per second for 4s (up to 6 stacks). Each stack grants 7.5 (+0.5*Hero Level)% Attack Speed. At max <font color=\"a6aafb\">Fighting Spirit</font> stacks, Aulus's Basic Attack is enhanced and gains Attack Range.\n\nEnhanced Basic Attack: Aulus slams his axe into the ground, dealing <font color=\"fba51f\"> (+75% Total Physical Attack)</font> (+ 4 (+0.4*Hero Level)% target's Max HP) <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_212853d016e25b580810f20925cca284.png",
                       "skillid": 10840,
                       "skillname": "Fighting Spirit",
                       "skilltag": [
@@ -46,9 +45,9 @@
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 14   Mana Cost: 50",
-                      "skilldesc": "Aulus removes all Slowing Effects and gains 30% extra Movement Speed and 30% Damage Reduction against attacks from the front for 5s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac3d6ad3a919532d4254a1102cd2a0f.png",
+                      "skillcd&cost": "CD: 14",
+                      "skilldesc": "Aulus starts accumulating <font color=\"a6aafb\">Fighting Spirit</font>, removes all slow effects, and gains 30% extra Movement Speed for 5s.\n\nIf Aulus does not take high-level control effects within 2s, he will enter the <font color=\"a6aafb\">Enraged</font> state and gain Control Immunity.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_e59b01cde830c737ad24c462840c73dd.png",
                       "skillid": 10810,
                       "skillname": "Aulus, Charge!",
                       "skilltag": [
@@ -66,41 +65,36 @@
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 5   Mana Cost: 40",
-                      "skilldesc": "Aulus brandishes his axe, dealing 200<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area and slowing them by 20% for 3s. At max stacks of <font color=\"a6aafb\">Fighting Spirit</font>, he deals additional <font color=\"fb1f1f\">Physical Damage</font> equal to 3.5% of the targets' Max HP. After hitting enemy targets, he enhances his Basic Attacks for 3s. Aulus recovers HP by 50<font color=\"26e407\"> (+1% Total HP)</font> after each Basic Attack.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37c793b8c6ae49e9c85a2b80c796e3a8.png",
+                      "skillcd&cost": "CD: 5",
+                      "skilldesc": "Aulus swings his axe, dealing 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area and slowing them by 30% for 2s.\n\nUpon hitting an enemy, Aulus can cast this skill again to dash forward and smash the ground, dealing 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
                       "skillid": 10820,
                       "skillname": "The Power of Axe",
                       "skilltag": [
                         {
-                          "tagid": 22,
-                          "tagname": "Slow",
-                          "tagrgb": "205,93,109"
+                          "tagid": 81,
+                          "tagname": "Mobility",
+                          "tagrgb": "162,105,198"
                         },
                         {
-                          "tagid": 51,
-                          "tagname": "Heal",
-                          "tagrgb": "89,168,111"
+                          "tagid": 32,
+                          "tagname": "AOE",
+                          "tagrgb": "199,121,85"
                         }
                       ],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 50   Mana Cost: 150",
-                      "skilldesc": "<font color=\"a6aafb\">Passive:</font> Every time Undying Fury is upgraded, Aulus crafts a part for his axe in order. <font color=\"a6aafb\">Blade Craft:</font> His Basic Attacks deal 50 extra <font color=\"fb1f1f\">Physical Damage</font>. <font color=\"a6aafb\">Handle Craft:</font> Permanently increases his Attack Range by 65% and the range of <font color=\"a6aafb\">The Power of Axe</font>. <font color=\"a6aafb\">Hammer Craft:</font> Permanently increases his Physical Penetration by 20%.\n\n<font color=\"a6aafb\">Active:</font> Aulus raises his axe and smashes it to the ground (this skill can only be interrupted by Suppression), dealing 210<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line and slowing them by 90% for 0.5s. A burning trail that lasts for 5s is left on the ground, dealing 90<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies who walk on it every 0.5s and slowing them by 70%.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1902ab838ff6bc7c0eab00e15822a9c.png",
+                      "skillcd&cost": "CD: 50",
+                      "skilldesc": "Aulus repeatedly swings his axe at nearby enemies, dealing 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing 450<font color=\"fba51f\"> (+180% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a large area.\n\nDuring this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_3df0c4668657ef5cdaec0ebbd529772f.png",
                       "skillid": 10830,
-                      "skillname": "Undying Fury",
+                      "skillname": "Cleaving Axe",
                       "skilltag": [
                         {
-                          "tagid": 22,
-                          "tagname": "Slow",
-                          "tagrgb": "205,93,109"
-                        },
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
+                          "tagid": 31,
+                          "tagname": "Burst",
+                          "tagrgb": "199,121,85"
                         }
                       ],
                       "skillvideo": ""
@@ -118,7 +112,194 @@
                 "1"
               ],
               "recommendlevellabel": "3-2-1",
-              "recommendmasterplan": [],
+              "recommendmasterplan": [
+                {
+                  "battleskill": {
+                    "__data": {
+                      "numdescribe": "520 <2|lv 80>;60%;40%;2;5;15;10;100",
+                      "skilldesc": "Deal 520 (+80*Hero Level) <font color=\"ffe63c\">True Damage</font> to the target Creep or Minion.\n<font color=\"62f8fe\">Passive</font>: Increases Creep rewards by 60% and reduces damage taken from basic Creeps by 40%. Cannot share Minion rewards with allied heroes in the first 2 min.\n<font color=\"62f8fe\">Blessing:</font> Accumulate 5 Creep kills, hero kills, or assists to upgrade the spell according to the Jungling Boots' Blessing, and 15 kills or assists to gain 10 Physical Attack and Magic Power and 100 Max HP.",
+                      "skilldesc_text": "Deal <Num1> [C5True Damage] to the target Creep or Minion.####[C2Passive]: Increases Creep rewards by <%Num2> and reduces damage taken from basic Creeps by <%Num3>. Cannot share Minion rewards with allied heroes in the first <Num4> min.####[C2Blessing:] Accumulate <Num5> Creep kills, hero kills, or assists to upgrade the spell according to the Jungling Boots' Blessing, and <Num6> kills or assists to gain <Num7> Physical Attack and Magic Power and <Num8> Max HP.",
+                      "skilldescemblem": "Deal 520 (+80*Hero Level) <font color=\"ffe63c\">True Damage</font> to the target Creep or Minion.\n<font color=\"62f8fe\">Passive</font>: Increases Creep rewards by 60% and reduces damage taken from basic Creeps by 40%. Cannot share Minion rewards with allied heroes in the first 2 min.\n<font color=\"62f8fe\">Blessing:</font> Accumulate 5 Creep kills, hero kills, or assists to upgrade the spell according to the Jungling Boots' Blessing, and 15 kills or assists to gain 10 Physical Attack and Magic Power and 100 Max HP.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2cd084a2661c121c347facb060a80377.png",
+                      "skillid": 20020,
+                      "skillid_lv": "20020/1",
+                      "skillname": "Retribution"
+                    },
+                    "battleskillid": 20020,
+                    "skillicon": "@__data.skillicon",
+                    "skillname": "@__data.skillname1",
+                    "skillshortdesc": ".+`,'ShowMessage_mMessage_$1'.+`,'BattleShowMessage_mMessage_$1'",
+                    "skillvideo": ""
+                  },
+                  "description": "Jungle: Balanced Cooldown Reduction and sustainability. Can tank and dish out damage.",
+                  "emblemplan": {
+                    "emblemplan": {
+                      "attriicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2153bf01770633e3251dea1f2ac6c956.png",
+                      "attriicon2": "",
+                      "emblemattr": {
+                        "emblemattr": "+10% Hybrid Lifesteal\n+16 Adaptive Attack\n+8 Extra Physical Defense\n+8 Extra Magic Defense\n",
+                        "emblemattrid": "2000760",
+                        "emblemname": "Fighter"
+                      },
+                      "emblembg": 0,
+                      "emblemid": 20007,
+                      "emblemname": "Fighter"
+                    },
+                    "giftid1": {
+                      "emblemskill": {
+                        "numdescribe": "5",
+                        "skilldesc": "Gain 5 <font color=\"ffdfa2\">Adaptive Penetration</font>.\n\n<font color=\"8098ab\">Gain Physical Penetration if extra Physical Attack is higher than extra Magic Power; otherwise, gain Magic Penetration.</font>",
+                        "skilldesc_text": "Gain <Num1> [ffdfa2]Adaptive Penetration[-].########[8098ab]Gain Physical Penetration if extra Physical Attack is higher than extra Magic Power; otherwise, gain Magic Penetration.[-]",
+                        "skilldescemblem": "Gain 5 <font color=\"ffdfa2\">Adaptive Penetration</font>.\n\n<font color=\"8098ab\">Gain Physical Penetration if extra Physical Attack is higher than extra Magic Power; otherwise, gain Magic Penetration.</font>",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e7a237c8961044ad43af1a79d5b3756.png",
+                        "skillid": 63120,
+                        "skillid_lv": "63120/1",
+                        "skillname": "Rupture"
+                      },
+                      "giftid": 511,
+                      "gifttiers": 1
+                    },
+                    "giftid2": {
+                      "emblemskill": {
+                        "numdescribe": "15%",
+                        "skilldesc": "Damage against Lord and Turtle is increased by 15%. This bonus is halved against regular Creeps and doesn't affect the damage of Retribution.",
+                        "skilldesc_text": "Damage against Lord and Turtle is increased by <%Num1>. This bonus is halved against regular Creeps and doesn't affect the damage of Retribution.",
+                        "skilldescemblem": "Damage against Lord and Turtle is increased by 15%. This bonus is halved against regular Creeps and doesn't affect the damage of Retribution.",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe6ad272b01110393d55b4326164a3fa.png",
+                        "skillid": 61120,
+                        "skillid_lv": "61120/1",
+                        "skillname": "Seasoned Hunter"
+                      },
+                      "giftid": 122,
+                      "gifttiers": 2
+                    },
+                    "giftid3": {
+                      "emblemskill": {
+                        "numdescribe": "15%;20%;3;30;30%",
+                        "skilldesc": "When damaging heroes below 30% HP, instantly recover 15% of Lost HP and gain 20% Movement Speed.\n\n<font color=\"8098ab\">Additional Effect: Reset cooldown upon killing an enemy hero.\n[8098ab]Duration: 3s\n[8098ab]Cooldown: 30s</font>",
+                        "skilldesc_text": "When damaging heroes below <%Num5> HP, instantly recover <%Num1> of Lost HP and gain <%Num2> Movement Speed.########[8098ab]Additional Effect: Reset cooldown upon killing an enemy hero.####[8098ab]Duration: <Num3>s####[8098ab]Cooldown: <Num4>s[-]",
+                        "skilldescemblem": "When damaging heroes below 30% HP, instantly recover 15% of Lost HP and gain 20% Movement Speed.\n\n<font color=\"8098ab\">Additional Effect: Reset cooldown upon killing an enemy hero.\n[8098ab]Duration: 3s\n[8098ab]Cooldown: 30s</font>",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_264b83700e778b3eaa4a62d8e7a22a6c.png",
+                        "skillid": 62090,
+                        "skillid_lv": "62090/1",
+                        "skillname": "Killing Spree"
+                      },
+                      "giftid": 531,
+                      "gifttiers": 3
+                    },
+                    "planid": 128
+                  },
+                  "equiplist": [
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8d1d86a8d37e872f66334a4c373621c.png",
+                      "equipid": 3421,
+                      "equipname": "Ice Hunter's Tough Boots",
+                      "equipskill1": "\nFortitude: CC and Slow Duration reduced by 25%",
+                      "equipskill2": "\nHunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (+0.01 Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nFortitude: CC and Slow Duration reduced by 25%\nHunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (+0.01 Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+                      "equiptips": "+40 Movement Speed<br>+18 Extra Magic Defense<br>",
+                      "equiptype": "4",
+                      "equiptypename": "Jungle",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_fa1f5745cf88227722a9ff22c95c0bc4.png",
+                      "equipid": 2013,
+                      "equipname": "War Axe",
+                      "equipskill1": "\nFighting Spirit: Attacks grant 12 extra Physical Attack per second for 4s, up to 6 stacks. Deals extra 10% True Damage based on the damage dealt (no damage reduction counted) at full stacks.\n<font color=\"A4AAC7\">Marksmen, Mages, and Supports only receive 50% of these stacked effects</font>.",
+                      "equipskill2": "\n: ",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nFighting Spirit: Attacks grant 12 extra Physical Attack per second for 4s, up to 6 stacks. Deals extra 10% True Damage based on the damage dealt (no damage reduction counted) at full stacks.\n<font color=\"A4AAC7\">Marksmen, Mages, and Supports only receive 50% of these stacked effects</font>.",
+                      "equiptips": "+35 Extra Physical Attack<br>+400 Extra Max HP<br>+10% Cooldown Reduction<br>+8% Hybrid Lifesteal<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b830fbf0e825c3c46010bf5fbf814767.png",
+                      "equipid": 3208,
+                      "equipname": "Brute Force Breastplate",
+                      "equipskill1": "\nBrute Force: Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4s, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks.",
+                      "equipskill2": "\n: ",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nBrute Force: Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4s, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks.",
+                      "equiptips": "+800 Extra Max HP<br>+20 Extra Physical Defense<br>+10% Cooldown Reduction<br>",
+                      "equiptype": "2",
+                      "equiptypename": "Defense",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da94005b9d67024c8f189889ba6368cb.png",
+                      "equipid": 3012,
+                      "equipname": "Rose Gold Meteor",
+                      "equipskill1": "\nDragon Scale: Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).",
+                      "equipskill2": "\nLifeline: When taking damage that reduces HP below 30%, gain a (+120*Hero Level) shield and 50% Movement Speed that rapidly decays over 3s. This effect has a 60s cooldown.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nDragon Scale: Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).\nLifeline: When taking damage that reduces HP below 30%, gain a (+120*Hero Level) shield and 50% Movement Speed that rapidly decays over 3s. This effect has a 60s cooldown.",
+                      "equiptips": "+30 Extra Physical Attack<br>+20% Extra Attack Speed<br>+10% Lifesteal<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6bab0819a3203e65eb28da7ef1c4478.png",
+                      "equipid": 2208,
+                      "equipname": "Queen's Wings",
+                      "equipskill1": "\nDemonize: When HP drops below 40%, gains 30% Damage Reduction for 3s and reduces skill cooldowns by 2s. The effect has a 60s cooldown.",
+                      "equipskill2": "\nDefiance: For every 1% HP lost, damage is increased by 0.25%, up to 15%.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nDemonize: When HP drops below 40%, gains 30% Damage Reduction for 3s and reduces skill cooldowns by 2s. The effect has a 60s cooldown.\nDefiance: For every 1% HP lost, damage is increased by 0.25%, up to 15%.",
+                      "equiptips": "+750 Extra Max HP<br>+30 Adaptive Attack<br>+10% Cooldown Reduction<br>+10% Spell Vamp<br>",
+                      "equiptype": "2",
+                      "equiptypename": "Defense",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_282edd3dffb41e1b95b08592707ba88f.png",
+                      "equipid": 3001,
+                      "equipname": "Malefic Roar",
+                      "equipskill1": "\nArmor Buster: Increase Physical Penetration by 30%.",
+                      "equipskill2": "\nBreaker: When attacking an enemy, gains 0.1% extra Physical Penetration for each point of the enemy's Physical Defense, capped at 30%.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nArmor Buster: Increase Physical Penetration by 30%.\nBreaker: When attacking an enemy, gains 0.1% extra Physical Penetration for each point of the enemy's Physical Defense, capped at 30%.",
+                      "equiptips": "+60 Extra Physical Attack<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    }
+                  ],
+                  "face": "https://akmstatic.ml.youngjoygame.com/ACT/Yifan.png",
+                  "name": "疑犯_Yifan",
+                  "recommendequipmasterid": 10801,
+                  "tag": [],
+                  "title": "Influencer"
+                }
+              ],
               "roadsort": [
                 {
                   "_id": "668541caaa8e7f6ec4703d8a",
@@ -149,7 +330,7 @@
                 "Jungle",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55751a5c47dc36cb6c1da705c5f5c687.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_4a632ceb1dfcb3aad58a6d02a46a1c9e.png",
               "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
               "sorticon2": "",
               "sortid": [
@@ -182,11 +363,11 @@
               ],
               "speciality": [
                 "Damage",
-                "Crowd Control"
+                "Charge"
               ],
               "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4beb05b58c46e8c88d06e88a50cf67e2.jpg",
               "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_882d9e4fe4067e09acc97ab6be99f06b.jpg",
-              "story": "A Leonin warrior that fights to prove himself.",
+              "story": "A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.",
               "tale": ""
             },
             "id": 100480,
@@ -195,7 +376,7 @@
           "hero_id": 108,
           "relation": {
             "assist": {
-              "desc": "Aulus works well alongside heroes with buffs or CC abilities such as Angela and Yve to give him more opportunities to deal damage.",
+              "desc": "Aulus is a dive Fighter and he thrives with reliable ranged Support, such as Angela and Floryn.",
               "target_hero": [
                 {
                   "data": {
@@ -204,19 +385,19 @@
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png"
                   }
                 },
                 0
               ],
               "target_hero_id": [
                 55,
-                101,
+                112,
                 0
               ]
             },
             "strong": {
-              "desc": "Aulus has great Movement Speed, can remove soft CC, has strong sustainability and performs well against heroes without Blink such as Hanabi, Yve, and Gord.",
+              "desc": "Aulus's strong engage and sustained combat capabilities, along with his Control Immunity, makes him a good counter to squishy, low-mobility heroes like Hanabi, Miya, and Gord.",
               "target_hero": [
                 {
                   "data": {
@@ -225,7 +406,7 @@
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
                   }
                 },
                 {
@@ -236,44 +417,50 @@
               ],
               "target_hero_id": [
                 60,
-                101,
+                1,
                 23
               ]
             },
             "weak": {
-              "desc": "He can be countered by more agile heroes, or those with suppression skills such as Franco and Wanwan.",
+              "desc": "Since Aulus's damage relies on landing his enhanced Basic Attacks, heroes who can keep him at bay and avoid them are a tough matchup, such as Franco, Melissa, and Karina.",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png"
                   }
                 },
-                0
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                }
               ],
               "target_hero_id": [
                 10,
-                89,
-                0
+                114,
+                8
               ]
             }
           },
           "url": "https://play.mobilelegends.com/lore/hero/Aulus"
         },
         "dynamic": null,
-        "id": 2678844,
+        "id": 3290566,
         "linkId": [
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1776690013119,
+        "updatedUser": "v_zhu"
       }
     ],
     "total": 1
-  }
+  },
+  "message": "OK",
+  "traceID": null
 }

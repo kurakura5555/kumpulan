@@ -1,6 +1,5 @@
 {
   "code": 0,
-  "message": "OK",
   "data": {
     "records": [
       {
@@ -16,7 +15,7 @@
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c500994",
-            "_updatedAt": 1773205501411,
+            "_updatedAt": 1776932105838,
             "data": {
               "abilityshow": [
                 "10",
@@ -32,8 +31,8 @@
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Eudora's skills inflict <font color=\"a6aafb\">Superconductor</font> for 3s on hit and can trigger additional effects against enemies affected by <font color=\"a6aafb\">Superconductor</font>.",
-                      "skillicon": "",
+                      "skilldesc": "Eudora's skills inflict <font color=\"a6aafb\">Superconductor</font> for 3s on non-minion units hit and can trigger additional effects against enemies affected by <font color=\"a6aafb\">Superconductor</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_4ac316bbaf343836fdc741c84ca5da45.png",
                       "skillid": 1540,
                       "skillname": "Superconductor",
                       "skilltag": [
@@ -47,8 +46,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 5   Mana Cost: 60",
-                      "skilldesc": "Eudora deals 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a fan-shaped area.\n\nEnemies affected by <font color=\"a6aafb\">Superconductor</font> will take 200% extra <font color=\"7f62fe\">Magic Damage</font> after a short delay.",
-                      "skillicon": "",
+                      "skilldesc": "Eudora casts Forked Lightning in a fan-shaped area, dealing 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> (increased to 200% against minions) to enemies within.\n\nWhen hitting targets affected by <font color=\"a6aafb\">Superconductor</font>, Eudora forms a lightning chain with the target, gaining 40% Movement Speed during the chain for up to 1s.\nThe lightning chain deals 10<font color=\"62f8fe\"> (+4% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> over time and an additional 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> when it ends. If this hit lands, it reduces this skill's cooldown by 1.5s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_17018b4270f7fd04eb235499eb629861.png",
                       "skillid": 1510,
                       "skillname": "Forked Lightning",
                       "skilltag": [
@@ -62,8 +61,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 11   Mana Cost: 80",
-                      "skilldesc": "Eudora hurls an orb of lightning at the target enemy, dealing 1 <font color=\"7f62fe\">Magic Damage</font>, stunning them for 300<font color=\"62f8fe\"> (+50% Total Magic Power)</font>s, and reducing their Magic Defense by 1.8 for 10s.\n\nIf the enemy is affected by <font color=\"a6aafb\">Superconductor</font>, the lightning orb will bounce to up to  nearby enemies (prioritizes enemy heroes), dealing  <font color=\"7f62fe\">Magic Damage</font> and stunning them for s.",
-                      "skillicon": "",
+                      "skilldesc": "Eudora hurls an orb of lightning at the target enemy, reducing their Magic Defense by 10 for 1.8s, dealing 300<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, and stunning them for 1s.\n\nIf the target is affected by <font color=\"a6aafb\">Superconductor</font>, the lightning orb reduces the Magic Defense of nearby enemies, deals AOE damage centered on the target, and stuns all nearby enemies.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_ee8360b2b38255f04226a627561564fe.png",
                       "skillid": 1520,
                       "skillname": "Ball Lightning",
                       "skilltag": [
@@ -82,8 +81,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 32   Mana Cost: 130",
-                      "skilldesc": "Eudora calls down a blast of lightning on the target enemy, dealing 600<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nIf the enemy is affected by <font color=\"a6aafb\">Superconductor</font>, dark clouds appear over their head and unleash an additional lightning strike on the area after 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font>s, dealing 330<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and  <font color=\"7f62fe\">Magic Damage</font> to nearby enemies.",
-                      "skillicon": "",
+                      "skilldesc": "Eudora calls down a blast of lightning on the target area, dealing 600<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to targets at the center. Then it strikes targets outside the center, dealing 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nEvery time Thunder's Wrath hits a target affected by <font color=\"a6aafb\">Superconductor</font>, it triggers a <font color=\"a6aafb\">Thunderburst</font> centered on the <font color=\"a6aafb\">Superconductor</font> target after a short delay, dealing 330<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_d44b0dd173dce52af46ec6432c4ab287.png",
                       "skillid": 1530,
                       "skillname": "Thunder’s Wrath",
                       "skilltag": [
@@ -255,5 +254,7 @@
       }
     ],
     "total": 1
-  }
+  },
+  "message": "OK",
+  "traceID": null
 }

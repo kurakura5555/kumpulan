@@ -1,6 +1,5 @@
 {
   "code": 0,
-  "message": "OK",
   "data": {
     "records": [
       {
@@ -16,7 +15,7 @@
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c5009a8",
-            "_updatedAt": 1773205501411,
+            "_updatedAt": 1776932105838,
             "data": {
               "abilityshow": [
                 "40",
@@ -32,8 +31,8 @@
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% Max HP. This effect has a 150s cooldown.\n\nAurora's freeze effects can also affect Turrets.",
-                      "skillicon": "",
+                      "skilldesc": "Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible and gradually recovering 30% Max HP. Cooldown: 150s.\n\nAurora's freeze effects can also affect Turrets.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6d80942b639b97fbeffc5fd9ee8167e.png",
                       "skillid": 3640,
                       "skillname": "Pride of Ice",
                       "skilltag": [
@@ -48,7 +47,7 @@
                     {
                       "skillcd&cost": "CD: 6   Mana Cost: 60",
                       "skilldesc": "Aurora summons an icy meteorite to strike at the target location, dealing 400<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing targets hit by 40% for 1s. Afterward, 5 hailstones fall, each dealing 40<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
-                      "skillicon": "",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
                       "skillid": 3610,
                       "skillname": "Hailstone Blast",
                       "skilltag": [
@@ -67,8 +66,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 12   Mana Cost: 75",
-                      "skilldesc": "Aurora blows Frosty Breeze in a fan-shaped area in the target direction, dealing 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit, and creating a frozen area at the far-end of the attack that deals a total of 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area and freezes them for 1s.",
-                      "skillicon": "",
+                      "skilldesc": "Aurora blows <font color=\"a6aafb\">Frosty Breeze</font> in a fan-shaped area in the target direction, dealing 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and creating a frozen area at the far end.\n\nThe area deals a total of 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and freezes them for 1s (increases by 0.06s for every 100 Magic Power).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
                       "skillid": 3620,
                       "skillname": "Frosty Breeze",
                       "skilltag": [
@@ -87,8 +86,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 50   Mana Cost: 140",
-                      "skilldesc": "Aurora creates a frost path in the target direction, dealing 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the path and reducing their Movement Speed by 80% for 1.2s. The frost path gradually becomes glaciers that spread until reaching their maximum size and shattering, dealing 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area and freezing targets for 1s. Every 100 Magic Power that Aurora has will increase the freeze duration by 0.2s.",
-                      "skillicon": "",
+                      "skilldesc": "Aurora creates a frost path in the target direction, dealing 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the path and slowing them by 80% for 1.2s. \n\nThe frost path gradually expands into a glacier that shatters at maximum size, dealing 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area and freezing them for 1s (increases by 0.2s for every 100 Magic Power).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42818d794bbe6206d10e9658013ab033.png",
                       "skillid": 3630,
                       "skillname": "Frigid Glacier",
                       "skilltag": [
@@ -287,5 +286,7 @@
       }
     ],
     "total": 1
-  }
+  },
+  "message": "OK",
+  "traceID": null
 }
