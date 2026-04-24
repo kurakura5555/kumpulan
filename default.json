@@ -496,9 +496,11 @@
     "hero": "Aulus",
     "skin_name": " ",
     "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/aulus.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
-    "sort": "0"
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest/scale-to-width-down/150?cb=20260423100521",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest/scale-to-width-down/150?cb=20260423100521",
+    "sort": "0",
+    "date_upload": "2026-04-24",
+    "tag": ""
   },
   "Aurora-NQwC31v0qloYxDI65pB": {
     "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Aurora.zip",
