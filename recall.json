@@ -962,8 +962,8 @@
     "hero": "515 Shuttle!",
     "skin_name": "Tlph",
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/515%20shuttle%20to%20tlph.zip",
-    "img": "tlph",
-    "img2": "tlph",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
   },
   "5th Anniversary-h8pgohxl": {
