@@ -929,5 +929,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/515%21_Shuttle%21_Recall_Effect.png/revision/latest?cb=20220515021507",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/515%21_Shuttle%21_Recall_Effect.png/revision/latest?cb=20220515021507",
     "sort": "0"
+  },
+  "515 Shuttle!-5gvyqgct": {
+    "key": "515 Shuttle!-5gvyqgct",
+    "hero": "515 Shuttle!",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/515%20shuttle%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
