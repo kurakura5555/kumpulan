@@ -1037,5 +1037,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-0xqushk7": {
+    "key": "Atomic Pop-0xqushk7",
+    "hero": "Atomic Pop",
+    "skin_name": "Dewa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20dewa.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "sort": "1"
   }
 }
