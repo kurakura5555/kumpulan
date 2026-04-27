@@ -1001,5 +1001,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "5th Anniversary-fm6wsc10": {
+    "key": "5th Anniversary-fm6wsc10",
+    "hero": "5th Anniversary",
+    "skin_name": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/5th%20anniversary%20to%20annual%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/annual%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/annual%20star.jpg",
+    "sort": "1"
   }
 }
