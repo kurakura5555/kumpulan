@@ -1064,5 +1064,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-icmamhmq": {
+    "key": "Atomic Pop-icmamhmq",
+    "hero": "Atomic Pop",
+    "skin_name": "Kishin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20kishin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "sort": "1"
   }
 }
