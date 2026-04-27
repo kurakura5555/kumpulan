@@ -1055,5 +1055,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-gr7xfezl": {
+    "key": "Atomic Pop-gr7xfezl",
+    "hero": "Atomic Pop",
+    "skin_name": "Geekid",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20geekid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "sort": "1"
   }
 }
