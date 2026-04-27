@@ -1010,5 +1010,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-019nq1v9": {
+    "key": "Atomic Pop-019nq1v9",
+    "hero": "Atomic Pop",
+    "skin_name": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20annual%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "sort": "1"
   }
 }
