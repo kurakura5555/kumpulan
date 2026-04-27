@@ -1073,5 +1073,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-1iwuh0tp": {
+    "key": "Atomic Pop-1iwuh0tp",
+    "hero": "Atomic Pop",
+    "skin_name": "M6",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20m6.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
+    "sort": "1"
   }
 }
