@@ -1010,5 +1010,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/annual%20star.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/annual%20star.jpg",
     "sort": "1"
+  },
+  "5th Anniversary-nmr6bu64": {
+    "key": "5th Anniversary-nmr6bu64",
+    "hero": "5th Anniversary",
+    "skin_name": "Zeus",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/5th%20anniversary%20to%20zeus.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/zeus.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/zeus.jpg",
+    "sort": "1"
   }
 }
