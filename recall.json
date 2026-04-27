@@ -1028,5 +1028,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-sz41m9kn": {
+    "key": "Atomic Pop-sz41m9kn",
+    "hero": "Atomic Pop",
+    "skin_name": "Evos",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20evos.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "sort": "1"
   }
 }
