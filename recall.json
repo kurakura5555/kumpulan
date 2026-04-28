@@ -1163,5 +1163,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-ngyhw7jz": {
+    "key": "Atomic Pop-ngyhw7jz",
+    "hero": "Atomic Pop",
+    "skin_name": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20soul%20vessel.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
+    "sort": "1"
   }
 }
