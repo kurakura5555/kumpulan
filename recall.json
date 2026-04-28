@@ -1619,5 +1619,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "sort": "1"
+  },
+  "M5-qra16xb9": {
+    "key": "M5-qra16xb9",
+    "hero": "M5",
+    "skin_name": "Naruto",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20naruto.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "sort": "1"
   }
 }
