@@ -1709,5 +1709,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
     "sort": "0"
+  },
+  "M7-ixs5t5pv": {
+    "key": "M7-ixs5t5pv",
+    "hero": "M7",
+    "skin_name": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20m7.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
+    "sort": "0"
   }
 }
