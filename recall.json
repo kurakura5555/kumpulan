@@ -1430,5 +1430,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "M4-xepsyqhb": {
+    "key": "M4-xepsyqhb",
+    "hero": "M4",
+    "skin_name": "Rora",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20rora.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "sort": "1"
   }
 }
