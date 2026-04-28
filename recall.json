@@ -1520,5 +1520,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "M4-uk65m12o": {
+    "key": "M4-uk65m12o",
+    "hero": "M4",
+    "skin_name": "Fnop",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20fnop.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "sort": "1"
   }
 }
