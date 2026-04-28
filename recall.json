@@ -1252,5 +1252,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
     "sort": "0"
+  },
+  "Halloween-i2pvyuqb": {
+    "key": "Halloween-i2pvyuqb",
+    "hero": "Halloween",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20fire.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
