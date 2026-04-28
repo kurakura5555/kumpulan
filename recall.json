@@ -1234,5 +1234,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "sort": "1"
+  },
+  "Golden Month-s0m0wa2n": {
+    "key": "Golden Month-s0m0wa2n",
+    "hero": "Golden Month",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/golden%20month%20to%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "sort": "1"
   }
 }
