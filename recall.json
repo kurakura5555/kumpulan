@@ -1466,5 +1466,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "M4-9dnh5rh8": {
+    "key": "M4-9dnh5rh8",
+    "hero": "M4",
+    "skin_name": "Rsg",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20rsg.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "sort": "1"
   }
 }
