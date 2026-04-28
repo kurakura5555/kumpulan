@@ -1136,5 +1136,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-iupm5nvd": {
+    "key": "Atomic Pop-iupm5nvd",
+    "hero": "Atomic Pop",
+    "skin_name": "Seal Of Anvil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20seal%20of%20anvil.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "sort": "1"
   }
 }
