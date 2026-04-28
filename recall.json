@@ -1261,5 +1261,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Halloween-dz49zv3u": {
+    "key": "Halloween-dz49zv3u",
+    "hero": "Halloween",
+    "skin_name": "Geekid",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20geekid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "sort": "1"
   }
 }
