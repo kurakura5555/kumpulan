@@ -1745,5 +1745,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "M6-4rlquszj": {
+    "key": "M6-4rlquszj",
+    "hero": "M6",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m6%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "sort": "1"
   }
 }
