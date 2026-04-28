@@ -1700,5 +1700,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m5.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m5.jpg",
     "sort": "0"
+  },
+  "M6-5xfelwuh": {
+    "key": "M6-5xfelwuh",
+    "hero": "M6",
+    "skin_name": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/bakcup%20m6.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
+    "sort": "0"
   }
 }
