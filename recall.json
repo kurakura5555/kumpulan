@@ -1448,5 +1448,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "sort": "1"
+  },
+  "M4-wxliywjo": {
+    "key": "M4-wxliywjo",
+    "hero": "M4",
+    "skin_name": "M4",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20m4.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m4.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m4.jpg",
+    "sort": "0"
   }
 }
