@@ -1324,5 +1324,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "sort": "1"
+  },
+  "Halloween-5f06zts2": {
+    "key": "Halloween-5f06zts2",
+    "hero": "Halloween",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/helloween%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
