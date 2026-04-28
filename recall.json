@@ -1502,5 +1502,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "sort": "1"
+  },
+  "M4-b49d7ey1": {
+    "key": "M4-b49d7ey1",
+    "hero": "M4",
+    "skin_name": "Dewa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20dewa.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "sort": "1"
   }
 }
