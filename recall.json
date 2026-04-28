@@ -1718,5 +1718,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
     "sort": "0"
+  },
+  "M6-twopnqv6": {
+    "key": "M6-twopnqv6",
+    "hero": "M6",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m6%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
