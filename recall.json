@@ -1315,5 +1315,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "Halloween-e4jh2o7w": {
+    "key": "Halloween-e4jh2o7w",
+    "hero": "Halloween",
+    "skin_name": "Seal of Anvil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/haloween%20to%20seal%20of%20anvil.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "sort": "1"
   }
 }
