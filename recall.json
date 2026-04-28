@@ -1772,5 +1772,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "M7-n3sbmjxn": {
+    "key": "M7-n3sbmjxn",
+    "hero": "M7",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m7%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "sort": "1"
   }
 }
