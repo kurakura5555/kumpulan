@@ -1341,5 +1341,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "M3 Glorious Return-xretrtaj": {
+    "key": "M3 Glorious Return-xretrtaj",
+    "hero": "M3 Glorious Return",
+    "skin_name": "Evos",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m3%20glorious%20return%20to%20evos.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "sort": "1"
   }
 }
