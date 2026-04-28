@@ -1279,5 +1279,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
     "sort": "1"
+  },
+  "Halloween-eiy1iite": {
+    "key": "Halloween-eiy1iite",
+    "hero": "Halloween",
+    "skin_name": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20hxh.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
+    "sort": "1"
   }
 }
