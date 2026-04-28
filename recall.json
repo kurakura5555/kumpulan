@@ -1154,5 +1154,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-6ev3ubyo": {
+    "key": "Atomic Pop-6ev3ubyo",
+    "hero": "Atomic Pop",
+    "skin_name": "Zeus",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20zeus.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "sort": "1"
   }
 }
