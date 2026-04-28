@@ -1610,5 +1610,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "sort": "1"
+  },
+  "M5-zyzgz5ej": {
+    "key": "M5-zyzgz5ej",
+    "hero": "M5",
+    "skin_name": "Kishin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20kishin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "sort": "1"
   }
 }
