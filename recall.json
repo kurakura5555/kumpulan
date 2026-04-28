@@ -1332,5 +1332,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "sort": "1"
+  },
+  "Light & Dark-wr89zm3w": {
+    "key": "Light & Dark-wr89zm3w",
+    "hero": "Light & Dark",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/light%20%26%20dark%20to%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "sort": "1"
   }
 }
