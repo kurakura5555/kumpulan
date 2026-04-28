@@ -1637,5 +1637,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "sort": "1"
+  },
+  "M5-wjcvvsy1": {
+    "key": "M5-wjcvvsy1",
+    "hero": "M5",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
