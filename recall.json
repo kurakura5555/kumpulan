@@ -1243,5 +1243,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "Golden Month-8xkhcubf": {
+    "key": "Golden Month-8xkhcubf",
+    "hero": "Golden Month",
+    "skin_name": "Golden Month",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20golden%20month.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
+    "sort": "0"
   }
 }
