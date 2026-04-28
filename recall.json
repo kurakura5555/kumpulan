@@ -1172,5 +1172,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-z4k75798": {
+    "key": "Atomic Pop-z4k75798",
+    "hero": "Atomic Pop",
+    "skin_name": "Atomic Pop",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20atomic%20pop.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/atomic%20pop.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/atomic%20pop.jpg",
+    "sort": "0"
   }
 }
