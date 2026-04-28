@@ -1493,5 +1493,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "sort": "1"
+  },
+  "M4-xs7ujsye": {
+    "key": "M4-xs7ujsye",
+    "hero": "M4",
+    "skin_name": "Evos",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20evos.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "sort": "1"
   }
 }
