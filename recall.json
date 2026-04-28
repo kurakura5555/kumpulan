@@ -886,10 +886,10 @@
   "Light & Dark-2jcoai1d": {
     "key": "Light & Dark-2jcoai1d",
     "hero": "Light & Dark",
-    "skin_name": "fire",
-    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/light%20%26%20darklight%20%26%20dark%20to%20fire.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112",
+    "skin_name": "fire crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/light%20%26%20dark%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
   },
   "Light & Dark-mec6dw3e": {
