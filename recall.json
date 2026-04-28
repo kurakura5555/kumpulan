@@ -1208,5 +1208,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "sort": "1"
+  },
+  "Blazing West-os6kgczv": {
+    "key": "Blazing West-os6kgczv",
+    "hero": "Blazing West",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/blazing%20west%20to%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "sort": "1"
   }
 }
