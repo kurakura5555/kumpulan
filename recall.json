@@ -1217,5 +1217,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "Blazing West-ea6f07ze": {
+    "key": "Blazing West-ea6f07ze",
+    "hero": "Blazing West",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/blazing%20west%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
