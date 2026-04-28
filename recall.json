@@ -1691,5 +1691,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "sort": "1"
+  },
+  "M5-3ss469ba": {
+    "key": "M5-3ss469ba",
+    "hero": "M5",
+    "skin_name": "M5",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20m5.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m5.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m5.jpg",
+    "sort": "0"
   }
 }
