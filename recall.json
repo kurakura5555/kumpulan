@@ -1556,5 +1556,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "sort": "1"
+  },
+  "M4-ty3onvdf": {
+    "key": "M4-ty3onvdf",
+    "hero": "M4",
+    "skin_name": "Kishin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20kishin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "sort": "1"
   }
 }
