@@ -1118,5 +1118,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-iq3k3nbv": {
+    "key": "Atomic Pop-iq3k3nbv",
+    "hero": "Atomic Pop",
+    "skin_name": "Rsg",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20rsg.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "sort": "1"
   }
 }
