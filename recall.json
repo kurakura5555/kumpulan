@@ -1288,5 +1288,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "sort": "1"
+  },
+  "Halloween-9bee3oi3": {
+    "key": "Halloween-9bee3oi3",
+    "hero": "Halloween",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
