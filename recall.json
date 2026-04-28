@@ -1226,5 +1226,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Blazing West-ncwylqby": {
+    "key": "Blazing West-ncwylqby",
+    "hero": "Blazing West",
+    "skin_name": "Blazing",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20blazing%20west.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
+    "sort": "0"
   }
 }
