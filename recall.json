@@ -1225,5 +1225,14 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
     "sort": "0"
+  },
+  "Golden Month-ug81s0qp": {
+    "key": "Golden Month-ug81s0qp",
+    "hero": "Golden Month",
+    "skin_name": "Dashing Cat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/golden%20month%20to%20dashing%20cat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "sort": "1"
   }
 }
