@@ -1754,5 +1754,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "sort": "1"
+  },
+  "M7-bzl9ajlo": {
+    "key": "M7-bzl9ajlo",
+    "hero": "M7",
+    "skin_name": "Dashing Cat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m7%20to%20dashing%20cat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "sort": "1"
   }
 }
