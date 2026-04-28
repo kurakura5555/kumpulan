@@ -1565,5 +1565,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "sort": "1"
+  },
+  "M4-lgomiekc": {
+    "key": "M4-lgomiekc",
+    "hero": "M4",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
