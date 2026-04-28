@@ -1181,5 +1181,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/atomic%20pop.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/atomic%20pop.jpg",
     "sort": "0"
+  },
+  "Blazing West-ri5wvzkt": {
+    "key": "Blazing West-ri5wvzkt",
+    "hero": "Blazing West",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/blazing%20west%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
