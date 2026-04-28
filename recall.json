@@ -1100,5 +1100,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-quqh9k6y": {
+    "key": "Atomic Pop-quqh9k6y",
+    "hero": "Atomic Pop",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
