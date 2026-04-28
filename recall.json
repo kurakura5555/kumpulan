@@ -1091,5 +1091,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-cnd0fhas": {
+    "key": "Atomic Pop-cnd0fhas",
+    "hero": "Atomic Pop",
+    "skin_name": "Naruto",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20naruto.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "sort": "1"
   }
 }
