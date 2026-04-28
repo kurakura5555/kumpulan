@@ -1270,5 +1270,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "sort": "1"
+  },
+  "Halloween-7kh9yvtj": {
+    "key": "Halloween-7kh9yvtj",
+    "hero": "Halloween",
+    "skin_name": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20annual%20starlight.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "sort": "1"
   }
 }
