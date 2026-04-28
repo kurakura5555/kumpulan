@@ -1547,5 +1547,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "sort": "1"
+  },
+  "M4-l01zbjeu": {
+    "key": "M4-l01zbjeu",
+    "hero": "M4",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "sort": "1"
   }
 }
