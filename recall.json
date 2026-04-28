@@ -1109,5 +1109,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-z3b3wbtf": {
+    "key": "Atomic Pop-z3b3wbtf",
+    "hero": "Atomic Pop",
+    "skin_name": "Rora",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20rora.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "sort": "1"
   }
 }
