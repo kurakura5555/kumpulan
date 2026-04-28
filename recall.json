@@ -1628,5 +1628,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "sort": "1"
+  },
+  "M5-0ag64knb": {
+    "key": "M5-0ag64knb",
+    "hero": "M5",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "sort": "1"
   }
 }
