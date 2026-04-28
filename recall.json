@@ -1297,5 +1297,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Halloween-z9q42hku": {
+    "key": "Halloween-z9q42hku",
+    "hero": "Halloween",
+    "skin_name": "Zeus",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20zeus.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "sort": "1"
   }
 }
