@@ -1682,5 +1682,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "M5-661tw1dq": {
+    "key": "M5-661tw1dq",
+    "hero": "M5",
+    "skin_name": "Zeus",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20zeus.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "sort": "1"
   }
 }
