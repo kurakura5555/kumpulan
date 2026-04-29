@@ -2177,5 +2177,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20vessel.jpg",
     "sort": "1"
+  },
+  "Starwars-nhirmnqh": {
+    "key": "Starwars-nhirmnqh",
+    "hero": "Starwars",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
