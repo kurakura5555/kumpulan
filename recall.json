@@ -1844,5 +1844,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlid.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-cpetahqk": {
+    "key": "Oriental Fighter-cpetahqk",
+    "hero": "Oriental Fighter",
+    "skin_name": "tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
