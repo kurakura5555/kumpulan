@@ -1826,5 +1826,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-zbp66rsy": {
+    "key": "Oriental Fighter-zbp66rsy",
+    "hero": "Oriental Fighter",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
