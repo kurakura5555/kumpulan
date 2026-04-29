@@ -1871,5 +1871,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/super%20return.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/super%20return.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-cv5utk51": {
+    "key": "Oriental Fighter-cv5utk51",
+    "hero": "Oriental Fighter",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "sort": "1"
   }
 }
