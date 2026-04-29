@@ -1725,7 +1725,8 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20m7.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m7.jpg",
-    "sort": "0"
+    "sort": "0",
+    "order": "21"
   },
   "M6-twopnqv6": {
     "key": "M6-twopnqv6",
