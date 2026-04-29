@@ -2232,5 +2232,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "sort": "1"
+  },
+  "Transformer-tqmms5qe": {
+    "key": "Transformer-tqmms5qe",
+    "hero": "Transformer",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/transformers%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
