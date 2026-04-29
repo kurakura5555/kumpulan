@@ -2004,5 +2004,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Party Star-1v2q379y": {
+    "key": "Party Star-1v2q379y",
+    "hero": "Party Star",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20star%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
