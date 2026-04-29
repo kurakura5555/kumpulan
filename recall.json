@@ -2132,5 +2132,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "sort": "1"
+  },
+  "Starwars-y77hp0gs": {
+    "key": "Starwars-y77hp0gs",
+    "hero": "Starwars",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
