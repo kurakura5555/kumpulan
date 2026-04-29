@@ -1853,5 +1853,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-yio5t4cg": {
+    "key": "Oriental Fighter-yio5t4cg",
+    "hero": "Oriental Fighter",
+    "skin_name": "Sowman",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20snowman.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/snowman.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/snowman.jpg",
+    "sort": "1"
   }
 }
