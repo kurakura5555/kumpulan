@@ -2025,5 +2025,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Sparkle-ov6tb3yu": {
+    "key": "Sparkle-ov6tb3yu",
+    "hero": "Sparkle",
+    "skin_name": "Dashing Cat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/sparkle%20to%20dashing%20cat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "sort": "1"
   }
 }
