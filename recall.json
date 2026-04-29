@@ -1969,5 +1969,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Party King-ykld9dxv": {
+    "key": "Party King-ykld9dxv",
+    "hero": "Party King",
+    "skin_name": "Seal of Anvil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20king%20to%20seal%20of%20anvil.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "sort": "1"
   }
 }
