@@ -2061,5 +2061,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
     "sort": "1"
+  },
+  "Sparkle-vuu6pxqt": {
+    "key": "Sparkle-vuu6pxqt",
+    "hero": "Sparkle",
+    "skin_name": "Sparkle",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20sparkle.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sparkle.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sparkle.jpg",
+    "sort": "0"
   }
 }
