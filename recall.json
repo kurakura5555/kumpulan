@@ -1817,5 +1817,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-fg4h9n2t": {
+    "key": "Oriental Fighter-fg4h9n2t",
+    "hero": "Oriental Fighter",
+    "skin_name": "Fnop",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20fcon.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "sort": "1"
   }
 }
