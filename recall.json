@@ -1943,5 +1943,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-qmaoc1l1": {
+    "key": "Oriental Fighter-qmaoc1l1",
+    "hero": "Oriental Fighter",
+    "skin_name": "Kishin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20kishin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "sort": "1"
   }
 }
