@@ -1790,5 +1790,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-ks7b1gip": {
+    "key": "Oriental Fighter-ks7b1gip",
+    "hero": "Oriental Fighter",
+    "skin_name": "Converg blade",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20converg%20blade.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/converg%20blade.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/converg%20blade.jpg",
+    "sort": "1"
   }
 }
