@@ -2069,5 +2069,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sparkle.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sparkle.jpg",
     "sort": "0"
+  },
+  "Starwars-lvvrx13l": {
+    "key": "Starwars-lvvrx13l",
+    "hero": "Starwars",
+    "skin_name": "Dashing Cat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20dashing%20cat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "sort": "1"
   }
 }
