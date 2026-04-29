@@ -2159,5 +2159,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
     "sort": "1"
+  },
+  "Starwars-1zi3bw2p": {
+    "key": "Starwars-1zi3bw2p",
+    "hero": "Starwars",
+    "skin_name": "Seal of Anvil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20seal%20of%20anvil.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "sort": "1"
   }
 }
