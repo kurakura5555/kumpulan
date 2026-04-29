@@ -800,7 +800,8 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20backup.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
-    "sort": "0"
+    "sort": "0",
+    "order": "1"
   },
   "Starwars-tfc469db": {
     "key": "Starwars-tfc469db",
