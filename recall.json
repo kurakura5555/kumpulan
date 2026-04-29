@@ -1889,5 +1889,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-jm8b52l5": {
+    "key": "Oriental Fighter-jm8b52l5",
+    "hero": "Oriental Fighter",
+    "skin_name": "Rbl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20rbl.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "sort": "1"
   }
 }
