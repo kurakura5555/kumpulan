@@ -2123,5 +2123,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
     "sort": "1"
+  },
+  "Starwars-v1t2mu92": {
+    "key": "Starwars-v1t2mu92",
+    "hero": "Starwars",
+    "skin_name": "Geekid",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20geekid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+    "sort": "1"
   }
 }
