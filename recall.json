@@ -2195,5 +2195,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
     "sort": "1"
+  },
+  "Starwars-fpa9qdmv": {
+    "key": "Starwars-fpa9qdmv",
+    "hero": "Starwars",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+    "sort": "1"
   }
 }
