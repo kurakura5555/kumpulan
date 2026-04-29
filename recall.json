@@ -1978,5 +1978,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
     "sort": "1"
+  },
+  "Party King-mw4w4yms": {
+    "key": "Party King-mw4w4yms",
+    "hero": "Party King",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20king%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
