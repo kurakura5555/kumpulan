@@ -1960,5 +1960,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
     "sort": "1"
+  },
+  "Party King-y6c02r81": {
+    "key": "Party King-y6c02r81",
+    "hero": "Party King",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20king%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
