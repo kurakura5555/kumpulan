@@ -2114,5 +2114,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
     "sort": "1"
+  },
+  "Starwars-n8pb1nrk": {
+    "key": "Starwars-n8pb1nrk",
+    "hero": "Starwars",
+    "skin_name": "Kishin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20kishin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+    "sort": "1"
   }
 }
