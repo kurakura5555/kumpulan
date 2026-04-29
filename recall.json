@@ -1254,7 +1254,8 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20golden%20month.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
-    "sort": "0"
+    "sort": "0",
+    "order": "22"
   },
   "Halloween-i2pvyuqb": {
     "key": "Halloween-i2pvyuqb",
