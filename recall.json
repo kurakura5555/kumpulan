@@ -2105,5 +2105,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
     "sort": "1"
+  },
+  "Starwars-getg4ri5": {
+    "key": "Starwars-getg4ri5",
+    "hero": "Starwars",
+    "skin_name": "Fnof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20fnop.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+    "sort": "1"
   }
 }
