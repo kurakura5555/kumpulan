@@ -1781,5 +1781,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-2fpzbr7i": {
+    "key": "Oriental Fighter-2fpzbr7i",
+    "hero": "Oriental Fighter",
+    "skin_name": "Dewa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20dewa.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "sort": "1"
   }
 }
