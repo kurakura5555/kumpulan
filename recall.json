@@ -1898,5 +1898,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-1bcqpdxk": {
+    "key": "Oriental Fighter-1bcqpdxk",
+    "hero": "Oriental Fighter",
+    "skin_name": "Tnc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20tnc.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tnc.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tnc.jpg",
+    "sort": "1"
   }
 }
