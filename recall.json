@@ -1808,5 +1808,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-zras3r3n": {
+    "key": "Oriental Fighter-zras3r3n",
+    "hero": "Oriental Fighter",
+    "skin_name": "Fcap",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20fcap.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
+    "sort": "1"
   }
 }
