@@ -2186,5 +2186,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Starwars-9ohj66ny": {
+    "key": "Starwars-9ohj66ny",
+    "hero": "Starwars",
+    "skin_name": "Zeus",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20zeus.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/zeus.jpg",
+    "sort": "1"
   }
 }
