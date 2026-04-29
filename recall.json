@@ -2096,5 +2096,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Starwars-d295hkpf": {
+    "key": "Starwars-d295hkpf",
+    "hero": "Starwars",
+    "skin_name": "Dewa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20dewa.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+    "sort": "1"
   }
 }
