@@ -1925,5 +1925,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-bao5gw8x": {
+    "key": "Oriental Fighter-bao5gw8x",
+    "hero": "Oriental Fighter",
+    "skin_name": "M6",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20m6.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
+    "sort": "1"
   }
 }
