@@ -1799,5 +1799,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/converg%20blade.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/converg%20blade.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-phxqte1p": {
+    "key": "Oriental Fighter-phxqte1p",
+    "hero": "Oriental Fighter",
+    "skin_name": "Evos",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20evos.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "sort": "1"
   }
 }
