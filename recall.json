@@ -1835,5 +1835,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-2pzsszn7": {
+    "key": "Oriental Fighter-2pzsszn7",
+    "hero": "Oriental Fighter",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20tlid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+    "sort": "1"
   }
 }
