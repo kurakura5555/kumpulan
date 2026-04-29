@@ -1916,5 +1916,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-4x301lk9": {
+    "key": "Oriental Fighter-4x301lk9",
+    "hero": "Oriental Fighter",
+    "skin_name": "Naruto",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20naruto.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+    "sort": "1"
   }
 }
