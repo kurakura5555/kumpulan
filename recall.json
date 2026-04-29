@@ -2034,5 +2034,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "sort": "1"
+  },
+  "Sparkle-cczo6uae": {
+    "key": "Sparkle-cczo6uae",
+    "hero": "Sparkle",
+    "skin_name": "Evos",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/sparkle%20to%20evos.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
+    "sort": "1"
   }
 }
