@@ -1862,5 +1862,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/snowman.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/snowman.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-aszrnz7v": {
+    "key": "Oriental Fighter-aszrnz7v",
+    "hero": "Oriental Fighter",
+    "skin_name": "Super Return",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20super%20return.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/super%20return.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/super%20return.jpg",
+    "sort": "1"
   }
 }
