@@ -1223,7 +1223,8 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20blazing%20west.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
-    "sort": "0"
+    "sort": "0",
+    "order": "7"
   },
   "Golden Month-ug81s0qp": {
     "key": "Golden Month-ug81s0qp",
