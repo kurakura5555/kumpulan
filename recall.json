@@ -1715,7 +1715,8 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/bakcup%20m6.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
-    "sort": "0"
+    "sort": "0",
+    "order": "20"
   },
   "M7-ixs5t5pv": {
     "key": "M7-ixs5t5pv",
