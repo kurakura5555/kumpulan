@@ -1986,5 +1986,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Party Star-10p4bpin": {
+    "key": "Party Star-10p4bpin",
+    "hero": "Party Star",
+    "skin_name": "Seal of Anvil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20star%20to%20seal%20of%20anvil.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/soul%20of%20anvil.jpg",
+    "sort": "1"
   }
 }
