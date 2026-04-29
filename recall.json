@@ -2087,5 +2087,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
     "sort": "1"
+  },
+  "Starwars-3pg2ktt0": {
+    "key": "Starwars-3pg2ktt0",
+    "hero": "Starwars",
+    "skin_name": "Fire Crown",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20fire%20crown.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+    "sort": "1"
   }
 }
