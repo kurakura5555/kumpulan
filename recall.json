@@ -1907,5 +1907,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tnc.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tnc.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-yw9ofekb": {
+    "key": "Oriental Fighter-yw9ofekb",
+    "hero": "Oriental Fighter",
+    "skin_name": "Rora",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20rora.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+    "sort": "1"
   }
 }
