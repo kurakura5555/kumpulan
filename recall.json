@@ -2207,12 +2207,13 @@
   },
   "Starwars-qga2324r": {
     "key": "Starwars-qga2324r",
-    "hero": "Starwars",
+    "hero": "Stellar Brilliance",
     "skin_name": "Stellar briliance",
     "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/backup%20stellar%20briliance.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/stellar%20briliance.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/stellar%20briliance.jpg",
-    "sort": "1"
+    "sort": "0",
+    "order": "16"
   },
   "Stellar Brilliance-6xgvbif7": {
     "key": "Stellar Brilliance-6xgvbif7",
