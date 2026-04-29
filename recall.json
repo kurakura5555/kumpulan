@@ -1934,5 +1934,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
     "sort": "1"
+  },
+  "Oriental Fighter-3obrm0bl": {
+    "key": "Oriental Fighter-3obrm0bl",
+    "hero": "Oriental Fighter",
+    "skin_name": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/oriental%20fighter%20to%20hxh.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
+    "sort": "1"
   }
 }
