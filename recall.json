@@ -2150,5 +2150,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
     "sort": "1"
+  },
+  "Starwars-ximlcjtz": {
+    "key": "Starwars-ximlcjtz",
+    "hero": "Starwars",
+    "skin_name": "Rsg",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20rsg.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+    "sort": "1"
   }
 }
