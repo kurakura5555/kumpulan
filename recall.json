@@ -2078,5 +2078,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "sort": "1"
+  },
+  "Starwars-9eig4hlk": {
+    "key": "Starwars-9eig4hlk",
+    "hero": "Starwars",
+    "skin_name": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20annual%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/annual%20star.jpg",
+    "sort": "1"
   }
 }
