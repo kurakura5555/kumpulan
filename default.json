@@ -11375,5 +11375,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Lesley-1777946716712": {
+    "key": "Lesley-1777946716712",
+    "hero": "Lesley",
+    "skin_name": "Romantic Love",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/lesley%20valentine%20painted.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lesley%20valentine%20painted.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lesley%20valentine%20painted.png",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
   }
 }
