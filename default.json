@@ -11342,5 +11342,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Kagura-1777946459024": {
+    "key": "Kagura-1777946459024",
+    "hero": "Kagura",
+    "skin_name": "Pink Summer Festival",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/kagura%20summer%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210728125205"
   }
 }
