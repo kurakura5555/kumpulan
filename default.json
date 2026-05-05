@@ -11463,5 +11463,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "Saber-1777947294119": {
+    "key": "Saber-1777947294119",
+    "hero": "Saber",
+    "skin_name": "Steel of Hound",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/saber%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero60391-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103154",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero60391-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103154",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
