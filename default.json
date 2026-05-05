@@ -11265,5 +11265,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230"
+  },
+  "Helcurt-1777945782505": {
+    "key": "Helcurt-1777945782505",
+    "hero": "Helcurt",
+    "skin_name": "Phantom Prowler",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/helcurt%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero516-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero516-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030126",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
