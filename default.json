@@ -11232,5 +11232,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149"
+  },
+  "Gusion-1777945303939": {
+    "key": "Gusion-1777945303939",
+    "hero": "Gusion",
+    "skin_name": "Royal Spider",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/gusion%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero105613-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171241",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero105613-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171241",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
