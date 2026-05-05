@@ -11474,5 +11474,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Valentina-1777948363552": {
+    "key": "Valentina-1777948363552",
+    "hero": "Valentina",
+    "skin_name": "Digital Echantress",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/valentina%20star%20painted.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/valentina%20star%20painted.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/valentina%20star%20painted.jpg",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
