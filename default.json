@@ -11210,5 +11210,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Claude-1777945097936": {
+    "key": "Claude-1777945097936",
+    "hero": "Claude",
+    "skin_name": "Challenger's Flare",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/claude%20m6%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero106511-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142700",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero106511-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142700",
+    "sort": "15",
+    "date_upload": "2026-05-05",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/M6_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250406081431|https://static.wikia.nocookie.net/mobile-legends/images/d/de/M6_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250406081431"
   }
 }
