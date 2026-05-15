@@ -11485,5 +11485,16 @@
     "sort": "15",
     "date_upload": "2026-05-05",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "Aurora-1778803406766": {
+    "key": "Aurora-1778803406766",
+    "hero": "Aurora",
+    "skin_name": "Candle's Vigil",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/aurora%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aurora%20epic.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aurora%20epic.png",
+    "sort": "15",
+    "date_upload": "2026-05-15",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
