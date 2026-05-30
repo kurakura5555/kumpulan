@@ -11584,5 +11584,16 @@
     "sort": "15",
     "date_upload": "2026-05-30",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "Helcurt-1780109749075": {
+    "key": "Helcurt-1780109749075",
+    "hero": "Helcurt",
+    "skin_name": "Kaiju of the Deep",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/helcurt%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
+    "sort": "15",
+    "date_upload": "2026-05-30",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
