@@ -11573,5 +11573,16 @@
     "sort": "15",
     "date_upload": "2026-05-30",
     "tag": ""
+  },
+  "Aulus-1780109683491": {
+    "key": "Aulus-1780109683491",
+    "hero": "Aulus",
+    "skin_name": "War Lion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/aulus%20special.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20special.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20special.jpg",
+    "sort": "15",
+    "date_upload": "2026-05-30",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   }
 }
