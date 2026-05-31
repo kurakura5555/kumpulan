@@ -11639,5 +11639,16 @@
     "sort": "15",
     "date_upload": "2026-05-31",
     "tag": ""
+  },
+  "Dyrroth-1780224664508": {
+    "key": "Dyrroth-1780224664508",
+    "hero": "Dyrroth",
+    "skin_name": "Guile",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20street%20fighter.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter.png",
+    "sort": "15",
+    "date_upload": "2026-05-31",
+    "tag": ""
   }
 }
