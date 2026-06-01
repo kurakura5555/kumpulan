@@ -11672,5 +11672,16 @@
     "sort": "15",
     "date_upload": "2026-06-01",
     "tag": ""
+  },
+  "Paquito-1780291002199": {
+    "key": "Paquito-1780291002199",
+    "hero": "Paquito",
+    "skin_name": "Ryu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/paquito%20street%20fighter%20painted.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
+    "sort": "15",
+    "date_upload": "2026-06-01",
+    "tag": ""
   }
 }
