@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e06f",
+        "caption": "093阿特拉斯",
+        "configId": 144237,
+        "createdAt": 1710416512391,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_4008429d9b3916968024691deeeddd8c.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501270",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "80",
+                "10",
+                "90",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+              "heroid": 93,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali menggunakan skill, Atlas mengeluarkan <font color=\"a6aafb\">Frigid Breath</font> di sekitarnya selama 5 detik. Movement Speed lawan yang terkena efek <font color=\"a6aafb\">Frigid Breath</font> akan berkurang secara bertahap dalam 2 detik, kemudian mereka akan terkena freeze selama 0.5 detik.\n\nAtlas mendapatkan 20<font color=\"26e407\"> (+0.5% Max HP Tambahan)</font> Physical & Magic Defense tambahan ketika <font color=\"a6aafb\">Frigid Breath</font> aktif.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d7bbba4e6ab968ce1f1d798f29960198.png",
+                      "skillid": 9340,
+                      "skillname": "Frigid Breath",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7   Mana Cost: 60",
+                      "skilldesc": "Atlas menghantam tanah dan menciptakan 3 ledakan, memberikan 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan.\n\n<font color=\"a6aafb\">Mode Ejected</font>: Jika Atlas terpisah dari Mecha Sentry-nya, dia dan Mecha-nya akan menggunakan Annihilate secara bersamaan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+                      "skillid": 9310,
+                      "skillname": "Annihilate",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0   Mana Cost: 75",
+                      "skilldesc": "Atlas memasuki <font color=\"a6aafb\">Mode Ejected</font>, mendapatkan 40% Movement Speed dan menjadi kebal Efek Slow. Dalam mode ini, Mecha Sentry akan mengikuti Atlas dengan kecepatan yang perlahan meningkat (hanya bisa dibatalkan oleh efek Suppress). Setelah keduanya bergabung kembali, Atlas akan kembali ke dalam Mecha, memberikan 320<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan stun selama 0.8 detik ke lawan di sekitarnya.\n<font color=\"a6aafb\">Mode Ejected</font>: Atlas dan Mecha-nya berbagi bar HP yang sama dan mengurangi 50% damage yang diterima selama dalam mode ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+                      "skillid": 9320,
+                      "skillname": "Perfect Match",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55   Mana Cost: 130",
+                      "skilldesc": "Atlas melemparkan rantai ke sekitarnya dan mulai mengumpulkan kekuatan (hanya bisa dibatalkan oleh efek Suppress), memberikan 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 40% slow ke lawan yang terkena selama 3 detik.\nGunakan skill ini kembali ketika mengumpulkan kekuatan: Atlas akan menarik semua target ke arahnya dan melemparkan mereka ke lokasi yang ditentukan, memberikan 360<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nGunakan Skill ini di <font color=\"a6aafb\">Mode Ejected</font>: Mecha Sentry akan langsung kembali ke Atlas, tetapi efek stun akan diganti menjadi 40% Efek Slow.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b88d2df7f9a269a382e2cd256f9d816.png",
+                      "skillid": 9330,
+                      "skillname": "Fatal Links",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "931"
+                }
+              ],
+              "heroskin": null,
+              "name": "Atlas",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f7b43ccce0423507f62bbe555e9f2395.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_0dc01e8286bc92e5be3a3503dd47229c.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Tank",
+                ""
+              ],
+              "speciality": [
+                "Crowd Control",
+                "Initiator"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_92f134bd7485a1596b2e8d1c5d28da9e.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
+              "story": "Makhluk Abysmal Sea yang melepaskan diri dari segel.",
+              "tale": ""
+            },
+            "id": 100592,
+            "sourceId": 2756563
+          },
+          "hero_id": 93,
+          "relation": {
+            "assist": {
+              "desc": "Atlas cocok dengan Hero ber- Damage Area Efek besar seperti Vale dan Ixia karena dia dapat mengumpulkan dan membuat lawan tetap terkena CC.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                66,
+                121,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Atlas meng-Counter Hero empuk tanpa Skill mobilitas seperti Vexana dan Eudora karena mereka kesulitan untuk menghindar.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                38,
+                15,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Atlas di-Counter oleh Hero yang dapat menyebabkan Knockback, seperti Valir dan Moskov, karena mereka dapat membatalkan Skill 2 dan membuat Atlas gagal untuk melancarkan kombo.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                57,
+                31,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678829,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

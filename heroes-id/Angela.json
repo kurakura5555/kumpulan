@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfd7",
+        "caption": "055安卓拉",
+        "configId": 144237,
+        "createdAt": 1710416511766,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_ce5fdf101ad7cb80f20f234722664f87.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50124a",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "20",
+                "50",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+              "heroid": 55,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Angela menggunakan Skill, Movement Speed-nya meningkat sebesar 5% selama 4 detik, hingga 20%. Teman satu tim yang dimasuki juga memperoleh Bonus Movement Speed tersebut.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a43559c89c118c816b669fa49b45e76f.png",
+                      "skillid": 5540,
+                      "skillname": "Smart Heart",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 2   Mana Cost: 60",
+                      "skilldesc": "Angela melepaskan <font color=\"a6aafb\">Love Waves</font> ke arah target, memberikan 170<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena, mengungkapkan posisi mereka secara singkat, dan menerapkan stack <font color=\"a6aafb\">Lover's Mark</font> (maksimal 5 stack). Setiap stack <font color=\"a6aafb\">Lover's Mark</font> meningkatkan 20% damage dan menyebabkan 8% slow ke lawan yang terkena selama 3 detik.\n<font color=\"a6aafb\">Love Waves</font> juga memulihkan 150<font color=\"62f8fe\"> (+75% Total Magic Power)</font> HP hero rekan yang terkena. Angela bisa menyimpan hingga 5 penggunaan dari skill ini, dan waktu pengisiannya dipengaruhi oleh Pengurangan Cooldown.\n<font color=\"a6aafb\">Saat menempel pada rekan, cooldown skill ini berkurang 50%.</font>",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+                      "skillid": 5510,
+                      "skillname": "Love Waves",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 13   Mana Cost: 90",
+                      "skilldesc": "Angela melemparkan <font color=\"a6aafb\">Puppet String</font> ke target lawan (kecuali minion), memberikan 300<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan slow secara perlahan ke lawan hingga sebesar 80%. Jika lawan masih terhubung dengan Puppet String setelah 3 detik, lawan akan terkena immobilize selama 1.5 detik dan menerima 450<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nSetiap stack <font color=\"a6aafb\">Lover's Mark</font> meningkatkan damage akhir sebesar 20%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f32c780347021165ab869944f1c981c.png",
+                      "skillid": 5520,
+                      "skillname": "Puppet-on-a-String",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60   Mana Cost: 100",
+                      "skilldesc": "Angela mulai mengumpulkan kekuatan, memberikan 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield ke hero rekan target tanpa ada batasan jarak. <font color=\"a6aafb\">Setelah menempel pada rekan, shield tetap ada hingga terlepas.</font> Setelah selesai mengumpulkan kekuatan, dia menempelkan diri ke hero rekan selama 20 detik. <font color=\"a6aafb\">Selama durasi ini, dia bisa mengeluarkan skill tanpa menggunakan Mana</font>.\nAngela bisa menggunakan skill ini lagi untuk membatalkan pengumpulan kekuatan atau melepaskan diri dari hero rekan. Mode menempel akan berakhir lebih cepat jika hero rekan tereliminasi.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1c3f421da66e26aa3e0d8749f9f39de.png",
+                      "skillid": 5530,
+                      "skillname": "Heartguard",
+                      "skilltag": [
+                        {
+                          "tagid": 73,
+                          "tagname": "Menempel",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "551"
+                }
+              ],
+              "heroskin": null,
+              "name": "Angela",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_07643d046530288eb0ff56f13b5e31dd.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1",
+                "0",
+                "1/1"
+              ],
+              "recommendlevellabel": "3-2-1-0-1/1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a815a3adad8df99481700c84abaf3c41.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Support",
+                ""
+              ],
+              "speciality": [
+                "Guard",
+                "Support"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_de614a9c4390c722d08ff6c8902025d2.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
+              "story": "Manusia buatan yang diciptakan di Laboratory 1718.",
+              "tale": ""
+            },
+            "id": 100554,
+            "sourceId": 2756563
+          },
+          "hero_id": 55,
+          "relation": {
+            "assist": {
+              "desc": "Angela cocok dengan Assassin gesit seperti Lancelot dan Aamon karena Angela menyebabkan Crowd Control dan memulihkan HP sekaligus meningkatkan mobilitas.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                47,
+                109,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Angela meng-Counter Hero bermobilitas rendah, seperti Uranus dan Belerick,\ndengan memberikan Slow dan meningkatkan Movement Speed ke rekan tim.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                59,
+                70,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Angela di-Counter oleh Assassin lincah dengan Damage Burst, seperti Ling dan Harley.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                84,
+                42,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678791,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

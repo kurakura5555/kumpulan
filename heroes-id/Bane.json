@@ -1,0 +1,305 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27efd1bb8e47d25df25",
+        "caption": "011贝恩",
+        "configId": 144237,
+        "createdAt": 1710416510896,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/ec9fd2ca0f85e66b324beaf7febfde63.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7060e1c063474bb8ff9472d61f7ce4c3.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50121e",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "60",
+                "40",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+              "heroid": 11,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Bane memperkuat senjatanya dengan 1 Stack <font color=\"a6aafb\">Tidal Energy</font> setiap kali dia menggunakan Skill (hingga 2 Stack). Setiap Basic Attack berikutnya akan menggunakan 1 Stack untuk memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan <font color=\"fba51f\"> (+95% Total Physical Attack)</font> + 4(+0.4*Level Hero)% Max HP target ke lawan di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6458e01eb437665b82e4cd27c10a4344.png",
+                      "skillid": 1140,
+                      "skillname": "Shark Bite",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 30",
+                      "skilldesc": "Bane menembakkan Crab Claw Cannon ke arah target, memberikan 150<font color=\"fba51f\"> (+160% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan pertama yang terkena dan 150% Damage ke lawan di belakangnya secara acak (memprioritaskan Hero lawan). Menyebabkan 10<font color=\"62f8fe\"> (+10% Total Magic Power)</font>% Slow ke lawan yang terkena selama 1 detik.\n\nSetiap 100 <font color=\"fba51f\">Physical Attack</font> yang dimiliki Bane mengurangi 8% Cooldown dari Skill ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0b05da138f56fff0f5876884c8a2036.png",
+                      "skillid": 1110,
+                      "skillname": "Crab Claw Cannon",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5   Mana Cost: 50",
+                      "skilldesc": "Bane menelan tinta laut, memulihkan 200<font color=\"62f8fe\"> (+150% Total Magic Power)</font> (+ 5<font color=\"62f8fe\"> (+1.5% Total Magic Power)</font>% HP-nya yang hilang), mendapatkan 50% Movement Speed yang berkurang seiring waktu selama 2.5 detik.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Bane menyemburkan tinta beracun di area, memberikan 140<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> (hingga 200% berdasarkan waktu pengumpulan kekuatan).\n\nSetiap 100 <font color=\"62f8fe\">Magic Power</font> yang Bane miliki akan mengurangi 7% cooldown skill ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_c202bb567a0c80d5707288e75fdacfb8.png",
+                      "skillid": 1120,
+                      "skillname": "Sea Ink",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40   Mana Cost: 120",
+                      "skilldesc": "Bane memanggil sekawanan hiu untuk menyerang ke arah target, memberikan 700<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"62f8fe\">(+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena, menyebabkan Airborne selama 0.6 detik, dan 75% Slow ke mereka (berkurang seiring waktu selama 3 detik).\nSkill ini memberikan 40% Damage ke Turret.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe8c4a45d27cc7d56b893a31138b8a4d.png",
+                      "skillid": 1130,
+                      "skillname": "Deadly Catch",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "111"
+                }
+              ],
+              "heroskin": null,
+              "name": "Bane",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_384c3e16350f91e191de2351d73a9980.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Jungle",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_846a816f7905f17c81cb35e7f3ff1c3e.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Mage"
+              ],
+              "speciality": [
+                "Push",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_95b0637731ea94edbc6c4da5ed20d75c.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7060e1c063474bb8ff9472d61f7ce4c3.jpg",
+              "story": "Pemimpin bajak laut yang kejam, musuh bebuyutan Franco.",
+              "tale": ""
+            },
+            "id": 100510,
+            "sourceId": 2756563
+          },
+          "hero_id": 11,
+          "relation": {
+            "assist": {
+              "desc": "Bane cocok dengan Hero seperti Tigreal dan Luo Yi yang dapat mengumpulkan lawan sehingga dia dapat memberikan banyak Damage dengan area efeknya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                6,
+                96
+              ]
+            },
+            "strong": {
+              "desc": "Bane meng-Counter Tank ber-HP tinggi namun ber-Damage rendah, seperti Hylos dan Belerick, karena Bane dapat bertahan lama dan memberikan Damage berdasarkan HP.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                49,
+                70
+              ]
+            },
+            "weak": {
+              "desc": "Bane di-Counter oleh Mage yang memberikan Damage besar dari jauh, seperti Vale dan Xavier yang dapat memberikan Damage besar kepadanya sebelum dia dapat mendekat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                66,
+                115
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Bane"
+        },
+        "dynamic": null,
+        "id": 2678747,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

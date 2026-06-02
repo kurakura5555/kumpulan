@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0e7",
+        "caption": "123茜茜",
+        "configId": 144237,
+        "createdAt": 1710416512846,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/c9d494c6996a58eb498eb50508310c04.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50128f",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "60",
+                "30",
+                "20"
+              ],
+              "difficulty": "20",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+              "heroid": 123,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Cici menghasilkan satu Stack Delight setelah memberikan Damage, setiap Stack meningkatkan 0.75% Movement Speed dan 0.75% Spell Vamp-nya hingga 10 kali, efek menjadi dua kali lipat saat Stack penuh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6d7f05670808b2e7662aab8303594fc5.png",
+                      "skillid": 12340,
+                      "skillname": "Performer's Delight",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6.5",
+                      "skilldesc": "Cici menggunakan Yoyo untuk terus menyerang lawan terdekat dalam jangkauan (memprioritaskan Hero) selama 3.5 detik, menyerang mereka hingga 10 kali, dan memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 65 + 3<font color=\"fba51f\"> (+1.2% Extra Physical Attack)</font>% Max HP target di setiap serangan. Cici dapat bergerak dan menggunakan Skill lainnya saat serangan ini berlangsung.\n\nJika tidak ada lawan dalam jangkauan, Yoyo akan menyerang Turret atau Base.\n\nSkill ini memberikan 20% Damage tambahan ke Minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_35698dd184befabba3199661018bdf38.png",
+                      "skillid": 12310,
+                      "skillname": "Yo-Yo Blitz",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9.5",
+                      "skilldesc": "Cici melompat ke lokasi target. Jika dia mendarat ke unit apa pun (tidak termasuk Turret dan Base), dia dapat melompat kembali sesuai arah Joystick. Jika dia mendarat ke lawan pada lompatan pertama, dia memberikan 200<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke mereka.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49eea2c0866fad182a898eedb8afc72.png",
+                      "skillid": 12320,
+                      "skillname": "Buoyant Bounce",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "Cici melemparkan Yoyo ke Hero lawan dan menghubungkan mereka dengan Hero lain di sekitar, memberikan 100<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, menyebabkan 30% Slow, dan menarik mereka mendekat selama 4 detik. \n\nSelama durasi ini, Cici dapat menggunakan <font color=\"a6aafb\">Yo-Yo Blitz</font> untuk menyerang kedua target yang terhubung di saat bersamaan. Jika hanya ada satu target dalam jangkauan <font color=\"a6aafb\">Yo-Yo Blitz</font>, Cici akan menyerang target dua kali, tapi Damage serangan kedua akan berkurang menjadi 25%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0b792bde3a635cb3534035683f5429f.png",
+                      "skillid": 12330,
+                      "skillname": "Curtain Call",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1231"
+                }
+              ],
+              "heroskin": null,
+              "name": "Cici",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_83e246a50d2a27fe0d18f991dcb1bccb.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f970eb4b44b8c9fff2c511d8e856ff4.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Damage",
+                "Regen"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d83b2e9d43ebc7247cba68643a411bd3.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
+              "story": "Aktris ceria yang menyebarkan kegembiraan dan keajaiban ke mana pun dia pergi.",
+              "tale": ""
+            },
+            "id": 100623,
+            "sourceId": 2756563
+          },
+          "hero_id": 123,
+          "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_83e246a50d2a27fe0d18f991dcb1bccb.png",
+          "relation": {
+            "assist": {
+              "desc": "Cici cocok dengan Hero yang memiliki Buff dan dapat meningkatkan daya tahan. Hero Support seperti Angela dan Floryn dapat membantu Cici memperoleh keunggulan di Early Game dengan memperkuat kemampuan bertarungnya untuk segera mengakhiri pertandingan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                112,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Karena kemampuan tarik ulur Cici yang luar biasa dan Skill 1-nya yang memberikan Damage berdasarkan Max HP, Cici meng-Counter beberapa Tank misalnya Fredrinn dan Minotaur.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                117,
+                19,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Cici di-Counter oleh Hero dengan Skill CC terarah yang dapat menghentikannya, misalnya Saber dan Kaja.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                3,
+                62
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Cici"
+        },
+        "dynamic": null,
+        "id": 2678859,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

@@ -1,0 +1,466 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "69e622cb3551b4a0f710bdc0",
+        "caption": "108翻新奥利",
+        "configId": 144237,
+        "createdAt": 1776689867877,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/b48762283aac961dd0ef0792e021e1d4.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/df1df2053afbdda1167d647bbb8b3a81.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50127e",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "60",
+                "60",
+                "10",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png",
+              "heroid": 108,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah memberikan damage, Aulus menambahkan satu stack <font color=\"a6aafb\">Fighting Spirit</font> ke kapaknya setiap detik selama 4 detik (hingga 6 stack). Setiap stack memberikan 7.5 (+0.5*Level Hero)% Attack Speed. Saat stack <font color=\"a6aafb\">Fighting Spirit</font> penuh, Basic Attack Aulus akan diperkuat dan mendapatkan Jangkauan Serangan.\n\nBasic Attack yang Diperkuat: Aulus menghantamkan kapaknya ke tanah, memberikan <font color=\"fb1f1f\">Physical Damage</font> sebesar <font color=\"fba51f\"> (+75% Total Physical Attack)</font> (+ 4 (+0.4*Level Hero)% Max HP target) ke lawan di satu garis.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_212853d016e25b580810f20925cca284.png",
+                      "skillid": 10840,
+                      "skillname": "Fighting Spirit",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 14",
+                      "skilldesc": "Aulus mulai mengumpulkan <font color=\"a6aafb\">Fighting Spirit</font>, menghapus semua efek slow, dan mendapatkan 30% Movement Speed tambahan selama 5 detik.\n\nJika Aulus tidak terkena efek crowd control tingkat tinggi dalam 2 detik, dia akan memasuki mode <font color=\"a6aafb\">Enraged</font> dan mendapatkan Kebal Crowd Control.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_e59b01cde830c737ad24c462840c73dd.png",
+                      "skillid": 10810,
+                      "skillname": "Aulus, Charge!",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5",
+                      "skilldesc": "Aulus mengayunkan kapaknya, memberikan 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area dan menyebabkan 30% slow selama 2 detik.\n\nSaat mengenai lawan, Aulus bisa menggunakan skill ini lagi untuk menerjang ke depan dan menghantam tanah, memberikan 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_72b33b15b9ec5c345c6413b5ead37f95.png",
+                      "skillid": 10820,
+                      "skillname": "The Power of Axe",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50",
+                      "skilldesc": "Aulus mengayunkan kapaknya berulang kali ke lawan di sekitar, masing-masing memberikan 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Setelah 4 serangan, Aulus mengumpulkan kekuatan sesaat sebelum melepaskan tebasan yang lebih luas, memberikan 450<font color=\"fba51f\"> (+180% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area yang luas.\n\nSelama skill ini, setiap kali Aulus menebas, dia mendapatkan 20% Pengurangan Damage dan peningkatan Movement Speed singkat.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_3df0c4668657ef5cdaec0ebbd529772f.png",
+                      "skillid": 10830,
+                      "skillname": "Cleaving Axe",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1081"
+                }
+              ],
+              "heroskin": null,
+              "name": "Aulus",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b18a4e09124187587ef09826dee69ec3.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [
+                {
+                  "battleskill": {
+                    "__data": {
+                      "numdescribe": "520 <2|lv 80>;60%;40%;2;5;15;10;100",
+                      "skilldesc": "Memberikan 520 (+80*Level Hero) <font color=\"ffe63c\">True Damage</font> ke Creep atau Minion yang ditargetkan.\n<font color=\"62f8fe\">Pasif</font>: Meningkatkan 60% hadiah Creep dan mengurangi 40% damage yang diterima dari Creep biasa. Tidak bisa berbagi hadiah Minion dengan hero rekan selama 2 menit pertama.\n<font color=\"62f8fe\">Blessing:</font> Kumpulkan 5 eliminasi Creep, hero, atau assist untuk memperkuat Battle Spell berdasarkan Blessing Jungling Boots, dan 15 eliminasi atau assist untuk mendapatkan 10 Physical Attack dan Magic Power serta 100 Max HP.",
+                      "skilldesc_text": "Memberikan <Num1> [C5True Damage] ke Creep atau Minion yang ditargetkan.####[C2Pasif]: Meningkatkan <%Num2> hadiah Creep dan mengurangi <%Num3> damage yang diterima dari Creep biasa. Tidak bisa berbagi hadiah Minion dengan hero rekan selama <Num4> menit pertama.####[C2Blessing:] Kumpulkan <Num5> eliminasi Creep, hero, atau assist untuk memperkuat Battle Spell berdasarkan Blessing Jungling Boots, dan <Num6> eliminasi atau assist untuk mendapatkan <Num7> Physical Attack dan Magic Power serta <Num8> Max HP.",
+                      "skilldescemblem": "Memberikan 520 (+80*Level Hero) <font color=\"ffe63c\">True Damage</font> ke Creep atau Minion yang ditargetkan.\n<font color=\"62f8fe\">Pasif</font>: Meningkatkan 60% hadiah Creep dan mengurangi 40% damage yang diterima dari Creep biasa. Tidak bisa berbagi hadiah Minion dengan hero rekan selama 2 menit pertama.\n<font color=\"62f8fe\">Blessing:</font> Kumpulkan 5 eliminasi Creep, hero, atau assist untuk memperkuat Battle Spell berdasarkan Blessing Jungling Boots, dan 15 eliminasi atau assist untuk mendapatkan 10 Physical Attack dan Magic Power serta 100 Max HP.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2cd084a2661c121c347facb060a80377.png",
+                      "skillid": 20020,
+                      "skillid_lv": "20020/1",
+                      "skillname": "Retribution"
+                    },
+                    "battleskillid": 20020,
+                    "skillicon": "@__data.skillicon",
+                    "skillname": "@__data.skillname1",
+                    "skillshortdesc": ".+`,'ShowMessage_mMessage_$1'.+`,'BattleShowMessage_mMessage_$1'",
+                    "skillvideo": ""
+                  },
+                  "description": "Jungle: Pengurangan Cooldown dan daya tahan yang seimbang. Mampu menahan dan memberikan damage.",
+                  "emblemplan": {
+                    "emblemplan": {
+                      "attriicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2153bf01770633e3251dea1f2ac6c956.png",
+                      "attriicon2": "",
+                      "emblemattr": {
+                        "emblemattr": "+10% Hybrid Lifesteal\n+16 Adaptive Attack\n+8 Physical Defense Tambahan\n+8 Magic Defense Tambahan\n",
+                        "emblemattrid": "2000760",
+                        "emblemname": "Fighter"
+                      },
+                      "emblembg": 0,
+                      "emblemid": 20007,
+                      "emblemname": "Fighter"
+                    },
+                    "giftid1": {
+                      "emblemskill": {
+                        "numdescribe": "5",
+                        "skilldesc": "Memperoleh 5 <font color=\"ffdfa2\">Adaptive Penetration</font>.\n\n<font color=\"8098ab\">Memperoleh Physical Penetration jika Physical Attack tambahan lebih tinggi dari Magic Power tambahan; jika sebaliknya, memperoleh Magic Penetration.</font>",
+                        "skilldesc_text": "Memperoleh <Num1> [ffdfa2]Adaptive Penetration[-].########[8098ab]Memperoleh Physical Penetration jika Physical Attack tambahan lebih tinggi dari Magic Power tambahan; jika sebaliknya, memperoleh Magic Penetration.[-]",
+                        "skilldescemblem": "Memperoleh 5 <font color=\"ffdfa2\">Adaptive Penetration</font>.\n\n<font color=\"8098ab\">Memperoleh Physical Penetration jika Physical Attack tambahan lebih tinggi dari Magic Power tambahan; jika sebaliknya, memperoleh Magic Penetration.</font>",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e7a237c8961044ad43af1a79d5b3756.png",
+                        "skillid": 63120,
+                        "skillid_lv": "63120/1",
+                        "skillname": "Rupture"
+                      },
+                      "giftid": 511,
+                      "gifttiers": 1
+                    },
+                    "giftid2": {
+                      "emblemskill": {
+                        "numdescribe": "15%",
+                        "skilldesc": "Damage terhadap Lord dan Turtle meningkat sebesar 15%. Bonus ini menjadi setengah terhadap Creep biasa dan tidak memengaruhi Damage Retribution.",
+                        "skilldesc_text": "Damage terhadap Lord dan Turtle meningkat sebesar <%Num1>. Bonus ini menjadi setengah terhadap Creep biasa dan tidak memengaruhi Damage Retribution.",
+                        "skilldescemblem": "Damage terhadap Lord dan Turtle meningkat sebesar 15%. Bonus ini menjadi setengah terhadap Creep biasa dan tidak memengaruhi Damage Retribution.",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe6ad272b01110393d55b4326164a3fa.png",
+                        "skillid": 61120,
+                        "skillid_lv": "61120/1",
+                        "skillname": "Seasoned Hunter"
+                      },
+                      "giftid": 122,
+                      "gifttiers": 2
+                    },
+                    "giftid3": {
+                      "emblemskill": {
+                        "numdescribe": "15%;20%;3;30;30%",
+                        "skilldesc": "Ketika memberikan damage ke hero dengan HP kurang dari 30%, akan langsung memulihkan 15% HP yang hilang dan mendapatkan 20% Movement Speed.\n\n<font color=\"8098ab\">Efek Tambahan: Cooldown direset setelah mengeliminasi hero lawan.\n[8098ab]Durasi: 3 detik\n[8098ab]Cooldown: 30 detik</font>",
+                        "skilldesc_text": "Ketika memberikan damage ke hero dengan HP kurang dari <%Num5>, akan langsung memulihkan <%Num1> HP yang hilang dan mendapatkan <%Num2> Movement Speed.########[8098ab]Efek Tambahan: Cooldown direset setelah mengeliminasi hero lawan.####[8098ab]Durasi: <Num3> detik####[8098ab]Cooldown: <Num4> detik[-]",
+                        "skilldescemblem": "Ketika memberikan damage ke hero dengan HP kurang dari 30%, akan langsung memulihkan 15% HP yang hilang dan mendapatkan 20% Movement Speed.\n\n<font color=\"8098ab\">Efek Tambahan: Cooldown direset setelah mengeliminasi hero lawan.\n[8098ab]Durasi: 3 detik\n[8098ab]Cooldown: 30 detik</font>",
+                        "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_264b83700e778b3eaa4a62d8e7a22a6c.png",
+                        "skillid": 62090,
+                        "skillid_lv": "62090/1",
+                        "skillname": "Killing Spree"
+                      },
+                      "giftid": 531,
+                      "gifttiers": 3
+                    },
+                    "planid": 128
+                  },
+                  "equiplist": [
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8d1d86a8d37e872f66334a4c373621c.png",
+                      "equipid": 3421,
+                      "equipname": "Ice Hunter's Tough Boots",
+                      "equipskill1": "\nFortitude: Mengurangi durasi Crowd Control dan Slow sebesar 25%",
+                      "equipskill2": "\nHunter: Setelah memberikan Damage kepada Creep, akan memberikan 40(+3*Level Hero) + (+0.01 Total HP) True Damage kepada target selama 3 detik (Damage meningkat sebesar 100% untuk Hero Non-Marksman).",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nFortitude: Mengurangi durasi Crowd Control dan Slow sebesar 25%\nHunter: Setelah memberikan Damage kepada Creep, akan memberikan 40(+3*Level Hero) + (+0.01 Total HP) True Damage kepada target selama 3 detik (Damage meningkat sebesar 100% untuk Hero Non-Marksman).",
+                      "equiptips": "+40 Movement Speed<br>+18 Magic Defense Tambahan<br>",
+                      "equiptype": "4",
+                      "equiptypename": "Jungle",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_fa1f5745cf88227722a9ff22c95c0bc4.png",
+                      "equipid": 2013,
+                      "equipname": "War Axe",
+                      "equipskill1": "\nFighting Spirit: Serangan memberikan 12 Physical Attack tambahan setiap detik selama 4 detik, hingga 6 stack. Memberikan 10% True Damage tambahan berdasarkan damage yang diberikan (tidak ada pengurangan damage yang dihitung) saat stack penuh.\n<font color=\"A4AAC7\">Marksman, Mage, dan Support hanya menerima 50% dari efek yang di-stack ini</font>.",
+                      "equipskill2": "\n: ",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nFighting Spirit: Serangan memberikan 12 Physical Attack tambahan setiap detik selama 4 detik, hingga 6 stack. Memberikan 10% True Damage tambahan berdasarkan damage yang diberikan (tidak ada pengurangan damage yang dihitung) saat stack penuh.\n<font color=\"A4AAC7\">Marksman, Mage, dan Support hanya menerima 50% dari efek yang di-stack ini</font>.",
+                      "equiptips": "+35 Extra Physical Attack<br>+400 Max HP Tambahan<br>+10% Pengurangan Cooldown<br>+8% Hybrid Lifesteal<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b830fbf0e825c3c46010bf5fbf814767.png",
+                      "equipid": 3208,
+                      "equipname": "Brute Force Breastplate",
+                      "equipskill1": "\nBrute Force: Setiap detik setelah memberikan Damage, memperoleh 8 Adaptive Attack tambahan dan 2% Movement Speed tambahan selama 4 detik, hingga 6 Stack. Memperoleh 25% Pengurangan Durasi Crowd Control tambahan saat Stack penuh.",
+                      "equipskill2": "\n: ",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nBrute Force: Setiap detik setelah memberikan Damage, memperoleh 8 Adaptive Attack tambahan dan 2% Movement Speed tambahan selama 4 detik, hingga 6 Stack. Memperoleh 25% Pengurangan Durasi Crowd Control tambahan saat Stack penuh.",
+                      "equiptips": "+800 Max HP Tambahan<br>+20 Physical Defense Tambahan<br>+10% Pengurangan Cooldown<br>",
+                      "equiptype": "2",
+                      "equiptypename": "Defense",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da94005b9d67024c8f189889ba6368cb.png",
+                      "equipid": 3012,
+                      "equipname": "Rose Gold Meteor",
+                      "equipskill1": "\nDragon Scale: Setiap 4 Physical Attack tambahan akan meningkatkan 1 Hybrid Defense, hingga 50 (efek menjadi setengah jika Role Utama bukan Fighter).",
+                      "equipskill2": "\nLifeline: Saat menerima damage yang mengurangi HP di bawah 30%, mendapatkan (+120*Level Hero) shield dan 50% Movement Speed yang berkurang dengan cepat dalam 3 detik. Efek ini punya cooldown 60 detik.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nDragon Scale: Setiap 4 Physical Attack tambahan akan meningkatkan 1 Hybrid Defense, hingga 50 (efek menjadi setengah jika Role Utama bukan Fighter).\nLifeline: Saat menerima damage yang mengurangi HP di bawah 30%, mendapatkan (+120*Level Hero) shield dan 50% Movement Speed yang berkurang dengan cepat dalam 3 detik. Efek ini punya cooldown 60 detik.",
+                      "equiptips": "+30 Extra Physical Attack<br>+20% Attack Speed Tambahan<br>+10% Lifesteal<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6bab0819a3203e65eb28da7ef1c4478.png",
+                      "equipid": 2208,
+                      "equipname": "Queen's Wings",
+                      "equipskill1": "\nDemonize: Saat HP kurang dari 40%, mendapatkan 30% Pengurangan Damage selama 3 detik dan mengurangi cooldown skill selama 2 detik. Cooldown efek: 60 detik.",
+                      "equipskill2": "\nDefiance: Untuk setiap 1% HP yang hilang, Damage meningkat sebesar 0.25%, hingga 15%.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nDemonize: Saat HP kurang dari 40%, mendapatkan 30% Pengurangan Damage selama 3 detik dan mengurangi cooldown skill selama 2 detik. Cooldown efek: 60 detik.\nDefiance: Untuk setiap 1% HP yang hilang, Damage meningkat sebesar 0.25%, hingga 15%.",
+                      "equiptips": "+750 Max HP Tambahan<br>+30 Adaptive Attack<br>+10% Pengurangan Cooldown<br>+10% Spell Vamp<br>",
+                      "equiptype": "2",
+                      "equiptypename": "Defense",
+                      "targetequipid": ""
+                    },
+                    {
+                      "equipicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_282edd3dffb41e1b95b08592707ba88f.png",
+                      "equipid": 3001,
+                      "equipname": "Malefic Roar",
+                      "equipskill1": "\nArmor Buster: Meningkatkan 30% Physical Penetration.",
+                      "equipskill2": "\nBreaker: Saat menyerang lawan, memperoleh 0.1% Physical Penetration tambahan untuk setiap Physical Defense yang dimiliki lawan, maksimal hingga 30%.",
+                      "equipskill3": "\n: ",
+                      "equipskill4": "\n: ",
+                      "equipskill5": "\n: ",
+                      "equipskill6": "\n: ",
+                      "equipskill7": "\n: ",
+                      "equipskilldesc": "\nArmor Buster: Meningkatkan 30% Physical Penetration.\nBreaker: Saat menyerang lawan, memperoleh 0.1% Physical Penetration tambahan untuk setiap Physical Defense yang dimiliki lawan, maksimal hingga 30%.",
+                      "equiptips": "+60 Extra Physical Attack<br>",
+                      "equiptype": "0",
+                      "equiptypename": "Attack",
+                      "targetequipid": ""
+                    }
+                  ],
+                  "face": "https://akmstatic.ml.youngjoygame.com/ACT/Yifan.png",
+                  "name": "疑犯_Yifan",
+                  "recommendequipmasterid": 10801,
+                  "tag": [],
+                  "title": "Influencer"
+                }
+              ],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_4a632ceb1dfcb3aad58a6d02a46a1c9e.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Damage",
+                "Charge"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4beb05b58c46e8c88d06e88a50cf67e2.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_882d9e4fe4067e09acc97ab6be99f06b.jpg",
+              "story": "Seorang prajurit Leonin yang mewarisi tekad pendahulunya, merintis takdirnya sendiri dengan keganasan yang membara.",
+              "tale": ""
+            },
+            "id": 100606,
+            "sourceId": 2756563
+          },
+          "hero_id": 108,
+          "relation": {
+            "assist": {
+              "desc": "Aulus adalah Fighter tipe dive dan cocok dengan hero Support jarak jauh, misalnya Angela dan Floryn.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                112,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Kemampuan tempur berkelanjutan yang kuat, ditambah dengan Kebal Crowd Control, menjadikannya counter untuk hero empuk yang kurang lincah seperti Hanabi, Miya, dan Gord.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                60,
+                1,
+                23
+              ]
+            },
+            "weak": {
+              "desc": "Karena damage Aulus bergantung pada keberhasilan melancarkan Basic Attack yang diperkuat, hero yang bisa menjaga jarak dan menghindari serangannya merupakan lawan yang sulit, misalnya Franco, Melissa, dan Karina.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                10,
+                114,
+                8
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Aulus"
+        },
+        "dynamic": null,
+        "id": 3290566,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1776690013119,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

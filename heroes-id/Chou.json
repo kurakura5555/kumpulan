@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df61",
+        "caption": "026周",
+        "configId": 144237,
+        "createdAt": 1710416511121,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_d0f3f3411e585c106a34f0e57c157c8c.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50122b",
+            "_updatedAt": 1765974302788,
+            "data": {
+              "abilityshow": [
+                "50",
+                "30",
+                "80",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+              "heroid": 26,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah berjalan sejauh 5 unit, Chou memberikan 180% damage pada Basic Attack berikutnya (tidak bisa memberikan damage Critical), menyebabkan 90% slow singkat dan mengurangi 10(+1*Level Hero) Physical Defense mereka selama 3 detik (hingga 2 stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_aca76a3a3dda44b6a0c3a72ff9bbcb94.png",
+                      "skillid": 2640,
+                      "skillname": "Only Fast",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9.5",
+                      "skilldesc": "Chou menyerang ke arah target, memberikan 180<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena. Skill ini dapat digunakan 3 kali sebelum memasuki Cooldown. setelah penggunaan ke-3, Chou menyebabkan Airborne ke lawan.\n\nMengenai Hero lawan dengan serangan ke-3 akan mereset Cooldown <font color=\"a6aafb\">Shunpo</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70b2990486b562415dac32dac01bdb16.png",
+                      "skillid": 2610,
+                      "skillname": "Jeet Kune Do",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5",
+                      "skilldesc": "Chou berlari ke arah target, menjadi Kebal Crowd Control dan memperoleh 200<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> Shield.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+                      "skillid": 2620,
+                      "skillname": "Shunpo",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 34",
+                      "skilldesc": "Chou menendang hero lawan ke arah yang ditentukan, memberikan 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan knockback.\n\nGunakan skill ini kembali untuk mengejar target, memberikan 480<font color=\"fba51f\"> (+240% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05083715344213a996ab3ebf04381e93.png",
+                      "skillid": 2630,
+                      "skillname": "The Way of Dragon",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "261"
+                }
+              ],
+              "heroskin": null,
+              "name": "Chou",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57d7c6285b0aeb615f8b4e8865e6dc7b.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsortlabel": [
+                "EXP Lane",
+                "Roam"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_850c4b51e3dbab3fd12a718917eaaf44.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a72a356046a7345112c52b79b7372e3.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+              "story": "Seorang petarung berbakat dengan hati kesatria.",
+              "tale": ""
+            },
+            "id": 100524,
+            "sourceId": 2756563
+          },
+          "hero_id": 26,
+          "relation": {
+            "assist": {
+              "desc": "Chou cocok dengan Healer yang dapat meningkatkan daya tahan dan Movement Speed-nya, misalnya Angela dan Rafaela.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                55,
+                14
+              ]
+            },
+            "strong": {
+              "desc": "Chou meng-Counter Fighter yang lambat misalnya Terizla dan Alpha yang kesulitan menghadapi taktik serangan Chou yang cepat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                82,
+                28
+              ]
+            },
+            "weak": {
+              "desc": "Chou di-Counter oleh Hero jarak jauh misalnya Lesley dan Pharsa yang dapat memberikan Damage sebelum dia mendekat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                53,
+                52
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678762,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

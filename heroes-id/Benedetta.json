@@ -1,0 +1,305 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e07f",
+        "caption": "097贝拉妮塔",
+        "configId": 144237,
+        "createdAt": 1710416512453,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_542baf36c1ea32bb1bf64c65451537c8.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501276",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "60",
+                "50",
+                "20",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+              "heroid": 97,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Tahan tombol <font color=\"a6aafb\">Basic Attack</font> untuk memasuki mode <font color=\"a6aafb\">Swordout</font> dan mengumpulkan Sword Intent. Setelah terisi penuh, lepaskan tombol untuk melancarkan Swordout Slash ke <font color=\"a6aafb\">arah di depannya</font> dan menerjang ke depan, memberikan <font color=\"fba51f\"> (+215% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya (dihitung sebagai damage skill dan berkurang menjadi 50% terhadap minion dan creep).\n\nBenedetta hanya bisa melancarkan Swordout Slash saat Sword Intent penuh dan dia berada dalam mode <font color=\"a6aafb\">Swordout</font>.\n\nBenedetta juga mendapatkan Sword Intent dengan memberikan damage menggunakan Basic Attack dan skill-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec94d48625abe29337a7dc247ae4089.png",
+                      "skillid": 9740,
+                      "skillname": "Elapsed Daytime",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 55",
+                      "skilldesc": "Benedetta mundur dengan cepat dan meninggalkan bayangan di depan. Setelah jeda singkat, bayangannya menebas ke depan dalam area berbentuk kipas, memberikan 200<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 60% Slow kepada lawan selama 0.5 detik.\n\nSementara itu, Benedetta berlari ke depan untuk menebas, memberikan 75<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. (Jika target terkena Hit oleh bayangannya, Damage yang diberikan Benedetta akan meningkat menjadi 200%).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae06e5db054c1b94fcc70b2158828fc6.png",
+                      "skillid": 9710,
+                      "skillname": "Phantom Slash",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 100",
+                      "skilldesc": "Benedetta mengangkat senjatanya untuk bertahan, menjadi Kebal terhadap Crowd Control dan memblokir semua Damage selama 0.8 detik. Setelah ini, dia menyerang ke arah target, memberikan 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nJika Benedetta berhasil menghindari Damage selama bertahan, dia akan memperoleh <font color=\"a6aafb\">Sword Intent</font> penuh. Jika dia berhasil menghindari Crowd Control apa pun, serangan berikutnya akan menyebabkan Stun ke target selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22cec07aed8f5e783996cfc99fbbcaf3.png",
+                      "skillid": 9720,
+                      "skillname": "An Eye for An Eye",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 45   Mana Cost: 110",
+                      "skilldesc": "Benedetta menggenggam Alecto, bergerak ke depan (Benedetta tidak dapat ditargetkan saat bergerak), dan menebas setelah jeda singkat, meledakkan Sword Intent di jalurnya. Selama 2.5 detik, Sword Intent memberikan hingga total 1560<font color=\"fba51f\"> (+1105% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan dan menyebabkan 50% Slow ke lawan di dalamnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d895c9df7f13247a57660597045267.png",
+                      "skillid": 9730,
+                      "skillname": "Alecto: Final Blow",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "971"
+                }
+              ],
+              "heroskin": null,
+              "name": "Benedetta",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_11bf645722b931631c3a63d5be7da068.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eceefa7ba07f093d71a30852f0051b7a.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Assassin",
+                "Fighter"
+              ],
+              "speciality": [
+                "Chase",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_299a32ea6c9287501faff530532617b5.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
+              "story": "Petarung wanita yang melindungi Barren Lands dari invasi iblis.",
+              "tale": ""
+            },
+            "id": 100598,
+            "sourceId": 2756563
+          },
+          "hero_id": 97,
+          "relation": {
+            "assist": {
+              "desc": "Benedetta cocok dengan inisiator dengan Skill CC, seperti Johnson dan Gatotkaca, karena Benedetta akan dapat memaksimalkan Damage Ultimate-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                32,
+                41,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Skill 2 Benedetta dapat memblokir CC dari lawan, menjadikannya Counter kuat terhadap Hero dengan CC yang mudah diprediksi, seperti Jawhead dan Guinevere.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                54,
+                80,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Benedetta di-Counter oleh Hero dengan Skill yang menghentikan Skill mobilitas, seperti Minsitthar dan Phoveus, karena semua Skill Benedetta adalah Skill mobilitas.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                74,
+                106,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Benedetta"
+        },
+        "dynamic": null,
+        "id": 2678833,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

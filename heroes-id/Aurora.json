@@ -1,0 +1,292 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df8a",
+        "caption": "036欧若拉",
+        "configId": 144237,
+        "createdAt": 1710416511304,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/ed2295c60bd772b89b7bdbbc2aee6095.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b97db6a5c286059057d42289612b16.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501233",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "40",
+                "70",
+                "100",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
+              "heroid": 36,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Saat menerima damage mematikan, Aurora membekukan dirinya selama 1.5 detik, menjadi kebal serangan dan memulihkan 30% Max HP secara bertahap. Cooldown: 150 detik.\n\nEfek freeze dari Aurora juga bisa memengaruhi Turret.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6d80942b639b97fbeffc5fd9ee8167e.png",
+                      "skillid": 3640,
+                      "skillname": "Pride of Ice",
+                      "skilltag": [
+                        {
+                          "tagid": 43,
+                          "tagname": "Kebal Eliminasi",
+                          "tagrgb": "177,157,96"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6   Mana Cost: 60",
+                      "skilldesc": "Aurora memanggil meteorit es untuk menyerang di lokasi target, memberikan 400<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 40% Slow selama 1 detik. Setelah itu, 5 hujan es akan turun, masing-masing memberikan 40<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
+                      "skillid": 3610,
+                      "skillname": "Hailstone Blast",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 75",
+                      "skilldesc": "Aurora meniupkan <font color=\"a6aafb\">Frosty Breeze</font> ke arah target, memberikan 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menciptakan area beku di ujungnya.\n\nArea tersebut memberikan total 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di dalamnya dan menyebabkan freeze selama 1 detik (meningkat 0.06 detik untuk setiap 100 Magic Power).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
+                      "skillid": 3620,
+                      "skillname": "Frosty Breeze",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50   Mana Cost: 140",
+                      "skilldesc": "Aurora menciptakan jalur embun salju ke arah target, memberikan 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya dan menyebabkan 80% slow selama 1.2 detik. \n\nJalur embun salju secara bertahap meluas menjadi gletser yang hancur saat mencapai ukuran maksimum, memberikan 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke semua lawan di area tersebut dan menyebabkan freeze selama 1 detik (meningkat 0.2 detik untuk setiap 100 Magic Power).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42818d794bbe6206d10e9658013ab033.png",
+                      "skillid": 3630,
+                      "skillname": "Frigid Glacier",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "361"
+                }
+              ],
+              "heroskin": null,
+              "name": "Aurora",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0c97d1f7482d3c18074fc27a61c0e802.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f3f900f917956e81d7764b9e5ffeb3d.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Crowd Control",
+                "Poke"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4760ac03ef7df2f0a3f39c9a4b3a033b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b97db6a5c286059057d42289612b16.jpg",
+              "story": "Sang Maiden of the Glacier yang mengabadikan kenangan di legenda Northern Vale.",
+              "tale": ""
+            },
+            "id": 100531,
+            "sourceId": 2756563
+          },
+          "hero_id": 36,
+          "relation": {
+            "assist": {
+              "desc": "Dengan kemampuan Crowd Control yang sangat kuat, Aurora cocok dengan Hero yang memiliki Damage berkelanjutan tinggi, misalnya Ixia, Freya, dan Karrie.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                121,
+                22,
+                40
+              ]
+            },
+            "strong": {
+              "desc": "Aurora meng-Counter Hero yang suka masuk ke formasi tim, misalnya Leomord, Thamuz, dan Terizla, karena Skill-nya dapat menghentikan mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                67,
+                72,
+                82,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Karena sebagian besar Skill Aurora memiliki jeda efek, dia di-Counter Hero lincah yang dapat menghindar, misalnya Ling, Kadita, dan Guinevere.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                84,
+                75,
+                80,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/reAurora"
+        },
+        "dynamic": null,
+        "id": 2678772,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25e013",
+        "caption": "070布拉瑞克",
+        "configId": 144237,
+        "createdAt": 1710416511974,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_765f9c9b8fa35be202c07a3159c4e90b.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64900b3344e166f05645ac5759207897.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501255",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "90",
+                "40",
+                "100",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+              "heroid": 70,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Belerick menerima 50 damage atau lebih, dia punya 25% peluang untuk menyerang unit lawan terdekat, memberikan <font color=\"7f62fe\">Magic Damage</font> sebesar 55(+5*Level Hero) + 1.8% Max HP-nya (berskala dengan level). Serangan ini bisa diaktifkan sekali setiap 0.4 detik.\nHP-nya yang didapatkan dari Equipment dan Emblem meningkat 30%",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_570abe4ad1267c65f2c4f368a5f4add9.png",
+                      "skillid": 7040,
+                      "skillname": "Deadly Thorns",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 60",
+                      "skilldesc": "Belerick mengeluarkan tanaman merambat ke arah target, memberikan 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Slow sebesar 25% kepada lawan di jalurnya. Ancient Seed yang ditinggalkan oleh tanaman merambat akan menjadi duri setelah 1 detik, memberikan 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Taunt kepada lawan di jalurnya selama 1.2 detik.\n\nMemberikan 80% Damage tambahan kepada Minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5433e8607e73b325e705ad88ca513c98.png",
+                      "skillid": 7010,
+                      "skillname": "Ancient Seed",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 14   Mana Cost: 60",
+                      "skilldesc": "Belerick meningkatkan 80% Movement Speed-nya dan memperkuat Basic Attack berikutnya. (Movement Speed yang diperoleh akan berkurang dalam 2 detik).\nBasic Attack yang diperkuat ini memberikan 300<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 60% Slow ke target selama 1.4 detik. Belerick juga memulihkan HP setara 240 + 10% HP-nya yang hilang.\nSetiap kali Deadly Thorns diaktifkan, mengurangi Cooldown Skill ini sebanyak 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd8021db8bc655e12a9de54aef597fb3.png",
+                      "skillid": 7020,
+                      "skillname": "Nature's Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50   Mana Cost: 150",
+                      "skilldesc": "Belerick menciptakan tanaman merambat di sekitarnya, memberikan 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area sebanyak 4 kali, menyebabkan Taunt dan Slow ke mereka selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1501526a70c36f4c89d7ab971f9eb0.png",
+                      "skillid": 7030,
+                      "skillname": "Wrath of Dryad",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "701"
+                }
+              ],
+              "heroskin": null,
+              "name": "Belerick",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_29fa60e268304ff61fce131a158e0ad2.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c9aa12fe3c58449075a5ac8b6d691a13.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Tank",
+                ""
+              ],
+              "speciality": [
+                "Crowd Control",
+                "Regen"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8f60380e0242bd89dc298037d8b50dd4.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64900b3344e166f05645ac5759207897.jpg",
+              "story": "Makhluk elemental yang ramah dan baik hati.",
+              "tale": ""
+            },
+            "id": 100565,
+            "sourceId": 2756563
+          },
+          "hero_id": 70,
+          "relation": {
+            "assist": {
+              "desc": "Belerick cocok dengan Hero yang memberikan Damage besar pada lawan yang terkena Taunt-nya, seperti Miya dan Natan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                107,
+                1,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Belerick unggul dalam menyebabkan Crowd Control ke lawan dalam jarak dekat, menjadikannya Counter bagi Assassin empuk yang perlu mendekat untuk memberikan Damage, seperti Lancelot dan Ling.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                47,
+                84,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Belerick di-Counter oleh Hero dengan serangan jarak jauh seperti Valir dan Xavier.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                57,
+                115,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678806,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

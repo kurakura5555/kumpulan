@@ -1,0 +1,300 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e06b",
+        "caption": "092卡蜜拉",
+        "configId": 144237,
+        "createdAt": 1710416512378,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_304b50e6df0a906fc47fade01ef6703a.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50126c",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "90",
+                "20",
+                "80",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
+              "heroid": 92,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Carmilla mencuri 7-11 Physical & Magic Defense (berskala dengan level) dari lawan ketika memberikan Damage ke mereka. Physical & Magic Defense yang dicuri dapat di-Stack hingga 5 kali dan berlangsung selama 5 detik. Namun, Carmilla hanya dapat mencuri Physical & Magic Defense Hero lawan yang sama satu kali setiap 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0260af174d1081a18480eee6545f98a6.png",
+                      "skillid": 9240,
+                      "skillname": "Vampire Pact",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 50",
+                      "skilldesc": "Carmilla memanggil tiga Crimson Flower yang mengelilinginya selama 5 detik, memberikan 65<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap kali Crimson Flower mengenai lawan dan menyebabkan 6% slow selama 0.8 detik (efek slow bisa di-stack hingga 30%).\n\nCarmilla memulihkan 45<font color=\"62f8fe\"> (+21% Total Magic Power)</font> HP setiap kali Crimson Flower memberikan damage (hanya memulihkan 30% dari jumlah tersebut saat mengenai minion).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51eb6dcde53d88c4994426b112c13fde.png",
+                      "skillid": 9210,
+                      "skillname": "Crimson Flower",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 11   Mana Cost: 85",
+                      "skilldesc": "Carmilla mengakumulasi Bloodbath Energy, 70% memperoleh Movement Speed yang berkurang dengan cepat dalam 4.5 detik.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Carmilla melepaskan Bloodbath Energy ke Hero lawan atau Creep, memberikan 150<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Stun selama 0.6 detik. Damage dan durasi Stun berskala dengan waktu akumulasi (hingga 100%).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09ea2e1860eadfae10d82b2059fcef03.png",
+                      "skillid": 9220,
+                      "skillname": "Bloodbath",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60   Mana Cost: 150",
+                      "skilldesc": "Carmilla mengeluarkan Curse of Blood ke lokasi target, menyebabkan 50% Slow ke lawan yang terkena. Setelah 0.8 detik, lawan yang masih di area akan menerima 450<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, dan terkena Immobilize selama 1 detik, 30% Slow serta terhubung selama 5 detik.\n\nKetika lawan yang terhubung menerima Damage atau terkena Crowd Control, semua target lainnya yang terhubung menerima 50% dari Damage dan terkena Crowd Control selama 100% dari durasi. Lawan dapat saling menjauh untuk melepaskan hubungan mereka.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6939ef4e88964687c16976197b94451.png",
+                      "skillid": 9230,
+                      "skillname": "Curse of Blood",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "921"
+                }
+              ],
+              "heroskin": null,
+              "name": "Carmilla",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_429bbf3c9f1b16aa45bdfdeac80761e5.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_358d6ad9cff97fc3bfef8a2bd4acbadd.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Support",
+                "Tank"
+              ],
+              "speciality": [
+                "Crowd Control",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_e14d40da9b16a9c748844c25e4ac3668.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
+              "story": "Gadis yang menjadi Blood Demon demi cinta.",
+              "tale": ""
+            },
+            "id": 100588,
+            "sourceId": 2756563
+          },
+          "hero_id": 92,
+          "relation": {
+            "assist": {
+              "desc": "Carmilla sangat cocok dengan Mage dengan Damage berkelanjutan dan kemampuan Crowd Control seperti Cecilion dan Aurora, karena Ultimate-nya dapat memperkuat kekuatan mereka secara signifikan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                91,
+                36,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Carmilla meng-Counter Fighter jarak dekat yang empuk, seperti Dyrroth dan Lapu-Lapu, karena dia dapat mencuri Defense mereka dengan cepat menggunakan Skill 1 dan Pasifnya sambil memulihkan HP-nya sendiri.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                85,
+                37,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Carmilla di-Counter oleh Hero yang dapat mengabaikan atau menghapus Crowd Control-nya, seperti Hanabi dan Wanwan, karena mereka tidak dapat ditargetkan oleh Skill 2 atau Ultimate Carmilla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                60,
+                89,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Carmilla"
+        },
+        "dynamic": null,
+        "id": 2678828,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

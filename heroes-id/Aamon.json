@@ -1,0 +1,266 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0af",
+        "caption": "109亚蒙",
+        "configId": 144237,
+        "createdAt": 1710416512625,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_14279bd7c375cdde9d64ea5cf947750d.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50127d",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "30",
+                "70",
+                "10",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
+              "heroid": 109,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Aamon memasuki mode <font color=\"a6aafb\">Camouflage</font> setiap kali skill-nya mengenai lawan. Dalam mode ini, dia tidak bisa ditargetkan dan memulihkan 25<font color=\"62f8fe\"> (+15% Total Magic Power)</font> + 3% dari HP-nya yang hilang setiap 0.5 detik, dan mendapatkan 80% Movement Speed tambahan yang berkurang dengan cepat selama 3 detik.\nSetelah keluar dari mode <font color=\"a6aafb\">Camouflage</font>, Aamon langsung mereset cooldown Basic Attack dan memperkuat Basic Attack-nya dalam 3 detik berikutnya. Setiap Basic Attack yang diperkuat memberikan 70<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+115% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Serangan pertama setelah keluar dari mode <font color=\"a6aafb\"> Camouflage</font> secara aktif akan diperkuat, memberikan 84<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"62f8fe\">(+138% Total Magic Power)</font> damage dan mengurangi semua cooldown skill selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96583b8721481fe151eceeb4d17f089c.png",
+                      "skillid": 10940,
+                      "skillname": "Invisible Armor",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7   Mana Cost: 40",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif:</font> Aamon mengisi kekuatan jubahnya melalui Basic Attack yang diperkuat atau saat dalam mode camouflage. Pada 5 stack, Aamon melemparkan 6 shard ke arah target pada serangan berikutnya, setiap shard memberikan 50<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Shard tersebut juga akan jatuh di sekitar target.\n\n<font color=\"a6aafb\">Aktif:</font> Aamon melempar sebuah shard ke arah lawan terdekat, memberikan 175<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51b68183615922a3891919cd0a0d5536.png",
+                      "skillid": 10910,
+                      "skillname": "Soul Shards",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12.5   Mana Cost: 50",
+                      "skilldesc": "Aamon melemparkan Shard ke depan, memberikan 120<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan di jalurnya. Kemudian Shard tersebut akan kembali ke Aamon setelah jeda singkat dan membuatnya dapat memasuki Mode <font color=\"a6aafb\">Camouflage</font>.\nJika Shard mengenai lawan Non-Minion, Shard akan menyebabkan efek Slow sebesar 50% selama 2 detik kepada target dan segera kembali ke Aamon.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db82969869000375f7e6f1ab7ae895b3.png",
+                      "skillid": 10920,
+                      "skillname": "Slayer Shards",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50   Mana Cost: 150",
+                      "skilldesc": "Aamon melemparkan semua shard ke lawan dan menyebabkan 30% slow ke mereka selama 1.5 detik. Setelah jeda singkat, shard akan terbang kembali ke lokasi lawan, masing-masing memberikan 35<font color=\"62f8fe\"> (+10% Total Magic Power)</font>-70<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nJumlah shard meningkat seiring dengan jumlah charge armor milik Aamon dan shard yang ada di tanah (8-25).\nDamage yang diberikan meningkat berdasarkan HP target yang hilang, hingga maksimal saat HP target di bawah 30%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe1e567c14d3bd648184285b7d9d427.png",
+                      "skillid": 10930,
+                      "skillname": "Endless Shards",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1091"
+                }
+              ],
+              "heroskin": null,
+              "name": "Aamon",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e38297f23f285b88272894aa3c797c09.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9e4d330229c88b1e78ef88ce9db4223.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_51ae6eb2b9d766791b1c60acb30d550f.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
+              "story": "Bangsawan Castle Aberleen yang penyendiri.",
+              "tale": ""
+            },
+            "id": 100605,
+            "sourceId": 2756563
+          },
+          "hero_id": 109,
+          "relation": {
+            "assist": {
+              "desc": "Hero Support yang dapat memberikan Buff seperti Rafela dan Floryn",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                14,
+                112,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Hero dengan durabilitas dan mobilitas rendah seperi Layla dan Hanabi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                115,
+                91,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Hero dengan durabilitas tinggi atau yang dapat memberikan Damage berkelanjutan seperti Balmond dan Fredrinn.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                2,
+                117,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Aamon"
+        },
+        "dynamic": null,
+        "id": 2678845,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

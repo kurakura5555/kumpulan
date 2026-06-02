@@ -1,0 +1,300 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e067",
+        "caption": "091塞西利奥",
+        "configId": 144237,
+        "createdAt": 1710416512342,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_f26fbce0ad1d2cc1c7183d95b794dd82.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50126e",
+            "_updatedAt": 1765974302788,
+            "data": {
+              "abilityshow": [
+                "40",
+                "100",
+                "50",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+              "heroid": 91,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Cecilion memperoleh 10 Max Mana tambahan dan memulihkan 10 Mana setiap kali Skill-nya mengenai lawan. Cooldown: 1 detik.\n\nCecilion memiliki Max Mana dan Pemulihan Mana yang lebih tinggi, dan Damage Skill-nya berskala dengan Max Mana-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3d927bf75488e56e28187ea65cafcfa5.png",
+                      "skillid": 9140,
+                      "skillname": "Overflowing",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 1.5   Mana Cost: 75",
+                      "skilldesc": "Cecilion memerintahkan kelelawar raksasa untuk menyerang ke arah target, memperoleh 30% Movement Speed tambahan selama 1 detik, memberikan 85<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"a6aafb\">(+7% Total Mana)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya. Kelelawar juga memberikan 170<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"a6aafb\">(+14% Total Mana)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan ke lawan yang berada di dekat titik serangan, serta menerapkan efek <font color=\"a6aafb\">Overflowing</font> sebanyak 1 kali.\n\nDalam 6 detik, setiap kali Cecilion menggunakan Skill ini, penggunaan Mana akan meningkat sebanyak 1.5 kali (hingga 4 Stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+                      "skillid": 9110,
+                      "skillname": "Bat Impact",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 95",
+                      "skilldesc": "Cecilion memanggil sepasang Claw ke lokasi target. Setelah jeda singkat, Claw akan bergerak ke arah satu sama lain dan menarik lawan di sepanjang jalur ke tengah, memberikan 200<font color=\"62f8fe\"> (+45% Total Magic Power)</font> <font color=\"a6aafb\">(+1.2% Total Mana)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Immobilize ke mereka selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c03dcb05c090b95763374caea670a966.png",
+                      "skillid": 9120,
+                      "skillname": "Sanguine Claws",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 44   Mana Cost: 150",
+                      "skilldesc": "Cecilion melepaskan kekuatan Blood Demon, memperoleh 60% Movement Speed (berkurang seiring waktu) dan Kebal Slow selama 1.5 detik. Sementara itu, dia melepaskan 36 energi darah ke lawan di sekitarnya, setiap energi darah memberikan 35<font color=\"62f8fe\"> (+8% Total Magic Power)</font> <font color=\"a6aafb\">(+0.3% Total Mana)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 3% Slow (hingga 30%) ke lawan selama 1 detik.\n\nSetiap energi darah juga memulihkan 10 + 1% dari HP Cecilion yang hilang.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc9c4f09f975249b8587a6fdf61c8af3.png",
+                      "skillid": 9130,
+                      "skillname": "Bats Feast",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 45",
+                      "skilldesc": "Ketika Carmilla berada di dekatnya, Cecilion dapat memanggilnya untuk menjadi Vermil Shadow untuk merasukinya, memberikan 520-800 Shield (berskala dengan level Carmilla).\nCarmilla dapat memilih lokasi target dan mendarat di sana, memperoleh Shield yang sama, memberikan 520-800 <font color=\"7f62fe\">Magic Damage</font> (berskala dengan level) kepada lawan yang berada dalam area efek, dan menyebabkan 30% Slow kepada mereka selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44c27e7071734bb9f074bfa9c60c17b6.png",
+                      "skillid": 9160,
+                      "skillname": "Moonlit Waltz",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "911"
+                }
+              ],
+              "heroskin": null,
+              "name": "Cecilion",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0bb649180f1f1bfd0ba81b78ee35844.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af02ce891528cd3576858589d8d33d8d.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Poke",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fe2bed368a4a7419ac558327b07d1b2b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
+              "story": "Kekasih Blood Demon Carmilla.",
+              "tale": ""
+            },
+            "id": 100590,
+            "sourceId": 2756563
+          },
+          "hero_id": 91,
+          "relation": {
+            "assist": {
+              "desc": "Cecilion cocok dengan Tank berkemampuan Crowd Control yang berkelanjutan, misalnya Carmilla dan Minotaur, karena Crowd Control mereka dapat membantu Cecilion mengenai lawan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                92,
+                19,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Cecilion meng-Counter Fighter yang kurang lincah misalnya Balmond dan Terizla karena Hero tersebut sulit mendekatinya sedangkan Cecilion dapat mudah menyerang mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                2,
+                82,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Cecilion di-Counter oleh Assassin yang lincah misalnya Ling dan Fanny karena Cecilion kekurangan Skill untuk bertahan dan Skill normalnya tidak dapat mengenai lawan di dekatnya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                84,
+                17,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Cecilion"
+        },
+        "dynamic": null,
+        "id": 2678827,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

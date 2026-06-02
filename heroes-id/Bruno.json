@@ -1,0 +1,270 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27efd1bb8e47d25df29",
+        "caption": "012布鲁诺",
+        "configId": 144237,
+        "createdAt": 1710416510911,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/af551d16e9c04164c90e209dc4c75b1c.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501222",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "20",
+                "60",
+                "20",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+              "heroid": 12,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Skill Bruno memberikan Damage, Critical Chance-nya akan meningkat sebesar 2.5%. Dapat di-Stack hingga 8 kali.\n\nKarena <font color=\"a6aafb\">\"Mecha Legs\"</font> ditanamkan dengan kekuatan, Bruno dapat memberikan lebih banyak Damage, tetapi tambahan Attack Speed hanya dapat memberikan efek sebesar 80%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0850ac06412b0171aef0eba541581199.png",
+                      "skillid": 1240,
+                      "skillname": "Mecha Legs",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 60",
+                      "skilldesc": "Bruno menendang Powerball pada Basic Attack berikutnya, memberikan 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target, menyebabkan 30% Slow ke mereka, dan meningkatkan 30% Movement Speed  selama 0.5 detik.\n\nPowerball kemudian memantul kembali ke arah Bruno dan mendarat di tanah. Bruno atau rekan timnya dapat mengambil Powerball untuk serangan berikutnya dan mengurangi Cooldown dari <font color=\"a6aafb\">Flying Tackle</font> selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_65a5b817dc5f53e082caa8c1def5a9ef.png",
+                      "skillid": 1210,
+                      "skillname": "Volley Shot",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7   Mana Cost: 60",
+                      "skilldesc": "Bruno melakukan Slide Tackle ke depan, memberikan 140<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan dan menyebabkan efek Stun kepada mereka selama 0.5 detik.\n\nJika Bruno menggunakan Flying Tackle ketika terdapat Powerball yang memantul kepadanya, dia akan menarik kembali Powerball seketika.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_02cfbd7b97612b6aedb46d84a3186ce4.png",
+                      "skillid": 1220,
+                      "skillname": "Flying Tackle",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 38   Mana Cost: 140",
+                      "skilldesc": "Bruno menendang bola energi ke Hero lawan yang ditentukan, memberikan 250<font color=\"fba51f\"> (+83% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, dan menyebabkan Knockback. Bola energi memantul serta mengurangi Physical Defense mereka sebesar 4% selama 8 detik (hingga 3 Stack). Setelah itu, bola energi akan memantul di antara lawan, memberikan 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (hingga 10 kali).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d4558404b2096ecbce8394de5ced030.png",
+                      "skillid": 1230,
+                      "skillname": "Worldie",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "121"
+                }
+              ],
+              "heroskin": null,
+              "name": "Bruno",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_890739c136c183bc1a128867baf2a357.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68d7ca30f69cb691125e3f03cd782a53.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a58a8659284c9b852c5fa025638ab888.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
+              "story": "Kapten Eruditio Ranger yang melindungi kota dengan kemampuan sepak bolanya yang luar biasa.",
+              "tale": ""
+            },
+            "id": 100514,
+            "sourceId": 2756563
+          },
+          "hero_id": 12,
+          "relation": {
+            "assist": {
+              "desc": "Bruno cocok dengan Support yang dapat memaksa lawan menyerang dan membuat Bruno dapat menggunakan Damage Early Game-nya, misalnya Franco dan Khufra.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                10,
+                78
+              ]
+            },
+            "strong": {
+              "desc": "Bruno kuat melawan Marksman yang lebih lemah di Early Game, misalnya Hanabi dan Miya yang dapat dikalahkan Bruno dengan Damage-nya yang tinggi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                60,
+                1
+              ]
+            },
+            "weak": {
+              "desc": "Bruno di-Counter oleh Tank dengan Physical Defense tinggi misalnya Gatotkaca dan Fredrinn yang dapat mengurangi Damage dari serangannya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                41,
+                117
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Bruno"
+        },
+        "dynamic": null,
+        "id": 2678748,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

@@ -1,0 +1,304 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e02f",
+        "caption": "077巴当",
+        "configId": 144237,
+        "createdAt": 1710416512080,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_68d0366513f26448d34a79dde3934935.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ce3e2759eb9ccd7a94ae3a2ee4e8b8e7.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50125e",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "40",
+                "70",
+                "50",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
+              "heroid": 77,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Basic Attack Badang mengenai target, dia mendapatkan 1 stack <font color=\"a6aafb\">Chivalry Fist</font>. Setelah mendapatkan 4 stack, Basic Attack berikutnya memberikan 50<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> tambahan ke lawan yang terkena serangan dan menyebabkan knockback. Lawan yang terkena knockback dan mengenai rintangan akan terkena stun selama 0.6 detik (Minion dan Creep akan langsung terkena stun).\n<font color=\"a6aafb\">Fist Wind</font> yang tercipta oleh skill Badang akan langsung mengaktifkan efek ini, dan <font color=\"a6aafb\">Fist Wind</font> dari Ultimate-nya meningkatkan durasi stun menjadi 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_383d73841ef661aedaf2529abdf25e9e.png",
+                      "skillid": 7740,
+                      "skillname": "Chivalry Fist",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 2",
+                      "skilldesc": "Badang mengeluarkan <font color=\"a6aafb\">Fist Wind</font> ke arah target, memberikan 125<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena, menyebabkan 30% Slow selama 1.5 detik, dan menyebabkan Knockback. <font color=\"a6aafb\">Fist Wind</font> akan meledak setelah mengenai rintangan, memberikan 100<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar. <font color=\"a6aafb\">Fist Wind</font> dapat mengaktifkan efek Basic Attack dan memberikan Badang 1 Stack <font color=\"a6aafb\">Chivalry Fist</font> ketika digunakan.\nBadang dapat menyimpan hingga 2 penggunaan <font color=\"a6aafb\">Fist Wind</font> dan memulihkan 1 penggunaan setiap 10.4 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1818e411e02a67d6dc086c65a8634392.png",
+                      "skillid": 7710,
+                      "skillname": "Fist Wind",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 11",
+                      "skilldesc": "Badang berlari ke arah target, memberikan 230<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang berada di jalurnya, memperoleh 350<font color=\"fba51f\"> (+150% Total Physical Attack)</font> Shield selama 5 detik. Badang akan berhenti ketika mengenai Hero lawan, menyebabkan Knockback dan menciptakan rintangan di belakang mereka selama 4 detik. Memberikan 130<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang mengenai rintangan.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Badang menghapus rintangan yang dia ciptakan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_caf5e5d46abcae913a11a2166ffb6979.png",
+                      "skillid": 7720,
+                      "skillname": "Fist Break",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 45",
+                      "skilldesc": "Badang mengeluarkan pukulan bertubi-tubi ke arah target, memberikan 60<font color=\"fba51f\"> (+54% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> beberapa kali ke lawan yang terkena (dapat mengaktifkan efek Basic Attack). <font color=\"a6aafb\">Fist Wind</font> akan meledak saat mengenai rintangan, memberikan 30<font color=\"fba51f\"> (+27% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitarnya.\nBadang menjadi kebal Crowd Control selama durasi ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6e140e6257393188d0b941bca2443577.png",
+                      "skillid": 7730,
+                      "skillname": "Fist Crack",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "771"
+                }
+              ],
+              "heroskin": null,
+              "name": "Badang",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae19689ee111addb7f2c0e6f8f30a4ec.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Roam",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_484caceb9611d547774d6d936519a7d6.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Charge",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8e686dc295c2659b63909e87b54e966e.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ce3e2759eb9ccd7a94ae3a2ee4e8b8e7.jpg",
+              "story": "Pahlawan pulau yang mendapatkan kekuatan supernatural setelah mengalahkan monster air.",
+              "tale": ""
+            },
+            "id": 100574,
+            "sourceId": 2756563
+          },
+          "hero_id": 77,
+          "relation": {
+            "assist": {
+              "desc": "Badang cocok dengan Hero yang dapat mengumpulkan lawan untuk memudahkannya menggunakan kombo Skill 2 dan Ultimate, misalnya Tigreal dan Luo Yi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                6,
+                96,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Badang meng-Counter Hero berdurabilitas dan mobilitas yang rendah misalnya Layla dan Odette yang sulit untuk kabur dengan kombo Skill 2 dan Ultimate.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                18,
+                46,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Badang di-Counter oleh Hero yang lincah misalnya Wanwan dan Ling yang dapat menghindari atau kabur dari Skill 2-nya, sehingga mengurangi Damage dan efek Crowd Control miliknya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                89,
+                84,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678813,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

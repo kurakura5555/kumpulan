@@ -1,0 +1,570 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e09f",
+        "caption": "105布迪卡",
+        "configId": 144237,
+        "createdAt": 1710416512571,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_37e6e9ec99719ac41b2c40c4fa0f7728.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2f25a8ef9bbb2d52eaaea8d6eee85d22.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501287",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "80",
+                "10",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
+              "heroid": 105,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Bakatnya dalam bidang mekanika membuat Beatrix bisa menciptakan 4 senjata kuat.\n<font color=\"a6aafb\">Renner</font> Basic Attack - Longshot: Menembakkan peluru yang kuat ke arah lawan saat ini, memberikan <font color=\"fba51f\"> (+365% Total Physical Attack)</font> -<font color=\"fba51f\"> (+400% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target pertama yang terkena (tembakan ini dapat dihindari dan dihalangi). Memberikan 75% damage ke creep.<font color=\"a6aafb\">Bennett</font> Basic Attack - Area Bombing: Membombardir suatu area, memberikan <font color=\"fba51f\"> (+230% Total Physical Attack)</font> -<font color=\"fba51f\"> (+300% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 40% slow ke semua lawan dalam jangkauan selama 0.5 detik. Memberikan 75% damage ke creep.<font color=\"a6aafb\">Wesker</font> Basic Attack - Proximity Advantage: Menembakkan 5 peluru ke target, masing-masing memberikan <font color=\"fba51f\"> (+178% Total Physical Attack)</font> -<font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (mewarisi sebagian Efek Basic Attack). Damage yang mengenai target beberapa kali akan berkurang menjadi 25%. Memberikan 75% damage ke creep.<font color=\"a6aafb\">Nibiru</font> Basic Attack - Rapid Fire: Menembakkan 4 peluru ke target, setiap peluru memberikan <font color=\"fba51f\"> (+51% Total Physical Attack)</font> -<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (mewarisi sebagian Efek Basic Attack). Memberikan 75% damage ke creep.\nBeatrix tidak bisa memberikan Damage Critical, dan mengonversi setiap 1% Critical Chance yang didapatkan menjadi 2 Physical Attack.\nBeatrix mendapatkan Spell Vamp sebesar <%Num17> dari Lifesteal-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a9d8911fcabb7aa02f885dac6cb376dc.png",
+                      "skillid": 10580,
+                      "skillname": "Mechanical Genius",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Beatrix bisa membawa 2 senjata sekaligus, meningkatkan <font color=\"fba51f\">Physical Attack</font>-nya sebesar 5.\n<font color=\"a6aafb\">Aktif</font>: Beatrix membutuhkan 0.5 detik untuk mengganti senjata utamanya dengan senjata kedua, mendapatkan Basic Attack dan Ultimate baru.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                      "skillid": 2010510,
+                      "skillname": "Masterful Gunner",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Beatrix berguling ke depan sambil mengisi ulang senjatanya saat ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                      "skillid": 2010520,
+                      "skillname": "Tactical Reposition",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Beatrix membidik lawan dengan <font color=\"a6aafb\">Renner</font>. Saat menggunakan Skill ini, dia memberikan 700<font color=\"fba51f\"> (+280% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan pertama yang terkena.\n\nBeatrix dapat membidik selama 8 detik, dan dia dapat membatalkannya lebih awal untuk mengurangi 50% Cooldown.\n\nTembakan ini dapat menembus Minion dan hanya memberikan 75% Damage ke unit Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e6d76b308e486186c5e68846cdf4782.png",
+                      "skillid": 2010530,
+                      "skillname": "Renner's Apathy",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah melarikan diri dari pertarungan selama 3 detik, Beatrix dapat memanggil pelayannya, Morgan, untuk menyediakan persediaan senjata.\nBeatrix harus memilih dua senjata dari persediaan tersebut sebagai senjata utama dan senjata keduanya.\nPemilihan senjata akan terhenti jika dia melakukan aksi apa pun atau terkena Crowd Control selama periode ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10504a1a930e1e7c7de2f4f80dfdb0bd.png",
+                      "skillid": 2010580,
+                      "skillname": "Need Backup",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1051"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Bakat Beatrix dalam bidang mekanika membuatnya bisa menciptakan 4 senjata kuat.\n\n<font color=\"a6aafb\">Bennett</font> Basic Attack - Area Bombing: Membombardir area, memberikan <font color=\"fba51f\"> (+230% Total Physical Attack)</font> -<font color=\"fba51f\"> (+300% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke semua lawan dalam jangkauan dan menyebabkan 40% slow selama 0.5 detik (75% damage terhadap creep).\n\nBeatrix tidak bisa memberikan damage critical. Dia mengonversikan setiap 1% Critical Chance menjadi 2 Physical Attack.\nDia mendapatkan Spell Vamp sebesar 100% dari Lifesteal-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a7e0cc6769d764c3b40a02247f0f7c3.png",
+                      "skillid": 2010500,
+                      "skillname": "Mechanical Genius",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Beatrix bisa membawa 2 senjata sekaligus, meningkatkan <font color=\"fba51f\">Physical Attack</font>-nya sebesar 5.\n<font color=\"a6aafb\">Aktif</font>: Beatrix membutuhkan 0.5 detik untuk mengganti senjata utamanya dengan senjata kedua, mendapatkan Basic Attack dan Ultimate baru.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                      "skillid": 2010510,
+                      "skillname": "Masterful Gunner",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Beatrix melompat dengan gesit ke depan, dan mengisi peluru senjata saat ini hingga penuh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                      "skillid": 2010521,
+                      "skillname": "Tactical Reposition",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "Beatrix memusatkan amarahnya dan menggunakan <font color=\"a6aafb\">Bennett</font> untuk mengebom area target sebanyak 5 kali. Setiap bom menyebabkan 40% Slow ke lawan dan memberikan 580<font color=\"fba51f\"> (+225% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (Damage yang berhasil mengenai lawan yang sama berturut-turut akan berkurang menjadi 20%), berlangsung selama 1 detik.\n\nSkill ini hanya memberikan 75% Damage ke unit Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0cafa22d656d6a2c14cf5259d91762fa.png",
+                      "skillid": 2010550,
+                      "skillname": "Bennett's Rage",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah melarikan diri dari pertarungan selama 3 detik, Beatrix dapat memanggil pelayannya, Morgan, untuk menyediakan persediaan senjata.\nBeatrix harus memilih dua senjata dari persediaan tersebut sebagai senjata utama dan senjata keduanya.\nPemilihan senjata akan terhenti jika dia melakukan aksi apa pun atau terkena Crowd Control selama periode ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10504a1a930e1e7c7de2f4f80dfdb0bd.png",
+                      "skillid": 2010580,
+                      "skillname": "Need Backup",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1052"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Bakat Beatrix dalam bidang mekanika membuatnya bisa menciptakan 4 senjata kuat.\n\n<font color=\"a6aafb\">Wesker</font> Basic Attack - Proximity Advantage: Menembakkan 5 peluru ke target, masing-masing memberikan <font color=\"fba51f\"> (+178% Total Physical Attack)</font> -<font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (75% damage terhadap creep) dan mewarisi sebagian dari Efek Basic Attack. Damage terhadap target yang terkena beberapa peluru akan berkurang menjadi 25%.\n\nBeatrix tidak bisa memberikan damage critical. Dia mengonversikan setiap 1% Critical Chance menjadi 2 Physical Attack.\nDia mendapatkan Spell Vamp sebesar 100% dari Lifesteal-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a679bfbc5660f8d0a99c60c30a8a8b97.png",
+                      "skillid": 2010501,
+                      "skillname": "Mechanical Genius",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Beatrix bisa membawa 2 senjata sekaligus, meningkatkan <font color=\"fba51f\">Physical Attack</font>-nya sebesar 5.\n<font color=\"a6aafb\">Aktif</font>: Beatrix membutuhkan 0.5 detik untuk mengganti senjata utamanya dengan senjata kedua, mendapatkan Basic Attack dan Ultimate baru.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                      "skillid": 2010510,
+                      "skillname": "Masterful Gunner",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Beatrix berguling menyamping ke depan, dan mengisi peluru senjata saat ini hingga penuh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                      "skillid": 2010522,
+                      "skillname": "Tactical Reposition",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 20",
+                      "skilldesc": "Beatrix mengangkat <font color=\"a6aafb\">Wesker</font> dan menembakkan peluru yang memberikan 350<font color=\"fba51f\"> (+155% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> setiap kali mengenai lawan (Damage yang berhasil mengenai lawan yang sama berturut-turut akan berkurang menjadi 25%).\n\nSkill ini hanya memberikan 75% Damage ke unit Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_884ac3de4fc2cdbe0dc506e62b9bb4f0.png",
+                      "skillid": 2010560,
+                      "skillname": "Wesker's Elation",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah melarikan diri dari pertarungan selama 3 detik, Beatrix dapat memanggil pelayannya, Morgan, untuk menyediakan persediaan senjata.\nBeatrix harus memilih dua senjata dari persediaan tersebut sebagai senjata utama dan senjata keduanya.\nPemilihan senjata akan terhenti jika dia melakukan aksi apa pun atau terkena Crowd Control selama periode ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10504a1a930e1e7c7de2f4f80dfdb0bd.png",
+                      "skillid": 2010580,
+                      "skillname": "Need Backup",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1053"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Bakat Beatrix dalam bidang mekanika membuatnya bisa menciptakan 4 senjata kuat.\n\n<font color=\"a6aafb\">Nibiru</font> Basic Attack - Rapid Fire: Mengeluarkan 4 tembakan beruntun ke target, masing-masing memberikan <font color=\"fba51f\"> (+51% Total Physical Attack)</font> -<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (75% damage terhadap creep) dan mewarisi sebagian dari Efek Basic Attack.\n\nBeatrix tidak bisa memberikan damage critical. Dia mengonversikan setiap 1% Critical Chance menjadi 2 Physical Attack.\nDia mendapatkan Spell Vamp sebesar 100% dari Lifesteal-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7d8fd33d2b89799aa46629090802b70.png",
+                      "skillid": 2010502,
+                      "skillname": "Mechanical Genius",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Beatrix bisa membawa 2 senjata sekaligus, meningkatkan <font color=\"fba51f\">Physical Attack</font>-nya sebesar 5.\n<font color=\"a6aafb\">Aktif</font>: Beatrix membutuhkan 0.5 detik untuk mengganti senjata utamanya dengan senjata kedua, mendapatkan Basic Attack dan Ultimate baru.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                      "skillid": 2010510,
+                      "skillname": "Masterful Gunner",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Beatrix meluncur ke depan, dan mengisi peluru senjata saat ini hingga penuh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                      "skillid": 2010523,
+                      "skillname": "Tactical Reposition",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "Beatrix melepaskan 10 tembakan peluru menggunakan  <font color=\"a6aafb\">Nibiru</font>, setiap tembakan peluru memberikan 130<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nSkill ini hanya memberikan 75% Damage ke unit Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3b4d741305b9662e5295a0425b2a1a7.png",
+                      "skillid": 2010570,
+                      "skillname": "Nibiru's Passion",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah melarikan diri dari pertarungan selama 3 detik, Beatrix dapat memanggil pelayannya, Morgan, untuk menyediakan persediaan senjata.\nBeatrix harus memilih dua senjata dari persediaan tersebut sebagai senjata utama dan senjata keduanya.\nPemilihan senjata akan terhenti jika dia melakukan aksi apa pun atau terkena Crowd Control selama periode ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10504a1a930e1e7c7de2f4f80dfdb0bd.png",
+                      "skillid": 2010580,
+                      "skillname": "Need Backup",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1054"
+                }
+              ],
+              "heroskin": null,
+              "name": "Beatrix",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_564a14b35d0f172bdd7b3d04b33a1d68.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c1acd7cbd828f0c5d291e48a0f7c018d.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ae0e1386765b20b92fce0757fda6083.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2f25a8ef9bbb2d52eaaea8d6eee85d22.jpg",
+              "story": "Seorang gadis penemu yang percaya diri.",
+              "tale": ""
+            },
+            "id": 100615,
+            "sourceId": 2756563
+          },
+          "hero_id": 105,
+          "relation": {
+            "assist": {
+              "desc": "Beatrix cocok dengan Hero Tank dengan kemampuan Crowd Control yang baik, karena mereka dapat membantu meningkatkan akurasi Skill Beatrix. Seperti Khufra dan Atlas.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                78,
+                93,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Beatrix kuat menghadapi Hero tanpa kemampuan pergerakan, karena mereka dapat dengan mudah terkena Skill-nya, seperti Hylos dan Belerick",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                49,
+                70,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Beatrix di-Counter oleh Hero Damage Burst tinggi dengan Crowd Control target tunggal yang kuat, karena mereka dapat menangkapnya dengan Crowd Control dan mengeliminasinya. Seperti Eudora dan Ling.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                15,
+                84,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Beatrix"
+        },
+        "dynamic": null,
+        "id": 2678841,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

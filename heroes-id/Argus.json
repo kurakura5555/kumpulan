@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfaf",
+        "caption": "045阿格斯",
+        "configId": 144237,
+        "createdAt": 1710416511608,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/0b5293fd74807e7df7639eeba4126d52.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501242",
+            "_updatedAt": 1765974302788,
+            "data": {
+              "abilityshow": [
+                "70",
+                "50",
+                "50",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+              "heroid": 45,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Ketika Meteoric Sword Argus mencapai 100 <font color=\"a6aafb\">Malice Energy</font>, dia akan mengeluarkan <font color=\"a6aafb\">Demonic Slash</font> dengan Basic Attack berikutnya, memberikan 180<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan memulihkan 150<font color=\"fba51f\"> (+10% Total Physical Attack)</font> HP. Serangan ini mengabaikan 40% Physical Defense target.\nMeteoric Sword Argus mendapatkan 5 <font color=\"a6aafb\">Malice Energy</font> setiap detik dan 10 Energy setiap Basic Attack (damage critical memberikan 10 Energy tambahan).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f8a28cd195d4ec474f361daee0d0de6c.png",
+                      "skillid": 4540,
+                      "skillname": "Warmonger",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "Argus mengeluarkan tangan iblis ke arah target, memberikan 125<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke hero lawan atau creep pertama yang terkena, menyebabkan stun ke mereka selama 0.7 detik, dan menarik dirinya dan target saling mendekat. Jika tidak ada lawan yang terkena, Argus menarik dirinya ke arah tangan tersebut.\n<font color=\"a6aafb\">Gunakan Kembali</font>: Argus melangkah dan menyerang ke arah target, memberikan 175<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sepanjang jalur.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+                      "skillid": 4510,
+                      "skillname": "Demonic Grip",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Setelah jeda singkat, Argus menusukkan Meteoric Sword ke arah target, memberikan 120<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena (200% damage terhadap minion) dan mengurangi 80% Movement Speed mereka selama 0.8 detik. Waktu jeda berkurang seiring meningkatnya Attack Speed Argus. Hero lawan yang terserang akan terkena <font color=\"a6aafb\">Cursed</font> selama 4 detik, dan meninggalkan Cursed Trail saat bergerak. Argus mendapatkan 20% Movement Speed saat berada di Cursed Trail.\n<font color=\"a6aafb\">Meteoric Sword</font> dianggap sebagai damage Basic Attack dan bisa mengaktifkan Efek Basic Attack. Saat serangan mengenai hero, akan memulihkan 100 <font color=\"a6aafb\">Malice Energy</font> (kelebihan energy akan disimpan).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79110528884ec6365c2e9395dc1bc11b.png",
+                      "skillid": 4520,
+                      "skillname": "Meteoric Sword",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60",
+                      "skilldesc": "Argus menghapus semua debuff pada dirinya, memberikan 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fba51f\">Physical Damage</font> ke lawan di sekitar dan menjadi <font color=\"a6aafb\">Fallen Angel</font> selama 4 detik (menyerang hero memperkuat <font color=\"a6aafb\">Warmonger</font>). <font color=\"a6aafb\">Fallen Angel</font>: Mendapatkan 40% Movement Speed yang berkurang dalam 1 detik; saat transformasi berakhir, mengubah semua damage yang dia berikan dalam mode Fallen Angel menjadi HP. Jika dia menerima damage mematikan dalam mode Fallen Angel, durasi peningkatan Movement Speed akan direset, dan menjadi <font color=\"a6aafb\">Kebal Eliminasi</font> selama 4 detik. <font color=\"a6aafb\">Warmonger yang Diperkuat</font>: <font color=\"a6aafb\">Demonic Slash</font> memberikan 50 Malice Energy (50 Malice Energy tambahan dengan serangan critical).\nJika <font color=\"a6aafb\">Kebal Eliminasi</font> tidak diaktifkan, cooldown akan berkurang 50%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_41fe2a5e02169da266ce942372ad1e91.png",
+                      "skillid": 4530,
+                      "skillname": "Eternal Evil",
+                      "skilltag": [
+                        {
+                          "tagid": 43,
+                          "tagname": "Kebal Eliminasi",
+                          "tagrgb": "177,157,96"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "451"
+                }
+              ],
+              "heroskin": null,
+              "name": "Argus",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e6c706529acaf3f6c703405673af945b.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee4f9ddb2f82ef0dfc99bb72e0a8f557.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Charge",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6cbdd961024b54a89c8496d1c0920017.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
+              "story": "Malaikat yang jatuh dari cahaya ke dalam kegelapan.",
+              "tale": ""
+            },
+            "id": 100546,
+            "sourceId": 2756563
+          },
+          "hero_id": 45,
+          "relation": {
+            "assist": {
+              "desc": "Argus cocok dengan Support yang memberikan Buff seperti Angela dan Rafaela yang dapat memberikan Movement Speed dan Crowd Control tambahan untuk membantu Argus mendekati targetnya dan memberikan Damage maksimal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                14,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Argus meng-Counter Hero dengan mobilitas rendah yang tidak dapat kabur dari serangannya saat dia mendekati mereka, seperti Gord dan Aurora.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                23,
+                36,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Argus di-Counter oleh Tank dengan Physical Defense tinggi, seperti Gatotkaca dan Tigreal, karena sebagian besar Damage-nya berasal dari Basic Attack.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                41,
+                6,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678781,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

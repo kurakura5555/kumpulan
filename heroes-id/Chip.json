@@ -1,0 +1,308 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "6616a2b417071f48448a44f1",
+        "caption": "124薯片",
+        "configId": 144237,
+        "createdAt": 1712759476951,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/da414e182f118de13f1dedd94f483838.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50128a",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "80",
+                "20",
+                "60",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
+              "heroid": 124,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Chip memakan keripik kentang setiap 2 detik saat keluar dari pertarungan, memulihkan HP setara dengan 300 + 45% HP yang hilang setelah menghabiskan satu kantong penuh (membutuhkan 4 gigitan). Setelah memakan sekantong keripik, Chip akan kenyang dan tidak dapat makan lagi selama 5 detik. (Jumlah gigitan akan tertahan jika masuk ke pertarungan sebelum menghabiskan satu kantong penuh).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87767306b09462d012792603a99a862c.png",
+                      "skillid": 12440,
+                      "skillname": "Snack Time!",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5.5   Mana Cost: 40",
+                      "skilldesc": "Chip menghantamkan kapal terbangnya ke tanah, memberikan <font color=\"7f62fe\">Magic Damage</font> sebesar 100 + 4% Max HP target dan menerapkan <font color=\"a6aafb\">Chip's Mark</font> ke unit lawan yang terkena. Chip mendapatkan 300<font color=\"62f8fe\"> (+60% Total Magic Power)</font> Shield saat mengenai hero lawan, yang meningkat 40% untuk setiap hero lawan tambahan yang terkena. Basic Attack Chip berikutnya menjadi serangan jarak jauh dan mengenai semua lawan di sekitar yang memiliki <font color=\"a6aafb\">Chip's Mark</font>. Serangan ini akan meledakkan mark tersebut untuk memberikan 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan stun ke setiap target selama 0.6 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c987058022e063daaea8fc776031d91b.png",
+                      "skillid": 12410,
+                      "skillname": "Crash Course",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 13   Mana Cost: 75",
+                      "skilldesc": "Chip melesat selama 2 detik, memperoleh hingga 65% Movement Speed tambahan, lalu mempertahankan kecepatan maksimal selama 2 detik.\n\nBasic Attack Chip berikutnya akan menyerang lawan, memberikan 200<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Knockback.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d13538864552a2e6091a969c80c08b5d.png",
+                      "skillid": 12420,
+                      "skillname": "Overtime",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 70   Mana Cost: 110",
+                      "skilldesc": "Chip meletakkan <font color=\"a6aafb\">Portal Utama</font> pada hero lawan, memberikan 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 25% slow singkat ke mereka. Portal Utama memberikan 2 kali damage dan menyebabkan immobilize selama 1 detik setelah jeda singkat. Sementara itu, Chip menciptakan <font color=\"a6aafb\">Portal Penghubung</font> di dekat hero rekan sejauh 10 unit dan di belakang Base satu tim. <font color=\"a6aafb\">Portal Utama</font> dan <font color=\"a6aafb\">Portal Penghubung</font> bertahan hingga 15 detik.\n<font color=\"a6aafb\">Portal Penghubung</font>: Hero (di kedua tim) bisa berteleportasi dari <font color=\"a6aafb\">Portal Penghubung</font> ke <font color=\"a6aafb\">Portal Utama</font>, dan hero rekan mendapatkan Peningkatan Movement Speed selama 1.5 detik serta 500 shield.\n<font color=\"a6aafb\">Portal Utama</font>: Portal Utama mewarisi 70% atribut Chip. Hero bisa berdiri di <font color=\"a6aafb\">Portal Utama</font> dan menunggu selama 2 detik untuk kembali ke <font color=\"a6aafb\">Portal Penghubung</font> asalnya. Menggunakan skill atau Basic Attack akan mereset durasi menunggu.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac68239747eb8bf2f056394e35d8712.png",
+                      "skillid": 12430,
+                      "skillname": "Shortcut",
+                      "skilltag": [
+                        {
+                          "tagid": 82,
+                          "tagname": "Teleport",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Chip punya 4 <font color=\"a6aafb\">Suar</font> dengan lokasi tetap di map saat pertarungan dimulai. Gunakan skill ini untuk berteleportasi ke <font color=\"a6aafb\">Suar</font> lainnya. (Skill ini tidak bisa digunakan saat dalam pertarungan).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_33723975930c8cfa06f2dcdab4964fb7.png",
+                      "skillid": 12485,
+                      "skillname": "Why Walk?",
+                      "skilltag": [
+                        {
+                          "tagid": 82,
+                          "tagname": "Teleport",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1241"
+                }
+              ],
+              "heroskin": null,
+              "name": "Chip",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_264d149bf047331fc3eb6d7d886b38d1.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85e15c66733cab7d8d73f7f725f31f1e.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Support",
+                "Tank"
+              ],
+              "speciality": [
+                "Support",
+                "Crowd Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2d61834632c94c00344b2ae0e08354e2.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
+              "story": "Rubah modifikasi genetik periang yang dapat menggunakan teknologi portal canggih.",
+              "tale": ""
+            },
+            "id": 100618,
+            "sourceId": 2756563
+          },
+          "hero_id": 124,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/d57e13a90045a712484d0b2087e506c6.webp",
+          "relation": {
+            "assist": {
+              "desc": "Ultimate Chip memungkinkan timnya untuk berkumpul dari mana saja, sehingga dia dapat bekerja sama dengan Hero yang lambat tetapi unggul di Team Fight, misalnya Alpha, Hanabi, dan Kadita.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                28,
+                60,
+                75
+              ]
+            },
+            "strong": {
+              "desc": "Chip memiliki kemampuan inisiasi dan CC yang kuat, membuatnya menjadi Counter bagus bagi Hero yang kurang lincah atau Hero yang empuk, misalnya Vexana, Layla, dan Ixia.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                38,
+                18,
+                121
+              ]
+            },
+            "weak": {
+              "desc": "Karena lawan juga dapat menggunakan Portal Penghubung Chip, beberapa Hero dengan kemampuan Team Fight yang kuat, seperti Barats dan Tigreal, dapat menggunakannya untuk keuntungan mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                99,
+                6
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Chip"
+        },
+        "dynamic": null,
+        "id": 2692209,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1754907674739,
+        "updatedUser": "peelzzhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}
