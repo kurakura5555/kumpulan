@@ -1,0 +1,295 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfd3",
+        "caption": "054大铁罐",
+        "configId": 144237,
+        "createdAt": 1710416511747,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_dc3372a1768c8b9f142564de21f13daf.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501243",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "60",
+                "30",
+                "60",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
+              "heroid": 54,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Jawhead memberikan damage ke hero lawan atau Creep, dia menerapkan 1 stack Mecha Suppression pada mereka selama 3 detik (hingga 6 stack). Setiap stack Mecha Suppression meningkatkan semua damage yang diberikan ke target sebesar 2% (dibatasi hingga 50% untuk Creep).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_be1d9f5cde5273770efe9549f6d374e0.png",
+                      "skillid": 5440,
+                      "skillname": "Mecha Suppression",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 60",
+                      "skilldesc": "Jawhead menembakkan hingga 12 misil ke lawan di sekitar secara acak selama 5 detik, setiap misil memberikan 135<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e71b01ad4b25441dc2874018c16771.png",
+                      "skillid": 5410,
+                      "skillname": "Smart Missiles",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 80",
+                      "skilldesc": "Jawhead memperoleh 30% Movement Speed dan 500<font color=\"fba51f\"> (+100% Total Physical Attack)</font> Shield selama 5 detik.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Jawhead melemparkan unit terdekat (memprioritaskan Hero) ke lokasi target, memberikan 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area dan menyebabkan Stun selama 0.5 detik. Dapat digunakan pada rekan tim dan mereka tidak akan menerima Damage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+                      "skillid": 5420,
+                      "skillname": "Ejector",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 35   Mana Cost: 120",
+                      "skilldesc": "Jawhead menuju ke arah Hero lawan, memberikan 350<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan Stun. Menyebabkan Knockback ke lawan di sekitar target dan memberikan jumlah Damage yang sama. Jawhead kebal Crowd Control saat menggunakan Skill tersebut.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b206f68d351dbf04a3e211903b345985.png",
+                      "skillid": 5430,
+                      "skillname": "Unstoppable Force",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "541"
+                }
+              ],
+              "heroskin": null,
+              "name": "Jawhead",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6761b204394f78d20d60c8bd707a28b2.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_4448132d3f9d89dc706883d148e50884.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Charge",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb3df6d1b46ff9329745dab3bc2cd45b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
+              "story": "Robot cerdas yang melindungi Ailee kecil.",
+              "tale": ""
+            },
+            "id": 100547,
+            "sourceId": 2756563
+          },
+          "hero_id": 54,
+          "relation": {
+            "assist": {
+              "desc": "Jawhead cocok dengan Hero yang diuntungkan dari inisiasi cepat misalnya Odette dan Belerick karena dia dapat melempar mereka ke arah lawan untuk serangan kejutan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                46,
+                70,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Jawhead meng-Counter Hero berdurabilitas rendah tanpa Skill bertahan yang mudah tereliminasi setelah terkena Ultimate, misalnya Saber dan Eudora.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                3,
+                15,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Jawhead di-Counter oleh Hero ber-Damage berkelanjutan tinggi atau daya tahan tinggi, misalnya Edith dan Thamuz, karena mereka dapat bertahan dari Damage Burst Jawhead dan mengalahkannya di pertarungan panjang.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                111,
+                72,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678790,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

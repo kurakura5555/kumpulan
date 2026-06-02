@@ -1,0 +1,296 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfc3",
+        "caption": "050扎斯克",
+        "configId": 144237,
+        "createdAt": 1710416511688,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_1103416827aeecda2c9c8852d83f07af.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50123f",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "10",
+                "100",
+                "40",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
+              "heroid": 50,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Saat tereliminasi, Zhask memanggil <font color=\"a6aafb\">Nightmaric Spawn</font> di lokasi, yang kehilangan HP secara terus-menerus hingga tereliminasi.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c917fad570226db1fe802ef590ce37dc.png",
+                      "skillid": 5050,
+                      "skillname": "Decimation",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 13   Mana Cost: 60",
+                      "skilldesc": "Zhask memanggil <font color=\"a6aafb\">Nightmaric Spawn</font> yang mewarisi 55% dari Atributnya (HP, Hybrid Defense, dan Magic Power). Nightmaric Spawn secara otomatis menyerang lawan di sekitar dengan menembakkan <font color=\"a6aafb\">Death Ray</font>, memberikan 55 (+<font color=\"26e407\">20% Attack Speed tambahan</font>) (+<font color=\"62f8fe\">20% Magic Power</font>) <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan slow hingga 30%. Nightmaric Spawn akan menghilang jika Zhask berada terlalu jauh.\n<font color=\"a6aafb\">Death Ray</font> dianggap sebagai Basic Attack, tetapi tidak bisa memberikan Damage Critical.\n\n<font color=\"a6aafb\">Mode Gabungan</font>: Damage dari <font color=\"a6aafb\">Nightmaric Spawn</font> meningkat menjadi 180%, dan posisinya bisa diatur ulang.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+                      "skillid": 5010,
+                      "skillname": "Nightmaric Spawn",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 50",
+                      "skilldesc": "Zhask menembakkan sinar laser yang menembus ke arah target, memberikan 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Setelah itu, <font color=\"a6aafb\">Nightmaric Spawn</font> menyerang lawan yang terkena <font color=\"a6aafb\">Mind Eater</font>, memberikan 120<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan stun selama 0.5 detik.\n\n<font color=\"a6aafb\">Mode Gabungan</font>: Damage <font color=\"a6aafb\">Mind Eater</font> meningkat menjadi 540<font color=\"62f8fe\"> (+180% Total Magic Power)</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4738fbff79c44b4aa3bd2bd943840032.png",
+                      "skillid": 5020,
+                      "skillname": "Mind Eater",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 60",
+                      "skilldesc": "Zhask mengeluarkan sekumpulan <font color=\"a6aafb\">Hive Clones</font> ke arah target. Clone tersebut meledak saat mengenai lawan, memberikan 55<font color=\"62f8fe\"> (+18% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan mengurangi 80% Movement Speed selama 1 detik.\nJika tidak mengenai target, <font color=\"a6aafb\">Hive Clones</font> akan bersembunyi ke dalam tanah untuk menyergap lawan yang melintas.\n\n<font color=\"a6aafb\">Mode Gabungan</font>: Zhask mengeluarkan beberapa kumpulan <font color=\"a6aafb\">Hive Clones</font>.\nDamage berikutnya ke target yang sama akan berkurang menjadi 20%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47dcb2a530907fafc065d9363e941bae.png",
+                      "skillid": 5030,
+                      "skillname": "Hive Clones",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 48   Mana Cost: 120",
+                      "skilldesc": "Zhask memilih area target untuk memanggil <font color=\"a6aafb\">Nightmaric Spawn</font> yang diperkuat dan bergabung dengannya. <font color=\"a6aafb\">Nightmaric Spawn</font> bisa mewarisi 100% atributnya dan mendapatkan atribut tambahan. Skill-nya diperkuat selama mode gabungan.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Zhask segera keluar dari <font color=\"a6aafb\">Nightmaric Spawn</font> dan kehilangan efek peningkatan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3174faca2ab0b0d6c0dd9d1af22f47df.png",
+                      "skillid": 5040,
+                      "skillname": "Dominator's Descent",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "501"
+                }
+              ],
+              "heroskin": null,
+              "name": "Zhask",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d023ab101f269f45930140b8317a23d0.png",
+              "recommendlevel": [
+                "4",
+                "1",
+                "2",
+                "3"
+              ],
+              "recommendlevellabel": "4-1-2-3",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e69b480400b37dd75614f0c8d033c37.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9f6679fb8953d89ea1b53f6ad7ec4ba.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
+              "story": "Raja Swarm yang mengganggu keseimbangan alam semesta.",
+              "tale": ""
+            },
+            "id": 100543,
+            "sourceId": 2756563
+          },
+          "hero_id": 50,
+          "relation": {
+            "assist": {
+              "desc": "Zhask cocok dengan Hero yang dapat mengunci lawan sehingga dia dapat memilki lebih banyak waktu untuk memberikan Damage, misalnya Belerick dan Lolita.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                70,
+                20,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Zhask menjadi Counter Hero Damage Burst misalnya Aldous dan Paquito karena HP yang tinggi setelah menyatu dengan Nightmaric Spawn-nya, membuatnya sulit untuk dikalahkan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                64,
+                103,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Zhask di-Counter oleh Hero yang lincah atau jarak jauh, misalnya Pharsa dan Cecillion, karena mereka dapat dengan cepat keluar dari jangkauan Nightmaric Spawn-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                52,
+                91,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Zhask"
+        },
+        "dynamic": null,
+        "id": 2678786,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}

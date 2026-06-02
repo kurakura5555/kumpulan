@@ -1,0 +1,290 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27efd1bb8e47d25df49",
+        "caption": "020洛丽塔",
+        "configId": 144237,
+        "createdAt": 1710416511023,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/ce1c7af1a946f70585e40296ba85c9c0.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1bc4973e512cf4958fe639e12391666e.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501225",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "100",
+                "10",
+                "90",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+              "heroid": 20,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap 3 detik hingga 6 detik (berskala dengan level <font color=\"a6aafb\">Noumenon Blast</font>), Noumenon Energy Core memberikan 20<font color=\"26e407\"> (+2.5% Total HP)</font> <font color=\"62f8fe\">(+20% Total Magic Power)</font> shield untuk Lolita. Ketika Lolita menggunakan skill, Noumenon Energy Core juga memberikan shield tambahan ke Lolita dan hero rekan di sekitar. Shield ini bisa di-stack hingga 3 kali dan bertahan selama 30 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8c26e0d0018fb46934ec1e079ddbe695.png",
+                      "skillid": 2040,
+                      "skillname": "Noumenon Energy Core",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 70",
+                      "skilldesc": "Lolita bergerak ke arah target. Basic Attack berikutnya dalam 4 detik akan membuatnya melompat pendek ke arah target, memberikan 400<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan Stun selama 0.5 detik. Damage terhadap Minion digandakan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1554a16e239a56ab24a59ed06542a07.png",
+                      "skillid": 2010,
+                      "skillname": "Power Charge",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 90",
+                      "skilldesc": "Lolita mengangkat perisainya dan memantulkan semua Basic Attack jarak jauh dan <font color=\"a6aafb\">Proyektil</font> yang datang ke arah perisai selama 3 detik. Perisai akan hancur setelah menerima 1000<font color=\"26e407\"> (+15% Total HP)</font> damage.\n\nDamage dan efek Pasif Unik dari equipment penyerang tidak akan berlaku ke perisai dan tidak akan dipantulkan. Skill ini bisa dibatalkan oleh efek crowd control tingkat tinggi.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c667899aa7f531fa5b199327be638d54.png",
+                      "skillid": 2020,
+                      "skillname": "Guardian's Reflection",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55   Mana Cost: 100",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Mengurangi jeda <font color=\"a6aafb\">Noumenon Energy Core</font> sebanyak 1 detik setiap kali skill ini ditingkatkan.\n\n<font color=\"a6aafb\">Aktif</font>: Lolita mulai mengumpulkan kekuatan selama 2 detik dan menyebabkan 60% slow di area. Saat mengumpulkan kekuatan selesai atau terhenti, Lolita menghantamkan palunya ke tanah, memberikan hingga 600<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area dan menyebabkan stun selama 2 detik (durasi damage dan stun berskala dengan waktu pengumpulan kekuatan). \n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Lolita berhenti mengumpulkan kekuatan dan menghantamkan palunya ke tanah.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_139bfe9c5e5ab063c0988222a5a3c456.png",
+                      "skillid": 2030,
+                      "skillname": "Noumenon Blast",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "201"
+                }
+              ],
+              "heroskin": null,
+              "name": "Lolita",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c58952634f940136c125ba17aad8376e.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55de18c865efe8e360b3b9ae463d76a2.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Support",
+                "Tank"
+              ],
+              "speciality": [
+                "Guard",
+                "Crowd Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c5c2d90810a4130242ae2aa5b5eb6257.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1bc4973e512cf4958fe639e12391666e.jpg",
+              "story": "Anggota Eruditio Ranger dan pelindung bengkel Leviathan.",
+              "tale": ""
+            },
+            "id": 100517,
+            "sourceId": 2756563
+          },
+          "hero_id": 20,
+          "relation": {
+            "assist": {
+              "desc": "Due to her powerful defensive and CC abilities, Lolita is great at protecting Marksmen like Hanabi and Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                60,
+                18
+              ]
+            },
+            "strong": {
+              "desc": "Shield Lolita membuatnya kuat melawan Hero yang mengandalkan proyektil dan Skill jarak jauh, misalnya Kimmy dan Cyclops.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                71,
+                33
+              ]
+            },
+            "weak": {
+              "desc": "Lolita di-Counter oleh Hero jarak dekat dengan Damage Burst tinggi misalnya Ling dan Paquito.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                84,
+                103
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Lolita"
+        },
+        "dynamic": null,
+        "id": 2678756,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

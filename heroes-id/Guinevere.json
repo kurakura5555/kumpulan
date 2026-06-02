@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e03b",
+        "caption": "080桂妮薇儿",
+        "configId": 144237,
+        "createdAt": 1710416512122,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_fa3eb7ce3b07a4939cc2fc0720256928.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501261",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "40",
+                "50",
+                "70",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+              "heroid": 80,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Guinevere memberikan 25% Damage tambahan ke lawan yang terkena Airborne dan memberikan <font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dengan Basic Attack-nya.\nGuinevere membentuk Super Magic setiap kali dia memberikan Damage. Saat terisi penuh, Basic Attack selanjutnya akan mengejar lawan, memberikan 80<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> saat terkena dan memulihkan <font color=\"26e407\">80 + 8% dari HP-nya yang hilang</font>.\nLawan yang terkena Skill atau Basic Attack diperkuat Guinevere akan menerima Mark selama 5 detik. Lawan dengan 3 Mark akan terkena Airborne saat terkena Violet Requiem-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb87aa7f520dc67fcde6852598c241ca.png",
+                      "skillid": 8040,
+                      "skillname": "Super Magic",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4",
+                      "skilldesc": "Guinevere mengeluarkan bola energi ke arah target, memberikan 300<font color=\"62f8fe\"> (+125% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 25% Slow ke lawan selama 1.2 detik.\nMengenai lawan akan mengurangi Cooldown dari semua Skill sebanyak 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_193275791eb7f707158fc5e277a29016.png",
+                      "skillid": 8010,
+                      "skillname": "Energy Wave",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 17",
+                      "skilldesc": "Guinevere melompat ke lokasi target, memberikan 250<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Menyebabkan airborne selama 1 detik ke hero lawan dan Creep yang terkena dan menerima 125<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan.\n<font color=\"a6aafb\">Gunakan Kembali</font>: Guinevere berpindah ke arah target dan meninggalkan bayangannya. Jika bayangannya menerima damage dari hero, memulihkan Super Magic dan meledak setelah 1.5 detik, memberikan 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5cd1df58957fa20b29e9c77d5b2067a9.png",
+                      "skillid": 8020,
+                      "skillname": "Spatial Migration",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 52",
+                      "skilldesc": "Guinevere menciptakan sebuah medan di sekelilingnya, menjadi kebal Crowd Control saat menyerang lawan di sekitar 11 kali selama 2 detik, memberikan total 880<font color=\"62f8fe\"> (+385% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nLawan yang terkena Airborne akan terkena Airborne lagi, hingga 8 kali.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ad5e6561bec9562a72584c18191a76a.png",
+                      "skillid": 8030,
+                      "skillname": "Violet Requiem",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "801"
+                }
+              ],
+              "heroskin": null,
+              "name": "Guinevere",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6ee596036c7b8e25760559ab67ff698.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a34258a6365097da09d9513b620bc14a.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a79d26deb05231749de96de6b5794e61.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
+              "story": "Gadis bangsawan dengan temperamen yang aneh, dicintai oleh kakak laki-lakinya Lancelot.",
+              "tale": ""
+            },
+            "id": 100577,
+            "sourceId": 2756563
+          },
+          "hero_id": 80,
+          "relation": {
+            "assist": {
+              "desc": "Guinevere cocok dengan Hero yang memiliki Crowd Control satu target untuk memudahkannya Farming dan memberikan Damage, contohnya adalah Franco dan Hylos.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                10,
+                49,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Guinevere kuat menghadapi Hero yang lemah di Early Game. Dia dapat mengganggu dengan kombonya kemudian kabur. Contohnya adalah Zilong dan Silvanna.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                16,
+                90,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Guinevere di-Counter oleh Hero yang kebal Crowd Control atau memiliki Skill Crowd Control yang kuat. Karena dia mengandalkan kombo Crowd Control untuk memberikan Damage yang tinggi, contohnya adalah Badang dan Chou.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                77,
+                26,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678816,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

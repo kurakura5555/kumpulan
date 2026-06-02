@@ -1,0 +1,359 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df5d",
+        "caption": "025神乐",
+        "configId": 144237,
+        "createdAt": 1710416511100,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/f4b49a4cef7926adb059933d0158a967.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64bda78279297278301e236555a15404.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50122e",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "90",
+                "40",
+                "80"
+              ],
+              "difficulty": "80",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+              "heroid": 25,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah mengambil <font color=\"a6aafb\">Seimei Umbrella</font>, Kagura memperoleh Shield, menyebabkan Stun kepada lawan di sekitar selama 0.5 detik dan menyebabkan 60% Slow kepada mereka selama 1 detik. Efek ini memiliki Cooldown selama 4.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f022f5769cb87dee7944160a24f03b79.png",
+                      "skillid": 2540,
+                      "skillname": "Yin Yang Gathering ",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 45",
+                      "skilldesc": "Kagura menggerakkan <font color=\"a6aafb\">Seimei Umbrella</font> ke lokasi target, memberikan 365<font color=\"62f8fe\"> (+105% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang dilewatinya dan menyebabkan 60% Slow ke mereka selama 0.5 detik. Payung akan secara otomatis kembali ke Kagura ketika dia terlalu jauh.\nSkill ini memberikan 130% Damage ke lawan Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc6ff81df0961e494e8c5f3e42f582fe.png",
+                      "skillid": 2510,
+                      "skillname": "Seimei Umbrella Open ",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 55",
+                      "skilldesc": "Kagura menghapus semua Debuff pada dirinya dan melompat ke arah yang ditentukan, sambil meninggalkan <font color=\"a6aafb\">Seimei Umbrella</font> di lokasinya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_292caeb01278d75ba3e02457e9ddb603.png",
+                      "skillid": 2520,
+                      "skillname": "Rasho Umbrella Flee",
+                      "skilltag": [
+                        {
+                          "tagid": 64,
+                          "tagname": "Menghapus CC",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 36   Mana Cost: 60",
+                      "skilldesc": "Dengan Seimei Umbrella, Kagura memberikan 250<font color=\"62f8fe\"> (+95% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, menyebabkan Knockback kepada lawan terdekat dan menyebabkan 60% Slow kepada mereka selama 0.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_07f828b02ce64ae8ded3b3ede8893b53.png",
+                      "skillid": 2530,
+                      "skillname": "Yin Yang Overturn",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "251"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah mengambil <font color=\"a6aafb\">Seimei Umbrella</font>, Kagura memperoleh Shield, menyebabkan Stun kepada lawan di sekitar selama 0.5 detik dan menyebabkan 60% Slow kepada mereka selama 1 detik. Efek ini memiliki Cooldown selama 4.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f022f5769cb87dee7944160a24f03b79.png",
+                      "skillid": 2540,
+                      "skillname": "Yin Yang Gathering ",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 45",
+                      "skilldesc": "Kagura menggerakkan <font color=\"a6aafb\">Seimei Umbrella</font> ke lokasi target, memberikan 365<font color=\"62f8fe\"> (+105% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang dilewatinya dan menyebabkan 60% Slow ke mereka selama 0.5 detik. Payung akan secara otomatis kembali ke Kagura ketika dia terlalu jauh.\nSkill ini memberikan 130% Damage ke lawan Non-Hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8df435b74a7fcd429e89dd381e5ea452.png",
+                      "skillid": 2511,
+                      "skillname": "Seimei Umbrella Open ",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 55",
+                      "skilldesc": "Tanpa Seimei Umbrella, Kagura bergerak ke lokasi di mana Seimei Umbrella berada dan mengambilnya kembali, memberikan 300<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan yang berada di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_210c67437a6d0722052086bfcca1e20d.png",
+                      "skillid": 2521,
+                      "skillname": "Rasho Umbrella Flee",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 36   Mana Cost: 60",
+                      "skilldesc": "Kagura mereset cooldown dari <font color=\"a6aafb\">Seimei Umbrella Open</font>, memberikan 235<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar <font color=\"a6aafb\">Seimei Umbrella</font> dan menyebabkan 60% slow. Setelah 1.5 detik, hero lawan di sekitar payung akan ditarik ke tengah dan menerima 480<font color=\"62f8fe\"> (+155% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0329949e3af570f3c65b46f1d12bf637.png",
+                      "skillid": 2531,
+                      "skillname": "Yin Yang Overturn",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "252"
+                }
+              ],
+              "heroskin": null,
+              "name": "Kagura",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_81334e359e0b00a4797ce3c80a49ca73.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_634196d9234babcc3072155d4fefaf0c.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Poke",
+                "Finisher"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1c0c51d1f28332cb1705ef28c49c90a9.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64bda78279297278301e236555a15404.jpg",
+              "story": "Lahir dari kerinduan mendalam yang tersimpan dalam Payung Seimei, dia akhirnya melangkah keluar dari mimpinya, bagai sekuntum bunga yang bersinar, menentang gelapnya malam.",
+              "tale": ""
+            },
+            "id": 100526,
+            "sourceId": 2756563
+          },
+          "hero_id": 25,
+          "relation": {
+            "assist": {
+              "desc": "Kagura cocok bersama Hero Tank dengan Skill Crowd Control untuk memberikan lebih banyak Damage dengan Ultimate, misalnya Atlas dan Tigreal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                93,
+                6
+              ]
+            },
+            "strong": {
+              "desc": "Ultimate Kagura dapat memberikan Damage Burst tinggi, membuatnya kuat menghadapi Hero barisan belakang tanpa Skill pergerakan misalnya Layla dan Eudora.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                18,
+                15
+              ]
+            },
+            "weak": {
+              "desc": "Kagura di-Counter oleh Hero berkemampuan kebal Crowd Control yang dapat kabur dari Skill Crowd Control, misalnya Joy dan Martis.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                118,
+                58
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678761,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

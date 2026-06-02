@@ -1,0 +1,275 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfeb",
+        "caption": "060花火",
+        "configId": 144237,
+        "createdAt": 1710416511839,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/bcf943a06ac3bc606f88d8575d9a7c61.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/0208ca2382d8cfdcd277ef5d532316f7.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501250",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "20",
+                "70",
+                "80",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+              "heroid": 60,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Basic Attack dan skill Hanabi akan mengeluarkan Petal Blade setelah mengenai target, memberikan 30% damage, dan memantul hingga 4 kali ke lawan di sekitar. Pantulan dari Basic Attack Hanabi mewarisi Efek Basic Attack-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_062555a0aac422ba461293262f8092e0.png",
+                      "skillid": 6040,
+                      "skillname": "Ninjutsu: Petal Barrage",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 75",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Setiap kali Hanabi memiliki shield dari sumber mana pun, dia menjadi kebal terhadap efek crowd control.\n<font color=\"a6aafb\">Aktif</font>: Hanabi mendapatkan 300<font color=\"fba51f\"> (+40% Total Physical Attack)</font> shield selama 5 detik. Saat shield aktif, dia mendapatkan 20% Movement Speed dan 25% Attack Speed, dan 20% dari damage yang dia berikan ke hero lawan akan ditambahkan ke shield ini (hanya 10% dari damage yang diberikan ke unit non-hero yang akan ditambahkan). Shield ini tidak bisa melebihi 50% dari Max HP-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6a2d89d1131e3a9a8f7df3b3fc9503c2.png",
+                      "skillid": 6010,
+                      "skillname": "Ninjutsu: Equinox",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 50",
+                      "skilldesc": "Hanabi melemparkan Energy Kunai ke arah yang ditentukan, memberikan 350<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di jalurnya dan mengurangi Movement Speed mereka sebesar 60% selama 1 detik. Lawan yang terkena Hit akan menerima Mark, membuat Damage Pantulan Basic Attack berikutnya memberikan 30<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada mereka tanpa adanya pengurangan Damage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cf15eea1a094676d6b4dafd87bc2adf.png",
+                      "skillid": 6020,
+                      "skillname": "Ninjutsu: Soul Scroll",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40   Mana Cost: 120",
+                      "skilldesc": "Hanabi melempar Higanbana ke arah target, memberikan 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan Immobilize selama 0.8 detik ke lawan pertama yang terkena. Setelah 1 detik, Higanbana akan mekar, memberikan 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar. Damage dari serangan lanjutan ke target yang sama berkurang hingga 30%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7d52b73b23ce9feabf62c1dd40fce331.png",
+                      "skillid": 6030,
+                      "skillname": "Forbidden Jutsu: Higanbana",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "601"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hanabi",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_aa86eb7d1c6db212d6cfd3921a8dfab2.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85d213390613bbc09220cf1d9f64c5c0.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_85db6d25e366e6b97f1e37a6d5e96ea9.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5566e9ed17e8ea698038b93b74c469fc.jpg",
+              "story": "Pemimpin Scarlet Sect, di Scarlet Shadow Cadia Riverlands.",
+              "tale": ""
+            },
+            "id": 100560,
+            "sourceId": 2756563
+          },
+          "hero_id": 60,
+          "relation": {
+            "assist": {
+              "desc": "Hanabi cocok dengan Hero yang dapat menginisiasi dengan CC, seperti Carmila dan Atlas, sehingga Damage pantulan dan Ultimate Hanabi bisa lebih maksimal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                92,
+                93,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Hanabi meng-Counter Hero yang sangat bergantung pada kemampuan CC, seperti Tigreal dan Belerick, karena Hanabi dapat menggunakan Skill 1 untuk mengabaikan CC.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                6,
+                70,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Hanabi lemah melawan Hero ber-Damage Burst tinggi, seperti Lancelot dan Zilong, karena mereka dapat cepat menghancurkan Shield Hanabi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                47,
+                16,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Hanabi"
+        },
+        "dynamic": null,
+        "id": 2678796,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763037806037,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

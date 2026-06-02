@@ -1,0 +1,273 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "68afce165d2ef3f564b529d8",
+        "caption": "130厄伊妲",
+        "configId": 144237,
+        "createdAt": 1756352022008,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/ec1e6b75f6b975c30e30e40c2665d195.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/1dca7f088da27d5a12faf83f7c1f8269.jpg",
+          "hero": {
+            "_createdAt": 1758787901398,
+            "_id": "68d4f93d24eea63bc90e2247",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "80",
+                "10",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+              "heroid": 130,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Obsidia mendapatkan <font color=\"a6aafb\">Bone Energy</font> setiap kali memberikan damage. Basic Attack memberikan 1 Energy terhadap unit non-hero dan 2 terhadap unit hero. Skill memberikan Bone Energy sebesar 3 kali jumlah yang diberikan Basic Attack terhadap tipe unit yang sama. Tidak mendapatkan Bone Energy ketika memberikan damage ke creep.\n\nKetika <font color=\"a6aafb\">Bone Energy</font> mencapai 30, akan terbentuk 1 <font color=\"a6aafb\">Bone Shard</font> (hingga 25 shard). Mengeliminasi hero lawan akan memberikan 1 <font color=\"a6aafb\">Bone Shard</font>. Ketika Obsidia menggunakan Basic Attack, semua <font color=\"a6aafb\">Bone Shard</font> akan menyerang target, masing-masing memberikan <font color=\"fba51f\"> (+6% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (mewarisi 6% Efek Basic Attack).\n\nBasic Attack Obsidia memberikan 70<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (mewarisi 100% Efek Basic Attack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_636c671e6ea7c9fd89e992c42fb9f4dc.png",
+                      "skillid": 13040,
+                      "skillname": "Return to Bone",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4.5   Mana Cost: 35",
+                      "skilldesc": "Obsidia mengeluarkan sebuah <font color=\"a6aafb\">Abyssal Bone Needle</font>, memberikan 325<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan mengaktifkan <font color=\"a6aafb\">Return to Bone</font> ke hero lawan pertama yang terkena.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+                      "skillid": 13010,
+                      "skillname": "Abyssal Bone Needle",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4.5   Mana Cost: 40",
+                      "skilldesc": "Obsidia turun ke Abyss dan memasuki <font color=\"a6aafb\">Mode Shadowmeld</font>, mendapatkan 500% Movement Speed selama 0.3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+                      "skillid": 13020,
+                      "skillname": "Phantom Shadowmeld",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40   Mana Cost: 100",
+                      "skilldesc": "Obsidia menembakkan <font color=\"a6aafb\">Bones of Wrath</font> ke arah target, memberikan 125<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan stun singkat ke hero lawan pertama yang terkena, lalu menarik dirinya mendekati target. <font color=\"a6aafb\">Bones of Wrath</font> mengikat Obsidia ke hero lawan, mencegah Obsidia bergerak menjauhinya dengan jarak lebih dari 4 unit. Saat terikat, hero lawan tidak bisa menggunakan skill perpindahan, dan pergerakannya akan menyeret Obsidia. Selama skill berlangsung, Obsidia mendapatkan 5 <font color=\"a6aafb\">Bone Shard</font> dan 30% Attack Speed untuk sementara. Efek ini berlangsung selama 3 detik.\n\nSaat terikat, Obsidia bisa bergerak menembus rintangan dan menggunakan Basic Attack sambil bergerak. <font color=\"a6aafb\">Phantom Shadowmeld</font> diperkuat, durasinya meningkat menjadi 1 detik dan cooldown berkurang menjadi 33%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4b023cbf620869d7596b5e87e467c7c8.png",
+                      "skillid": 13030,
+                      "skillname": "Hunt of Bone",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1301"
+                }
+              ],
+              "heroskin": null,
+              "name": "Obsidia",
+              "painting": "",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1",
+                "0",
+                "1/1"
+              ],
+              "recommendlevellabel": "3-2-1-0-1/1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_92bcc9ad2c4c8165a888d34f086a4d28.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Damage"
+              ],
+              "squarehead": "",
+              "squareheadbig": "",
+              "story": "Sang Penguasa Abyss kuno yang bangkit dari kehancuran, kini bertekad menghabisi Dewa Kegelapan dan memburu para Titisan Kebinasaan.",
+              "tale": ""
+            },
+            "id": 102407,
+            "sourceId": 2756563
+          },
+          "hero_id": 130,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/9ea138369ca4a37b4806ac64998df054.webp",
+          "relation": {
+            "assist": {
+              "desc": "Obsidia biasanya baru mencapai puncak potensi damage di mid hingga late game, jadi perlu hero support yang bisa membantunya selama early game, seperti Angela dan Estes.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                55,
+                34
+              ]
+            },
+            "strong": {
+              "desc": "Ultimate Obsidia bisa menonaktifkan skill dash dan blink, sehingga bagus untuk melawan hero yang mengandalkannya,  seperti Hayabusa, Freya, dan Lancelot.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                21,
+                22,
+                47
+              ]
+            },
+            "weak": {
+              "desc": "Obsidia mengalami kesulitan selama fase laning di early game, sehingga rentan terhadap Marksman lain yang kuat di early game, seperti Bruno dan Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                12,
+                18
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 3131750,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1756373004639,
+        "updatedUser": "v_liuchang"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

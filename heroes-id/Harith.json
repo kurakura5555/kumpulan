@@ -1,0 +1,294 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25e01f",
+        "caption": "073哈里斯",
+        "configId": 144237,
+        "createdAt": 1710416512022,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_a856206bf001925a432bfceaac62263c.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50125d",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "40",
+                "50",
+                "10",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
+              "heroid": 73,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Harith memperoleh 7% Hybrid Lifesteal untuk setiap Hero lawan yang ada di sekitar, dapat di-Stack hingga 35%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5ef9a005278e374f023e9279989be02.png",
+                      "skillid": 7340,
+                      "skillname": "Key Insight",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 50",
+                      "skilldesc": "Harith menciptakan bayangan dirinya di kejauhan. Harith dan bayangannya kemudian melepaskan <font color=\"a6aafb\">Synchro Fission</font> ke arah satu sama lain, memberikan 150<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke semua unit lawan di sepanjang jalurnya.\n\nLedakan akan terjadi ketika 2 gelombang energi bertabrakan, memberikan 450<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke semua lawan di area tersebut.\nSkill ini memberikan 60% damage tambahan ke creep (hingga 1500 damage).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f23c4399892794ed73e58a29352273c.png",
+                      "skillid": 7310,
+                      "skillname": "Synchro Fission",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9.3   Mana Cost: 50",
+                      "skilldesc": "Harith berlari ke arah target, mendapatkan 120<font color=\"62f8fe\"> (+120% Total Magic Power)</font> shield dan memperkuat Basic Attack berikutnya. Basic Attack yang diperkuat memberikan 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"62f8fe\">(+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 40% slow ke lawan. Mengenai lawan dengan Basic Attack yang diperkuat akan mengurangi cooldown <font color=\"a6aafb\">Chrono Dash</font> sebanyak 3 detik. Shield ini bisa di-stack hingga 3 kali.\n\nBasic Attack yang diperkuat hanya memberikan 50<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke Turret.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a0db4fd70a127b1733a6fc10261d4c5.png",
+                      "skillid": 7320,
+                      "skillname": "Chrono Dash",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40   Mana Cost: 120",
+                      "skilldesc": "Harith menciptakan Zaman Force dan menciptakan retakan multidimensi. Saat tercipta, retakan ini mengurangi cooldown <font color=\"a6aafb\">Chrono Dash</font> sebanyak 4 detik. Retakan tersebut menyebabkan 40% slow secara terus-menerus ke hero lawan di area.\n\nKetika Harith bersentuhan dengan retakan saat menggunakan <font color=\"a6aafb\">Chrono Dash</font>, akan mengurangi cooldown <font color=\"a6aafb\">Synchro Fission</font> sebanyak 1 detik dan <font color=\"a6aafb\">Chrono Dash</font> sebanyak 3 detik. Harith mendapatkan 15% Resilience saat berada di atas retakan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47c6f8c53a894420ae9c8ae05a81fa47.png",
+                      "skillid": 7330,
+                      "skillname": "Zaman Force",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "731"
+                }
+              ],
+              "heroskin": null,
+              "name": "Harith",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b798782cb64820af74f9365dbbf4689.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsortlabel": [
+                "Gold Lane",
+                "Jungle"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f81a3d82eb05c2c062fc6ea8b3d6578.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c0492b8461a173c5e22f141589716604.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
+              "story": "Bocah Leonin yang datang ke Moniyan Empire dari Azrya.",
+              "tale": ""
+            },
+            "id": 100573,
+            "sourceId": 2756563
+          },
+          "hero_id": 73,
+          "relation": {
+            "assist": {
+              "desc": "Harith cocok dengan Hero yang memiliki CC Area Efek dan dapat mempersulit lawan untuk kabur dari jangkauan Ultimate-nya, misalnya Minsitthar dan Minotaur.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                74,
+                19,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Harith adalah Hero yang sangat lincah dan Ultimate-nya mengurangi durasi efek CC, jadi dia menjadi Counter bagi Hero yang mengandalkan CC dan yang punya animasi lama, misalnya Belerick dan Johnson.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                70,
+                32,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Harith di-Counter oleh Hero yang mampu cepat keluar dari Ultimate-nya, misalnya Novaria dan Pharsa.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                119,
+                52,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678809,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

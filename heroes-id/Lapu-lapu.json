@@ -1,0 +1,365 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df8e",
+        "caption": "037拉普拉普",
+        "configId": 144237,
+        "createdAt": 1710416511342,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_4099998ef69c6e791386cd653e5db9f1.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501238",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "80",
+                "40",
+                "40",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+              "heroid": 37,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Lapu-Lapu mengumpulkan 10 <font color=\"a6aafb\">Bravery Blessing</font> setiap kali memberikan Damage (hanya setengah Damage yang diberikan ke unit non-Hero). Ketika <font color=\"a6aafb\">Bravery Blessing</font> terisi penuh, <font color=\"a6aafb\">Basic Attack</font> Lapu-Lapu berikutnya akan membuatnya bergerak ke arah target, memberikan <font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (tidak dapat memberikan Damage Critical) dan memberikan Shield yang menyerap 250 (+65*Level Hero) Damage selama 2.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49ec4c6534f7d54b1b490a966bcb431f.png",
+                      "skillid": 3740,
+                      "skillname": "Homeland Defender",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6",
+                      "skilldesc": "Lapu-Lapu melemparkan dua bumerang ke arah yang ditentukan, setiap bumerang memberikan 140<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan yang terkena Hit ketika bumerang dilempar ke depan dan kembali.\n\nLawan yang terkena Hit oleh kedua bumerang menerima 50% Damage dari Hit kedua.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7cb2f98d19635f68bcf1c9a322daf6a.png",
+                      "skillid": 3710,
+                      "skillname": "Justice Blades",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Lapu-Lapu melangkah ke arah yang ditentukan, memberikan 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di sepanjang jalur.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24322baddfd959a497671ec25ebe91a7.png",
+                      "skillid": 3720,
+                      "skillname": "Jungle Warrior",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 30",
+                      "skilldesc": "Lapu-Lapu melompat ke lokasi target sambil menggabungkan pedangnya, memberikan 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar ketika mendarat dan menyebabkan 60% Slow selama 1 detik. (Skill ini tidak dapat diganggu).\nLapu-Lapu memperoleh <font color=\"a6aafb\">Bravery Blessing</font> 3 kali dari Skill ini dan Skill dalam Mode perubahan.\nSelama 10 detik berikutnya, Lapu-Lapu memasuki Mode <font color=\"a6aafb\">Great Sword</font> dan memperoleh Skill yang diperkuat, 30 Physical & Magic Defense tambahan, serta meningkatkan 120% Damage Basic Attack.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7b0ba6060cb97e213bbb75c24404a2f.png",
+                      "skillid": 3730,
+                      "skillname": "Bravest Fighter",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "371"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Lapu-Lapu mengumpulkan 10 <font color=\"a6aafb\">Bravery Blessing</font> setiap kali memberikan Damage (hanya setengah Damage yang diberikan ke unit non-Hero). Ketika <font color=\"a6aafb\">Bravery Blessing</font> terisi penuh, <font color=\"a6aafb\">Basic Attack</font> Lapu-Lapu berikutnya akan membuatnya bergerak ke arah target, memberikan <font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (tidak dapat memberikan Damage Critical) dan memberikan Shield yang menyerap 250 (+65*Level Hero) Damage selama 2.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49ec4c6534f7d54b1b490a966bcb431f.png",
+                      "skillid": 3740,
+                      "skillname": "Homeland Defender",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Lapu-Lapu mengumpulkan kekuatan selama 0.7 detik, menyebabkan 60% slow ke lawan di arah target. Kemudian, dia menghantamkan pedangnya ke tanah, memberikan 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena serangan dan menyebabkan stun ke mereka selama 1 detik. (Skill ini hanya bisa dibatalkan oleh Suppress).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_314a8fc8ae1bed40e359345d5f4d31a0.png",
+                      "skillid": 3712,
+                      "skillname": "Land Shaker",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6",
+                      "skilldesc": "Lapu-Lapu memutar pedangnya, memberikan 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar.\n\nSaat menyerang hero lawan, Lapu-Lapu mendapatkan 20% Pengurangan Damage, serta 8% tambahan untuk setiap hero lawan yang terkena serangan, berlangsung selama 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d09db3b0fb47d66e6ce2c80371141c68.png",
+                      "skillid": 3723,
+                      "skillname": "Storm Sword",
+                      "skilltag": [
+                        {
+                          "tagid": 63,
+                          "tagname": "Mengurangi Damage",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "Lapu-Lapu mengayunkan Heavy Sword-nya 3 kali. Dua serangan pertama memberikan 345<font color=\"fba51f\"> (+160% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, sementara serangan ketiga memberikan 440<font color=\"fba51f\"> (+210% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area yang besar.\n\nLapu-Lapu menjadi Kebal Crowd Control selama durasi ini dan dapat mengganti arah serangannya serta bergerak sedikit pada setiap serangannya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_77042b1a4020eef7c59fc51ac080a91c.png",
+                      "skillid": 3731,
+                      "skillname": "Raging Slash",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "372"
+                }
+              ],
+              "heroskin": null,
+              "name": "Lapu-Lapu",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_585b7071cf12473e2b27a0121f6192c0.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b72b473b98494269cedbba84d4888409.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4c693b541abb917905cc6ca4c0bcb845.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
+              "story": "Pahlawan yang membela Kepulauan Vonetis dari orang luar",
+              "tale": ""
+            },
+            "id": 100536,
+            "sourceId": 2756563
+          },
+          "hero_id": 37,
+          "relation": {
+            "assist": {
+              "desc": "Lapu-Lapu cocok dengan Hero yang dapat mengumpulkan lawan, misalnya Tigreal dan Atlas, agar Skill area miliknya mengenai lebih banyak target dan menerima lebih banyak Pengurangan Damage dari Skill 2 di Mode Great Sword dengan mengenai lebih banyak Hero.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                6,
+                93,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Lapu-Lapu kuat melawan Hero berdurabilitas rendah yang kurang lincah misalnya Layla dan Eudora, karena dia memiliki Damage Burst yang tinggi dan dapat menggunakan mobilitasnya untuk mendekati mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                18,
+                15,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Lapu-Lapu di-Counter oleh Marksman yang lincah yang dapat menjauhkannya, misalnya Lesley dan Moskov. Mereka dapat menghindari serangan Ultimate Lapu-Lapu, dan menyebabkan Knockback untuk mengganggu Skill 1-nya di Mode Great Sword atau menjauhkannya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                53,
+                31,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Lapu_Lapu"
+        },
+        "dynamic": null,
+        "id": 2678773,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

@@ -1,0 +1,300 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e083",
+        "caption": "098卡里德",
+        "configId": 144237,
+        "createdAt": 1710416512463,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_0a51c125997cb625e2c90c182e92bded.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501271",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "80",
+                "50",
+                "50",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+              "heroid": 98,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Khaleed mengumpulkan <font color=\"a6aafb\">Desert Power</font> saat bergerak. Setelah <font color=\"a6aafb\">Desert Power</font> terisi penuh, dia akan bergerak dengan pasir, meningkatkan 35% Movement Speed, membuat Basic Attack berikutnya memberikan 50<font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target (tidak dapat memberikan Damage Critical), dan mengurangi 40% Movement Speed target selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de65492aeccc8a5738aa42de8a33141e.png",
+                      "skillid": 9840,
+                      "skillname": "Sand Walk",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6.5",
+                      "skilldesc": "Khaleed mengayunkan pedangnya, memberikan 200<font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menarik mereka ke arahnya. Skill ini dapat digunakan hingga 3 kali berturut-turut.\n\nSkill ini memberikan 50% Damage ke Minion dan Creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d923b809f919ef60ae354ec162cc853.png",
+                      "skillid": 9810,
+                      "skillname": "Desert Tornado",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 22",
+                      "skilldesc": "Khaleed melindungi dirinya dengan kekuatan pasir hisap, memulihkan 60+5% HP-nya yang hilang dan 10 <font color=\"a6aafb\">Desert Power</font> setiap 0.5 detik, mengurangi 25% Damage yang diterima hingga selama 4 detik.\n\nKetika mengumpulkan kekuatan, pasir hisap akan muncul di bawah kakinya, menyebabkan 60% Slow ke lawan.\nSkill ini adalah Skill Focus Cast. Crowd Control apa pun akan mengganggu Skill ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d70b9b7d9c0de2d528e8f86bcebe9093.png",
+                      "skillid": 9820,
+                      "skillname": "Quicksand Guard",
+                      "skilltag": [
+                        {
+                          "tagid": 63,
+                          "tagname": "Mengurangi Damage",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 46",
+                      "skilldesc": "Khaleed mengendarai badai pasir dan bergerak ke lokasi yang ditentukan, memberikan 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan yang berada di jalurnya dan menyebabkan Knockback kepada mereka ke arah tujuannya. Khaleed menjadi kebal terhadap Crowd Control selama proses ini.\n\nSetelah mencapai tujuan, Khaleed akan menghantam tanah, memberikan 450<font color=\"fba51f\"> (+160% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di area tersebut dan menyebabkan Stun kepada mereka selama 1 detik, dan mengisi <font color=\"a6aafb\">Desert Power</font> hingga penuh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af48a3f5f3aaf4ea2f41f018fc51e92a.png",
+                      "skillid": 9830,
+                      "skillname": "Raging Sandstorm",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "981"
+                }
+              ],
+              "heroskin": null,
+              "name": "Khaleed",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9f6754dc95d5afbacfae441ae43b6051.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Roam",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_216ea76d9188164c58950885b3962ba1.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Damage",
+                "Regen"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2c011296c9c9a46013034896c2898d52.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
+              "story": "Seorang pemimpin Klan pemberani yang berjalan di pasir.",
+              "tale": ""
+            },
+            "id": 100593,
+            "sourceId": 2756563
+          },
+          "hero_id": 98,
+          "relation": {
+            "assist": {
+              "desc": "Karena Khaleed dapat memberikan banyak Damage Area, dia cocok dengan Hero seperti Roger dan Karina yang unggul dalam mengeliminasi beberapa target dengan HP rendah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                39,
+                8,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Khaleed meng-Counter Hero dengan mobilitas rendah seperti Cyclops dan Xavier karena mereka akan kesulitan menghindari kombonya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                33,
+                115,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Khaleed di-Counter oleh Hero yang memiliki kemampuan menyebabkan Knockback atau Airborne untuk mengganggu Skill 2-nya, seperti X.Borg dan Chou.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                83,
+                26,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Khaleed"
+        },
+        "dynamic": null,
+        "id": 2678834,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

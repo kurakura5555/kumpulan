@@ -1,0 +1,270 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27efd1bb8e47d25df41",
+        "caption": "018蕾拉",
+        "configId": 144237,
+        "createdAt": 1710416510999,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/f222c954b85dce735916d61fc355668a.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0db5131842bec1fdbdf5f8533ebada2c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501226",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "10",
+                "80",
+                "10",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+              "heroid": 18,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Layla memberikan Damage yang meningkat jika lawan semakin jauh darinya (mulai 100% dan meningkat menjadi 115% pada 6 jarak Unit). Tidak termasuk Turret.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ba25b082b2a373138d398a32499e0544.png",
+                      "skillid": 1840,
+                      "skillname": "Malefic Gun",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6   Mana Cost: 35",
+                      "skilldesc": "Layla menembakkan Malefic Bomb ke arah target, memberikan 200<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan pertama yang terkena (dapat memberikan Damage Critical).\n\nSetelah mengenai lawan, Basic Attack dan <font color=\"a6aafb\">Void Projectile</font> Layla memperoleh jangkauan tambahan selama 3 detik, dan Layla memperoleh 60% Movement Speed tambahan yang berkurang dengan cepat dalam 1.2 detik. Durasi peningkatan Movement Speed digandakan jika mengenai Hero lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b00ff9edafd44eeee4af815f24c14653.png",
+                      "skillid": 1810,
+                      "skillname": "Malefic Bomb",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5   Mana Cost: 70",
+                      "skilldesc": "Layla menembakkan bola energi, memberikan 170<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target di area dan meninggalkan <font color=\"a6aafb\">Magic Mark</font> selama 3 detik.\nSaat Layla mengenai lawan yang memiliki <font color=\"a6aafb\">Magic Mark</font>, memberikan 100<font color=\"fba51f\"> (+35% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menyebabkan Stun selama 0.25 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03f3b37b699108735c77c0197acac646.png",
+                      "skillid": 1820,
+                      "skillname": "Void Projectile",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 37   Mana Cost: 130",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Jangkauan <font color=\"a6aafb\">Void Projectile</font> dan Basic Attack meningkat sejauh 0.6 unit. Jangkauan penglihatan Layla sedikit meningkat setiap kali skill ini ditingkatkan. \n<font color=\"a6aafb\">Aktif</font>: Layla menembakkan ledakan Malefic Energy ke arah target, memberikan 500<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8410070e72f25785078a91c793a39cc0.png",
+                      "skillid": 1830,
+                      "skillname": "Destruction Rush",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "181"
+                }
+              ],
+              "heroskin": null,
+              "name": "Layla",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a532838b7358fed58458c612da3d59b.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6efe9abc2047f59d45fa1c88fb1261b7.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_995227993612d04468f763d6c66dcd1a.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0db5131842bec1fdbdf5f8533ebada2c.jpg",
+              "story": "Anggota terpenting Eruditio Ranger yang dijuluki sebagai Bintang yang Bersinar.",
+              "tale": ""
+            },
+            "id": 100518,
+            "sourceId": 2756563
+          },
+          "hero_id": 18,
+          "relation": {
+            "assist": {
+              "desc": "Layla cocok dengan Tank yang dapat melindungi Hero barisan belakang, misalnya Minsitthar dan Belerick, karena perlindungan mereka memberikan Layla ruang lebih untuk memberikan Damage.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                74,
+                70
+              ]
+            },
+            "strong": {
+              "desc": "Jangkauan serangan Layla yang lebar dapat meng-Counter Tank bermobilitas rendah misalnya Tigreal dan Belerick.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                6,
+                70
+              ]
+            },
+            "weak": {
+              "desc": "Layla di-Counter oleh Assassin ber-Damage Burst tinggi, misalnya Karina dan Ling, karena mereka dapat mudah mendekati dan mengeliminasi Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                8,
+                84
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Layla"
+        },
+        "dynamic": null,
+        "id": 2678754,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

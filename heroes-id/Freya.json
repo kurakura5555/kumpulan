@@ -1,0 +1,290 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df51",
+        "caption": "022芙蕾雅",
+        "configId": 144237,
+        "createdAt": 1710416511055,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/1ae9ac180ace59bc164b59093ef2e414.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/71d910744206adec64f7c5e97b0698c7.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501224",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "60",
+                "70",
+                "60",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+              "heroid": 22,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Freya mendapatkan 1 <font color=\"a6aafb\">Sacred Orb</font> pada setiap Basic Attack (hingga 6 <font color=\"a6aafb\">Sacred Orb</font>). Mengonsumsi 1 <font color=\"a6aafb\">Sacred Orb</font> akan memberikan 100% Attack Speed untuk Basic Attack Freya yang berikutnya (maksimum 6 stack).\n<font color=\"a6aafb\">Sacred Orb</font> perlahan akan terisi kembali jika tidak sedang bertarung.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_dcd7beb4c0cef38f848a6cf26e51b105.png",
+                      "skillid": 2260,
+                      "skillname": "Power of Einherjar",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8",
+                      "skilldesc": "Freya melompat ke area target dan menghantam tanah dengan perisainya, mendapatkan 500<font color=\"fba51f\"> (+100% Total Physical Attack)</font> shield dan memberikan 200<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di dalamnya sambil menyebabkan airborne selama 0.4 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c2350b4a4d8b8526e9e19c4daba69155.png",
+                      "skillid": 2299,
+                      "skillname": "Leap of Faith",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0.396",
+                      "skilldesc": "Freya menerjang ke depan dan menebas, memberikan 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 30% slow ke lawan selama 0.5 detik. Skill ini tidak memiliki cooldown dasar, tapi setiap pengaktifannya akan mengonsumsi 2 <font color=\"a6aafb\">Sacred Orb</font>.\nSkill ini memberikan 50% damage ke Creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                      "skillid": 2298,
+                      "skillname": "Valkyrie Slash",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 34",
+                      "skilldesc": "Freya memilih area target dan mendarat layaknya Sacred Orb (mendapatkan Kebal Crowd Control dan 50% Pengurangan Damage), memberikan 300<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 40% slow ke lawan di jalurnya dan di titik pendaratan selama 2 detik.\n\nSetelah mendarat, Freya memasuki mode <font color=\"a6aafb\">Valkyrie</font> selama 12 detik. Selama mode ini berlangsung, Basic Attack-nya memberikan 30 damage tambahan (damage tambahan tidak bisa memberikan Damage Critical) dan dia memulihkan 40<font color=\"fba51f\"> (+40% Total Physical Attack)</font> HP setiap kali melakukan Basic Attack. Basic Attack-nya juga memberikan damage splash.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_49a8b4de271d0162ab9e26e06819840e.png",
+                      "skillid": 2250,
+                      "skillname": "Valkyrie Descent",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "221"
+                }
+              ],
+              "heroskin": null,
+              "name": "Freya",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_703d1d626507f05ff72c799f53b123b9.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsortlabel": [
+                "EXP Lane",
+                "Jungle"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b95ffc5769380f10a409d864d4162433.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0059b3d4c9f5db098fa053074d27e7ec.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_faa871fa6647c56fd73b40b06cfc5412.jpg",
+              "story": "Sang Valkyrie yang menjaga Northern Vale.",
+              "tale": ""
+            },
+            "id": 100516,
+            "sourceId": 2756563
+          },
+          "hero_id": 22,
+          "relation": {
+            "assist": {
+              "desc": "Freya'nın yanında Belerick ve Gatotkaca gibi tuttuğunu bırakmayan tanklar olunca Freya o eritici hasarını rakiplere rahatça yedirtebilir.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                70,
+                41
+              ]
+            },
+            "strong": {
+              "desc": "Olağanüstü hareketliliğinin yanı sıra, Freya uzun soluklu çatışmalarda da bir harikadır; bu sayede kırılgan ve düşük canlı Nişancıları rahatça antiler, tıpkı Lesley ve Ixia gibi. Mükemmel sürekli hasarı ve hareketliliği aynı zamanda düşük hasarlı tankları da antiler, tıpkı Uranus ve Baxia gibi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                53,
+                121
+              ]
+            },
+            "weak": {
+              "desc": "Gelgelelim, Freya'nın tüm becerileri hareketlilik içerdiği için, karşıda Phoveus olduğunda Freya biraz çaresiz kalır. Yakınlarında beceri kullanınca Phoveus'un enerjisi şipşak dolacağı için kendisi sürekli tepenize çökebilir. Freya'yı kitle kontrol ve hareket engelleyici beceriler çok bozar, örnek olarak Minsitthar'ın ve Obsidia'nın Ultisi verilebilir.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                106,
+                130
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1"
+        },
+        "dynamic": null,
+        "id": 2678758,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763029001148,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

@@ -1,0 +1,320 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e05b",
+        "caption": "088玛莎",
+        "configId": 144237,
+        "createdAt": 1710416512257,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_2da39f7e29e54c3ea763200792ff028d.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501268",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "70",
+                "30",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+              "heroid": 88,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Dikaruniai oleh Raja Beruang, Masha memiliki 3 Bar HP dan tidak akan tereliminasi hingga Bar HP terakhir habis. Dia dapat mengabaikan satu Damage yang masuk dan menghapus semua efek Crowd Control pada dirinya setiap kali kehilangan Bar HP. Saat Masha hanya memiliki 2 Bar HP tersisa, Skill hanya membutuhkan 50% dari Penggunaan HP awal untuk menggunakan Skill. Saat Masha memiliki 1 Bar HP tersisa, dia tidak perlu menggunakan HP untuk menggunakan Skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_11fea6d6964fce2e229664f69b8b74a0.png",
+                      "skillid": 8840,
+                      "skillname": "Ancient Strength",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Masha mendapatkan <font color=\"a6aafb\">Power of the Wild</font>, membuat Basic Attack-nya memberikan <font color=\"fb1f1f\">Physical Damage</font> tambahan sebesar 2<font color=\"fba51f\"> (+1% Extra Physical Attack)</font>% dari Max HP target (maksimal 60 terhadap creep; tidak berpengaruh terhadap Turret atau Base).\n<font color=\"a6aafb\">Aktif</font>: Masha mengonsumsi 24% HP untuk memperkuat dirinya, mendapatkan 50% Movement Speed selama 2 detik (bonus ini berkurang seiring waktu). Dia juga meningkatkan <font color=\"fb1f1f\">Physical Damage</font> tambahan dari <font color=\"a6aafb\">Power of the Wild</font> sebesar 3<font color=\"fba51f\"> (+1% Extra Physical Attack)</font>% dari Max HP target dan mendapatkan 50% Attack Speed untuk 2 Basic Attack berikutnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
+                      "skillid": 8810,
+                      "skillname": "Wild Power",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8",
+                      "skilldesc": "Masha menggunakan 24% HP untuk mengaum ke lawan, memberikan 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan mengurangi 50% Attack Speed mereka selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+                      "skillid": 8820,
+                      "skillname": "Howl Shock",
+                      "skilltag": [
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 35",
+                      "skilldesc": "Masha menggunakan 34% HP untuk menerjang ke Hero lawan (kebal Crowd Control saat menerjang), memberikan 400<font color=\"fba51f\"> (+220% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, menyebabkan 25% Slow selama 2 detik, dan menyebabkan Knockback ke lawan di sekitar. Cooldown dari Skill ini akan direset setiap kali Masha kehilangan satu Bar HP.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+                      "skillid": 8830,
+                      "skillname": "Thunderclap",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Masha memperoleh Energy ketika memberikan Damage ke lawan dan Energy tambahan saat memberikan Damage dengan Wild Power.\n\nSetelah meninggalkan pertarungan selama 3 detik, Masha dapat mengaktifkan Skill ini untuk menggunakan setengah Bar Energy untuk memulihkan 1 Bar HP hingga penuh. Masha menjadi Invincible saat menggunakan Skill ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13f8eb8f71c22d308124486b630def4c.png",
+                      "skillid": 8850,
+                      "skillname": "Life Recovery",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 41,
+                          "tagname": "Invincible",
+                          "tagrgb": "177,157,96"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "881"
+                }
+              ],
+              "heroskin": null,
+              "name": "Masha",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_087f15d931d74f75b577f5aff372ce25.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Tank"
+              ],
+              "speciality": [
+                "Push",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cb32a0d6ed6e8fa174aab72e61d9e6da.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+              "story": "Penjaga para Direbear.",
+              "tale": ""
+            },
+            "id": 100584,
+            "sourceId": 2756563
+          },
+          "hero_id": 88,
+          "relation": {
+            "assist": {
+              "desc": "Masha dapat memaksimalkan efektivitas dan Damage-nya saat dipasangkan dengan Support yang memberikan Buff Movement Speed dan Crowd Control tambahan, seperti Angela dan Rafaela.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                14,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Masha cocok melawan Marksman dengan mobilitas rendah, seperti Ixia dan Layla, karena dia dapat mengejar mereka dengan mudah menggunakan Ultimate-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                121,
+                18,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Masha di-Counter oleh Fighter dengan kemampuan Pemulihan kuat seperti Cici dan Thamuz, karena mereka dapat bertahan lebih lama dari Masha dalam pertarungan jangka panjang karena Pemulihan HP Masha yang relatif lebih rendah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                123,
+                72,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Masha"
+        },
+        "dynamic": null,
+        "id": 2678824,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

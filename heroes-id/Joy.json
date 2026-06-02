@@ -1,0 +1,275 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0d3",
+        "caption": "118佐儿",
+        "configId": 144237,
+        "createdAt": 1710416512762,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_afa07253caa5217b4131a715713bba9e.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501288",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "30",
+                "70",
+                "10",
+                "90"
+              ],
+              "difficulty": "90",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+              "heroid": 118,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Joy memasuki Mode <font color=\"a6aafb\">Angry!</font> setiap kali Skill-nya mengenai lawan non-Minion, memberikan 100<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan meningkatkan 60% Movement Speed yang berkurang seiring waktu selama 4 detik (terkena <font color=\"a6aafb\">Leonin Crystal</font> juga akan memberikan efek Movement Speed). Efek ini memiliki Cooldown selama 4 detik untuk setiap target.\n\nBasic Attack Joy akan memberikan 65<font color=\"fba51f\"> (+65% Total Physical Attack)</font>  <font color=\"62f8fe\">(+65% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e3f79d1e66691e8d89cacca211ed231.png",
+                      "skillid": 11840,
+                      "skillname": "Humph, Joy's Angry!",
+                      "skilltag": [
+                        {
+                          "tagid": 12,
+                          "tagname": "Damage",
+                          "tagrgb": "188,55,55"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4",
+                      "skilldesc": "Joy memanggil <font color=\"a6aafb\">Leonin Crystal</font> ke lokasi target, memberikan 200<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar dan menyebabkan 30% Slow ke mereka selama 1 detik. <font color=\"a6aafb\">Leonin Crystal</font> berlangsung hingga selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_608b4796b7497e4552f9785a3d4331db.png",
+                      "skillid": 11810,
+                      "skillname": "Look, Leonin Crystal!",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0.132",
+                      "skilldesc": "Joy bergerak ke arah target, memberikan 120<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya. Mengenai lawan atau <font color=\"a6aafb\">Leonin Crystal</font> membuat Joy dapat menggunakan kembali Skill-nya dalam 0.8 detik dan mendapatkan 1 <font color=\"a6aafb\">Beat Energy</font>. Menggunakan Skill ini sesuai ketukan akan meningkatkan 100% Damage Skill dan memberikan 80<font color=\"62f8fe\"> (+60% Total Magic Power)</font> Shield yang bertahan selama 3 detik.\n\nSkill ini dapat digunakan hingga 4 kali berturut-turut.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a500868582b10eec96f338ed3922d3eb.png",
+                      "skillid": 11820,
+                      "skillname": "Meow, Rhythm of Joy!",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 12,
+                          "tagname": "Damage",
+                          "tagrgb": "188,55,55"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Joy meningkatkan 15<font color=\"62f8fe\"> (+10% Total Magic Power)</font> Physical & Magic Defense serta memperoleh 30% Movement Speed. Selama 3 detik berikutnya, dia berdentum 8 kali, memberikan 120<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap berdentum ke lawan di sekitar.\nSetiap <font color=\"a6aafb\">Meow, Rhythm of Joy!</font> digunakan sesuai ketukan meningkatkan 40% Damage Skill ini. Jika ritme sempurna tercapai dengan mengenai setiap ketukan dengan <font color=\"a6aafb\">Meow, Rhythm of Joy!</font>, Joy juga memperoleh 40% Spell Vamp saat Skill ini aktif.\nSkill ini terbuka saat Joy memperoleh <font color=\"a6aafb\">Beat Energy</font>. Menggunakan Skill ini dengan 3 <font color=\"a6aafb\">Beat Energy</font> akan menghapus semua Debuff pada Joy dan membuatnya kebal Slow selama Skill ini aktif.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d86ac1655ad1a2ec0b569fbec9abadda.png",
+                      "skillid": 11830,
+                      "skillname": "Ha, Electrifying Beats!",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1181"
+                }
+              ],
+              "heroskin": null,
+              "name": "Joy",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1ecb59cb5508be26cd90ac70d2177b76.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b5570b0e557e36501b4228fcdfcf164.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_574083a409728dd6b47f89f9059932ac.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
+              "story": "Si \"Anak Ajaib\" yang kembali ke Leonin setelah bertahun-tahun mengembara.",
+              "tale": ""
+            },
+            "id": 100616,
+            "sourceId": 2756563
+          },
+          "hero_id": 118,
+          "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1ecb59cb5508be26cd90ac70d2177b76.png",
+          "relation": {
+            "assist": {
+              "desc": "Joy cocok dengan Hero Support atau yang dapat menginisasi pertarungan, misalnya Angela dan Hylos.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                49,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Joy kuat menghadapi Hero bermobilitas rendah atau mengandalkan Crowd Control, misalnya Xavier dan Vexana, dia mudah menyerang dengan Skill 2 dan kebal terhadap Crowd Control lawan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                115,
+                38,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Joy di-Counter oleh Hero dengan Skill untuk membatasi mobilitas, misalnya Minsitthar dan Khufra karena Damage-nya sangat bergantung pada Skill 2.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                74,
+                78
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Joy"
+        },
+        "dynamic": null,
+        "id": 2678854,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

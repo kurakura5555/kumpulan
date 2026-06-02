@@ -1,0 +1,374 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df96",
+        "caption": "039罗杰",
+        "configId": 144237,
+        "createdAt": 1710416511388,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/39851807e78d446989a59ada3877214d.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ff92c4b5afb41060af1b951ba9f03edd.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50123e",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "60",
+                "40",
+                "10",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+              "heroid": 39,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Roger dapat berganti antara wujud manusia dan wujud serigala dengan bebas.\n\nDalam wujud manusia, Basic Attack dan Skill Roger memberikan Damage tambahan setara dengan 4% dari HP target saat ini.\n\nDalam wujud serigala, Basic Attack dan Skill Roger memberikan Damage tambahan setara dengan 4% dari HP target yang hilang.\n\nEfek ini hanya dapat memberikan hingga 60 Damage tambahan terhadap Creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09769166146e91d618341d4a45dbbf70.png",
+                      "skillid": 3940,
+                      "skillname": "Full Moon Curse",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7   Mana Cost: 50",
+                      "skilldesc": "Roger menembak dua kali dengan cepat ke arah target, memberikan 250<font color=\"fba51f\"> (+125% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> secara total. \nTembakan pertama menyebabkan 80% Slow ke lawan. Berlangsung selama 1.5 detik. \nTembakan kedua mengurangi 10 Physical Defense lawan. Berlangsung selama 5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+                      "skillid": 3910,
+                      "skillname": "Open Fire",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 50",
+                      "skilldesc": "Roger memperoleh 20% Movement Speed dan 20% Attack Speed selama 2.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+                      "skillid": 3920,
+                      "skillname": "Hunter's Steps",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5",
+                      "skilldesc": "Roger berubah menjadi serigala, memberikan 150<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 90% Slow ke lawan selama 0.8 detik.\n\n<font color=\"a6aafb\">Pasif</font>: Dalam wujud serigala, Roger memperoleh 20 Physical & Magic Defense serta 25 Movement Speed.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+                      "skillid": 3930,
+                      "skillname": "Wolf Transformation",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "391"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Roger dapat berganti antara wujud manusia dan wujud serigala dengan bebas.\n\nDalam wujud manusia, Basic Attack dan Skill Roger memberikan Damage tambahan setara dengan 4% dari HP target saat ini.\n\nDalam wujud serigala, Basic Attack dan Skill Roger memberikan Damage tambahan setara dengan 4% dari HP target yang hilang.\n\nEfek ini hanya dapat memberikan hingga 60 Damage tambahan terhadap Creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09769166146e91d618341d4a45dbbf70.png",
+                      "skillid": 3940,
+                      "skillname": "Full Moon Curse",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 50",
+                      "skilldesc": "Roger melompat ke arah target, menjadi tidak dapat ditargetkan sambil memberikan 250<font color=\"fba51f\"> (+125% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke hingga 3 lawan.\n\nMengeliminasi atau memperoleh Assist akan mengurangi 80% Cooldown Skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+                      "skillid": 3911,
+                      "skillname": "Lycan Pounce",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 50",
+                      "skilldesc": "Roger mengaum dengan keras, meningkatkan Attack Speed-nya sebanyak 1.15 kali selama 5 detik dan mengungkap posisi hero lawan di sekitar dengan HP di bawah 40%. Jika ada hero lawan dengan HP di bawah 40% dalam jangkauan, Roger mendapatkan 50% Movement Speed.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+                      "skillid": 3922,
+                      "skillname": "Bloodthirsty Howl",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5",
+                      "skilldesc": "Roger berguling ke arah yang ditentukan dan berubah menjadi manusia, mendapatkan Shield yang menyerap 200<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> Damage. Berlangsung selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b11d01d56251927771353cdb54a1f59b.png",
+                      "skillid": 3932,
+                      "skillname": "Restore Human Form",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "392"
+                }
+              ],
+              "heroskin": null,
+              "name": "Roger",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32304eb469dc241a15e3d539584f62a9.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_168335bcb95f73c6d653ec4971420923.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Marksman"
+              ],
+              "speciality": [
+                "Finisher",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef34009d11ca660530b70a55cb3af71b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ff92c4b5afb41060af1b951ba9f03edd.jpg",
+              "story": "Seorang manusia serigala yang berkeliaran di hutan gelap, haus akan balas dendam.",
+              "tale": ""
+            },
+            "id": 100542,
+            "sourceId": 2756563
+          },
+          "hero_id": 39,
+          "relation": {
+            "assist": {
+              "desc": "Roger cocok dengan Hero dengan Damage Area Efek yang tinggi yang dapat mengurangi HP lawan agar Roger dapat menghabisi mereka, seperti Pharsa dan Vexana.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                52,
+                38,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Roger meng-Counter Hero dengan durabilitas dan mobilitas rendah seperti Hanabi dan Odette karena mereka kesulitan kabur dari kejaran Roger.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                60,
+                46,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Roger di-Counter oleh Hero yang dapat membatasi pergerakannya dan menghalanginya untuk berubah menggunakan dua wujud, seperti Minsitthar dan Khufra.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                74,
+                78,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678775,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

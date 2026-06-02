@@ -1,0 +1,260 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0e3",
+        "caption": "122诺兰",
+        "configId": 144237,
+        "createdAt": 1710416512833,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/cbbf269f46885175b8d3b5676daf24a6.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cae4b6dafe9d345f84eee1c983333c0c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50128e",
+            "_updatedAt": 1765974302788,
+            "data": {
+              "abilityshow": [
+                "30",
+                "60",
+                "20",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
+              "heroid": 122,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Skill Nolan akan meninggalkan sebuah <font color=\"a6aafb\">Retakan</font>. Saat satu retakan bersentuhan dengan retakan lain, mereka akan <font color=\"a6aafb\">aktif</font> dan menarik lawan ke tengah serta memberikan 240<font color=\"fba51f\"> (+140% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> setelah jeda singkat. Nolan memperoleh 20 Energy setiap kali retakan aktif mengenai lawan. Jika lawan terkena beberapa retakan aktif, Damage setelah serangan pertama akan berkurang sebesar 40%.\n<font color=\"a6aafb\">Cosmic Leap</font>: Jika Nolan tidak memberikan atau menerima Damage selama 5 detik, dia memperkuat Basic Attack berikutnya untuk menerjang ke arah target, memberikan <font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan meninggalkan sebuah <font color=\"a6aafb\">Retakan</font>. (Nolan masih dapat memperoleh efek ini ketika memberikan atau menerima Damage dari Minion atau Creep).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_655b024d09823ec48d3557e202a404b7.png",
+                      "skillid": 12240,
+                      "skillname": "Dimensional Rift",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 2.5   Energy Cost: 25",
+                      "skilldesc": "Nolan membelah area di depannya, memberikan 230<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan meninggalkan sebuah <font color=\"a6aafb\">Retakan</font> pada lawan yang pertama kali terkena.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9e7e389d9aa59fb42aff11a2303cf1c.png",
+                      "skillid": 12210,
+                      "skillname": "Expansion",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 2.5   Energy Cost: 25",
+                      "skilldesc": "Nolan menerjang ke arah target dan menebas, memberikan 70<font color=\"fba51f\"> (+13% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya dan meninggalkan sebuah <font color=\"a6aafb\">Retakan</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+                      "skillid": 12220,
+                      "skillname": "Gauge",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 21",
+                      "skilldesc": "Nolan menebas ke arah target 3 kali, memberikan 120<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> pada setiap tebasan sambil meninggalkan 3 retakan dan menyebabkan 30% slow ke target yang terkena selama 0.5 detik. Retakan akan langsung meledak dan Nolan berlari ke belakang.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a24a1a342fb4f6bd6f1d59de13e77a05.png",
+                      "skillid": 12230,
+                      "skillname": "Fracture",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1221"
+                }
+              ],
+              "heroskin": null,
+              "name": "Nolan",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cf1a85704a0636d70f49113b2dd119bd.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0495066df0d828c149e7fe89aa63078b.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77ac5c8f1a48a10e7c1beb78ac862c2e.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cae4b6dafe9d345f84eee1c983333c0c.jpg",
+              "story": "Seorang ilmuwan yang mengelilingi semesta dengan jiwa yang terbelah demi menyelamatkan putrinya.",
+              "tale": ""
+            },
+            "id": 100622,
+            "sourceId": 2756563
+          },
+          "hero_id": 122,
+          "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cf1a85704a0636d70f49113b2dd119bd.png",
+          "relation": {
+            "assist": {
+              "desc": "Nolan cocok dengan Tank yang dapat menginisiasi sehingga dia dapat fokus memberikan Damage sebanyak mungkin, misalnya Tigreal dan Gatotkaca.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                6,
+                41,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Nolan meng-Counter Hero empuk bermobilitas rendah misalnya Hanabi dan Eudora karena mereka sulit menghindari retakannya sedangkan mobilitas Nolan membuat mereka menjadi sasaran yang empuk.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                60,
+                15,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Nolan dilawan oleh wira keras dengan kerosakan berterusan yang tinggi, seperti Thamuz dan Fredrinn, yang boleh bertahan daripada serangan Nolan dan membunuhnya selepas itu.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                72,
+                117
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Nolan"
+        },
+        "dynamic": null,
+        "id": 2678858,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

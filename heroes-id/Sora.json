@@ -1,6 +1,5 @@
 {
   "code": 0,
-  "message": "OK",
   "data": {
     "records": [
       {
@@ -441,5 +440,6 @@
     ],
     "total": 1
   },
+  "message": "OK",
   "traceID": null
 }

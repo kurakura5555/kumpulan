@@ -1,0 +1,305 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e023",
+        "caption": "074麦西塔尔",
+        "configId": 144237,
+        "createdAt": 1710416512038,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/ba291a006ee4426e416307d41b1b979c.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50125b",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "60",
+                "40",
+                "80",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+              "heroid": 74,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Basic Attack dan Skill Minsitthar meninggalkan 1 Stack <font color=\"a6aafb\">Mark of the King</font>, hingga 5 Stack. Ketika mencapai Stack maksimum, serangan berikutnya meledakkan semua Stack <font color=\"a6aafb\">Mark of the King</font>, memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 400<font color=\"26e407\"> (+6% Total HP)</font> Max HP Minsitthar dan menyebabkan Stun ke target selama 0.8 detik serta memulihkan 400<font color=\"26e407\"> (+6% Total HP)</font> HP Minsitthar. Hanya dapat diaktifkan sekali setiap 6 detik pada target yang sama.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8a08e978ceeacea5127e4503de0611b.png",
+                      "skillid": 7440,
+                      "skillname": "Mark of the King",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 13   Mana Cost: 95",
+                      "skilldesc": "Minsitthar menikam dengan Spear of Glory, memberikan 175<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 30% Slow ke lawan yang terkena. Hero lawan yang terkena ujung tombaknya akan terkena Stun selama 0.6 detik. Setelah jeda singkat, Minsitthar menarik tombaknya, memberikan 175<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke semua lawan di jalurnya dan menarik Hero lawan yang terkena ke arahnya.   ",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b6b93437d70ecd419f9f836e05842008.png",
+                      "skillid": 7410,
+                      "skillname": "Spear of Glory",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4   Mana Cost: 50",
+                      "skilldesc": "Minsitthar membangkitkan kekuatan perisainya dan melepaskannya, memberikan 100<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke semua lawan di area dan menyebabkan 80% slow (berkurang dengan cepat dalam 2 detik). Sementara itu, dia memasuki mode <font color=\"a6aafb\">Phalanx</font> selama 3 detik, mengurangi 25% damage yang diterima dari depan dan memperkuat Basic Attack-nya untuk menyerang area di depannya dengan 100<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> setiap serangan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3c57f1f179d03eba8a27d72cc4e6702.png",
+                      "skillid": 7420,
+                      "skillname": "Shield Assault",
+                      "skilltag": [
+                        {
+                          "tagid": 63,
+                          "tagname": "Mengurangi Damage",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55   Mana Cost: 150",
+                      "skilldesc": "Minsitthar melompat ke depan dan memanggil 4 Royal Guard untuk membentuk area di sekitarnya. Royal Guard tidak dapat bergerak tetapi akan menyerang lawan di area dan memberikan <font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke mereka.\nMenyebabkan 30% Slow kepada lawan di area dan membuat mereka tidak dapat menggunakan Skill pergerakan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1da161bc8087d39ae7e3e50febef4f0.png",
+                      "skillid": 7430,
+                      "skillname": "King's Calling",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "741"
+                }
+              ],
+              "heroskin": null,
+              "name": "Minsitthar",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1c74ac9a30e2fc665c118dce09a721d5.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsortlabel": [
+                "EXP Lane",
+                "Roam"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbfdfa2d0a3cc95cbc197d0a14d5ecd1.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Initiator",
+                "Crowd Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f05d35785d6a3f4ad0b93c3723e84de3.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
+              "story": "Pangeran dari City of the Sand, seorang pejuang yang luar biasa",
+              "tale": ""
+            },
+            "id": 100571,
+            "sourceId": 2756563
+          },
+          "hero_id": 74,
+          "relation": {
+            "assist": {
+              "desc": "Minsitthar cocok dengan Marksman dengan Damage Tinggi, seperti Melissa dan Hanabi, karena dapat memberikan mereka kesempatan untuk memberikan Damage.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                114,
+                60,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Minsitthar kuat terhadap Hero yang bergantung pada Skill mobilitas karena Ultimate-nya melumpuhkan mereka. Minsitthar dapat langsung menghilangkan keunggulan beberapa Hero seperti Lancelot, Benedetta, dan Arlott.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                97,
+                120,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Minsitthar di-Counter oleh Hero dengan Movement Speed tinggi seperti Zilong dan Aulus yang dapat menghindari Ultimate-nya dengan mudah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                16,
+                108,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Minsitthar"
+        },
+        "dynamic": null,
+        "id": 2678810,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1727595544359,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

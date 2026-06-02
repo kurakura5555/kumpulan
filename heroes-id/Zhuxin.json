@@ -1,0 +1,277 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6671675eae22ebbadfe1875c",
+        "caption": "125烛心",
+        "configId": 144237,
+        "createdAt": 1718708062603,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/dc19d6cdeb31fe8889d51a0c184a069a.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50128c",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "40",
+                "80",
+                "80",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+              "heroid": 125,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap kali Zhuxin menggerakkan <font color=\"a6aafb\">Lantern Flare</font>, dia mengubah Mana yang digunakan menjadi 15 <font color=\"a6aafb\">Crimson Butterfly</font> untuk mengikuti <font color=\"a6aafb\">Spirit Lantern</font>-nya. Setelah Zhuxin berhenti menggunakan <font color=\"a6aafb\">Lantern Flare</font>, <font color=\"a6aafb\">Crimson Butterfly</font> akan menghilang secara perlahan, masing-masing memulihkan 3% Max Mana-nya.\nZhuxin memiliki Max Mana dasar yang tinggi, tetapi tidak berskala dengan levelnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_43020fccd51aa7420c2c8b76a2cdb4fe.png",
+                      "skillid": 12540,
+                      "skillname": "Crimson Butterflies",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 100",
+                      "skilldesc": "Zhuxin memberikan 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke semua lawan di area dan meninggalkan 1 Stack <font color=\"a6aafb\">Soul Snare</font>. Zhuxin juga menyebabkan 20% Slow ke semua lawan yang terkena dan memperoleh 20% Movement Speed tambahan untuk dirinya selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_155343c85c52dfccbf7697d353e115bd.png",
+                      "skillid": 12550,
+                      "skillname": "Fluttering Grace",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0.5",
+                      "skilldesc": "<font color=\"a6aafb\">Tahan</font>: Tahan tombol skill untuk menggerakkan <font color=\"a6aafb\">Spirit Lantern</font>. Skill ini memberikan 35<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke semua lawan dalam jangkauan setiap 0.33 detik (Bonus Magic meningkat menjadi 60% terhadap minion) dan menerapkan <font color=\"a6aafb\">Soul Snare</font> ke hero lawan yang terkena serangan. Ketika hero lawan memiliki 10 stack <font color=\"a6aafb\">Soul Snare</font>, <font color=\"a6aafb\">Crimson Butterfly</font> akan menangkap dan mengangkat mereka ke udara selama 1 detik.\n\n<font color=\"a6aafb\">Lepas</font>: Melemparkan semua lawan yang tertangkap ke lokasi target, memberikan 200<font color=\"62f8fe\"> (+150% Total Magic Power)</font> (+ 10% dari Max HP target yang tertangkap) sebagai <font color=\"7f62fe\">Magic Damage</font> ke semua lawan di area. Jika lawan terkena serangan beberapa kali, damage berikutnya berkurang sebesar 80%.\n\nSetelah target ditangkap, <font color=\"a6aafb\">Soul Snare</font> tidak bisa diterapkan lagi pada target tersebut selama 4 detik. Selama periode tersebut, skill ini memberikan 15% damage tambahan ke target tersebut.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+                      "skillid": 12510,
+                      "skillname": "Lantern Flare",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60   Mana Cost: 200",
+                      "skilldesc": "Zhuxin berpindah ke lokasi target, mendapatkan 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> shield dan menciptakan area selama 6 detik. Area tersebut memberikan 30<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menerapkan 1 stack <font color=\"a6aafb\">Soul Snare</font> ke lawan di sekitar setiap 0.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_a6ca23dff19dee8f2f26740ce29b47a9.png",
+                      "skillid": 12530,
+                      "skillname": "Crimson Beacon",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1251"
+                }
+              ],
+              "heroskin": null,
+              "name": "Zhuxin",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_8991b456c4482e7170422f3d77d16b00.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_13cfeec4bec7a27a09677e519f1ef9d2.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Damage",
+                "Crowd Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_8b6a9cadd1c781a56ae68b2a1ebe8d8f.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
+              "story": "Seorang gadis muda misterius yang memandu kupu-kupu api dengan Lentera Rohnya.",
+              "tale": ""
+            },
+            "id": 100620,
+            "sourceId": 2756563
+          },
+          "hero_id": 125,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/adaf737c13d48204dc39f4b48de91ac8.webp",
+          "relation": {
+            "assist": {
+              "desc": "Zhuxin dapat memberikan Damage dan CC dengan baik, namun potensinya terbuka penuh saat di Late Game, jadi Hero dengan CC dapat membantu Zhuxin bertahan di Early Game. Zhuxin cocok dengan Hero yang memberikan Damage berkelanjutan seperti Belerick, Kimmy, dan Cici untuk memberikan Damage yang mematikan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                123,
+                71,
+                70
+              ]
+            },
+            "strong": {
+              "desc": "Zhuxin adalah Counter yang bagus untuk lawan berjangkauan pendek dan yang kurang lincah, seperti Popol & Kupa dan Cyclops, karena Zhuxin memiliki keunggulan yang besar.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                33,
+                94
+              ]
+            },
+            "weak": {
+              "desc": "Seperti kebanyakan Mage, Zhuxin di-Counter oleh Hero dengan mobilitas dan Damage Burst yang tinggi, seperti Fanny dan Saber, yang dapat mengeliminasinya dengan cepat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                3,
+                17
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Zhuxin"
+        },
+        "dynamic": null,
+        "id": 2727282,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1754907661479,
+        "updatedUser": "peelzzhu"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}

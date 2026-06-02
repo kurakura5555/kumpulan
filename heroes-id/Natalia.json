@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df59",
+        "caption": "024娜塔莉亚",
+        "configId": 144237,
+        "createdAt": 1710416511083,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_167abfbefedc99d6be616bb97f3f0b1f.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501228",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "10",
+                "60",
+                "60",
+                "90"
+              ],
+              "difficulty": "90",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+              "heroid": 24,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Jika Natalia berdiam di dalam semak-semak tanpa menerima Damage selama 1 detik, dia akan memasuki Mode <font color=\"a6aafb\">Camouflage</font> dan memperoleh 15% Movement Speed. Di mode ini, Basic Attack berikutnya akan membuatnya berpindah ke belakang target dan memberikan 200<font color=\"fba51f\"> (+110% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> serta menyebabkan Silence selama 0.25 detik.\n\nMemberikan Damage, menerima Damage atau menggunakan Skill akan langsung mengakhiri Mode <font color=\"a6aafb\">Camouflage</font>, namun Basic Attack berikutnya akan tetap diperkuat selama 1 detik.\n\nDamage Critical dasar Natalia berkurang menjadi 150%, namun Damage-nya terhadap Creep meningkat menjadi 150%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70c63dbf8a6c5f7c13e000e50cb45048.png",
+                      "skillid": 2440,
+                      "skillname": "Assassin Instinct",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Natalia berlari ke arah target, memberikan 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di jalurnya.\n\nSetelah mengenai lawan, dia dapat menggunakan Skill ini kembali dalam waktu 5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fe9f13f142891ef055c36a9c5fe8e56.png",
+                      "skillid": 2410,
+                      "skillname": "Claw Dash",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "Natalia melepaskan <font color=\"a6aafb\">Bom Asap</font> di lokasinya, menyebabkan 25% Slow ke lawan dan membuatnya kebal terhadap Basic Attack lawan selama 4 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2dc19263463a18f2a7706ff9ceb90d9.png",
+                      "skillid": 2420,
+                      "skillname": "Smoke Bomb",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 3",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Natalia mendapatkan 15% Critical Chance.\n\n<font color=\"a6aafb\">Aktif</font>: Natalia langsung memasuki mode <font color=\"a6aafb\">Assassin Instinct</font>. Dia bisa menyimpan hingga 2 penggunaan Ultimate, dan setiap penggunaan bisa terisi dalam 30 detik. Mengeliminasi creep akan mengurangi waktu pengisian sebesar 50% dari total waktu pengisian.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a505102cf3c9127d94b3fa4ae5de6734.png",
+                      "skillid": 2430,
+                      "skillname": "The Hunt",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "241"
+                }
+              ],
+              "heroskin": null,
+              "name": "Natalia",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8ca11ea3470a120eb3b011225e40bf08.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsortlabel": [
+                "Jungle",
+                "Roam"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_ee09a1367736f8a46641f07f5d1d6618.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Finisher"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2ad70b1e8501f7f7ef08e4e8951e19ec.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
+              "story": "Seorang pembunuh yang diasingkan oleh Moniyan Empire.",
+              "tale": ""
+            },
+            "id": 100520,
+            "sourceId": 2756563
+          },
+          "hero_id": 24,
+          "relation": {
+            "assist": {
+              "desc": "Natalia cocok dengan Hero yang memiliki Damage Area Efek tinggi seperti Yi Sun-shin dan Vexana. Natalia dapat bersembunyi saat rekan menyerang lawan, lalu dia dapat melanjutkan serangan pada ber-HP rendah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                30,
+                38
+              ]
+            },
+            "strong": {
+              "desc": "Natalia meng-Counter Hero dengan CC dan Damage Burst rendah seperti Novaria dan Irithel karena mereka tidak dapat menghentikan Damage Burst Natalia.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                119,
+                43
+              ]
+            },
+            "weak": {
+              "desc": "Natalia di-Counter oleh Hero yang dapat membatasi mobilitasnya seperti Minsitthar dan Kaja karena mereka dapat dengan mudah menghilangkan keunggulan Natalia.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                74,
+                62
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678760,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

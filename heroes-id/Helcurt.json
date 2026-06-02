@@ -1,0 +1,307 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfc7",
+        "caption": "051哈卡特",
+        "configId": 144237,
+        "createdAt": 1710416511704,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/9228edc9654dd14f3f7a862e8aafd32d.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7d54de9ffe40c05d51b4a27318ed5f6d.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50124b",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "50",
+                "50",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+              "heroid": 51,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Helcurt tetap berada di mode <font color=\"a6aafb\">Prowler</font> hingga terlihat oleh tim lawan, memperoleh 15% Movement Speed tambahan, dan terus-menerus memulihkan <font color=\"fba51f\"> (+30% Total Physical Attack)</font> HP jika dia tidak memberikan Damage apa pun.\nDia memperoleh 50% Attack Speed dan 50% Movement Speed tambahan (berkurang seiring waktu) selama 4 detik saat terlihat dan meninggalkan mode <font color=\"a6aafb\">Prowler</font> 0.75 detik kemudian.\nHero yang tereliminasi setelah diserang oleh Helcurt meninggalkan <font color=\"a6aafb\">kabut gelap</font> yang meledak dan menyebar dengan Cooldown selama 10 detik. Helcurt memasuki mode <font color=\"a6aafb\">Conceal</font> saat berada dalam <font color=\"a6aafb\">kabut gelap</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc8d2817dd15f112fee407d391b40263.png",
+                      "skillid": 5140,
+                      "skillname": "Shadow of Styx",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Saat Helcurt berada dalam mode <font color=\"a6aafb\">Prowler</font>, <font color=\"a6aafb\">Terrify</font> juga akan memengaruhi hero lawan yang terkena dan mengungkap posisi mereka selama beberapa saat. Cooldown skill berkurang 3 kali lebih cepat dari biasanya.\n<font color=\"a6aafb\">Aktif</font>: Helcurt berpindah ke lokasi target dan memberikan 150<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area, mengurangi 60% Movement Speed lawan selama 0.75 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c382e8831549b8418b96bd2bf1a1a747.png",
+                      "skillid": 5110,
+                      "skillname": "Hidden Terror",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Helcurt mendapatkan 1 <font color=\"a6aafb\">Deadly Stinger</font> setiap 1.5 detik saat berada di mode <font color=\"a6aafb\">Prowler</font> atau pada setiap Basic Attack. Bisa menyimpan hingga 5 <font color=\"a6aafb\">Deadly Stinger</font>.\n\n<font color=\"a6aafb\">Aktif</font>: Helcurt menusukkan semua <font color=\"a6aafb\">Deadly Stinger</font> ke depan, masing-masing memberikan 180<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan (minion dan creep hanya menerima 70% dari damage).\n<font color=\"a6aafb\">Deadly Stinger</font> dihitung sebagai Basic Attack tetapi tidak bisa memberikan Damage Critical.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_488c8c77f2759c625d9b480310190446.png",
+                      "skillid": 5120,
+                      "skillname": "Deadly Stinger",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60",
+                      "skilldesc": "Helcurt memanggil Dark Night, mengurangi jarak pandang semua lawan dan membuat mereka tidak dapat melihat rekannya selama 3 detik. Selama Dark Night berlangsung, Helcurt memperoleh 40% Movement Speed tambahan.\n\nDark Night membuat Helcurt lebih mudah keluar dari jarak pandang lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ec55d4fae0baee5fc5b776963020c5.png",
+                      "skillid": 5130,
+                      "skillname": "Dark Night Falls",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "511"
+                }
+              ],
+              "heroskin": null,
+              "name": "Helcurt",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4fcae9e3a7db0bd9f49aea013839d217.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsortlabel": [
+                "Jungle",
+                "Roam"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffd27cd02c46f7075caedcd51de80d9a.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Push",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_65be14656935f49b259fdeaee092307a.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7d54de9ffe40c05d51b4a27318ed5f6d.jpg",
+              "story": "Mimpi buruk Abyss yang rela mengkhianati siapa pun demi tetap hidup.",
+              "tale": ""
+            },
+            "id": 100556,
+            "sourceId": 2756563
+          },
+          "hero_id": 51,
+          "relation": {
+            "assist": {
+              "desc": "Ultimate Helcurt sangat berguna untuk mengurangi jarak pandang lawan dan memudahkan dirinya dan timnya untuk menyerang. Selain itu, Hero dengan Crowd Control seperti Tigreal, Esmeralda, dan Terizla cocok dengan Helcurt untuk mengeliminasi lawan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                6,
+                81,
+                82
+              ]
+            },
+            "strong": {
+              "desc": "Helcurt dapat mendekati lawan dengan mobilitasnya dan menghabisi Hero empuk seperti Layla, Chang'e, dan Vale dengan Damage Burst-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                18,
+                61,
+                66,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Helcurt harus menghindari Hero Tank yang tebal, seperti Fredrinn, Belerick, dan Gatotkaca. Saat Helcurt terkena Crowd Control mereka, dia sangat mudah dikalahkan oleh rekan mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                117,
+                70,
+                41,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/HelcurtRE"
+        },
+        "dynamic": null,
+        "id": 2678787,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

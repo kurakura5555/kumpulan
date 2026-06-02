@@ -1,0 +1,280 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e063",
+        "caption": "090希尔维娅",
+        "configId": 144237,
+        "createdAt": 1710416512321,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_4c91a50abb279d6926028252dde8cc72.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50126a",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "50",
+                "40",
+                "70",
+                "20"
+              ],
+              "difficulty": "20",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+              "heroid": 90,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Basic Attack Silvanna memberikan 25<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"62f8fe\">(+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nSerangan Silvanna meninggalkan Mark ke Hero lawan selama 5 detik saat mengenainya, setiap Mark mengurangi 3 -6 Physical & Magic Defense mereka (hingga 5 Stack).\nSkill dan Basic Attack Silvanna memberikan 30% Damage tambahan pada Hero lawan dengan jumlah Mark maksimal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a659e353c870bc077564afaaf4d8c2c.png",
+                      "skillid": 9040,
+                      "skillname": "Knightess' Resolve",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 11   Mana Cost: 70",
+                      "skilldesc": "Silvanna berlari ke depan. Saat mencapai jangkauan maksimum atau mengenai lawan selain Minion, dia mengayunkan tombaknya, memberikan 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Stun ke lawan di sekitar selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+                      "skillid": 9010,
+                      "skillname": "Cometic Lance",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 35",
+                      "skilldesc": "Silvanna menyerang ke arah target dan memutar tombaknya sebanyak 6 kali serta memperoleh 350<font color=\"62f8fe\"> (+150% Total Magic Power)</font> Shield. Setiap putaran memberikan 165<font color=\"62f8fe\"> (+45% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan sedikit menarik target ke tengah. Putaran akan bertambah 1 kali untuk setiap 50% Attack Speed tambahan yang ia miliki.\n\nSkill hanya memberikan 50% Damage ke Minion.\n\n<font color=\"a6aafb\">Spiral Strangling</font> dihitung sebagai Basic Attack tetapi tidak dapat memberikan Damage Critical.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e72b0d82cfd40062ad9bb1485232b91f.png",
+                      "skillid": 9020,
+                      "skillname": "Spiral Strangling",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 52   Mana Cost: 130",
+                      "skilldesc": "Silvanna melompat ke lokasi target dan menciptakan Circle of Light saat mendarat, memberikan 350<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area, menyebabkan 40% Slow selama 1.5 detik, dan menjebak Hero lawan terdekat dalam area selama 3.5 detik. (Skill ini tidak dapat diganggu).\n\nSilvanna memperoleh 100% Attack Speed dan 40% Lifesteal saat di dalam area.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef133226f4bc7ef8b815463980daa1a6.png",
+                      "skillid": 9030,
+                      "skillname": "Imperial Justice",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "901"
+                }
+              ],
+              "heroskin": null,
+              "name": "Silvanna",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1582f0613b6c03e1f4f147a3da23d70a.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe98dd2e19bb6c29591763d1d11a3eb7.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Initiator",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c996b205b5d35cab1a1e8bdb993a7606.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
+              "story": "Putri dan calon ratu Moniyan Empire.",
+              "tale": ""
+            },
+            "id": 100586,
+            "sourceId": 2756563
+          },
+          "hero_id": 90,
+          "relation": {
+            "assist": {
+              "desc": "Silvanna cocok dengan Tank karena dia memperoleh ruang untuk memberikan Damage.Misalnya, Atlas dan Tigreal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                93,
+                6,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Silvanna memiliki jarak serangan jauh dan Crowd Control kuat, \nyang membuatnya kuat melawan Mage dan Marksman barisan belakang, seperti Layla atau Valir.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                18,
+                57,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Tetapi dia lemah terhadap Fighter dengan banyak Crowd Control\nseperti Martis karena mereka dapat membatalkan Skill 2-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png"
+                  }
+                },
+                0,
+                0,
+                0
+              ],
+              "target_hero_id": [
+                58,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678826,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

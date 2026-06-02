@@ -1,0 +1,269 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e047",
+        "caption": "083埃克斯",
+        "configId": 144237,
+        "createdAt": 1710416512175,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/d717ccd7463699aab1c51c64a661555d.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/52e2334206e3b30354b129f86ada1ef5.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50126b",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "80",
+                "30",
+                "10",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+              "heroid": 83,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Firaga Armor mewarisi 160% Max HP X.Borg dan menyerap semua damage yang yang diterima saat Firaga Armor aktif. Ketika Firaga Armor hancur, X.Borg berguling ke arah Joystick (dia menjadi kebal serangan selama proses ini). Energy Firaga Armor akan terisi secara perlahan saat X.Borg berada dalam Mode Armorless. Saat energy penuh, X.Borg akan mengenakan kembali Firaga Armor dan memulihkannya menjadi 30% HP.\nSerangan X.Borg menyebabkan lawan memasuki mode <font color=\"a6aafb\">Overheat</font>. Lawan dalam mode <font color=\"a6aafb\">Overheat</font> akan menjatuhkan Firaga Supply saat terkena damage dari X.Borg. Mengambil Firaga Supply memulihkan 10% HP Firaga Armor (atau 10 energy saat dalam Mode Armorless).\nSkill X.Borg memberikan <font color=\"ffe63c\">True Damage</font> ke lawan dalam mode <font color=\"a6aafb\">Overheat</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89f511f46d1e6c6db972cf7bb37924f5.png",
+                      "skillid": 8340,
+                      "skillname": "Firaga Armor",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4",
+                      "skilldesc": "X.Borg menyemburkan api, memberikan 25<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"62f8fe\">(+40% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> 7 kali selama 2 detik ke lawan di depannya (75% damage ke minion).\n\nMode Armorless: Area serangan menjadi lebih sempit tapi lebih panjang, tapi damage berkurang menjadi 60%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ee1680e53d5823b14f9989bc10bc719.png",
+                      "skillid": 8310,
+                      "skillname": "Fire Missiles",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9",
+                      "skilldesc": "X.Borg menembakkan 5 Fire Stake ke depan dan menariknya kembali setelah 1.7 detik. Setiap Fire Stake memberikan 50<font color=\"fba51f\"> (+20% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menarik kembali lawan serta Firaga Supply di jalurnya ke arah X.Borg.\n\nMode Armorless: X.Borg menyesuaikan peluncur tembakan, sehingga Fire Stake bergerak lebih jauh dan lebih rapat.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9194fa592d8f77a7b9e9b1676e47b3e4.png",
+                      "skillid": 8320,
+                      "skillname": "Fire Stake",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 30",
+                      "skilldesc": "X.Borg menerjang ke arah target sambil berputar dan menyemburkan api (tidak bisa mengambil Firaga Supply selama proses ini), memberikan 90<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"62f8fe\">(+45% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> 12 kali dan menyebabkan 25% slow ke lawan yang terkena serangan. Dia berhenti saat bersentuhan dengan hero lawan dan akan menyebabkan 40% slow tambahan. Setelah 3 detik, mecha suit X.Borg meledak, memberikan 300 + 15% dari Max HP target sebagai <font color=\"ffe63c\">True Damage</font>. Firaga Armor akan langsung meledak saat hancur, tapi damage-nya berkurang menjadi 50%. Ledakan tersebut menghancurkan Firaga Armor, menghapus semua debuff, dan mengumpulkan semua Firaga Supply di sekitar. Tidak bisa digunakan dalam <font color=\"a6aafb\">Mode Armorless</font>.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Langsung berhenti menyemburkan api dan meledak lebih awal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fece4e752139100505f5eb2bd08390aa.png",
+                      "skillid": 8330,
+                      "skillname": "Last Insanity",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "831"
+                }
+              ],
+              "heroskin": null,
+              "name": "X.Borg",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f372795b38be1e2b2037229928bfe57.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_cc433460d0b2053a3d3a18b46462bfb2.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Regen",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3c95c664318bd2e9c61d8d7e15578ff5.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a89aa29718e61d5225eba7fabca47b07.jpg",
+              "story": "Sebuah api tak terkendali yang bertekad membalas dendam pada Eruditio.",
+              "tale": ""
+            },
+            "id": 100587,
+            "sourceId": 2756563
+          },
+          "hero_id": 83,
+          "relation": {
+            "assist": {
+              "desc": "X.Borg cocok dengan Hero yang unggul dalam memberikan Damage Burst, seperti Karina dan Martis. Damage Area X.Borg akan cukup menguras HP lawannya untuk dieliminasi oleh rekan timnya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                8,
+                58,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "X.Borg meng-Counter Fighter bermobilitas rendah, seperti Terizla dan Aulus. Skill 1-nya memiliki jangkauan yang lebar dan dapat digunakan sambil bergerak, memudahkannya untuk menarik ulur.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                82,
+                108,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "X.Borg di-Counter oleh Fighter ber-Damage Burst seperti Martis dan Dyrroth. Mereka dapat mengeliminasi X.Borg dengan cepat saat di Mode Armorless.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                58,
+                85,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678819,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763037868890,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

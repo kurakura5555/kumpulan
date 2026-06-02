@@ -1,0 +1,306 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfdb",
+        "caption": "056古辛",
+        "configId": 144237,
+        "createdAt": 1710416511781,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/5cab7491b277fb1d80b710f5750ad7a1.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/a888de3fe448be8f29b50a62d0193aaf.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50124e",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "30",
+                "90",
+                "10",
+                "80"
+              ],
+              "difficulty": "80",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+              "heroid": 56,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap penggunaan Skill akan menambahkan kekuatan ke belati milik Gusion (dapat di-Stack hingga 4 kali). Setiap Stack memperkuat Basic Attack berikutnya untuk memberikan Damage tambahan setara dengan 3% Max HP target, dan memulihkan 50<font color=\"62f8fe\"> (+25% Total Magic Power)</font> HP untuk dirinya sendiri.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dd599ad04fa456a864ea1e34e14d7739.png",
+                      "skillid": 5640,
+                      "skillname": "Dagger Specialist",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 50",
+                      "skilldesc": "Gusion melemparkan belati ke arah target, memberikan 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan meninggalkan Mark pada lawan pertama yang terkena.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Gusion bergerak ke belakang lawan yang terkena Mark, memberikan 200<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke mereka. Skill ini tidak dapat dibatalkan saat Gusion bergerak ke belakang lawan yang terkena Mark.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                      "skillid": 5610,
+                      "skillname": "Sword Spike",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 60",
+                      "skilldesc": "Gusion melemparkan sekumpulan belati ke arah target, setiap belati memberikan 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 6% Slow ke lawan yang terkena selama 2 detik (efek Slow dari setiap belati dapat di-Stack, hingga 30%).\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Gusion memanggil kembali semua belatinya, setiap belati memberikan 65<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                      "skillid": 5620,
+                      "skillname": "Shadowblade Slaughter",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 24   Mana Cost: 100",
+                      "skilldesc": "Gusion berpindah ke lokasi target, mereset Cooldown <font color=\"a6aafb\">Sword Spike</font> dan <font color=\"a6aafb\">Shadowblade Slaughter</font>. Jika <font color=\"a6aafb\">Shadowblade Slaughter</font> digunakan sekali sebelum Cooldown-nya direset, Gusion dapat melemparkan lima belati lagi pada penggunaan <font color=\"a6aafb\">Shadowblade Slaughter</font> berikutnya, dan akan memanggil kembali total sepuluh belati.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Gusion berlari ke arah yang ditentukan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ffa279a397359b614e8acecde38c0bb.png",
+                      "skillid": 5630,
+                      "skillname": "Incandescence",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "561"
+                }
+              ],
+              "heroskin": null,
+              "name": "Gusion",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b0de2d71aeb40a289c44288b1861b641.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82dbd20a7d0f274520895007898199e0.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7bbbe61245a37a818b24e95d097a02f0.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6bc4b6cf777251ca6ff390fe8d2223c3.jpg",
+              "story": "Putra yang memberontak dari House Paxley.",
+              "tale": ""
+            },
+            "id": 100558,
+            "sourceId": 2756563
+          },
+          "hero_id": 56,
+          "relation": {
+            "assist": {
+              "desc": "Gusion cocok dengan Hero Crowd Control kuat, yang membuatnya lebih mudah mengenai target dengan Skill 1, seperti Vexana dan Pharsa.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                38,
+                52,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Gusion kuat terhadap Hero dengan mobilitas rendah yang kekurangan kemampuan pergerakan, sehingga dapat dikejar dengan mudah. Seperti Layla dan Hanabi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                18,
+                60,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Gusion di-Counter oleh Hero Tank dengan Crowd Control target tunggal yang baik. Saat terkena Crowd Control, Gusion akan sulit untuk kabur. Seperti Franco dan Kaja.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                10,
+                62,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Gusion"
+        },
+        "dynamic": null,
+        "id": 2678792,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763037678169,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

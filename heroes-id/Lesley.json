@@ -1,0 +1,289 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfcf",
+        "caption": "053莱斯丽",
+        "configId": 144237,
+        "createdAt": 1710416511735,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/cdc8a6b743a8fe10cb8e1733aad94d72.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/1f0d645266d902f3f927ea7fc04c1bca.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501249",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "10",
+                "70",
+                "20",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
+              "heroid": 53,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Jika Lesley tidak menerima damage selama 5 detik, Basic Attack berikutnya mendapatkan jangkauan tambahan dan 50% Critical Chance serta memberikan 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"ffe63c\">True Damage</font> (memberikan 20% damage tambahan ke minion).\nSetiap Physical Penetration tetap dan setiap 1% Physical Penetration Lesley akan dikonversi menjadi 1% Critical Damage, tapi Critical Damage dasarnya berkurang menjadi 130%.\nBasic Attack Lesley memulihkan 5 energy dan <font color=\"a6aafb\">Lethal Shot</font> memulihkan energy sebanyak dua kali lipat. Efek <font color=\"a6aafb\">Lethal Shot</font> akan langsung aktif setelah Lesley menggunakan skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_296a3745ef0ec7c978400b3e7f481030.png",
+                      "skillid": 5340,
+                      "skillname": "Lethal Shot",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 3.5   Energy Cost: 30",
+                      "skilldesc": "Lesley memasuki Mode Camouflage, memperoleh Regen Energi dua kali lipat, 40% Movement Speed tambahan, serta 85 Physical Attack tambahan.\n\nMode ini berlangsung selama 3 detik atau hingga Lesley menerima atau memberikan Damage. Lawan dapat mendeteksi posisi Lesley melalui distorsi dari lingkungan di sekeliling mereka.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8caf30fc02cfaa2f500311936dbfc31.png",
+                      "skillid": 5310,
+                      "skillname": "Master of Camouflage",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Energy Cost: 40",
+                      "skilldesc": "Lesley melemparkan granat ke arah target sambil sedikit melompat ke belakang, memberikan 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area dan menyebabkan Knockback ke mereka.\n\nLesley dapat menggunakan Skill pada saat Mode <font color=\"a6aafb\">Ultimate Snipe</font> untuk membatalkan Mode ini dan langsung menembakkan Fatal Bullet ke target. Serangan hanya akan diaktifkan ketika terdapat sisa Fatal Bullet yang belum ditembakkan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18a15ed9f8facd0926ea8a8ecd200e25.png",
+                      "skillid": 5320,
+                      "skillname": "Tactical Grenade",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Critical Chance Lesley meningkat sebesar 10%.\n<font color=\"a6aafb\">Aktif</font>: Lesley mengunci serangan ke hero lawan dan menembakkan 4 Fatal Bullet secara berturut-turut, masing-masing memberikan 250<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> (+5% HP target yang hilang) <font color=\"fb1f1f\">Physical Damage</font> dan memulihkan 10 energy saat mengenai lawan (Peluru bisa dihalangi oleh hero lawan lainnya).\nJika skill ini diganggu, setiap peluru yang tersisa akan mengurangi 10% cooldown skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6126c3a551ed56f43e76df1f21510d2.png",
+                      "skillid": 5330,
+                      "skillname": "Ultimate Snipe",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "531"
+                }
+              ],
+              "heroskin": null,
+              "name": "Lesley",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe343ddb9097b53f2d1e27d1c342add7.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_2bd608ac82a1af4783c5d0fff0c280dc.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Marksman",
+                "Assassin"
+              ],
+              "speciality": [
+                "Finisher",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5bbcf52dc317a3f64f8baabb577c00d0.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_632a7bc2e4c58d216747313f254fe717.jpg",
+              "story": "Putri angkat dari House Vance, penembak jitu yang bisa berkamuflase.",
+              "tale": ""
+            },
+            "id": 100553,
+            "sourceId": 2756563
+          },
+          "hero_id": 53,
+          "relation": {
+            "assist": {
+              "desc": "Lesley cocok dengan Hero Tank yang memberikan kondisi menyerang lebih baik untuknya, seperti Minotaur dan Baxia.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                19,
+                87,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Lesley kuat melawan Hero Tank yang sangat bergantung dengan Equipment. Karena serangannya dapat memberikan True Damage yang akan mengabaikan Defense yang didapatkan oleh Hero tersebut dari Equipment. Seperti Gatotkaca dan Fredrinn.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                41,
+                117,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Lesley di-Counter oleh Hero Assassin dengan berbagai kemampuan pergerakan, yang akan membuatnya kehilangan keunggulan dalam jarak. Seperti Ling dan Lancelot.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                84,
+                47,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678789,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763037741283,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

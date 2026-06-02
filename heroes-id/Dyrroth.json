@@ -1,0 +1,304 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e04f",
+        "caption": "085迪亚斯",
+        "configId": 144237,
+        "createdAt": 1710416512198,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/716fa6fcc7d4b4a73827db62e0c8fcf1.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/636054ad39847fcc242d0b03feadffac.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50126d",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "50",
+                "20",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
+              "heroid": 85,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Ketika Rage Dyrroth mencapai 50%, dia memperkuat <font color=\"a6aafb\">Burst Strike</font> dan <font color=\"a6aafb\">Spectre Step</font>.\n\nSetelah setiap 2 Basic Attack, Dyrroth melancarkan Circle Strike, memberikan <font color=\"fba51f\"> (+150% Total Physical Attack)</font> - <font color=\"fba51f\"> (+180% Total Physical Attack)</font> (berskala dengan level) <font color=\"fb1f1f\">Physical Damage</font> ke lawan di dalam lingkaran dan memulihkan <font color=\"26e407\"> 7%</font> - <font color=\"26e407\"> 10%</font> <font color=\"26e407\">Max HP</font> (berskala dengan level, berkurang setengah terhadap minion). Serangan ini tidak mengaktifkan Efek Basic Attack.\nSetiap kali dia memberikan damage ke lawan, cooldown dari <font color=\"a6aafb\">Burst Strike</font> dan <font color=\"a6aafb\">Spectre Step</font> berkurang sebanyak 1 detik.\n\nDyrroth memulihkan 2% - 5% Rage per detik (berskala dengan level).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_ae1fdb44e6ccbe768170c1200dc1bb5a.png",
+                      "skillid": 8540,
+                      "skillname": "Wrath of the Abyss",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6",
+                      "skilldesc": "Dyrroth mengeluarkan serangan ledakan ke arah yang ditentukan. Setiap ledakan memberikan 240<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan dan menyebabkan 25% slow selama 1.5 detik. (Damage akan berkurang saat mengenai target yang sama dan hanya memberikan 75% damage ke minion).\n\n<font color=\"a6aafb\">Penguatan Abyss</font>: Jangkauan serangan ledakan meningkat, memberikan 140% dari damage aslinya, dan efek slow menjadi dua kali lipat.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_7e6352d703b1c9ab808bc391f343442d.png",
+                      "skillid": 8510,
+                      "skillname": "Burst Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6",
+                      "skilldesc": "Dyrroth menerjang ke arah yang ditentukan. Dia akan berhenti saat mencapai jarak terjauh atau mengenai hero lawan atau Creep, memberikan 230<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target dan sedikit menyebabkan knockback. Saat skill ini digunakan lagi, dia akan mengunci serangan ke target dan mengeluarkan Fatal Strike, memberikan 345<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan mengurangi 40% Physical Defense target selama 4 detik.\n<font color=\"a6aafb\">Penguatan Abyss</font>: Fatal Strike akan menjangkau lebih jauh dan memberikan 150% dari damage awal, menyebabkan 90% slow tambahan dan mengurangi 60% Physical Defense target selama 4 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_79b3c08cdec6752a445d5d633c65c8eb.png",
+                      "skillid": 8520,
+                      "skillname": "Spectre Step",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 36",
+                      "skilldesc": "Setelah jeda singkat, Dyrroth mengeluarkan serangan yang kuat ke arah target (skill ini hanya bisa dibatalkan oleh Suppress), memberikan 650<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> + 20% dari HP target yang hilang sebagai <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya, dan menyebabkan 55% slow selama 0.8detik. Skill ini memberikan hingga 1500 damage ke lawan non-hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_15bf420f66a913f48b468b5830bd709a.png",
+                      "skillid": 8530,
+                      "skillname": "Abysm Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "851"
+                }
+              ],
+              "heroskin": null,
+              "name": "Dyrroth",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ce1031d6d4e49f33719bd3d833a9b45b.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsortlabel": [
+                "EXP Lane",
+                "Jungle"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_bf8dcb20923cee2407563e0fe88aa557.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Charge",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7c963e904af6713c39623870a1fc7e71.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b9e91a0028d7adc37139c11a05cf1461.jpg",
+              "story": "Dahulu seorang pangeran agung dari Moniyan Empire, dia diculik oleh Alice, sang Ratu Blood Demon, yang kemudian mengubahnya menjadi Prince of the Abyss.",
+              "tale": ""
+            },
+            "id": 100589,
+            "sourceId": 2756563
+          },
+          "hero_id": 85,
+          "relation": {
+            "assist": {
+              "desc": "Damage Burst jarak dekat Dyrroth cocok dengan Hero dengan Crowd Control satu target, seperti Franco dan Kaja.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                10,
+                62,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Dyrroth memiliki kemampuan mengejar dan Damage Burst jarak dekat yang bagus, dia kuat melawan Hero dengan Mobilitas rendah, seperti Gord dan Hanabi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                23,
+                60,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Menjadi Hero jarak dekat membuatnya lemah terhadap Hero dengan efek Slow dan Hero dengan kemampuan tarik ulur serangan, seperti Vexana dan Belerick.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                38,
+                70,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678821,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763038181294,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

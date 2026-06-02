@@ -1,0 +1,292 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "66ebe18b1d40a04fbf72cf76",
+        "caption": "126肃游",
+        "configId": 144237,
+        "createdAt": 1726734731722,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/1cce8eefc4b4c738e8aafafff6bafc84.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/13912f0dbc96b6cf53a00e80ff731dab.jpg",
+          "hero": {
+            "_createdAt": 1726745699526,
+            "_id": "66ec0c63328f1c9ef8397ca5",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "60",
+                "60",
+                "50",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+              "heroid": 126,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "<font color=\"a6aafb\">Ketuk tombol</font> skill apa pun untuk mengembalikan Suyou ke wujud Manusia, memberikannya 40 Movement Speed dan mengurangi jeda antara Basic Attack.\n<font color=\"a6aafb\">Tahan tombol</font> skill apa pun untuk mengubah Suyou ke wujud Makhluk Abadi, meningkatkan damage Basic Attack menjadi 125% dan memberikannya 20% Pengurangan Physical Damage. Di wujud ini, untuk setiap 20 Physical Attack tambahan miliknya, dia mendapatkan 1% Pengurangan Physical Damage (hingga 40%).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_8b4882f70a3c4538683a2cb8739c7027.png",
+                      "skillid": 12670,
+                      "skillname": "Transient Immortal",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "<font color=\"a6aafb\">Ketuk</font>: Suyou melempar senjatanya ke arah target, memberikan 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Lalu Suyou berpindah ke lokasi senjata itu, menangkapnya, dan menebas ke arah yang berlawanan, memberikan 375<font color=\"fba51f\"> (+150% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n<font color=\"a6aafb\">Tahan</font>: Suyou menerjang ke arah target, memberikan 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Saat mengenai hero lawan, dia berhenti dan menyebabkan stun ke lawan dalam area di depannya selama 0.6 detik. Jarak pergerakan meningkat berdasarkan lamanya tombol ditahan.\n<font color=\"A4AAC7\">Suyou bisa terkena crowd control saat mengumpulkan kekuatan, tapi skill-nya tidak akan dibatalkan</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                      "skillid": 12610,
+                      "skillname": "Blade Surge",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "<font color=\"a6aafb\">Ketuk</font>: Suyou menebas dengan senjatanya, memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 300<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> + 15% HP target yang hilang ke lawan di area.\n<font color=\"a6aafb\">Tahan</font>: Suyou menebas 3 kali di area. Dua tebasan pertama masing-masing memberikan 250<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, tebasan terakhir memberikan 400<font color=\"fba51f\"> (+128% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan memulihkan 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> HP untuk dirinya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                      "skillid": 12630,
+                      "skillname": "Soul Sever",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "<font color=\"a6aafb\">Ketuk</font>: Suyou bergerak mundur dan mengayunkan senjatanya ke arah target, memberikan 420<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area dan di jalur saat bergerak ke belakang, serta mengurangi 30% Movement Speed mereka selama 1.5 detik.\n<font color=\"a6aafb\">Tahan</font>: Suyou menembakkan anak panah ke arah target, memberikan 580<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target yang terkena. Jaraknya meningkat berdasarkan lamanya tombol ditahan. \n<font color=\"A4AAC7\">Suyou bisa terkena crowd control saat mengumpulkan kekuatan, tapi skill-nya tidak akan dibatalkan</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                      "skillid": 12650,
+                      "skillname": "Evil Queller",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1261"
+                }
+              ],
+              "heroskin": null,
+              "name": "Suyou",
+              "painting": "",
+              "recommendlevel": [
+                "2",
+                "3",
+                "1",
+                "0",
+                "2/1"
+              ],
+              "recommendlevellabel": "2-3-1-0-2/1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_422ffc7849e8bb01629d2423054ed410.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Assassin",
+                "Fighter"
+              ],
+              "speciality": [
+                "Chase",
+                "Burst"
+              ],
+              "squarehead": "",
+              "squareheadbig": "",
+              "story": "Seorang pengusir roh dari Zhu'an yang mewarisi kekuatan Nuo, sang Makhluk Abadi.",
+              "tale": ""
+            },
+            "id": 100756,
+            "sourceId": 2756563
+          },
+          "hero_id": 126,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/cf569e7a8746535e207d1957ec2d8db9.webp",
+          "relation": {
+            "assist": {
+              "desc": "Hero crowd control (seperti Tigreal) memudahkan Suyou untuk memberikan damage yang besar; hero yang memberikan pemulihan dan movement speed tambahan (seperti Rafaela) membantu Suyou menarik ulur dengan lebih baik.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                14,
+                6
+              ]
+            },
+            "strong": {
+              "desc": "Kemampuan burst jarak jauh dan pengejaran Suyou yang kuat membuat hero tanpa Blink atau Charge, seperti Xavier dan Ixia, sulit untuk melarikan diri.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                121,
+                115
+              ]
+            },
+            "weak": {
+              "desc": "Karena Suyou perlu menahan tombol skill, hero dengan crowd control mudah menghentikan serangannya, seperti Badang dan Melissa.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                114,
+                77
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2763832,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1754907637234,
+        "updatedUser": "peelzzhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

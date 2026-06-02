@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df4d",
+        "caption": "021隼",
+        "configId": 144237,
+        "createdAt": 1710416511038,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/fa4a5039fcabbfe232be96f533d1318e.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50122c",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "40",
+                "50",
+                "10",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+              "heroid": 21,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Serangan Hayabusa meninggalkan Stack <font color=\"a6aafb\">Shadow Mark</font> ke lawan yang terkena (hingga 4 Stack). Setiap Stack bertahan selama 6 detik dan meningkatkan 5% Damage Hayabusa ke lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1255ed2b33be690a777dce8a797557c1.png",
+                      "skillid": 2140,
+                      "skillname": "Ninjutsu: Trace of Shadow",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4   Energy Cost: 30",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Hayabusa mendapatkan 3% Spell Vamp secara permanen.\n<font color=\"a6aafb\">Aktif</font>: Hayabusa melemparkan tiga shuriken yang kembali ke arah target, masing-masing memberikan 220<font color=\"fba51f\"> (+75% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 35% slow selama 2 detik ke lawan yang terkena. Serangan berikutnya pada lawan yang sama akan memberikan 70% lebih sedikit damage (hanya berkurang 50% terhadap creep). Dia juga memulihkan 10 Energy saat mengenai lawan non-minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+                      "skillid": 2110,
+                      "skillname": "Ninjutsu: Phantom Shuriken",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 16   Energy Cost: 25",
+                      "skilldesc": "Hayabusa bergerak ke arah target dan mengeluarkan bayangan ke empat arah. Bayangan akan menetap atau menempel ke Hero lawan pertama yang terkena, memberikan 130<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 40% Slow selama 2 detik. Hayabusa akan segera berhenti jika dia mengenai lawan saat bergerak.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Hayabusa melakukan teleportasi ke lokasi bayangan dan mengurangi Cooldown <font color=\"a6aafb\">Ninjutsu: Phantom Shuriken</font> sebanyak 1 detik. Jika bayangannya menetap pada Hero lawan, dia juga memberikan 130<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                      "skillid": 2120,
+                      "skillname": "Ninjutsu: Quad Shadow",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 40",
+                      "skilldesc": "Hayabusa menyatu dengan bayangan dan memberikan 6 serangan target tunggal ke lawan di area, setiap serangan memberikan 140<font color=\"fba51f\"> (+32% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nSerangan akan memprioritaskan lawan yang memiliki <font color=\"a6aafb\">Shadow Mark</font> dan memberikan tambahan 90<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ketika mengumpulkan stack. Shadow Kill tidak memberikan tambahan <font color=\"a6aafb\">Shadow Mark</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_725ee5582eb697e37896e8a6b81442d9.png",
+                      "skillid": 2130,
+                      "skillname": "Ougi: Shadow Kill",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "211"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hayabusa",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_261209d8154dbe2bf6d4292076b0437f.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_63cb1f44bf906b71767a000e38d8ab14.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_41f3b77867e66780da9b5890dfb9964a.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
+              "story": "Pemimpin muda Klan Shadow yang menghunuskan pedangnya di malam tanpa rembulan, menapaki jalan nindo tanpa rasa takut.",
+              "tale": ""
+            },
+            "id": 100523,
+            "sourceId": 2756563
+          },
+          "hero_id": 21,
+          "relation": {
+            "assist": {
+              "desc": "Hayabusa cocok dengan Fighter misalnya Lapu-Lapu dan Alpha yang dapat meginisiasi dengan cepat untuk memfokuskan target utama.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                37,
+                28
+              ]
+            },
+            "strong": {
+              "desc": "Hayabusa meng-Counter Hero berdurabilitas rendah yang tidak memiliki Crowd Control untuk menghentikan perpindahannya dari Skill 2, dan yang menjadi target mudah untuk Ultimate-nya, misalnya Chang'e dan Cecilion.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                61,
+                91
+              ]
+            },
+            "weak": {
+              "desc": "Hayabusa di-Counter oleh Hero dengan Crowd Control yang terfokus, misalnya Franco dan Kaja yang dapat menahannya sebelum berpindah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                10,
+                62
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Hayabusa"
+        },
+        "dynamic": null,
+        "id": 2678757,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805440128,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

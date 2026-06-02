@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df82",
+        "caption": "034埃思特斯",
+        "configId": 144237,
+        "createdAt": 1710416511257,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_0a256a99be4eb87ce385515666707d17.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501239",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "70",
+                "10",
+                "20",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+              "heroid": 34,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "<font color=\"a6aafb\">Scripture of the Moon Elf</font> secara perlahan mengisi energi untuk Estes. Saat mencapai 100 stack, Basic Attack berikutnya akan diperkuat dan memberikan 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke target. Serangan akan memantul ke lawan di sekitar, memberikan 125<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 60% slow ke mereka selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb30f512750394ac949651d801d92f0.png",
+                      "skillid": 3440,
+                      "skillname": "Scripture of the Moon Elf",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 11   Mana Cost: 60",
+                      "skilldesc": "Estes memulihkan 200<font color=\"62f8fe\"> (+110% Total Magic Power)</font> HP ke hero rekan secara langsung dan menghubungkan dirinya dengan target selama 5 detik. Selama terhubung, kedua hero mendapatkan 15 Hybrid Defense, dan hero target terus-menerus memulihkan 360<font color=\"62f8fe\"> (+90% Total Magic Power)</font> HP. Terhubung dengan hero rekan meningkatkan 15% Movement Speed Estes, serta meningkatkan kecepatan pengumpulan energi dari Scripture of the Moon Elf.\n\nBergerak terlalu jauh dari target akan memutuskan hubungan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5b04cea7f95a5fd378699c764f39384.png",
+                      "skillid": 3410,
+                      "skillname": "Moonlight Immersion",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 80",
+                      "skilldesc": "Estes menjatuhkan cahaya rembulan ke area target, memberikan 350<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke unit lawan di dalamnya. Setelah itu, cahaya berubah menjadi Domain of the Moon Goddess dan mengungkapkan lawan di dalamnya. Lawan akan terkena 90% Slow selama 1.5 detik jika mereka menyentuh tepi area Domain. (Efek Slow akan berkurang seiring waktu).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_207a8204b952f50031ad3ca3c6abea42.png",
+                      "skillid": 3420,
+                      "skillname": "Domain of Moon Goddess",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55   Mana Cost: 150",
+                      "skilldesc": "Estes memberikan <font color=\"a6aafb\">Moonlight Immersion</font> yang diperkuat pada dirinya dan semua hero rekan di sekitar, me-refresh <font color=\"a6aafb\">Moonlight Immersion</font> pada mereka dan memperkuatnya selama 8 detik.\n\n<font color=\"a6aafb\">Moonlight Immersion</font> yang Diperkuat: Menggandakan Pemulihan Dasar Instan dan Peningkatan Hybrid Defense, serta memulihkan HP target sebesar 1020<font color=\"62f8fe\"> (+225% Total Magic Power)</font> seiring waktu.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bc801eaf911ceb696997fbe43105440.png",
+                      "skillid": 3430,
+                      "skillname": "Blessing of Moon Goddess",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "341"
+                }
+              ],
+              "heroskin": null,
+              "name": "Estes",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c10f7328de015adbc999254a72c912d8.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2",
+                "0",
+                "1/2"
+              ],
+              "recommendlevellabel": "3-1-2-0-1/2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a3619b68f415405f0a1ad77be31eb64d.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Support",
+                ""
+              ],
+              "speciality": [
+                "Regen",
+                "Guard"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fc01c4db086cacb598108433aeaa1237.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
+              "story": "Raja Elf yang memimpin para Moon Elf.",
+              "tale": ""
+            },
+            "id": 100537,
+            "sourceId": 2756563
+          },
+          "hero_id": 34,
+          "relation": {
+            "assist": {
+              "desc": "Estes cocok dengan Hero Marksman, pemulihannya membuat mereka dapat memberikan Damage lebih banyak. Misalnya Hero seperti Lesley dan Hanabi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                53,
+                60,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Estes menjadi Counter Hero tanpa Damage Burst, dapat memulihkan Damage dari Hero seperti Faramis dan Alice.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                57,
+                4,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Estes di-Counter Hero dengan Damage Burst tinggi. Hero seperti Saber dan Eudora dapat dengan mudah mengeliminasi Estes atau Hero yang dia lindungi dengan cepat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                3,
+                15,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678770,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

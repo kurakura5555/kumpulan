@@ -1,0 +1,395 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0cb",
+        "caption": "116尤利恩",
+        "configId": 144237,
+        "createdAt": 1710416512722,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_b32a51f43231f7fd1ff5b5851eea5937.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5b493fa77cd6ea1a799577a69c86fbd2.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501281",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "60",
+                "60",
+                "70",
+                "20"
+              ],
+              "difficulty": "20",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+              "heroid": 116,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah menggunakan dua skill berbeda, Julian memperkuat skill ketiganya. Menggunakan skill yang diperkuat membuat semua skill-nya memasuki cooldown 9-6 detik (berkurang seiring dengan level).\nSetelah menggunakan skill apa pun, Basic Attack-nya dalam 2 detik berikutnya akan memberikan 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menarik target ke arahnya (memberikan 85% damage ke Creep). Menggunakan skill lagi akan memperpanjang durasi.\nJulian mendapatkan 15% Hybrid Lifesteal tambahan selama 5 detik setiap kali mengenai hero lawan dengan skill-nya (hingga 3 stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6959e0e4dc3c4aebc7d311b1d96a1f4.png",
+                      "skillid": 11640,
+                      "skillname": "Smith's Legacy",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 30",
+                      "skilldesc": "Julian melemparkan sabit terbang ke arah target, memberikan 420<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan di sepanjang jalur dan menyebabkan 30% Slow kepada mereka selama 1 detik.\nSabit akan menghilang setelah mengenai lawan Non-Minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00c9de405a78fdd50226b61d82c6d0eb.png",
+                      "skillid": 11610,
+                      "skillname": "Scythe",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 30",
+                      "skilldesc": "Julian memanggil pedang terbang dan bergerak ke arah yang ditentukan, memberikan 400<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan yang berada di sepanjang jalur.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6613dbbb34db5ff5721d4837d765399.png",
+                      "skillid": 11620,
+                      "skillname": "Sword",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 9   Mana Cost: 30",
+                      "skilldesc": "Julian melemparkan rantai ke lokasi target, memberikan 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena setelah jeda singkat dan menyebabkan Immobilize ke mereka selama 1.2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_45cad9ef470209b6a039b6817d231ad7.png",
+                      "skillid": 11630,
+                      "skillname": "Chain",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1161"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setelah menggunakan dua skill berbeda, Julian memperkuat skill ketiganya. Menggunakan skill yang diperkuat membuat semua skill-nya memasuki cooldown 9-6 detik (berkurang seiring dengan level).\nSetelah menggunakan skill apa pun, Basic Attack-nya dalam 2 detik berikutnya akan memberikan 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menarik target ke arahnya (memberikan 85% damage ke Creep). Menggunakan skill lagi akan memperpanjang durasi.\nJulian mendapatkan 15% Hybrid Lifesteal tambahan selama 5 detik setiap kali mengenai hero lawan dengan skill-nya (hingga 3 stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6959e0e4dc3c4aebc7d311b1d96a1f4.png",
+                      "skillid": 11640,
+                      "skillname": "Smith's Legacy",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0   Mana Cost: 60",
+                      "skilldesc": "Julian melemparkan sabit yang diperkuat ke arah target, memberikan 420<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan di sepanjang jalur dan menyebabkan efek Slow kepada mereka sebesar 50% selama 1 detik.\nKetika mengenai lawan Non-Minion atau mencapai jarak maksimum, sabit akan terus terbang dengan kecepatan yang lebih rendah, memberikan 80<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.3 detik kepada lawan di sekitar (hingga 8 kali).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a8cc82e7f9998f630f34f04c61d3595.png",
+                      "skillid": 2011610,
+                      "skillname": "Enhanced Scythe",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0   Mana Cost: 60",
+                      "skilldesc": "Julian memanggil sejumlah pedang terbang dan bergerak ke arah yang ditentukan, memberikan 75<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.1 detik kepada lawan yang berada di sepanjang jalur (hingga 9 kali).\nJulian tidak dapat ditargetkan dan menghilang selama proses pergerakan tersebut.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abbe31d7d1b9e919608e280b8ac74a3d.png",
+                      "skillid": 2011620,
+                      "skillname": "Enhanced Sword",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 74,
+                          "tagname": "Conceal",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 0   Mana Cost: 60",
+                      "skilldesc": "Julian melemparkan rantai ke lokasi yang ditentukan, memberikan 40<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.2 detik kepada lawan yang terkena Hit dan menyebabkan efek Slow kepada mereka sebesar 30%.\nLawan yang masih berada di area pada akhir durasi Skill akan terkena 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan dan terkena efek Airborne selama 0.8 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3b0519e2fe149c133739e4ba3acd8475.png",
+                      "skillid": 11633,
+                      "skillname": "Enhanced Chain",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1162"
+                }
+              ],
+              "heroskin": null,
+              "name": "Julian",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af290850533bcaeaf7630d573969a74c.png",
+              "recommendlevel": [
+                "1",
+                "3",
+                "2"
+              ],
+              "recommendlevellabel": "1-3-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44891c699fb1c00fc4a7fa59ea95b8b3.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Assassin",
+                "Fighter"
+              ],
+              "speciality": [
+                "Chase",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8359a497952c5215b70b47373e168cfe.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5b493fa77cd6ea1a799577a69c86fbd2.jpg",
+              "story": "Sebagai Assassin Raven dari Church of Light, seorang anak laki-laki sedang mencari jati diri...",
+              "tale": ""
+            },
+            "id": 100609,
+            "sourceId": 2756563
+          },
+          "hero_id": 116,
+          "relation": {
+            "assist": {
+              "desc": "Julian cocok dengan Hero Support yang kuat yang dapat memberinya Buff, misalnya Angela dan Diggie.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                48,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Julian adalah Hero yang dapat memperbesar keunggulannya sendiri, jadi dia kuat melawan Hero yang lemah di Early Game, misalnya Cecillion dan Aldous.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                91,
+                64,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Julian perlu mengenai Hero lawan dengan Skill-nya untuk mengeluarkan potensinya, jadi dia di-Counter oleh Hero dengan Mobilitas yang baik. Misalnya Joy dan Harith.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                118,
+                73
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Julian"
+        },
+        "dynamic": null,
+        "id": 2678852,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

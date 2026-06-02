@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e053",
+        "caption": "086莉莉娅",
+        "configId": 144237,
+        "createdAt": 1710416512220,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_470be3e1d7dbbe71ef5c37b7b8bd9918.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8d16667b16673a1919c513fa46bbf2d0.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501269",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "100",
+                "20",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+              "heroid": 86,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Lylia mendapatkan peningkatan 15% Movement Speed dari <font color=\"a6aafb\">Gloom</font>. Setiap penguatan <font color=\"a6aafb\">Gloom</font> akan meningkatkan bonus ini sebesar 5%.\n<font color=\"a6aafb\">Gloom</font> mendapatkan penguatan setiap kali dia menelan <font color=\"a6aafb\">Shadow Energy</font>, hingga 5 kali. Level yang lebih tinggi meningkatkan damage ledakan <font color=\"a6aafb\">Shadow Energy</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3e523892b88699da589a93bfd58d05d4.png",
+                      "skillid": 8640,
+                      "skillname": "Angry Gloom",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4   Mana Cost: 40",
+                      "skilldesc": "Lylia melepaskan <font color=\"a6aafb\">Gloom</font> bersama gelombang serangan, memberikan 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan dalam garis lurus dan menyebabkan 30% slow ke lawan selama 1.5 detik.\nJika <font color=\"a6aafb\">Gloom</font> menyentuh <font color=\"a6aafb\">Shadow Energy</font>, dia akan melahap dan meledakkannya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_891fd83e887a48389c4601114518f082.png",
+                      "skillid": 8610,
+                      "skillname": "Magic Shockwave",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 1   Mana Cost: 32",
+                      "skilldesc": "Lylia memusatkan <font color=\"a6aafb\">Shadow Energy</font> di area target, memberikan 90<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menyebabkan 80% slow secara singkat.\n<font color=\"a6aafb\">Shadow Energy</font> meledak jika ditelan oleh <font color=\"a6aafb\">Gloom</font>, memberikan 220<font color=\"62f8fe\"> (+115% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar. Setiap penguatan <font color=\"a6aafb\">Gloom</font> meningkatkan damage ledakan sebesar 20% (hingga 80%).\n<font color=\"a6aafb\">Gloom</font> memulihkan 20% dari waktu pengisian <font color=\"a6aafb\">Shadow Energy</font> saat mengenai hero lawan.\nLylia memulai pertandingan dengan skill <font color=\"a6aafb\">Shadow Energy</font>, mengisi satu penggunaan skill setiap 6 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+                      "skillid": 8620,
+                      "skillname": "Shadow Energy",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 45   Mana Cost: 120",
+                      "skilldesc": "Lylia langsung kembali ke lokasi Black Shoes pada 4 detik yang lalu, memulihkan HP dan Mana-nya ke kondisi sebelumnya dan memulihkan 10% Max HP tambahan.\nDia juga mendapatkan 20% Movement Speed tambahan selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e26172faa7303b0a5db666cd23a0a4.png",
+                      "skillid": 8630,
+                      "skillname": "Black Shoes",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "861"
+                }
+              ],
+              "heroskin": null,
+              "name": "Lylia",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_84a089c2608b908b87c01ce7af5c3162.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_5814b1901de2d5713e04b47e36d305e0.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Push",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_781a08aa6bdfd386c6aab8261163217e.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8d16667b16673a1919c513fa46bbf2d0.jpg",
+              "story": "Seorang penyihir kecil yang lucu dan cerdas.",
+              "tale": ""
+            },
+            "id": 100585,
+            "sourceId": 2756563
+          },
+          "hero_id": 86,
+          "relation": {
+            "assist": {
+              "desc": "Lylia unggul dalam pertarungan jangka panjang, dan cocok dengan Hero yang memiliki Crowd Control kuat, seperti Franco dan Minotaur.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                19,
+                10,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Lylia meng-Counter Hero Tank tanpa Skill Blink, seperti Carmilla dan Hylos, yang tidak dapat kabur dengan mudah dari jangkauan Area Gloom dan lebih rentan terhadap Damage berkelanjutan Lylia yang tinggi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                92,
+                49,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Karena sebagian besar Damage Lylia berasal dari ledakan Skill 2-nya, tetapi mengaktifkan Gloom dapat memakan waktu lama, Assassin lincah seperti Nolan dan Ling dapat meng-Counter Lylia karena dia akan kesulitan menyerang mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                122,
+                84,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678822,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

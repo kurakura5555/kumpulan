@@ -1,0 +1,316 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df65",
+        "caption": "027悟空",
+        "configId": 144237,
+        "createdAt": 1710416511141,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/9b8b253c24f0cca3b9a31edf90006524.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5dd440a371270f458071305b9bf107b5.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50122f",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "50",
+                "50",
+                "10",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+              "heroid": 27,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Physical Defense dari lawan yang terkena serangan Sun dan Doppelganger-nya akan berkurang 5% (bisa di-stack hingga 6 kali). Sun memulihkan HP sebanyak 75 + 25% dari Physical Attack Doppelganger setiap kali Doppelganger memberikan damage.\nBasic Attack Sun dan Doppelganger-nya memberikan 50 damage tambahan ke Creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6d93eddf722334375d384ee8965f95f7.png",
+                      "skillid": 2740,
+                      "skillname": "Simian God",
+                      "skilltag": [
+                        {
+                          "tagid": 23,
+                          "tagname": "Debuff",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 70",
+                      "skilldesc": "Sun melemparkan <font color=\"a6aafb\">Golden Staff</font> ke arah target, memberikan 200<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Saat mengenai Hero lawan atau Creep atau mencapai jarak terjauhnya, <font color=\"a6aafb\">Golden Staff</font> berubah menjadi Doppelganger yang bertahan selama 5 detik dan mewarisi 40% atribut Sun (dan sebagian dari Efek Basic Attack).\n\nLevel <font color=\"a6aafb\">Endless Variety</font> dan <font color=\"a6aafb\">Swift Exchange</font> dapat ditingkatkan secara bersamaan dan memiliki Cooldown yang sama.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d813a2495b9950a4a57fb9e750212ba.png",
+                      "skillid": 2710,
+                      "skillname": "Endless Variety",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 70",
+                      "skilldesc": "Sun melemparkan <font color=\"a6aafb\">Golden Staff</font> ke arah target, memberikan 200<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya.\nDia menciptakan 1 Doppelganger di tempat yang berlangsung selama 5 detik dan mewarisi 40% atributnya (dan sebagian Efek Basic Attack). Sementara itu, Sun menyembunyikan dirinya dan bergerak bersama <font color=\"a6aafb\">Golden Staff</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7afa1977abd09809a0cfacccfd2f5cfd.png",
+                      "skillid": 2750,
+                      "skillname": "Swift Exchange",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6   Mana Cost: 40",
+                      "skilldesc": "Sun memerintahkan Doppelganger untuk menyerang target bersamanya, memberikan 270<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 20% slow ke target dan lawan di belakangnya (bisa di-stack) selama 1.5 detik. Serangan ini dihitung sebagai damage Basic Attack dan bisa mengaktifkan Efek Basic Attack, namun tidak bisa memberikan Damage Critical.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_871502bcbd804479198c0374db30dd5a.png",
+                      "skillid": 2720,
+                      "skillname": "Instantaneous Move",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 36",
+                      "skilldesc": "Sun memanggil Doppelganger yang berlangsung selama 8 detik dan mewarisi 70% atribut dan Efek Basic Attack-nya. Doppelganger menerima lebih banyak Damage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18d2d2e16311dff12a1a8518fc823e4d.png",
+                      "skillid": 2730,
+                      "skillname": "Clone Techniques",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "271"
+                }
+              ],
+              "heroskin": null,
+              "name": "Sun",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da4cfb603eab2b975aa8f7630881e3a9.png",
+              "recommendlevel": [
+                "4",
+                "1",
+                "2",
+                "3"
+              ],
+              "recommendlevellabel": "4-1-2-3",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsortlabel": [
+                "EXP Lane",
+                "Jungle"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_eb0864090b1d5307dfeba628de0d294a.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Fighter",
+                ""
+              ],
+              "speciality": [
+                "Push",
+                "Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52b71c17a0458bf33a91ac52dff6a71d.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5dd440a371270f458071305b9bf107b5.jpg",
+              "story": "Raja Monyet yang abadi, teguh dan pantang menyerah seperti gunung yang menjaganya.",
+              "tale": ""
+            },
+            "id": 100527,
+            "sourceId": 2756563
+          },
+          "hero_id": 27,
+          "relation": {
+            "assist": {
+              "desc": "Pasangkan Sun dengan Tank yang memiliki kemampuan Crowd Control kuat seperti Belerick atau Tigreal agar Sun memiliki kesempatan untuk memberikan Damage.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                70,
+                6,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Sun dapat memberikan Damage tinggi berkelanjutan dan memiliki kemampuan memecah Defense, membuatnya menjadi Counter yang baik untuk Tank dengan Damage yang rendah, seperti Franco dan Gatotkaca.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                10,
+                41,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Hero Fighter dengan Lifesteal dapat menjadi Counter bagi Sun. Contohnya, Hero seperti Ruby dapat memperoleh HP dengan menyerang Sun dan Doppleganger-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png"
+                  }
+                },
+                0,
+                0,
+                0
+              ],
+              "target_hero_id": [
+                29,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678763,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

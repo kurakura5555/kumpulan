@@ -1,0 +1,300 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e093",
+        "caption": "102玛蒂尔达",
+        "configId": 144237,
+        "createdAt": 1710416512522,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_dc0bc2dc472c4dbe1d480c45092af6b2.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50127b",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "80",
+                "20",
+                "40",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
+              "heroid": 102,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Mathilda memperoleh <font color=\"a6aafb\">Ancestral Guidance</font> saat bergerak. Ketika Stack terisi penuh, Basic Attack berikutnya akan diperkuat, memberikan 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> pada target dan meningkatkan Movement Speed-nya sebesar 80 yang akan berkurang dengan cepat dalam 2.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f201e693e1129614b1b22047e28a4c2c.png",
+                      "skillid": 10240,
+                      "skillname": "Ancestral Guidance",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5   Mana Cost: 50",
+                      "skilldesc": "Mathilda beresonansi dengan kekuatan leluhurnya selama 4 detik, menarik Wisp yang jumlahnya akan meningkat seiring meningkatnya jarak pergerakannya (hingga 6 Wisp).\n\nDi akhir durasi, atau saat Mathilda menggunakan Skill ini kembali, Wisp tersebut akan mencari dan menyerang lawan di sekitar, setiap serangan memberikan 275<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan mengungkapkan posisi lawan secara singkat. Damage berikutnya yang diberikan oleh Wisp ke target yang sama akan berkurang menjadi 40%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b41810acba280a3b6e9bba321bfbb74.png",
+                      "skillid": 10210,
+                      "skillname": "Soul Bloom",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 13.5   Mana Cost: 60",
+                      "skilldesc": "Mathilda menciptakan area di sekelilingnya dan melompat ke depan. Ketika mendarat, dia memperoleh Shield yang setara dengan 350<font color=\"62f8fe\"> (+180% Total Magic Power)</font> dan 25% peningkatan Movement Speed selama 3 detik. Unit satu tim yang memasuki area ini akan mendapatkan 50% Shield, dan <font color=\"a6aafb\">Guiding Wind</font>: Setelah Hero satu tim pertama menggunakan <font color=\"a6aafb\">Guiding Wind</font>, Hero itu akan bergerak ke arah Mathilda, dan keduanya akan memperoleh peningkatan Movement Speed yang sama.\n\nKetika menggunakan Skill ini selama <font color=\"a6aafb\">Circling Eagle</font>, Mathilda tidak akan mengubah posisinya.\nHero satu tim akan kehilangan <font color=\"a6aafb\">Guiding Wind</font> setelah meninggalkan area selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9c364f42f896209e76c50e9460a9395e.png",
+                      "skillid": 10220,
+                      "skillname": "Guiding Wind",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 65   Mana Cost: 150",
+                      "skilldesc": "Mathilda meninggalkan <font color=\"a6aafb\">Soul Mark</font> ke Hero lawan yang ditargetkan dan berputar mengelilinginya hingga selama 3.5 detik, sementara Wisp menyerang lawan di sekitarnya, setiap Wisp memberikan 40<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Soul Mark akan menyebabkan 15% Slow dan <font color=\"a6aafb\">Soul Bloom</font> akan memprioritaskan target yang memiliki Soul Mark.\nSelama durasi, Mathilda dapat memilih area untuk dituju. Saat durasi berakhir, dia akan bergerak menuju target dengan <font color=\"a6aafb\">Soul Mark</font>, memberikan 320<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya dan menyebabkan Airborne ke mereka selama 0.6 detik, memindahkan <font color=\"a6aafb\">Soul Mark</font> ke Hero lawan pertama yang terkena Airborne, dan mengurangi 40% Cooldown Skill.\nMathilda menjadi Kebal Crowd Control dan memperoleh 400<font color=\"62f8fe\"> (+160% Total Magic Power)</font> Shield selama durasi Skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9dade03c4d55cf327e9f1cb279e99f29.png",
+                      "skillid": 10230,
+                      "skillname": "Circling Eagle",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1021"
+                }
+              ],
+              "heroskin": null,
+              "name": "Mathilda",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d7c6f7896c10c7938994ba4c5a28c9c1.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c3d601a8f6a69409359083ba599f0bb6.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sortid": [
+                {
+                  "_id": "6698c06a613093b976b4a97c",
+                  "caption": "6辅助",
+                  "configId": 144237,
+                  "createdAt": 1721286762785,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1e4609b25a4cd63ee5a13015d4058159.png",
+                    "sort_id": "6",
+                    "sort_title": "support"
+                  },
+                  "dynamic": null,
+                  "id": 2740666,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023113317,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Support",
+                "Assassin"
+              ],
+              "speciality": [
+                "Initiator",
+                "Guard"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1592c36a17a9b513d8b12ddb16e33d8c.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
+              "story": "Seorang gadis pemberani yang membela kaum lemah dan tidak takut akan kekuasaan.",
+              "tale": ""
+            },
+            "id": 100603,
+            "sourceId": 2756563
+          },
+          "hero_id": 102,
+          "relation": {
+            "assist": {
+              "desc": "Mathilda cocok dengan Hero ber-Damage Burst tinggi yang dapat menggunakan Guiding Wind setelah Ultimate-nya untuk mencetak Kill, misalnya Saber dan Eudora.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                3,
+                15,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Mathilda unggul dalam mengganggu dan CC satu target, menjadikannya Counter bagi Hero empuk tanpa Skill kabur,r, misalnya Gord dan Vale.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                23,
+                66,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Mathilda di-Counter oleh Tank dengan banyak Skill CC, misalnya Franco dan Minsitthar.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                10,
+                74,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Mathilda"
+        },
+        "dynamic": null,
+        "id": 2678838,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

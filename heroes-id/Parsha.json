@@ -1,0 +1,302 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfcb",
+        "caption": "052法莎",
+        "configId": 144237,
+        "createdAt": 1710416511719,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_abc3fab5356339f3f67da1ac73e37a61.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501247",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "20",
+                "90",
+                "50",
+                "30"
+              ],
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+              "heroid": 52,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Setiap 5 hingga 8 detik (berskala dengan level <font color=\"a6aafb\">Feathered Air Strike</font>), Verri memasuki mode <font color=\"a6aafb\">Hunting</font>. Pada serangan Pharsa berikutnya terhadap hero lawan, Verri memberikan <font color=\"7f62fe\">Magic Damage</font> tambahan sebesar 8% dari Max HP target (+1% untuk setiap 200 Magic Power) dan menyebabkan 60% slow selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ebde3d94865d5d05527b4becf8099d61.png",
+                      "skillid": 5240,
+                      "skillname": "Spiritual Unity",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 60",
+                      "skilldesc": "Pharsa mengeluarkan ledakan sihir ke lokasi target, memberikan 300<font color=\"62f8fe\"> (+120% Total Magic Power)</font><font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menerapkan mark selama 4 detik. \n\nSaat Pharsa menyerang lawan yang terkena mark dengan Basic Attack atau skill aktif, mark tersebut akan dikonsumsi dan menyebabkan stun selama 1 detik.\n\nPosisi lawan yang terkena mark akan terungkap.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f742fccb6bbc9436b3085a1ee4b740f7.png",
+                      "skillid": 5210,
+                      "skillname": "Curse of Crow",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6.5   Mana Cost: 60",
+                      "skilldesc": "Pharsa mengeluarkan energi sihir ke arah yang ditentukan, memberikan 475<font color=\"62f8fe\"> (+145% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan yang terkena Hit.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcf364fc10b2a3ee13ba23a6d56f7987.png",
+                      "skillid": 5220,
+                      "skillname": "Energy Impact",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 36   Mana Cost: 120",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Setiap peningkatan level mengurangi jeda <font color=\"a6aafb\">Spiritual Unity</font> sebanyak 1 detik.\n<font color=\"a6aafb\">Aktif</font>: Pharsa terbang selama 8 detik dan membombardir area target, memberikan 530<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di dalamnya. Skill ini bisa digunakan maksimal 4 kali selama terbang.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+                      "skillid": 5230,
+                      "skillname": "Feathered Air Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 23",
+                      "skilldesc": "Pharsa berubah menjadi kabut dan menyelimuti Verri, mendapatkan 150% Movement Speed tambahan (berkurang seiring waktu) dan mampu terbang melewati rintangan selama 5 detik.\n\nMode ini berakhir segera ketika dia terkena crowd control atau menggunakan Basic Attack atau skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566a1f86bd9177eb7b75f0fb0a0c762c.png",
+                      "skillid": 5250,
+                      "skillname": "Wings by Wings",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "521"
+                }
+              ],
+              "heroskin": null,
+              "name": "Pharsa",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3de1398e008eadbcc2d711ba43c8c42.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cccf53dbeacc789288ebc1fb63fcf7dd.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Poke"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7104968f6a2006df3b593fb9dfb4fe1a.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
+              "story": "Putri Crow dari Askati Forest.",
+              "tale": ""
+            },
+            "id": 100551,
+            "sourceId": 2756563
+          },
+          "hero_id": 52,
+          "relation": {
+            "assist": {
+              "desc": "Pharsa cocok dengan Hero yang dapat menyebabkan Crowd Control ke lawan sehingga Skill-nya dapat mengenai mereka. Misalnya Atlas dan Franco.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                93,
+                10,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Pharsa dapat memberikan Damage Burst tinggi dari jarak jauh. Dia adalah Counter yang bagus untuk Hero barisan belakang dengan mobilitas rendah, seperti Layla, Hanabi dan Xavier.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                18,
+                60,
+                115,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Pharsa harus waspada terhadap kemampuan Skill perpindahan apapun. Hero seperti Franco, Zilong dan MInsitthar dapat dengan mudah mengganggu Ultimate Pharsa.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                10,
+                16,
+                74,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678788,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

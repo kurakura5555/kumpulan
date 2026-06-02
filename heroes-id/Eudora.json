@@ -1,0 +1,260 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "6973276466a7f82a51d4d3e7",
+        "caption": "015尤朵拉（翻新）",
+        "configId": 144237,
+        "createdAt": 1769154404715,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/79b29476fd42bb3d3e048dc6bcfc7687.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/8db55c33fd2a5c84822a2a6c51e1fb18.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501220",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "10",
+                "80",
+                "80",
+                "10"
+              ],
+              "difficulty": "10",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png",
+              "heroid": 15,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Skill Eudora menerapkan <font color=\"a6aafb\">Superconductor</font> selama 3 detik saat mengenai unit non-minion dan bisa mengaktifkan efek tambahan terhadap lawan yang terkena <font color=\"a6aafb\">Superconductor</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_4ac316bbaf343836fdc741c84ca5da45.png",
+                      "skillid": 1540,
+                      "skillname": "Superconductor",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5   Mana Cost: 60",
+                      "skilldesc": "Eudora melepaskan Forked Lightning di area, memberikan 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> (meningkat menjadi 200% terhadap minion) ke lawan di dalamnya.\n\nKetika mengenai target yang terkena <font color=\"a6aafb\">Superconductor</font>, Eudora membentuk rantai petir dengan target tersebut, mendapatkan 40% Movement Speed selama rantai petir aktif, hingga 1 detik.\nRantai petir memberikan 10<font color=\"62f8fe\"> (+4% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> seiring waktu dan 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan ketika efeknya berakhir. Jika serangan tersebut mengenai target, cooldown skill ini akan berkurang 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_17018b4270f7fd04eb235499eb629861.png",
+                      "skillid": 1510,
+                      "skillname": "Forked Lightning",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 11   Mana Cost: 80",
+                      "skilldesc": "Eudora melemparkan bola petir ke target, mengurangi 10 Magic Defense mereka selama 1.8 detik, memberikan 300<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, dan menyebabkan stun selama 1 detik.\n\nJika target terkena <font color=\"a6aafb\">Superconductor</font>, bola petir mengurangi Magic Defense lawan di sekitar, memberikan damage area yang berpusat pada target, dan menyebabkan stun ke semua lawan di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_ee8360b2b38255f04226a627561564fe.png",
+                      "skillid": 1520,
+                      "skillname": "Ball Lightning",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 32   Mana Cost: 130",
+                      "skilldesc": "Eudora memanggil ledakan petir di area target, memberikan 600<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke target di tengah area. Kemudian, petir menyerang target di luar area tersebut, memberikan 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nSetiap kali Thunder's Wrath mengenai target yang terkena <font color=\"a6aafb\">Superconductor</font>, akan memicu <font color=\"a6aafb\">Thunderburst</font> yang berpusat pada <font color=\"a6aafb\">Superconductor</font> target setelah jeda singkat, memberikan 330<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_d44b0dd173dce52af46ec6432c4ab287.png",
+                      "skillid": 1530,
+                      "skillname": "Thunder’s Wrath",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "151"
+                }
+              ],
+              "heroskin": null,
+              "name": "Eudora",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c82f8ea9c76bfb38f5fa83320928e6.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_1384ce93e5bdb142ea4e5e6b9f941ff1.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Control",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_00844bbb210fe0884826629fb2ad5f27.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_495f8e41a10d75d893f13e24ae97846a.jpg",
+              "story": "Penyihir Elf yang mengendalikan kekuatan petir di ujung jarinya, menghapus keraguan dan menyinari jalan menuju masa depan.",
+              "tale": ""
+            },
+            "id": 100512,
+            "sourceId": 2756563
+          },
+          "hero_id": 15,
+          "relation": {
+            "assist": {
+              "desc": "Skill Eudora bisa memberikan damage area yang besar, jadi memasangkannya dengan hero yang bisa mengumpulkan lawan, seperti Diggie dan Tigreal, akan mempermudah untuk memaksimalkan damage-nya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                48,
+                6
+              ]
+            },
+            "strong": {
+              "desc": "Eudora memiliki kemampuan CC target dan damage burst yang kuat, memungkinkannya untuk menahan hero ber-HP rendah seperti Moskov dan Obsidia.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                131,
+                31
+              ]
+            },
+            "weak": {
+              "desc": "Eudora kurang memiliki kemampuan perlindungan diri dan kesulitan melawan hero dive atau Assassin yang bisa mengabaikan CC target, seperti Hayabusa dan Kadita.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                21,
+                75
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Eudora"
+        },
+        "dynamic": null,
+        "id": 3266137,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1769154404715,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

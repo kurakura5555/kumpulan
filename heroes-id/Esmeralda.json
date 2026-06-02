@@ -1,0 +1,304 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e03f",
+        "caption": "081艾丝美拉达",
+        "configId": 144237,
+        "createdAt": 1710416512146,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_f5330341dfacb2b1d89db5e075f57bfb.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501260",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "90",
+                "30",
+                "60",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
+              "heroid": 81,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Esmeralda memanipulasi Stardust dan Frostmoon: Stardust memberikan Physical Damage sedangkan Frostmoon memberikan Magic Damage serta Shield ke target yang setara dengan 135% dari Damage yang diberikan. Setiap Basic Attack memberikan <font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan 100<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nDamage yang diberikan oleh Esmeralda mengabaikan semua efek Shield dan mengubah Shield-nya menjadi HP secara perlahan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fde2b66e35d103d9e71272a6d61381e8.png",
+                      "skillid": 8140,
+                      "skillname": "Starmoon Casket",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8.5   Mana Cost: 40",
+                      "skilldesc": "Esmeralda memperoleh 400<font color=\"62f8fe\"> (+150% Total Magic Power)</font> Shield dan 40% Movement Speed yang berkurang dengan cepat seiring durasinya selama 4 detik. Sementara itu, dia mengubah Shield dari lawan di sekitar menjadi Shield untuk dirinya sendiri secara bertahap, hingga 50% dari Max HP-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00253b3e2e77dce506b07fe23755fe26.png",
+                      "skillid": 8110,
+                      "skillname": "Frostmoon Shield",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 4.5   Mana Cost: 35",
+                      "skilldesc": "Esmeralda mengayunkan Stardust dan Frostmoon, memberikan 240<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan 300<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar. Setiap kali dia memberikan Damage ke Hero, Cooldown dari <font color=\"a6aafb\">Frostmoon Shield</font> berkurang sebanyak 1.5 detik (memberikan Damage ke unit non-Hero akan memberikan Pengurangan Cooldown sebanyak 0.5 detik) dan mengurangi 10% Movement Speed lawan selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fd62ea376ea37da799123a8db3d853d9.png",
+                      "skillid": 8120,
+                      "skillname": "Stardust Dance",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 30   Mana Cost: 100",
+                      "skilldesc": "Esmeralda menyatukan kekuatan Astrospace ke dalam dua senjatanya - Stardust dan Frostmoon. Semakin lama durasi pengumpulan, semakin jauh jarak penggunaan.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Esmeralda mengeluarkan Stardust ke lokasi target, memberikan 350<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, dan kemudian dia berpindah ke lokasi target untuk mengeluarkan Frostmoon, memberikan 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Immobilize ke lawan di area selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d95dd7c4b01c3a234a79ace93433a2c.png",
+                      "skillid": 8130,
+                      "skillname": "Falling Starmoon",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "811"
+                }
+              ],
+              "heroskin": null,
+              "name": "Esmeralda",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08a84eb0f690c4c4f3865d924c704b25.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "EXP Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f684768281faab70dea48d06fb72979e.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Tank",
+                "Mage"
+              ],
+              "speciality": [
+                "Regen",
+                "Mixed Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d0d6c9e217dcb7a191bc81bbcdd08ce2.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
+              "story": "Seorang astrolog misterius.",
+              "tale": ""
+            },
+            "id": 100576,
+            "sourceId": 2756563
+          },
+          "hero_id": 81,
+          "relation": {
+            "assist": {
+              "desc": "Esmeralda cocok dengan Hero yang dapat mengumpulkan lawan misalnya Atlas dan Tigreal agar Ultimate-nya mengenai banyak target sekaligus.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                93,
+                6,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Esmeralda cocok melawan Hero dengan Shield, misalnya Akai dan Lolita, karena Skill-nya tidak hanya mengabaikan Shield mereka, namun juga mengubahnya menjadi miliknya sendiri.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                9,
+                20,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Esmeralda di-Counter oleh Marksman dengan mobilitas tinggi, misalnya Karrie dan Lesley, karena Damage Burst-nya kurang untuk mengeliminasi mereka dan kesulitan mengejar mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                40,
+                53,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678817,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

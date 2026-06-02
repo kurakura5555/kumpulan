@@ -1,0 +1,325 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25df86",
+        "caption": "035希尔达",
+        "configId": 144237,
+        "createdAt": 1710416511274,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_cdf5a0543dc8582be3b3be49971755c9.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501232",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "90",
+                "40",
+                "40",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+              "heroid": 35,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hilda memulihkan 2% HP per detik saat berada di semak-semak. Memasuki semak-semak akan memperkuat Basic Attack berikutnya, dan bisa memberikan 110<font color=\"fba51f\"> (+130% Total Physical Attack)</font><font color=\"ffe63c\">(+12*Level Hero)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target, mengurangi 40% Movement Speed target, dan memberikan 40<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"ffe63c\">(+10*Level Hero)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di belakang target. Setelah menggunakan Basic Attack yang diperkuat, efek ini memasuki cooldown selama 6 detik.\n\nBasic Attack dan skill Hilda menerapkan 1 <font color=\"a6aafb\">Wilderness Mark</font> saat mengenai target, berlangsung hingga 4 detik dan bisa di-stack hingga 6 kali. Setiap stack akan mengurangi 3% Physical Defense dan Magic Defense hero lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_34b0dddc37a0bd20d686616d9b7b984e.png",
+                      "skillid": 3540,
+                      "skillname": "Blessing of Wilderness",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Hilda mendapatkan 60% Movement Speed selama 3 detik dan mendapatkan shield sebesar 10% Max HP, berlangsung selama 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2ffa9fe6df7c70e85144e9250f0f5bf.png",
+                      "skillid": 3510,
+                      "skillname": "Combat Ritual",
+                      "skilltag": [
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7",
+                      "skilldesc": "Hilda mengunci target lawan, memberikan 220<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> setiap serangan. Skill ini bisa digunakan hingga 3 kali. Serangan kedua memberikan damage tambahan ke lawan di sekitar. Serangan ketiga memberikan damage ke target dan lawan di sekitar, sambil menyebabkan knockback singkat.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f407178c40dbabccf8d787b2e0e30cc.png",
+                      "skillid": 3520,
+                      "skillname": "Art of Hunting",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 32",
+                      "skilldesc": "Hilda mengeluarkan tebasan kuat ke target lawan, memberikan 600<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan stun selama 0.2 detik. Lawan di sekitar menerima 60% dari damage tersebut.\n\nSetiap stack dari <font color=\"a6aafb\">Wilderness Mark</font> meningkatkan damage <font color=\"a6aafb\">Power of Wildness</font> sebesar 2.5% dari Max HP target. Pada stack maksimum, damage tambahan meningkat menjadi 20% dari Max HP target.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_323f1e87195d3a50d0c307f239241b61.png",
+                      "skillid": 3530,
+                      "skillname": "Power of Wildness",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "351"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hilda",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e71f7aa2d75cd340da108318b3d5a3f1.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Roam",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_ee3a714054edf41ae09dd0c33faf07de.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Tank"
+              ],
+              "speciality": [
+                "Damage",
+                "Regen"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_566622b6b977fc85490d983169a83788.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
+              "story": "Pewaris kekuatan Megalith.",
+              "tale": ""
+            },
+            "id": 100530,
+            "sourceId": 2756563
+          },
+          "hero_id": 35,
+          "relation": {
+            "assist": {
+              "desc": "Hilda cocok dengan Hero berdurabilitas tinggi, membuatnya berkesempatan memberikan Damage besar. Misalnya, Atlas dan Tigreal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                14,
+                10,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Hilda unggul dalam pertarungan jangka panjang. Dia dapat melawan Hero dengan Damage Burst rendah. Misalnya, Zilong dan Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                16,
+                18,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Hilda dapat di-Counter oleh Hero dengan daya tahan tinggi. Misalnya, Thamuz dan Uranus, karena mereka memiliki kemampuan pemulihan untuk mencegah tereliminasi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                72,
+                59,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Hilda"
+        },
+        "dynamic": null,
+        "id": 2678771,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

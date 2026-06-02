@@ -1,0 +1,400 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dff7",
+        "caption": "063赛琳娜",
+        "configId": 144237,
+        "createdAt": 1710416511879,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_81d132f8c7b61f62a176388fa8751b3e.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501259",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "70",
+                "100",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
+              "heroid": 63,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Selena dapat berganti wujud dengan bebas.\n<font color=\"a6aafb\">Mode Elven</font>: Selena menerapkan <font color=\"a6aafb\">Abyssal Mark</font> saat skill-nya memberikan damage. Abyssal Mark bertahan selama 8 detik dan dapat di-stack hingga 2 kali.\n<font color=\"a6aafb\">Mode Abyssal</font>: Basic Attack Selena berubah menjadi jarak dekat dan memberikan <font color=\"62f8fe\"> (+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan. Skill-nya memberikan 240-450<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan ke lawan dengan <font color=\"a6aafb\">Abyssal Mark</font> dan mengonsumsi 1 stack Abyssal Mark pada mereka. Damage ini meningkat menjadi 250% terhadap Creep dan Minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32860acd4d3f0f6e34c80e70db4f3963.png",
+                      "skillid": 6340,
+                      "skillname": "Symbiosis",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 70",
+                      "skilldesc": "Selena memanggil Abyssal Devil ke bawah tanah. Abyssal Devil akan menempel ke lawan yang mendekat, meninggalkan satu Stack <font color=\"a6aafb\">Abyssal Mark</font> dan mengurangi 50% Movement Speed mereka selama 1 detik. Abyssal Devil kemudian meledak, memberikan 350<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area dan mengurangi 50% Movement Speed mereka selama 1 detik.\n\nSetiap tambahan Abyssal Devil pada lawan meningkatkan 50% Damage akhir.\n\nSetiap Abyssal Devil bertahan hingga 60 detik dan hingga 3 Abyssal Devil dapat muncul di waktu yang bersamaan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_62637c2435b75abec80321bb1544fc30.png",
+                      "skillid": 6310,
+                      "skillname": "Abyssal Trap",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 80",
+                      "skilldesc": "Selena menembakkan Abyssal Wraith ke arah target yang akan berhenti saat mengenai hero lawan, Creep, atau Unit Panggilan, memberikan 250<font color=\"62f8fe\"> (+20% Total Magic Power)</font> - 500<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan stun selama 0.5 - 2.5 detik ke target yang terkena serangan sambil mengungkap lokasi mereka (damage dan durasi stun meningkat berdasarkan jarak tempuh Abyssal Wraith).\n\nAbyssal Wraith akan menyerap <font color=\"a6aafb\">Abyssal Trap</font> saat melewatinya dan akan menempelkan <font color=\"a6aafb\">Abyssal Trap</font> ke hero lawan yang terkena stun.\n\nJika Abyssal Wraith menyebabkan stun ke lawan selama 0.9 detik atau lebih, Selena akan memperoleh 60% Movement Speed selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e672c608df7806e99148d0176149a316.png",
+                      "skillid": 6320,
+                      "skillname": "Abyssal Arrow",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5.5",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Selena mendapatkan 5 Magic Power.\n<font color=\"a6aafb\">Aktif</font>: Selena memasuki Mode Abyssal, mendapatkan 20% Movement Speed selama 0.8 detik dan langsung mereset cooldown <font color=\"a6aafb\">Soul Eater</font> dan <font color=\"a6aafb\">Garotte</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd29236983e4d3d1bfd361b2e242111.png",
+                      "skillid": 6330,
+                      "skillname": "Primal Darkness",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "631"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Selena dapat berganti wujud dengan bebas.\n<font color=\"a6aafb\">Mode Elven</font>: Selena menerapkan <font color=\"a6aafb\">Abyssal Mark</font> saat skill-nya memberikan damage. Abyssal Mark bertahan selama 8 detik dan dapat di-stack hingga 2 kali.\n<font color=\"a6aafb\">Mode Abyssal</font>: Basic Attack Selena berubah menjadi jarak dekat dan memberikan <font color=\"62f8fe\"> (+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan. Skill-nya memberikan 240-450<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan ke lawan dengan <font color=\"a6aafb\">Abyssal Mark</font> dan mengonsumsi 1 stack Abyssal Mark pada mereka. Damage ini meningkat menjadi 250% terhadap Creep dan Minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32860acd4d3f0f6e34c80e70db4f3963.png",
+                      "skillid": 6340,
+                      "skillname": "Symbiosis",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6",
+                      "skilldesc": "Selena memperkuat cakarnya dengan kekuatan Abyss, Basic Attack berikutnya membuatnya melompat ke target dan memberikan 200<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan serta memberikan 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> Shield.\n\nJika Damage ini meledakkan <font color=\"a6aafb\">Abyssal Mark</font>, Cooldown <font color=\"a6aafb\">Garotte</font> akan direset.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_beba48ddc774a4267f72ba8a93666998.png",
+                      "skillid": 6312,
+                      "skillname": "Soul Eater",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "Selena menerjang ke arah target, memberikan 150<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di jalurnya.\n\nJika Damage Skill ini meledakkan <font color=\"a6aafb\">Abyssal Mark</font>, Cooldown akan direset.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2a0d728e05af9460c1cfa97bd0acd56.png",
+                      "skillid": 6326,
+                      "skillname": "Garotte",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5.5",
+                      "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Mendapatkan 5 Magic Power.\n<font color=\"a6aafb\">Aktif</font>: Selena memasuki Mode Elven, mendapatkan 20% Movement Speed selama 0.8 detik dan langsung mereset cooldown <font color=\"a6aafb\">Abyssal Trap</font> dan <font color=\"a6aafb\">Abyssal Arrow</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3dbdc17e11dddcec7a3547f79de6f42c.png",
+                      "skillid": 6331,
+                      "skillname": "Blessing of the Moon Goddess",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "632"
+                }
+              ],
+              "heroskin": null,
+              "name": "Selena",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0e2fbc7a5f2e4ba45f7a740daf1910f6.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_547ce6e3351ef7a46c02b51d0c4e452c.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Assassin",
+                "Mage"
+              ],
+              "speciality": [
+                "Initiator",
+                "Finisher"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1eed4818def633691e406d12d51650c.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
+              "story": "Gadis Dark Elf yang jatuh ke dalam Abyss.",
+              "tale": ""
+            },
+            "id": 100569,
+            "sourceId": 2756563
+          },
+          "hero_id": 63,
+          "relation": {
+            "assist": {
+              "desc": "Selena cocok dengan Hero jarak jauh yang dapat memberikan Damage Burst tinggi, misalnya Xavier dan Beatrix.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                115,
+                105,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Selena kuat menghadapi Hero berdurabilitas dan Mobilitas rendah, karena sulit bagi lawan untuk menghindari Skill 2-nya. Misalnya Gord dan Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                23,
+                18,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Tetapi Selena lemah melawan Hero yang kebal atau dapat menghapus Crowd Control, misalnya Hanabi dan Wanwan.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                60,
+                89,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678799,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

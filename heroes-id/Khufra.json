@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e033",
+        "caption": "078库夫拉",
+        "configId": 144237,
+        "createdAt": 1710416512095,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_32c5294cfd0d1d51c8237d22e9c47a41.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501263",
+            "_updatedAt": 1769674502838,
+            "data": {
+              "abilityshow": [
+                "90",
+                "20",
+                "100",
+                "50"
+              ],
+              "difficulty": "50",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
+              "heroid": 78,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Khufra mengaktifkan Kutukan Sihir yang ditinggalkan oleh Esmeralda setiap 8 detik, meningkatkan Basic Attack berikutnya. Basic Attack yang ditingkatkan memperoleh jangkauan serangan tambahan dan memberikan <font color=\"7f62fe\">Magic Damage</font> setara dengan <font color=\"fba51f\"> (+120% Total Physical Attack)</font> + 6% Max HP target. Khufra juga menyebabkan 30% Slow selama 1.5 detik dan memulihkan 8% Max HP ketika Basic Attack-nya mengenai target.\nSetiap kali Khufra menyebabkan efek Crowd Control ke Hero lawan dengan Skill-nya, Cooldown <font color=\"a6aafb\">Spell Curse</font> berkurang selama 4 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d94c4dc00e5a3b21b0f57614ea52969d.png",
+                      "skillid": 7840,
+                      "skillname": "Spell Curse",
+                      "skilltag": [
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 15   Mana Cost: 80",
+                      "skilldesc": "Khufra menarik perban di lengannya untuk melompat ke arah yang ditentukan, memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 50 + 7<font color=\"fba51f\"> (+1.5% Extra Physical Attack)</font>% dari Max HP-nya kepada semua lawan yang berada di jalurnya. Ketika melompat ke jarak terjauh atau mengenai Hero lawan pertama, Khufra akan langsung berhenti, memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 50 + 7<font color=\"fba51f\"> (+1.5% Extra Physical Attack)</font>% dari Max HP-nya kepada lawan di sekitar, serta menyebabkan Airborne kepada mereka selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0c4482b792fad7b1613c25e35c87c84.png",
+                      "skillid": 7810,
+                      "skillname": "Tyrant's Revenge",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 70",
+                      "skilldesc": "Khufra menggunakan perban untuk membungkus dirinya menjadi bola pantul, meningkatkan 30% Physical & Magic Defense. Lawan yang mencoba menggunakan skill blink untuk bergerak menembus Khufra akan terkena airborne. \nSetiap kali menyentuh tanah, bola pantul akan memberikan <font color=\"7f62fe\">Magic Damage</font> sebesar 50 + 3<font color=\"fba51f\"> (+2% Extra Physical Attack)</font>% dari Max HP Khufra ke lawan di sekitar dan menyebabkan 80% slow selama 0.2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fce03edaa914b7eb06de1f158250c7bb.png",
+                      "skillid": 7820,
+                      "skillname": "Bouncing Ball",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50   Mana Cost: 150",
+                      "skilldesc": "Khufra mendorong semua lawan di sekitarnya ke arah depan (skill ini hanya bisa dibatalkan oleh Suppress), memberikan 300<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan slow selama 1.25 detik. Jika lawan yang terkena skill ini mengenai dinding, mereka akan menerima <font color=\"fb1f1f\">Physical Damage</font> tambahan sebesar 150% dari damage skill ini, dan tidak lagi terkena slow, tetapi terkena stun.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c789cf5a91de9659a3af64fa42f1c3bd.png",
+                      "skillid": 7830,
+                      "skillname": "Tyrant's Rage",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "781"
+                }
+              ],
+              "heroskin": null,
+              "name": "Khufra",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6541be939404a7e45c28a30bd2f2aa16.png",
+              "recommendlevel": [
+                "3",
+                "2",
+                "1"
+              ],
+              "recommendlevellabel": "3-2-1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_5e137ba2f4b8c5a6cd113926f8e8387b.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Tank",
+                ""
+              ],
+              "speciality": [
+                "Initiator",
+                "Crowd Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_571398f137ae470543b88b51beabb5b6.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
+              "story": "Tiran kuno yang disegel.",
+              "tale": ""
+            },
+            "id": 100579,
+            "sourceId": 2756563
+          },
+          "hero_id": 78,
+          "relation": {
+            "assist": {
+              "desc": "Khufra cocok dengan Hero yang memiliki kemampuan Crowd Control kuat untuk memudahkan Skill 1-nya mengenai lawan, misalnya Eudora dan Pharsa.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                15,
+                52,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Skill 2-nya dapat mengganggu kemampuan pergerakan, membuatnya kuat terhadap Hero yang mengandalkan kemampuan pergerakan, misalnya Joy dan Lancelot.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                118,
+                47,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Khufra dapat di-Counter oleh Hero berdurabilitas tinggi, karena kemampuan Crowd Control-nya tidak mengancam Hero ini. Misalnya Fredrinn dan Gloo.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                117,
+                104,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678814,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

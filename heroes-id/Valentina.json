@@ -1,0 +1,285 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0b3",
+        "caption": "110瓦伦蒂娜",
+        "configId": 144237,
+        "createdAt": 1710416512639,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_4e16b65a234f6c7918bb4530a686882b.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501283",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "50",
+                "40",
+                "40",
+                "80"
+              ],
+              "difficulty": "80",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+              "heroid": 110,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Valentina mendapatkan 8-50 EXP tambahan (berskala dengan level) setiap kali dia memberikan damage ke hero lawan. Cooldown: 2 detik.\nJika level hero lawan tidak lebih tinggi darinya, 30% dari damage yang diberikan dikonversi menjadi HP untuk Valentina.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f2707973fdd30d201d53b1ff21d1a6c7.png",
+                      "skillid": 11040,
+                      "skillname": "Primal Force",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7   Mana Cost: 70",
+                      "skilldesc": "Valentina melancarkan <font color=\"a6aafb\">Shadow Strike</font> ke arah target, memberikan 475<font color=\"62f8fe\"> (+145% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menyebabkan 40% slow selama 1 detik.\nHero lawan yang terkena akan menerima mark <font color=\"a6aafb\">Shadow Sigil</font> selama 4 detik. Lawan dengan mark yang terkena <font color=\"a6aafb\">Shadow Strike</font> lagi akan terkena <font color=\"a6aafb\">Terrify</font> selama 1 detik (target hanya bisa terkena Terrify sekali setiap 4 detik).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+                      "skillid": 11010,
+                      "skillname": "Shadow Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 40",
+                      "skilldesc": "Valentina menerjang ke arah target, menembakkan 3 Shadow Bolt ke lawan di sekitar yang masing-masing memberikan 90<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Dia bisa menggunakan skill ini lagi dalam 6 detik (membutuhkan Mana).\n\nSetiap kali Shadow Bolt mengenai lawan, cooldown <font color=\"a6aafb\">Shadow Strike</font> akan berkurang sebanyak 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+                      "skillid": 11020,
+                      "skillname": "Arcane Shade",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55",
+                      "skilldesc": "Valentina menyebabkan 70% slow ke hero lawan selama 0.5 detik dan mendapatkan kemampuan untuk menggunakan <font color=\"a6aafb\">Ultimate</font> hero tersebut. Saat menggunakan <font color=\"a6aafb\">Ultimate</font> lawan, dia akan berubah menjadi wujud hero lawan tersebut dan mewarisi tipe Basic Attack-nya hingga 12 detik (skill 1 dan 2 tidak berubah kecuali <font color=\"a6aafb\">Ultimate</font> lawan memiliki efek <font color=\"a6aafb\">Transformasi</font>).\nLevel <font color=\"a6aafb\">Ultimate</font> yang dicuri akan sama dengan level <font color=\"a6aafb\">Ultimate</font> Valentina sendiri, dan cooldown-nya sebesar 120% dari target (namun tidak kurang dari 10 detik).\nValentina mendapatkan <font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"fba51f\">Physical Attack</font> selama durasi jika target adalah hero tipe Physical Damage. Skill ini tidak bisa digunakan ke Valentina lawan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee7ae2c3b2074399fa3cdb5e5271630e.png",
+                      "skillid": 11030,
+                      "skillname": "I Am You",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1101"
+                }
+              ],
+              "heroskin": null,
+              "name": "Valentina",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_646f22a778efda450ce3470683bd01c2.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7923ebf470d0e963e9978cb21eb25780.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Finisher"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f171b947b9c40f0560f191147054facb.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
+              "story": "Pemimpin keluarga House Paxley sebelumnya yang tidak akan berhenti untuk menghidupkan kembali kekasihnya.",
+              "tale": ""
+            },
+            "id": 100611,
+            "sourceId": 2756563
+          },
+          "hero_id": 110,
+          "relation": {
+            "assist": {
+              "desc": "Hero dengan Buff atau Crowd Control seperti Carmilla dan Atlas yang membuka kesempatan untuk memberikan Damage.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                92,
+                93,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Hero dengan Burst dan mobilitas rendah seperti Hanabi dan Faramis mudah dieliminasi dengan Skill Crowd Control dan Damage Valentina yang memiliki Cooldown rendah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                60,
+                76,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Hero dengan Burst dan mobilitas tinggi seperti Hayabusa, Natalia, dan Hanzo.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                21,
+                24,
+                69
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Valentina"
+        },
+        "dynamic": null,
+        "id": 2678846,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

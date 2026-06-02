@@ -1,0 +1,280 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e05f",
+        "caption": "089唐绾绾",
+        "configId": 144237,
+        "createdAt": 1710416512281,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/fd3f8ef8f0a6e9566fc553b90520de3f.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/9b163e2146ae6b0e84941032c3f10a41.png",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501273",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "20",
+                "60",
+                "30",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+              "heroid": 89,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hero lawan yang terkena serangan Wanwan akan memiliki Weakness dan mengungkap posisi mereka selama 5 detik. Ketika menyerang Weakness lawan, Wanwan memberikan 67(+3*Level Hero) <font color=\"ffe63c\">True Damage</font> tambahan dan meningkatkan 10% Damage yang mereka terima dari serangan berikutnya selama 5 detik.\nWanwan dapat melompat dalam jarak pendek setelah setiap anak panah ditembakkan dari Basic Attack-nya. Kecepatan lompatan berskala dengan Attack Speed-nya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_78599b839d691545f6b6be60226bbed4.png",
+                      "skillid": 8940,
+                      "skillname": "Tiger Pace",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 85",
+                      "skilldesc": "Wanwan melemparkan Fire Swallow ke arah target, mengaktifkan <font color=\"a6aafb\">Tiger Pace</font> serta memberikan 120<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Kemudian Fire Swallow berubah menjadi 3 Swallow Dagger yang berputar. Setelah jeda singkat, Swallow Dagger akan terbang kembali ke Wanwan satu demi satu, memberikan 120<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan saat terbang kembali dan menyebabkan 30% Slow selama 1.5 detik. Lawan yang terserang Swallow Dagger dua kali akan terkena Immobilize selama 0.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_283d9308b3df76c466b2f254a388f8dd.png",
+                      "skillid": 8910,
+                      "skillname": "Swallow’s Path",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 24   Mana Cost: 125",
+                      "skilldesc": "Wanwan menghapus semua efek Crowd Control pada dirinya dan mengaktifkan <font color=\"a6aafb\">Tiger Pace</font>. Sementara itu, dia menembakkan Deadly Needle ke semua arah, memberikan 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_790a739ceca6895fcaafd3df4514e9e1.png",
+                      "skillid": 8920,
+                      "skillname": "Needles in Flowers",
+                      "skilltag": [
+                        {
+                          "tagid": 64,
+                          "tagname": "Menghapus CC",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Wanwan melompat ke udara dan menjadi tidak bisa ditargetkan, menembakkan anak panah ke hero lawan selama 2.5 detik secara terus-menerus, masing-masing anak panah memberikan 60<font color=\"fba51f\"> (+35% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Jika target tereliminasi selama durasi ini, Wanwan akan menyerang hero lawan lain di jangkauannya, sambil mendapatkan 30% Attack Speed tambahan, dan menambah durasi skill ini selama 1 detik (efek ini bisa aktif hingga 3 kali). Wanwan bisa mengaktifkan <font color=\"a6aafb\">Tiger Pace</font> setelah mengeliminasi lawan dan di akhir durasi.\n<font color=\"a6aafb\">Crossbow of Tang</font> hanya bisa digunakan ke hero lawan yang semua Weakness-nya sudah dikenai dan Wanwan mendapatkan 100% Movement Speed selama durasi. Damage ini dihitung sebagai damage Basic Attack, dan rasio tembakan berskala dengan Attack Speed Wanwan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f9cc5433feeefb499219539f7c1e62f.png",
+                      "skillid": 8930,
+                      "skillname": "Crossbow of Tang",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "891"
+                }
+              ],
+              "heroskin": null,
+              "name": "Wanwan",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d52dd5ccf7d25cb590dc57e48c1df8d2.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_c042bfb106853182a8c38ae5386ceb77.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Finisher",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ef161612790082db12838fc04c86643.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7760dce8370bc6072d10873e85166bfd.jpg",
+              "story": "Agile Tiger dari Oriental Fighter dan seorang gadis muda penuh semangat yang menggunakan Crossbow of Tang.",
+              "tale": ""
+            },
+            "id": 100595,
+            "sourceId": 2756563
+          },
+          "hero_id": 89,
+          "relation": {
+            "assist": {
+              "desc": "Dia cocok dengan Tank Support dengan Crowd Control kuat, seperti Franco dan Belerick. Mereka dapat membantu Wanwan mengenai Weakness dan membuka Ultimate.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                10,
+                70,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Wanwan luar biasa dalam melakukan Dash dan kuat melawan Hero dengan jarak pendek atau Hero keras, seperti Fredrinn dan Luo Yi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                117,
+                96,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Namun, karena durabilitasnya yang rendah dan jangkauan serangannya yang pendek, Mage dengan jangkauan lebih luas seperti Gord dapat mengganggunya dengan mudah. Dia juga memiliki kemampuan bertahan yang rendah saat menerima Damage Burst dan lemah melawan Assassin Burst seperti Lancelot.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                47,
+                23,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Wanwan"
+        },
+        "dynamic": null,
+        "id": 2678825,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763448762284,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

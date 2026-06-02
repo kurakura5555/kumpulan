@@ -1,0 +1,391 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0bf",
+        "caption": "113寅",
+        "configId": 144237,
+        "createdAt": 1710416512678,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_3bcf17fb31f887ab2e823b66dc2df75f.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501284",
+            "_updatedAt": 1758787901398,
+            "data": {
+              "abilityshow": [
+                "50",
+                "60",
+                "80",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
+              "heroid": 113,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Jika tidak ada Hero satu tim dalam jarak 4 Unit dari Yin, Damage-nya meningkat menjadi 120% dan memperoleh 8% Spell Vamp.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10e337fa6398a8ea4a471155c8c22c1c.png",
+                      "skillid": 11340,
+                      "skillname": "Leave It to Me",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Yin memperoleh 60% Movement Speed tambahan (berkurang selama 3 detik).\nYin dapat meluncurkan Basic Attack yang diperkuat yang memberikan 25<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> selama durasi. Saat mengenai lawan dengan Basic Attack yang diperkuat, Yin akan melemparkan pukulan lain yang di-Charge ke depan, memberikan 360<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di jalur.\nBerhasil melemparkan pukulan yang di-Charge mengurangi Cooldown Skill sebanyak 35%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_927d2396bfbe124ced32fec90158a316.png",
+                      "skillid": 11310,
+                      "skillname": "Charged Punch",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 61,
+                          "tagname": "Speed Up",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "Yin berlari ke depan, meninggalkan <font color=\"a6aafb\">Golden Ring</font> di belakang dan memberikan 75<font color=\"fba51f\"> (+35% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Dia memperoleh 30% Pengurangan Damage tambahan selama 4 detik jika mengenai Hero lawan.\nSetelah 1 detik, <font color=\"a6aafb\">Golden Ring</font> akan menyusul Yin, memberikan 150<font color=\"fba51f\"> (+70% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang dilewatinya dan menyebabkan Stun selama 1 detik.\n",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9840f60d6b05aa1cb9513397d574df12.png",
+                      "skillid": 11320,
+                      "skillname": "Instant Blast",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 52",
+                      "skilldesc": "Setelah jeda singkat, Yin mengunci hero lawan (<font color=\"a6aafb\">tidak termasuk peliharaan atau klon</font>) dan menariknya ke dalam domain selama 8 detik dan berubah menjadi <font color=\"a6aafb\">Lieh</font>. Saat berada di domain, keduanya tidak bisa dipengaruhi oleh skill hero lainnya.\n<font color=\"a6aafb\">Lieh</font> punya skill yang lebih kuat dan 50 <font color=\"26e407\">Physical & Magic Defense</font> tambahan yang berlangsung selama 8 detik.\nDomain akan berakhir lebih awal jika salah satu dari keduanya tereliminasi. Jika <font color=\"a6aafb\">Lieh</font> berhasil mengeliminasi lawan, dia akan memulihkan 20% Max HP-nya, meninggalkan domain sekaligus mereset cooldown <font color=\"a6aafb\">Frenzy Strike</font> dan <font color=\"a6aafb\">Instant Blast</font>, serta terus bertarung sebagai <font color=\"a6aafb\">Lieh</font> selama 8 detik.\nJika Yin gagal menarik target ke domain, skill ini akan mengalami cooldown selama 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_772f992a2b08481a7d0f876e1c1ace56.png",
+                      "skillid": 11330,
+                      "skillname": "My Turn",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1131"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Jika tidak ada Hero satu tim dalam jarak 4 Unit dari Yin, Damage-nya meningkat menjadi 120% dan memperoleh 8% Spell Vamp.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10e337fa6398a8ea4a471155c8c22c1c.png",
+                      "skillid": 11340,
+                      "skillname": "Leave It to Me",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 20",
+                      "skilldesc": "Lieh menghantam area di depan hingga sebanyak 9 kali, setiap hantaman memberikan 130<font color=\"fba51f\"> (+110% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan menyebabkan 75% Slow ke mereka selama 0.2 detik.\n\nLieh menjadi kebal Crowd Control selama durasi ini, sedangkan kecepatan hantaman akan meningkat secara bertahap. Setengah durasi pertama serangan akan mengunci lawan secara otomatis, sedangkan setengah durasi kedua serangan tidak dapat mengubah arah.\nLieh dapat bergerak atau menggunakan Skill lain selama setengah durasi kedua serangan untuk membatalkan Skill lebih awal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e34f614b0fe2d29abc6364e3a2ab4969.png",
+                      "skillid": 2011310,
+                      "skillname": "Frenzy Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12",
+                      "skilldesc": "Lieh melakukan tendangan ke depan, meninggalkan <font color=\"a6aafb\">Golden Ring</font> di belakang sementara memberikan 75<font color=\"fba51f\"> (+35% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan di sepanjang jalur. Lawan yang terkena Hit akan sedikit terkena Knockback. Dia memperoleh 30% Pengurangan Damage tambahan selama 4 detik jika terdapat Hero lawan yang terkena.\nSetelah 1 detik, <font color=\"a6aafb\">Golden Ring</font> akan menyusul Lieh, memberikan 150<font color=\"fba51f\"> (+70% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan yang dilewatinya dan menyebabkan Stun kepada mereka selama 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd208d41c28fbdc474d8381a52a5048b.png",
+                      "skillid": 2011320,
+                      "skillname": "Instant Blast",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 52",
+                      "skilldesc": "Setelah jeda singkat, Yin mengunci hero lawan (<font color=\"a6aafb\">tidak termasuk peliharaan atau klon</font>) dan menariknya ke dalam domain selama 8 detik dan berubah menjadi <font color=\"a6aafb\">Lieh</font>. Saat berada di domain, keduanya tidak bisa dipengaruhi oleh skill hero lainnya.\n<font color=\"a6aafb\">Lieh</font> punya skill yang lebih kuat dan 50 <font color=\"26e407\">Physical & Magic Defense</font> tambahan yang berlangsung selama 8 detik.\nDomain akan berakhir lebih awal jika salah satu dari keduanya tereliminasi. Jika <font color=\"a6aafb\">Lieh</font> berhasil mengeliminasi lawan, dia akan memulihkan 20% Max HP-nya, meninggalkan domain sekaligus mereset cooldown <font color=\"a6aafb\">Frenzy Strike</font> dan <font color=\"a6aafb\">Instant Blast</font>, serta terus bertarung sebagai <font color=\"a6aafb\">Lieh</font> selama 8 detik.\nJika Yin gagal menarik target ke domain, skill ini akan mengalami cooldown selama 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_772f992a2b08481a7d0f876e1c1ace56.png",
+                      "skillid": 11330,
+                      "skillname": "My Turn",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1132"
+                }
+              ],
+              "heroskin": null,
+              "name": "Yin",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0452c120fee6e5b762d7a2dd1c24cb8.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Jungle",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_95836476311e2026077d87eb2373a281.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Assassin"
+              ],
+              "speciality": [
+                "Burst",
+                "Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a33bb8889533a8104dd3b84f5e89f5a5.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
+              "story": "Seorang ahli bela diri muda dalam perjalanan untuk mengalahkan Dewa Iblis yang ada di dalam dirinya.",
+              "tale": ""
+            },
+            "id": 100612,
+            "sourceId": 2756563
+          },
+          "hero_id": 113,
+          "relation": {
+            "assist": {
+              "desc": "Yin cocok dengan Hero Support yang dapat memperkuat mobilitasnya, misalnya Mathilda dan Rafaela untuk membantunya mendekati lawan dan mengeliminasi target utama.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                102,
+                14,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Yin meng-Counter Hero berdurabilitas rendah tanpa Skill Blink misalnya Layla dan Cecilion karena mereka akan kesulitan menghindari Golden Ring miliknya. Setelah mereka terkena Stun atau terjebak dalam Ultimate, Yin dapat dengan mudah mengeliminasinya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                18,
+                91,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Yin di-Counter oleh Fighter yang dapat membatalkan Skill miliknya, misalnya Fredrinn dan Badang, karena mereka dapat dengan mudah membatalkan Ultimate selama jeda awal. Hero ini juga dapat bertahan dalam duel, membuat mereka menjadi target berisiko bagi Ultimate Yin.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                117,
+                77,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Yin"
+        },
+        "dynamic": null,
+        "id": 2678849,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}

@@ -1,0 +1,266 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0a7",
+        "caption": "107纽特",
+        "configId": 144237,
+        "createdAt": 1710416512595,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_237efea2b4aafa9b92874509cdb9ac77.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bc73ea56e3e05b4f9ed8046b959e1290.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501282",
+            "_updatedAt": 1765974302788,
+            "data": {
+              "abilityshow": [
+                "20",
+                "60",
+                "20",
+                "20"
+              ],
+              "difficulty": "20",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
+              "heroid": 107,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Natan mendapatkan 1 stack <font color=\"a6aafb\">Entanglement</font> setiap kali dia atau <font color=\"a6aafb\">Reverse-Clone</font> mengenai lawan dengan skill (hingga 6 stack). Setiap stack berlangsung selama 2.5 detik dan memberikan 7.5% Attack Speed serta 5% Movement Speed.\nProyektil dari Basic Attack Natan akan bergerak kembali padanya setelah mencapai jarak maksimum, memberikan 30<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> tambahan ke lawan di sepanjang jalur (mewarisi sebagian Efek Basic Attack). Mengenai lawan akan memperbarui durasi <font color=\"a6aafb\">Entanglement</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46d9e05fa708f5acf2026d596a406f0f.png",
+                      "skillid": 10740,
+                      "skillname": "\"Theory of Everything\"",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8   Mana Cost: 50",
+                      "skilldesc": "Natan menembakkan sejumlah besar energi padat ke arah yang ditentukan, memberikan 225<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan yang berada di jalurnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f70bd309c626de414c448bfb83bddd6.png",
+                      "skillid": 10710,
+                      "skillname": "Superposition",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 60",
+                      "skilldesc": "Natan mengeluarkan Penarik Gravitasi ke arah yang ditentukan, memberikan 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Knockback ke lawan di jalurnya.\nPenarik Gravitasi akan meledak saat mencapai jarak maksimum, memberikan 30<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"62f8fe\">(+12% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Knockback ke lawan di sekitar.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6cc955ea774b6680a2868fdd186042cf.png",
+                      "skillid": 10720,
+                      "skillname": "Interference!",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 24   Mana Cost: 100",
+                      "skilldesc": "Natan memanggil <font color=\"a6aafb\">Reverse-Clone</font> yang bertahan selama 10 detik pada jarak 6 unit. <font color=\"a6aafb\">Reverse-Clone</font> mengikuti gerakan dan serangannya secara terbalik serta mewarisi 35% Basic Attack dan damage skill-nya.\n<font color=\"a6aafb\">Gunakan Kembali</font>: Natan bertukar tempat dengan <font color=\"a6aafb\">Reverse-Clone</font>.\n\nSetiap penggunaan skill mengurangi 50% cooldown skill lainnya. <font color=\"a6aafb\">Reverse-Clone</font> akan menghilang jika posisi Natan terlalu jauh.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ec8eba4cade95718ecb5895f571a8e87.png",
+                      "skillid": 10730,
+                      "skillname": "Entropy?",
+                      "skilltag": [
+                        {
+                          "tagid": 71,
+                          "tagname": "Memanggil",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1071"
+                }
+              ],
+              "heroskin": null,
+              "name": "Natan",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4431d3412e6cff8fccc5cdf67454a08b.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541a2aa8e7f6ec4703d86",
+                  "caption": "金币路",
+                  "configId": 144237,
+                  "createdAt": 1720009122589,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/91f817c656908a83c2e24eecb3b70986.svg",
+                    "road_sort_id": "5",
+                    "road_sort_title": "Gold Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732079,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022953428,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Gold Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6736ef8c230d82576c3710e9fc248e11.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c04f613093b976b4a978",
+                  "caption": "5射手",
+                  "configId": 144237,
+                  "createdAt": 1721286735503,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/025c69a764924f4bac526a2662f1a0b9.png",
+                    "sort_id": "5",
+                    "sort_title": "Marksman"
+                  },
+                  "dynamic": null,
+                  "id": 2740665,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023126452,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Marksman",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Magic Damage"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_41f7572b10bc5aeb16fe39482f95b018.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bc73ea56e3e05b4f9ed8046b959e1290.jpg",
+              "story": "Penyelamat yang menjelajahi ruang dan waktu.",
+              "tale": ""
+            },
+            "id": 100610,
+            "sourceId": 2756563
+          },
+          "hero_id": 107,
+          "relation": {
+            "assist": {
+              "desc": "Ultimate Natan membuatnya dapat berpindah dalam jarak jauh, Natan cocok dengan Hero inisiator seperti Johnson dan Alpha karena dapat melakukan inisiasi dan memberikan Damage besar.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                32,
+                28,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Natan kuat melawan Hero Tank dengan mobilitas rendah seperti Tigreal dan Gatotkaca karena Natan mudah menghindari Crowd Control dengan UIltimate dan memberikan lebih banyak serangan dengan Basic Attack pada target yang lebih lambat.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                6,
+                41,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Natan di-Counter oleh Hero dengan Crowd Control yang ditargetkan serta Damage Burst tinggi seperti Saber dan Eudora yang dapat menyerang dan mengeliminasinya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                3,
+                15,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Natan"
+        },
+        "dynamic": null,
+        "id": 2678843,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

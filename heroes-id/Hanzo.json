@@ -1,0 +1,346 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25e00f",
+        "caption": "69半藏",
+        "configId": 144237,
+        "createdAt": 1710416511962,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/dc8ef571d8894657aa343d2aa6f12855.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/4e77b4cc8c101bbd62f548ed10ea1ed4.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501256",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "70",
+                "80",
+                "20",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+              "heroid": 69,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Damage yang diberikan oleh Basic Attack dan skill Hanzo menerapkan satu stack <font color=\"a6aafb\">Dark Ninjutsu</font> pada target, maksimal 5 stack. <font color=\"a6aafb\">Ninjutsu: Demon Feast</font> hanya bisa digunakan pada target dengan stack penuh <font color=\"a6aafb\">Dark Ninjutsu</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_ac365435698ba11d4cea185ab07f4f01.png",
+                      "skillid": 6940,
+                      "skillname": "Ame no Habakiri",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Skill ini hanya bisa digunakan pada target dengan stack <font color=\"a6aafb\">Dark Ninjutsu</font> maksimum. Ketika digunakan pada creep, Hanzo akan langsung melahap dan mencernanya selama beberapa saat untuk memulihkan 20% HP.\nKetika digunakan pada Turtle, Lord, atau hero lawan, dia akan memberikan 600<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, memulihkan 10% HP, dan mengurangi 60% cooldown skill ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_816e14aed8c099fb8cfa6053ca0666e5.png",
+                      "skillid": 6910,
+                      "skillname": "Ninjutsu: Demon Feast",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Hanzo menerjang ke arah target, meninggalkan <font color=\"a6aafb\">kabut gelap</font> di depan yang memberikan 90<font color=\"fba51f\"> (+45% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area setiap 0.5 detik, hingga 5 kali (damage ini dihitung sebagai damage Basic Attack tapi tidak bisa memberikan Damage Critical).\n<font color=\"a6aafb\">Kabut gelap</font> menyebabkan 40% slow ke lawan di area dan memberikan Hanzo 20% Movement Speed.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_83f7dbd47c58fba79f634a31f88e0ffe.png",
+                      "skillid": 6920,
+                      "skillname": "Ninjutsu: Dark Mist",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 24",
+                      "skilldesc": "Hanzo berubah menjadi <font color=\"a6aafb\">Hanekage</font>, mengonsumsi 170 Energy setiap detik. Dia mendapatkan 20 Energy saat unit non-hero di sekitar tereliminasi dan 200 Energy untuk hero di sekitar yang tereliminasi. Dia mendapatkan 15 Energy saat menyerang hero, dan 45 Energy saat menyerang Turtle, atau Lord. Ketika Energy habis, tubuh Hanzo akan perlahan tertarik ke posisi <font color=\"a6aafb\">Hanekage</font>.\n\nSaat dalam mode <font color=\"a6aafb\">Hanekage</font>, tubuh Hanzo menjadi kebal serangan. <font color=\"a6aafb\">Hanekage</font> mengabaikan rintangan serta mendapatkan 50% Movement Speed dan 30% Attack Speed.\n\n<font color=\"a6aafb\">Gunakan Kembali atau Saat Tereliminasi</font>: <font color=\"a6aafb\">Hanekage</font> kembali ke tubuh Hanzo, memulihkan 16% HP dan menjadi tidak bisa ditargetkan saat kembali. Jika <font color=\"a6aafb\">Hanekage</font> tereliminasi, Hanzo akan terkena 50% slow dan lokasinya terungkap selama 6 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_12b3b6f378728e25a1ccf0952c9f84bf.png",
+                      "skillid": 6930,
+                      "skillname": "Kinjutsu: Pinnacle Ninja",
+                      "skilltag": [
+                        {
+                          "tagid": 72,
+                          "tagname": "Morph",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "691"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Damage yang diberikan oleh Basic Attack dan skill Hanzo menerapkan satu stack <font color=\"a6aafb\">Dark Ninjutsu</font> pada target, maksimal 5 stack. <font color=\"a6aafb\">Ninjutsu: Demon Feast</font> hanya bisa digunakan pada target dengan stack penuh <font color=\"a6aafb\">Dark Ninjutsu</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_ac365435698ba11d4cea185ab07f4f01.png",
+                      "skillid": 6940,
+                      "skillname": "Ame no Habakiri",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Hanekage menerjang ke hero lawan, memberikan 300<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target dan unit di sekitar setelah jeda singkat. Setiap stack <font color=\"a6aafb\">Dark Ninjutsu</font> pada target akan meningkatkan 20% damage (unit di sekitar tidak terpengaruh oleh bonus damage ini). Saat stack <font color=\"a6aafb\">Dark Ninjutsu</font> pada target mencapai maksimum, akan memberikan damage tambahan sebesar 15<font color=\"fba51f\"> (+2% Extra Physical Attack)</font>% Max HP target (damage ini mengabaikan 30% Physical Defense target) dan memulihkan 20% HP untuk Hanzo.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_74eb2011217392bd06c2dc2cf9434731.png",
+                      "skillid": 69100,
+                      "skillname": "Forbidden Ninjutsu: Soul Snatch",
+                      "skilltag": [
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10",
+                      "skilldesc": "Hanekage menerjang ke arah target, menyebabkan airborne singkat ke lawan di jalurnya selama 0.4 detik dan meninggalkan <font color=\"a6aafb\">kabut gelap</font> di area yang dilaluinya (memulihkan 200 Energy saat mengenai hero lawan). Kabut tersebut memberikan 135<font color=\"fba51f\"> (+45% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area setiap 0.5 detik, hingga 5 kali (damage ini dihitung sebagai damage Basic Attack tetapi tidak bisa memberikan Damage Critical).\n<font color=\"a6aafb\">Kabut gelap</font> menyebabkan 40% slow ke lawan di area.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_2e6bdaf0784cffb7c0a636b77dce95e7.png",
+                      "skillid": 69200,
+                      "skillname": "Forbidden Ninjutsu: Black Mist",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 1",
+                      "skilldesc": "Hanekage kembali ke tubuh Hanzo dan keluar dari wujud Hanekage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d84a015788767e56209e80d5ee64ca8a.png",
+                      "skillid": 69300,
+                      "skillname": "Ninjutsu Flee: Return",
+                      "skilltag": [],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "692"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hanzo",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eabfca6f5eec4128626dba78d6aecc81.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_746725e15c7577be6bb92b2665adf447.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Poke",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79f053a70517e5544b93b0070bc7807d.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_28d569c12bcf0f726e72826166076fc1.jpg",
+              "story": "Ninja genius di Shadow Sect yang berada di persimpangan jalan.",
+              "tale": ""
+            },
+            "id": 100566,
+            "sourceId": 2756563
+          },
+          "hero_id": 69,
+          "relation": {
+            "assist": {
+              "desc": "Hanzo punya potensi damage burst yang tinggi tapi butuh waktu untuk mengumpulkan stack Pasifnya, jadi Hanzo cocok dengan hero yang bisa menghentikan lawan dengan Crowd Control, seperti Aurora, Belerick, dan Tigreal.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                36,
+                70,
+                6
+              ]
+            },
+            "strong": {
+              "desc": "Ultimate Hanzo bisa mengganggu atau menyerang lawan dari jarak yang aman,, menjadikannya ancaman bagi hero empuk tanpa skill mobilitas, seperti Layla, Ixia, dan Zhuxin, sambil mengacaukan serangan lawan saat team fight.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                18,
+                121,
+                125
+              ]
+            },
+            "weak": {
+              "desc": "Hanzo lemah melawan hero bermobilitas tinggi, seperti Fanny, Lancelot, dan Arlott, karena sulit untuk meninggalkan stack pada mereka, sehingga membuat damage Hanzo terbatas.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                17,
+                47,
+                120
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678805,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1739273273288,
+        "updatedUser": "v_liuchang"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

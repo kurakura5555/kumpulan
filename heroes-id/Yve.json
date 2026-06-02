@@ -1,0 +1,288 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e08f",
+        "caption": "101伊赫",
+        "configId": 144237,
+        "createdAt": 1710416512511,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/144295225471df7bc06424d457893215.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/0b6e910cb702dcbb68614c9bac4ba590.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50127a",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "40",
+                "80",
+                "40",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
+              "heroid": 101,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Ketika Yve memberikan damage ke hero lawan dengan skill-nya, dia mendapatkan Galactic Power (cooldown: 0.5 detik), maksimal 3 stack. Setiap stack memberikan 120(+10*Level Hero)<font color=\"62f8fe\"> (+50% Total Magic Power)</font> shield untuk Yve selama 3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ecac2e5d0fd547b1fe1a125069db9b0.png",
+                      "skillid": 10140,
+                      "skillname": "Galactic Power",
+                      "skilltag": [
+                        {
+                          "tagid": 52,
+                          "tagname": "Shield",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 3   Mana Cost: 40",
+                      "skilldesc": "Yve meledakkan Galactic Energy pada lokasi target, memberikan 290<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area.\nMengenai lawan akan memberikan 55% Movement Speed tambahan (berkurang setengahnya jika mengenai lawan non-Hero) yang berkurang dalam 1 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2b0a9f9e2cbb187184165463c80380f1.png",
+                      "skillid": 10110,
+                      "skillname": "Void Blast",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 14   Mana Cost: 80",
+                      "skilldesc": "Yve memanggil sebuah <font color=\"a6aafb\">Void Crystal</font> di lokasi target, memberikan 220<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Void Crystal memancarkan energi ke arah yang ditentukan selama 2.7 detik berikutnya, memberikan 75<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> selama 0.45 detik ke target yang terkena serangan dan menyebabkan 20% slow ke mereka. Lawan yang terkena serangan beberapa kali akan terkena 4% slow tambahan dari masing-masing serangan setelah serangan pertama (hingga 40%).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_38145b234973cae3a6b7ca31aa75266c.png",
+                      "skillid": 10120,
+                      "skillname": "Void Crystal",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 60   Mana Cost: 180",
+                      "skilldesc": "Yve menciptakan Starfield yang berlangsung selama 15 detik. Selama durasi ini, kamu bisa Mengetuk atau Menggeser layar untuk melakukan serangan hingga 20 kali.\n<font color=\"a6aafb\">Ketuk</font>: Memberikan 340<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area.\n<font color=\"a6aafb\">Geser</font>: Memberikan 85<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.45 detik ke lawan di area selama 2.7 detik dan menyebabkan 40% slow ke mereka.\nLawan yang meninggalkan atau memasuki Starfield akan terkena immobilize selama 0.8 detik (hanya berlaku sekali ke target yang sama).\nYve tidak bisa dipindahkan saat Starfield aktif, dan Starfield akan tetap berlangsung walaupun Yve terkena efek crowd control (kecuali Suppress).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee253ff416a10efd76a13cedce9aab4e.png",
+                      "skillid": 10130,
+                      "skillname": "Real World Manipulation",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1011"
+                }
+              ],
+              "heroskin": null,
+              "name": "Yve",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b98852e20d4e492a55c25565ed1a101e.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d8cc30b9d273a81bd838afc691852b6f.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Poke",
+                "Burst"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b166125e207a31bd2c8e57b3dc34d7.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_02015d34154d56f3cfdbfdcbf5c2b813.jpg",
+              "story": "Penjaga keseimbangan alam semesta.",
+              "tale": ""
+            },
+            "id": 100602,
+            "sourceId": 2756563
+          },
+          "hero_id": 101,
+          "relation": {
+            "assist": {
+              "desc": "Yve cocok dengan Tank dan Support yang memiliki Crowd Control kuat untuk menciptakan momen, misalnya Minotaur, Gatotkaca, dan Atlas.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                19,
+                41,
+                93
+              ]
+            },
+            "strong": {
+              "desc": "Yve meng-Counter Tank dan Fighter dengan mobilitas rendah misalnya Fredrinn, Barats, dan Aulus karena jangkauan Skill-nya yang jauh.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_1366d775809e52ee6526b5b58d93cdff.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                117,
+                99,
+                108
+              ]
+            },
+            "weak": {
+              "desc": "Daya tahan Yve yang rendah menjadikannya sasaran empuk bagi Hero ber-Damage Burst misalnya Yin, Saber, dan Karina.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                113,
+                3,
+                8
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Yve"
+        },
+        "dynamic": null,
+        "id": 2678837,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1736507991361,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}

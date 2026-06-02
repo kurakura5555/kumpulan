@@ -1,0 +1,305 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e09b",
+        "caption": "104鬼隆隆",
+        "configId": 144237,
+        "createdAt": 1710416512556,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/fb9fbde149e6163b6d7889f407f4cfbb.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/7257d4ee30eff4d5bc5726027eee5f96.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501278",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "100",
+                "30",
+                "100",
+                "70"
+              ],
+              "difficulty": "70",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+              "heroid": 104,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Skill Gloo menerapkan 1 stack <font color=\"a6aafb\">Sticky</font> saat mengenai lawan, mengurangi 4% Movement Speed mereka selama 6 detik (hingga 5 stack).\nSetiap stack <font color=\"a6aafb\">Sticky</font> pada penyerang mengurangi damage yang mereka berikan ke Gloo sebesar 3%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d78367e0a6c4f3269f64ddfad7f96d7.png",
+                      "skillid": 10440,
+                      "skillname": "Stick, Stick",
+                      "skilltag": [
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 10   Mana Cost: 25",
+                      "skilldesc": "Gloo menjangkau dan menghantam tanah, memberikan 80<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena.\nSebuah <font color=\"a6aafb\">Goo</font> akan tercipta di lokasi hantaman dan meledak setelah 3 detik, memberikan 300<font color=\"26e407\"> (+12% Max HP Tambahan)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di sekitar dan menyebabkan immobilize selama 1 detik.\nMenyentuh <font color=\"a6aafb\">Goo</font> akan langsung meledakkannya dan mereset cooldown skill ini. Gloo juga memulihkan 2.5% Max HP jika ledakan mengenai lawan (digandakan jika mengenai hero lawan).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                      "skillid": 10410,
+                      "skillname": "Slam, Slam",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 80",
+                      "skilldesc": "Gloo membelah menjadi <font color=\"a6aafb\">Goo</font>, memberikan 100<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area dan menyebabkan immobilize selama 0.5 detik. Selama 4 detik berikutnya, Gloo mendapatkan 10% Movement Speed dan memberikan 80<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.25 detik ke lawan yang bersentuhan.\nJika skill ini mengenai <font color=\"a6aafb\">Goo</font>, Gloo akan menerjang ke arahnya, menyeret lawan di jalurnya sejauh jarak tertentu.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+                      "skillid": 10420,
+                      "skillname": "Spread, Spread",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Terbuka ketika hero lawan memiliki stack <font color=\"a6aafb\">Sticky</font> maksimum. Gloo menempel pada target selama hingga 9 detik, memulihkan 25% Max HP.\n\nSaat menempel, Basic Attack Gloo memberikan 30<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"26e407\"> (+6% Max HP Tambahan)</font> <font color=\"7f62fe\">Magic Damage</font>, dan dia mentransfer 80% dari damage yang diterimanya (tidak termasuk damage Turret) ke hero yang ditempel. Jika hero yang ditempel tereliminasi saat Gloo menempel, cooldown skill ini berkurang menjadi 5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_ecf4a30418f8d8ed16718892148a2bbd.png",
+                      "skillid": 10430,
+                      "skillname": "Grab, Grab",
+                      "skilltag": [
+                        {
+                          "tagid": 73,
+                          "tagname": "Menempel",
+                          "tagrgb": "97,127,198"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1041"
+                }
+              ],
+              "heroskin": null,
+              "name": "Gloo",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_088134981d9d9753f9d77648c0361fa3.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6685424caa8e7f6ec4703d97",
+                  "caption": "经验路",
+                  "configId": 144237,
+                  "createdAt": 1720009292257,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/6a246099f7eb83a8856306d8b4c84fc2.svg",
+                    "road_sort_id": "1",
+                    "road_sort_title": "Exp Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732085,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022932111,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsortlabel": [
+                "Roam",
+                "EXP Lane"
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_8b401d50920f2359060a9c7a3c833df1.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Tank",
+                ""
+              ],
+              "speciality": [
+                "Regen",
+                "Control"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_973cc7ce68b9e7b2a90a78e8ba7069b8.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_693d2f621f5c5ff0060dc80c952abdda.jpg",
+              "story": "Gabungan dari makhluk-makhluk lucu nan jahil yang tinggal jauh di dalam Shadow Swamp.",
+              "tale": ""
+            },
+            "id": 100600,
+            "sourceId": 2756563
+          },
+          "hero_id": 104,
+          "relation": {
+            "assist": {
+              "desc": "Gloo cocok dengan Hero Damage Burst, membuatnya kebih cepat mengeliminasi Hero lawan yang dia bawa dengan Ultimate-nya. Misalnya Eudora dan Saber.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                15,
+                3,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Gloo kuat menghadapi Hero Mage tanpa Crowd Control yang kuat. Membuatnya lebih mudah untuk menempel ke mereka, dan membawa mereka ke tempat yang dia inginkan. Misalnya Cecilion dan Chang'e.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                91,
+                61,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Gloo di-Counter oleh Hero Marksman dengan mobilitas yang baik. Dia kesulitan untuk menempel ke mereka, dan dapat dengan mudah tereliminasi. Misalnya Karrie dan Lesley.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                40,
+                53,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Gloo"
+        },
+        "dynamic": null,
+        "id": 2678840,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763038069151,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

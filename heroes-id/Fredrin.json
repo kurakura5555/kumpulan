@@ -1,0 +1,314 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e280fd1bb8e47d25e0cf",
+        "caption": "117费登",
+        "configId": 144237,
+        "createdAt": 1710416512735,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_9313e28c691fba3c2b2360cd9b93e8d8.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bafe5308a1e6db91ba57e39c45874a92.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50128b",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "80",
+                "50",
+                "60",
+                "40"
+              ],
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+              "heroid": 117,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Fredrinn memperoleh 1 <font color=\"a6aafb\">Combo Point</font> yang bertahan selama 5 detik setiap kali Skill-nya mengenai lawan non-Minion, hingga 4 <font color=\"a6aafb\">Combo Point</font>. Ultimate-nya mengonsumsi jumlah <font color=\"a6aafb\">Combo Point</font> yang berbeda.\n\nFredrinn menyimpan 100% Damage yang dia terima sebagai <font color=\"a6aafb\">Crystal Energy</font>, yang berkurang secara perlahan setelah 5 detik sebesar 10% Max HP setiap detik.\nFredrinn dapat mengubah <font color=\"a6aafb\">Crystal Energy</font> yang tersimpan menjadi 20% HP dari Damage yang dia berikan (10% untuk Damage yang diberikan ke Minion). Memperoleh <font color=\"a6aafb\">Combo Point</font> akan mereset waktu pengurangan ini.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffe5821a5ea1c1bd39f0db4f2cef947d.png",
+                      "skillid": 11740,
+                      "skillname": "Crystalline Armor",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        },
+                        {
+                          "tagid": 51,
+                          "tagname": "Heal",
+                          "tagrgb": "89,168,111"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5",
+                      "skilldesc": "Fredrinn menusukkan pedangnya ke arah yang ditentukan, memberikan 125<font color=\"26e407\"> (+7% Total HP)</font> <font color=\"fba51f\">(+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan menyebabkan 30% slow selama 2 detik. Basic Attack berikutnya memperoleh jangkauan serangan tambahan dan memberikan 85<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nSkill ini memberikan 200% damage kepada lawan non-hero.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4945b0e50c9f2fdad8814a8451861a86.png",
+                      "skillid": 11710,
+                      "skillname": "Piercing Strike",
+                      "skilltag": [
+                        {
+                          "tagid": 12,
+                          "tagname": "Damage",
+                          "tagrgb": "188,55,55"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 7.5",
+                      "skilldesc": "Fredrinn bergerak ke arah yang ditentukan, memberikan 140<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan Non-Minion pertama yang terkena Hit. Basic Attack berikutnya menyebabkan Airborne kepada target selama 0.3 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcd1b03082da5a690ba7a45196d5ff13.png",
+                      "skillid": 11720,
+                      "skillname": "Brave Assault",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Fredrinn memberikan 210<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan Taunt ke lawan yang berada di sekitarnya selama 1 detik. Mengenai unit non-Minion memberikan Fredrinn 25 Physical Defense & Magic Defense selama 3 detik dan mengurangi 75% Cooldown <font color=\"a6aafb\">Piercing Strike</font> dan <font color=\"a6aafb\">Brave Assault</font>.\nSkill ini menggunakan 1 <font color=\"a6aafb\">Combo Point</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b377f78451ed0315312ed90835a01c9.png",
+                      "skillid": 11730,
+                      "skillname": "Energy Eruption",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Fredrinn menghantamkan pedangnya ke arah target (skill ini hanya bisa dibatalkan oleh Suppress), memberikan 600 + 21% dari <font color=\"a6aafb\">Crystal Energy</font> sebagai <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area setelah jeda singkat. Lawan yang berada di area tengah menerima 175% damage. Skill ini menggandakan rasio konversi berdasarkan damage yang diberikan ke hero lawan dari <font color=\"a6aafb\">Crystal Energy</font> yang tersimpan menjadi HP.\nSkill ini menggunakan 3 <font color=\"a6aafb\">Combo Point</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_775f49d622b6611bc97a10108ead401c.png",
+                      "skillid": 11750,
+                      "skillname": "Appraiser's Wrath",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1171"
+                }
+              ],
+              "heroskin": null,
+              "name": "Fredrinn",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3834313607fefe7bf2c895f042d60f10.png",
+              "recommendlevel": [
+                "4",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "4-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f574825bd9192094f047a4abc6d5d05.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sortid": [
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Fighter",
+                "Tank"
+              ],
+              "speciality": [
+                "Damage",
+                "Chase"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8fb05a9ade9e12e696c9e6b15991c0f3.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bafe5308a1e6db91ba57e39c45874a92.jpg",
+              "story": "Sang juru taksir harta karun di Los Pecados yang mengumpulkan kekayaan serta mencari temannya yang hilang.",
+              "tale": ""
+            },
+            "id": 100619,
+            "sourceId": 2756563
+          },
+          "hero_id": 117,
+          "relation": {
+            "assist": {
+              "desc": "Fredrinn cocok dengan Hero Support, yang dapat meningkatkan daya tahan hidupnya, seperti Angela dan Floryn.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                55,
+                112,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Fredrinn kuat menghadapi Hero Mage yang mengandalkan Skill Burst, sulit langsung mengeliminasi Fredrinn dengan Damage Burst. Sebaliknya, setelah Fredrinn memiliki Combo Point yang cukup, Ultimate 2 dapat mengeliminasi mereka dengan mudah.\nVale dan Eudora adalah sebagai contohnya.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                66,
+                15,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Fredrinn di-Counter dengan Hero Marksman yang dapat memberikan True Damage, karena dapat mengeliminasinya dengan mudah. Seperti Karrie dan Lesley.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                40,
+                53
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Fredrinn"
+        },
+        "dynamic": null,
+        "id": 2678853,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

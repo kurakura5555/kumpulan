@@ -1,0 +1,289 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfab",
+        "caption": "044格瑞克",
+        "configId": 144237,
+        "createdAt": 1710416511594,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/437571ec07ff85626d247e4e0ce0c051.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/c5df319054bcefec1d17c771b45b9e10.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c50123d",
+            "_updatedAt": 1773205502504,
+            "data": {
+              "abilityshow": [
+                "90",
+                "40",
+                "80",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
+              "heroid": 44,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Grock mendapatkan Shield sebesar 14% dari Max HP-nya dan memperkuat Basic Attack berikutnya untuk memberikan <font color=\"fb1f1f\">Physical Damage</font> sebesar 4<font color=\"26e407\"> (+2% Total Physical Defense)</font>% dari Max HP target (maksimum 300<font color=\"ffe63c\">(+20*Level Hero)</font> terhadap unit non-hero). Efek ini memiliki cooldown 18-12 detik (berkurang seiring level), yang berkurang sebesar 200% saat berada di dekat rintangan.\n\nSkill Grock tidak bisa diganggu, dan dia mendapatkan 30<font color=\"ffe63c\">(+6*Level Hero)</font>% Physical Defense tambahan saat Shield aktif.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_bb06fa77cd649eff0cc061706e029182.png",
+                      "skillid": 4440,
+                      "skillname": "Bastion of Stone",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8",
+                      "skilldesc": "Grock menyerang ke depan dengan kekuatan dahsyat, memberikan 240<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Lawan yang berada di depan rintangan terkena knockback ke rintangan, terkena airborne, dan menerima <font color=\"fb1f1f\">Physical Damage</font> tambahan sebesar 4<font color=\"26e407\"> (+2% Total Physical Defense)</font>% Max HP mereka (hingga 300<font color=\"ffe63c\">(+20*Level Hero)</font> terhadap unit non-hero). Jika tidak ada rintangan di belakang, lawan hanya akan sedikit terkena knockback.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_b4b1b8b21935b3455b44981f2a01404d.png",
+                      "skillid": 4410,
+                      "skillname": "Mighty Swing",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 14",
+                      "skilldesc": "Setelah jeda singkat, Grock memunculkan tembok batu di area target, memberikan 100<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan membuat lawan tertarik ke arahnya.\n<font color=\"a6aafb\">Gunakan Kembali</font>: Menghilangkan tembok lebih awal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_e19cfc03bbe289fccbfc89a1ef6668be.png",
+                      "skillid": 4420,
+                      "skillname": "Earthen Rampart",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 55",
+                      "skilldesc": "Grock menerjang ke depan dan menjadi Kebal Crowd Control, memberikan 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya. Saat menabrak rintangan, dia langsung berhenti dan menciptakan ledakan dahsyat yang menyebabkan airborne ke lawan di sekitar selama 1 detik dan memberikan 650<font color=\"fba51f\"> (+300% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Jika skill ini tidak mengenai rintangan, akan mengembalikan 50% cooldown skill.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_5226d8dc97b10a6a1a2416b3957dfc7f.png",
+                      "skillid": 4430,
+                      "skillname": "Tectonic Charge",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "441"
+                }
+              ],
+              "heroskin": null,
+              "name": "Grock",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b6bfa6adbe8c282a0b83f3f3a5bd85c7.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854202aa8e7f6ec4703d8f",
+                  "caption": "辅助",
+                  "configId": 144237,
+                  "createdAt": 1720009218480,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/a3dbb075b4d8186c29f02f7d47da236a.svg",
+                    "road_sort_id": "3",
+                    "road_sort_title": "Roam"
+                  },
+                  "dynamic": null,
+                  "id": 2732083,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022949109,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Roam",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_517b20f98bf1859bc57f5cc1b477b0e8.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sortid": [
+                {
+                  "_id": "6698bfbc613093b976b4a949",
+                  "caption": "1坦克",
+                  "configId": 144237,
+                  "createdAt": 1721286588147,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/60638c59536d9505c9c731af13f7fdfd.png",
+                    "sort_id": "1",
+                    "sort_title": "tank"
+                  },
+                  "dynamic": null,
+                  "id": 2740657,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023135175,
+                  "updatedUser": "nickjin"
+                },
+                {
+                  "_id": "6698bfe8613093b976b4a96c",
+                  "caption": "2战士",
+                  "configId": 144237,
+                  "createdAt": 1721286632237,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
+                    "sort_id": "2",
+                    "sort_title": "fighter"
+                  },
+                  "dynamic": null,
+                  "id": 2740659,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023133206,
+                  "updatedUser": "nickjin"
+                }
+              ],
+              "sortlabel": [
+                "Tank",
+                "Fighter"
+              ],
+              "speciality": [
+                "Crowd Control",
+                "Initiator"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b1963659b31149ae0d4640ff2ad6a6cd.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f064f515b11a4ceb3490124d2b08bd86.jpg",
+              "story": "Manusia batu terbangun dari tidurnya.",
+              "tale": ""
+            },
+            "id": 100541,
+            "sourceId": 2756563
+          },
+          "hero_id": 44,
+          "relation": {
+            "assist": {
+              "desc": "Ultimate Grock merupakan CC kuat dengan area yang luas,sehingga bagus dikombinasikan dengan Mage seperti Odette dan Pharsa untuk memaksimalkan potensi damage area mereka.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                46,
+                52
+              ]
+            },
+            "strong": {
+              "desc": "Grock bagus untuk menghadapi hero tanpa skill Blink karena mereka tidak bisa mudah menghindar,misalnya Gord dan Layla.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                23,
+                18
+              ]
+            },
+            "weak": {
+              "desc": "Hero tipe Magic yang punya skill Blink bisa meng-counter Grock karena bisa menyerang sambil menjaga jarak dengan mudah,misalnya Kimmy dan Harley.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                71,
+                42
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 2678780,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1763038116467,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}

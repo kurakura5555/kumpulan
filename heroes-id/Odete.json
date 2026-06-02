@@ -1,0 +1,280 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "_id": "65f2e27ffd1bb8e47d25dfb3",
+        "caption": "046奥黛塔",
+        "configId": 144237,
+        "createdAt": 1710416511624,
+        "createdUser": "nickjin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/84bb0394443db64729b26898974740bc.png",
+          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7448f16293a6be9311f82d581e78749a.jpg",
+          "hero": {
+            "_createdAt": 1724837699141,
+            "_id": "66ceef43af5771f18c501241",
+            "_updatedAt": 1776932104952,
+            "data": {
+              "abilityshow": [
+                "30",
+                "100",
+                "70",
+                "20"
+              ],
+              "difficulty": "20",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
+              "heroid": 46,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Selama 8 detik setelah menggunakan skill, Basic Attack Odette berikutnya mendapatkan jangkauan tambahan dan memantul di antara lawan (atau lawan dan dirinya), setiap pantulan memberikan 144-200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nSkill Odette juga mengaktifkan efek ini saat mengenai lawan (hingga 3 stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ea1dc3bb32cd7ca47e7a8aa0c0864278.png",
+                      "skillid": 4640,
+                      "skillname": "Lakeshore Ambience",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 6   Mana Cost: 65",
+                      "skilldesc": "Odette mengeluarkan Magic Swan ke arah target, memberikan 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Slow ke lawan yang terkena sebesar 30% selama 2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e97b9ebeb8147c1ddd5610e36b4541cd.png",
+                      "skillid": 4610,
+                      "skillname": "Avian Authority",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 12   Mana Cost: 75",
+                      "skilldesc": "Odette melepaskan bola energi sihir ke arah target, memberikan 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan pertama yang terkena dan menyebabkan immobilize selama 1.5 detik. Setelah mengenai lawan, bola energi akan terpecah dan menyerang lawan di sekitar (memprioritaskan hero lawan), memberikan 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan immobilize selama 1.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_630483c59b2a2eb1c6b9f3bdfc369dc8.png",
+                      "skillid": 4620,
+                      "skillname": "Blue Nova",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 50   Mana Cost: 160",
+                      "skilldesc": "Odette mulai menari, memperoleh 1200<font color=\"62f8fe\"> (+150% Total Magic Power)</font> Shield sambil memberikan 2000<font color=\"62f8fe\"> (+750% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan di area selama 5 detik. Kecepatan memantul dan frekuensi gelombang suara <font color=\"a6aafb\">Lakeshore Ambience</font> di area juga diperkuat saat Skill aktif.\nGunakan kembali saat Skill ini aktif untuk bergerak ke arah target.\n<font color=\"A4AAC7\">Skill ini menyalurkan kekuatan dan akan dibatalkan jika Odette terkena Crowd Control tingkat tinggi (Airborne, Transform, dll.) atau jika dia menggunakan skill lain.</font>",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f47fdb064b3c880cfc853d921ef090b.png",
+                      "skillid": 4630,
+                      "skillname": "Swan Song",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "461"
+                }
+              ],
+              "heroskin": null,
+              "name": "Odette",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8ecd04f6d20c82508e69b839ca49131b.png",
+              "recommendlevel": [
+                "3",
+                "1",
+                "2"
+              ],
+              "recommendlevellabel": "3-1-2",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "66854225aa8e7f6ec4703d93",
+                  "caption": "中路",
+                  "configId": 144237,
+                  "createdAt": 1720009253985,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/facab1eacb218d767b5acb80304bfafd.svg",
+                    "road_sort_id": "2",
+                    "road_sort_title": "Mid Lane"
+                  },
+                  "dynamic": null,
+                  "id": 2732084,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022943932,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Mid Lane",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_6fd1d8e4d436d1de3102a7880cd61cbd.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698c015613093b976b4a974",
+                  "caption": "4法师",
+                  "configId": 144237,
+                  "createdAt": 1721286677393,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/1c6985dd0caec2028ccb6d1b8ca95e0f.png",
+                    "sort_id": "4",
+                    "sort_title": "mage"
+                  },
+                  "dynamic": null,
+                  "id": 2740663,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023128824,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Mage",
+                ""
+              ],
+              "speciality": [
+                "Burst",
+                "Poke"
+              ],
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_dfa2e7ae3f270b7641b43f9a9079c41b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7448f16293a6be9311f82d581e78749a.jpg",
+              "story": "Putri lugu yang tumbuh dewasa di Swan Castle dan seorang Mage jenius yang ahli dalam pedang serta tongkat.",
+              "tale": ""
+            },
+            "id": 100545,
+            "sourceId": 2756563
+          },
+          "hero_id": 46,
+          "relation": {
+            "assist": {
+              "desc": "Odette cocok dengan Hero yang dapat memindahkan rekan tim seperti Johnson dan Jawhead agar mempermudahnya menemukan posisi yang tepat untuk menggunakan Ultimate.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png"
+                  }
+                },
+                0
+              ],
+              "target_hero_id": [
+                32,
+                54,
+                0
+              ]
+            },
+            "strong": {
+              "desc": "Ultimate Odette dapat menghantarkan Damage yang luar biasa dan efektif untuk melawan Hero yang kekurangan Skill CC, seperti Layla dan Irithel.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                18,
+                43,
+                0,
+                0
+              ]
+            },
+            "weak": {
+              "desc": "Odette di-Counter oleh Hero ber-Skill CC, seperti Minotaur dan Edith, karena mereka dapat membatalkan Ultimate-nya dengan mudah.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png"
+                  }
+                },
+                0,
+                0
+              ],
+              "target_hero_id": [
+                19,
+                111,
+                0,
+                0
+              ]
+            }
+          },
+          "url": "https://play.mobilelegends.com/lore/hero/Odette"
+        },
+        "dynamic": null,
+        "id": 2678782,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1726805352355,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "OK",
+  "traceID": null
+}
