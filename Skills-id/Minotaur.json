@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b1ff8",
+        "caption": "米诺陶洛斯",
+        "configId": 144237,
+        "createdAt": 1713373116513,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 1 untuk melompat dan menyebabkan Airborne ke lawan, kemudian gunakan Ultimate untuk tetap menyebabkan Crowd Control dan memasuki Mode Enraged. Gunakan Skill 1 untuk menyebabkan Airborne kembali dan dilanjutkan dengan Basic Attack. Gunakan Skill 2 saat Minotaur dan rekan timnya membutuhkan pemulihan.",
+          "hero_id": 19,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d967f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a902b3f75e08b180503d02796804baae.png",
+                "skillid": 1910
+              },
+              "id": 110479,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9680",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1d72b921c47c7dcb68a25c4289412a.png",
+                "skillid": 1930
+              },
+              "id": 110480,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d967f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a902b3f75e08b180503d02796804baae.png",
+                "skillid": 1910
+              },
+              "id": 110479,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d967e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 1900
+              },
+              "id": 110478,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9681",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_72ead6458b2fd5fa001d4cc594ee37a8.png",
+                "skillid": 1920
+              },
+              "id": 110481,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694890,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219943,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b1ff4",
+        "caption": "米诺陶洛斯",
+        "configId": 144237,
+        "createdAt": 1713373116503,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan Skill 1 untuk menyebabkan Airborne ke lawan dan mengurangi Defense mereka, kemudian memberikan Damage dengan Basic Attack yang diperkuat. Gunakan Skill 2 untuk memulihkan diri dan rekan tim untuk memperoleh keunggulan di pertukaran tersebut.",
+          "hero_id": 19,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d967f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a902b3f75e08b180503d02796804baae.png",
+                "skillid": 1910
+              },
+              "id": 110479,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d967e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 1900
+              },
+              "id": 110478,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9681",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_72ead6458b2fd5fa001d4cc594ee37a8.png",
+                "skillid": 1920
+              },
+              "id": 110481,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694889,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219944,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

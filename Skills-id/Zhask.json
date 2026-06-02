@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b20d0",
+        "caption": "扎斯克",
+        "configId": 144237,
+        "createdAt": 1713373117107,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, mulai dengan memanggil Nightmaric Spawn ke lokasi yang cocok dan gunakan Ultimate untuk menyatu dengannya, lalu gunakan Skill 2 dan Skill 3 yang diperkuat untuk menyebabkan Stun serta Damage, dan lanjutkan dengan Basic Attack. Jika lawan mencoba kabur, Gunakan Skill 1 yang diperkuat untuk mengejar mereka.",
+          "hero_id": 50,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9725",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+                "skillid": 5010
+              },
+              "id": 110645,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9729",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3174faca2ab0b0d6c0dd9d1af22f47df.png",
+                "skillid": 5040
+              },
+              "id": 110649,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9727",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4738fbff79c44b4aa3bd2bd943840032.png",
+                "skillid": 5020
+              },
+              "id": 110647,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9726",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47dcb2a530907fafc065d9363e941bae.png",
+                "skillid": 5030
+              },
+              "id": 110646,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9724",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5000
+              },
+              "id": 110644,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9725",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+                "skillid": 5010
+              },
+              "id": 110645,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694944,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b20cc",
+        "caption": "扎斯克",
+        "configId": 144237,
+        "createdAt": 1713373117097,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, mulai dengan Skill 1 nya untuk memanggil Nightmaric Spawn mendekati lawan dan diikuti dengan Skill 2 untuk menyebabkan Stun ke target, dan terakhir dengan Skill 3 untuk lebih banyak Damage.",
+          "hero_id": 50,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9725",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+                "skillid": 5010
+              },
+              "id": 110645,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9727",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4738fbff79c44b4aa3bd2bd943840032.png",
+                "skillid": 5020
+              },
+              "id": 110647,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9726",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47dcb2a530907fafc065d9363e941bae.png",
+                "skillid": 5030
+              },
+              "id": 110646,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694943,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2080",
+        "caption": "罗杰",
+        "configId": 144237,
+        "createdAt": 1713373116901,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, Gunakan Skill 1 untuk menyerang lawan dari kejauhan sambil menggunakan Skill 2 untuk mempertahankan posisi bagus. Setelah dua tim saling menyerang, gunakan Ultimate Roger untuk berubah menjadi Serigala dan menerjang barisan belakang lawan. Gunakan Skill 2 untuk tambahan Attack Speed dan Skill 1 untuk mengamankan Kill.",
+          "hero_id": 39,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ea",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+                "skillid": 3910
+              },
+              "id": 110586,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ec",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+                "skillid": 3920
+              },
+              "id": 110588,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ee",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+                "skillid": 3930
+              },
+              "id": 110590,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ef",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+                "skillid": 3922
+              },
+              "id": 110591,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ed",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+                "skillid": 3911
+              },
+              "id": 110589,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694924,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713942724966,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b207c",
+        "caption": "罗杰",
+        "configId": 144237,
+        "createdAt": 1713373116892,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, ganggu lawan dari jauh saat di wujud Manusia. Gunakan Skill 2 untuk Movement Speed tambahan guna mencari posisi untuk mengenai lawan dengan Skill 1. Gunakan Ultimate Roger untuk berubah ke wujud Serigala dan dekati lawan, ikuti dengan Skill 2 untuk tambahan Attack Speed dan serang mereka dengan Basic Attack kemudian habisi mereka dengan Skill 1.",
+          "hero_id": 39,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ec",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+                "skillid": 3920
+              },
+              "id": 110588,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ea",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+                "skillid": 3910
+              },
+              "id": 110586,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ee",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+                "skillid": 3930
+              },
+              "id": 110590,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ef",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+                "skillid": 3922
+              },
+              "id": 110591,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96eb",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 3900
+              },
+              "id": 110587,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ed",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+                "skillid": 3911
+              },
+              "id": 110589,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694923,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713942738652,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

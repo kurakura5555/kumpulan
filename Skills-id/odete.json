@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b20b0",
+        "caption": "奥黛塔",
+        "configId": 144237,
+        "createdAt": 1713373117025,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, mulai dengan Skill 2 Odette untuk menyebabkan Immobilize dan aktifkan Ultimate-nya untuk memberikan Damage terus-menerus ke lawan. Aktifkan Dash dari Ultimate-nya untuk berpindah posisi saat lawan melarikan diri, dan eliminasi mereka dengan Skill 1 setelah Ultimate-nya berakhir.",
+          "hero_id": 46,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9713",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_630483c59b2a2eb1c6b9f3bdfc369dc8.png",
+                "skillid": 4620
+              },
+              "id": 110627,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9712",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f47fdb064b3c880cfc853d921ef090b.png",
+                "skillid": 4630
+              },
+              "id": 110626,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9712",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f47fdb064b3c880cfc853d921ef090b.png",
+                "skillid": 4630
+              },
+              "id": 110626,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9710",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e97b9ebeb8147c1ddd5610e36b4541cd.png",
+                "skillid": 4610
+              },
+              "id": 110624,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694936,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219720,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b20ac",
+        "caption": "奥黛塔",
+        "configId": 144237,
+        "createdAt": 1713373117015,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, gunakan Skill 1 Odette untuk mengganggu lawan, dan gunakan Skill 2 di waktu yang tepat untuk menyebabkan Immobilize lalu mengeliminasi mereka dengan Ultimate-nya.",
+          "hero_id": 46,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9710",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e97b9ebeb8147c1ddd5610e36b4541cd.png",
+                "skillid": 4610
+              },
+              "id": 110624,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9713",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_630483c59b2a2eb1c6b9f3bdfc369dc8.png",
+                "skillid": 4620
+              },
+              "id": 110627,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9712",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f47fdb064b3c880cfc853d921ef090b.png",
+                "skillid": 4630
+              },
+              "id": 110626,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694935,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219720,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

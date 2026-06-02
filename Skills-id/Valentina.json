@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbe17071f48448b2280",
+        "caption": "瓦伦蒂娜",
+        "configId": 144237,
+        "createdAt": 1713373118276,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Salin Ultimate atau gunakan Skill 2 untuk memposisikan diri. Gunakan Skill 1 dan reset Cooldown-nya dengan Skill 2, lalu Terrify target dan gunakan Ultimate yang disalin untuk mengeliminasi lawan.",
+          "hero_id": 110,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9864",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee7ae2c3b2074399fa3cdb5e5271630e.png",
+                "skillid": 11030
+              },
+              "id": 110964,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d985e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+                "skillid": 11020
+              },
+              "id": 110958,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9860",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+                "skillid": 11010
+              },
+              "id": 110960,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d985e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+                "skillid": 11020
+              },
+              "id": 110958,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9860",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+                "skillid": 11010
+              },
+              "id": 110960,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9864",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee7ae2c3b2074399fa3cdb5e5271630e.png",
+                "skillid": 11030
+              },
+              "id": 110964,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695052,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713882399951,
+        "updatedUser": "v_hwu"
+      },
+      {
+        "_id": "661fffbe17071f48448b227c",
+        "caption": "瓦伦蒂娜",
+        "configId": 144237,
+        "createdAt": 1713373118265,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 untuk mengganggu lawan, Skill 2 untuk mereset Cooldown, dan Skill 1 pada lawan yang sama untuk menyebabkan Terrify.",
+          "hero_id": 110,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9860",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+                "skillid": 11010
+              },
+              "id": 110960,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d985e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+                "skillid": 11020
+              },
+              "id": 110958,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d985e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+                "skillid": 11020
+              },
+              "id": 110958,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9860",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+                "skillid": 11010
+              },
+              "id": 110960,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695051,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398284,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

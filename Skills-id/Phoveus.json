@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "669fb24ebfe907fd790b5fc4",
+        "caption": "赫洛斯",
+        "configId": 144237,
+        "createdAt": 1721741902976,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di team fight, Phoveus harus menggunakan Basic Attack yang diperkuat untuk menghampiri lawan sambil menyebabkan knockback dan meninggalkan mark. Lalu lanjutkan dengan Ultimate. Kemudian, serang target dengan Skill 1, lalu gunakan skill 2 dan Ultimate-nya kembali. Terakhir, gunakan Skill 1 yang diperkuat untuk meninggalkan mark sekali lagi, dan gunakan Ultimate-nya.",
+          "hero_id": 106,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 10600
+              },
+              "id": 110938,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984f",
+              "_updatedAt": 1773205502365,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_295a1e427d8b39ba25c3779cf32ff7d2.png",
+                "skillid": 10630
+              },
+              "id": 110943,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_5748e21d6ff5231b05a6acae7d4665c1.png",
+                "skillid": 10610
+              },
+              "id": 110941,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_0e6fc7263f921c1084d7a47805648fab.png",
+                "skillid": 10620
+              },
+              "id": 110940,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2742038,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1722577161976,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "669fb24ebfe907fd790b5fc3",
+        "caption": "赫洛斯",
+        "configId": 144237,
+        "createdAt": 1721741902962,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase laning, Phoveus harus menggunakan Basic Attack yang diperkuat terlebih dahulu untuk menyerang hero lawan dan mendapatkan shield. Lanjutkan dengan Skill 1 untuk mengurangi HP mereka, lalu gunakan Skill 1 yang diperkuat untuk damage tambahan dan menyebabkan slow ke target, dan akhiri dengan Skill 2 untuk damage lebih besar.",
+          "hero_id": 106,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 10600
+              },
+              "id": 110938,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_5748e21d6ff5231b05a6acae7d4665c1.png",
+                "skillid": 10610
+              },
+              "id": 110941,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_5748e21d6ff5231b05a6acae7d4665c1.png",
+                "skillid": 10610
+              },
+              "id": 110941,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d984c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_0e6fc7263f921c1084d7a47805648fab.png",
+                "skillid": 10620
+              },
+              "id": 110940,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2742037,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1722577139548,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

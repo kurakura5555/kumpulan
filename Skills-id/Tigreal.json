@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b1f90",
+        "caption": "泰格瑞尔",
+        "configId": 144237,
+        "createdAt": 1713373116260,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, dekati tim lawan dengan Skill 2 dan tarik mereka dengan Ultimate. Saat durasi Crowd Control berakhir, gunakan Skill 2 lagi, lalu gunakan Skill 1 untuk memberikan Damage.",
+          "hero_id": 6,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e9baf5e58ce0fb23c0fcb6176cc8ed5d.png",
+                "skillid": 620
+              },
+              "id": 110414,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9641",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46e5c2b6f8fd6fda995a63d5c10f19e5.png",
+                "skillid": 630
+              },
+              "id": 110417,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e9baf5e58ce0fb23c0fcb6176cc8ed5d.png",
+                "skillid": 620
+              },
+              "id": 110414,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e00063700ab16f53d840986b98aae25.png",
+                "skillid": 610
+              },
+              "id": 110415,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694864,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219996,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b1f8c",
+        "caption": "泰格瑞尔",
+        "configId": 144237,
+        "createdAt": 1713373116250,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan Skill 2 untuk bergerak ke lawan dan gunakan kembali untuk menyebabkan Airborne. Lanjutkan dengan Skill 1 untuk memberikan Damage.",
+          "hero_id": 6,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e9baf5e58ce0fb23c0fcb6176cc8ed5d.png",
+                "skillid": 620
+              },
+              "id": 110414,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e9baf5e58ce0fb23c0fcb6176cc8ed5d.png",
+                "skillid": 620
+              },
+              "id": 110414,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d963f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e00063700ab16f53d840986b98aae25.png",
+                "skillid": 610
+              },
+              "id": 110415,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694863,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373220000,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

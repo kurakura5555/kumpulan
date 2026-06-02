@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbe17071f48448b2240",
+        "caption": "玛蒂尔达",
+        "configId": 144237,
+        "createdAt": 1713373118103,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, aktifkan Skill 1 terlebih dahulu, lalu gunakan Skill 2 segera untuk mendapat posisi bagus guna menginisiasi dan lepaskan Ultimate ke target utama. Kombo ini dapat menyebabkan CC ke Hero utama lawan dengan cepat, dan diikuti oleh rekan tim dengan Guiding Wind dari Skill 2-nya.",
+          "hero_id": 102,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b41810acba280a3b6e9bba321bfbb74.png",
+                "skillid": 10210
+              },
+              "id": 110922,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9c364f42f896209e76c50e9460a9395e.png",
+                "skillid": 10220
+              },
+              "id": 110925,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9dade03c4d55cf327e9f1cb279e99f29.png",
+                "skillid": 10230
+              },
+              "id": 110924,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695036,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398345,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbe17071f48448b223c",
+        "caption": "玛蒂尔达",
+        "configId": 144237,
+        "createdAt": 1713373118093,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 dan tetaplah bergerak untuk mengumpulkan Wisp, lalu gunakan Skill 2 untuk mendekati lawan dan lepaskan seluruh Wisp ke target sebelum diakhiri dengan Basic Attack yang diperkuat. Gunakan Ultimate untuk mencetak Kill jika HP lawan rendah.",
+          "hero_id": 102,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b41810acba280a3b6e9bba321bfbb74.png",
+                "skillid": 10210
+              },
+              "id": 110922,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9c364f42f896209e76c50e9460a9395e.png",
+                "skillid": 10220
+              },
+              "id": 110925,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 10200
+              },
+              "id": 110923,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d983c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9dade03c4d55cf327e9f1cb279e99f29.png",
+                "skillid": 10230
+              },
+              "id": 110924,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695035,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398345,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "66713df4ae22ebbadfe18379",
+        "caption": "烛心",
+        "configId": 144237,
+        "createdAt": 1718697460098,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 Zhuxin untuk menyebabkan Slow ke lawan dan meningkatkan Movement Speed-nya, lalu gunakan Skill 2 dari posisi yang aman dan cobalah mengenai Minion dan lawan secara bersamaan untuk menggangu dan membersihkan Lane. Setelah lawan memiliki cukup Stack, lemparkan mereka ke Minion untuk Damage tambahan.",
+          "hero_id": 125,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_155343c85c52dfccbf7697d353e115bd.png",
+                "skillid": 12550
+              },
+              "id": 111042,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+                "skillid": 12510
+              },
+              "id": 111041,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+                "skillid": 12510
+              },
+              "id": 111041,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2727110,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1718765599181,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "66713df4ae22ebbadfe18378",
+        "caption": "烛心",
+        "configId": 144237,
+        "createdAt": 1718697460085,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate Zhuxin untuk berpindah ke posisi yang aman, lalu lanjutkan dengan Skill 1 untuk menyebabkan Slow ke tim lawan dan gunakan Skill 2 untuk mengumpulkan Stack dari jarak yang aman. Usahakan untuk menangkap lawan sebanyak mungkin dengan Skill 2, lalu lemparkan menjauh dari posisi sebelumnya sambil membuat mereka berkumpul.",
+          "hero_id": 125,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_155343c85c52dfccbf7697d353e115bd.png",
+                "skillid": 12550
+              },
+              "id": 111042,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_a6ca23dff19dee8f2f26740ce29b47a9.png",
+                "skillid": 12530
+              },
+              "id": 111040,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+                "skillid": 12510
+              },
+              "id": 111041,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+                "skillid": 12510
+              },
+              "id": 111041,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2727109,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1718765574084,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

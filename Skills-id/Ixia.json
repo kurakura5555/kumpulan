@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b246c",
+        "caption": "沙夏",
+        "configId": 144237,
+        "createdAt": 1713373381645,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Pilih lokasi sempurna yang aman dan gunakan Ultimate untuk menghujani lawan dengan serangan sebanyak mungkin. Terus Tap Basic Attack saat menggunakan Skill 2 dan Skill 1 untuk mengontrol lawan dan memberikan Damage tambahan.",
+          "hero_id": 121,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da280fb5742c603e295f58bf621d50c1.png",
+                "skillid": 12130
+              },
+              "id": 111019,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12100
+              },
+              "id": 111020,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f780b9ada962f9e52903d9ad5359fd.png",
+                "skillid": 12120
+              },
+              "id": 111021,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8abf9eeb77d6cb3afccd0bd4bb9d772.png",
+                "skillid": 12110
+              },
+              "id": 111018,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695074,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2468",
+        "caption": "沙夏",
+        "configId": 144237,
+        "createdAt": 1713373381634,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Ixia dapat menarik lawan ke garis tengah dengan Skill 2 lalu ikuti dengan Skill 1 untuk memberikan Damage. Gunakan tambahan Movement Speed dari Skill 1 nya untuk mengejar lawan.",
+          "hero_id": 121,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f780b9ada962f9e52903d9ad5359fd.png",
+                "skillid": 12120
+              },
+              "id": 111021,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8abf9eeb77d6cb3afccd0bd4bb9d772.png",
+                "skillid": 12110
+              },
+              "id": 111018,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12100
+              },
+              "id": 111020,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695073,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

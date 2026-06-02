@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b21a0",
+        "caption": "库夫拉",
+        "configId": 144237,
+        "createdAt": 1713373117646,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 1 untuk menginisiasi, dan Ultimate untuk Crowd Control area, lanjutkan dengan Skill 2 untuk mencegah lawan melarikan diri dengan Skill pergerakan.",
+          "hero_id": 78,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97bf",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0c4482b792fad7b1613c25e35c87c84.png",
+                "skillid": 7810
+              },
+              "id": 110799,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c789cf5a91de9659a3af64fa42f1c3bd.png",
+                "skillid": 7830
+              },
+              "id": 110801,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97be",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fce03edaa914b7eb06de1f158250c7bb.png",
+                "skillid": 7820
+              },
+              "id": 110798,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694996,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398258,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b219c",
+        "caption": "库夫拉",
+        "configId": 144237,
+        "createdAt": 1713373117635,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan dan arahkan Skill 1 sebelum melompat ke target untuk menyebabkan Crowd Control. Lalu gunakan Basic Attack yang diperkuat untuk memberikan Damage dan menyebabkan Slow ke target dan lanjutkan dengan Skill 2 agar target tetap terkena Slow.",
+          "hero_id": 78,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97bf",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0c4482b792fad7b1613c25e35c87c84.png",
+                "skillid": 7810
+              },
+              "id": 110799,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97bc",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 7800
+              },
+              "id": 110796,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97be",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fce03edaa914b7eb06de1f158250c7bb.png",
+                "skillid": 7820
+              },
+              "id": 110798,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694995,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398258,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

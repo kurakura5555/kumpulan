@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b21d0",
+        "caption": "翎",
+        "configId": 144237,
+        "createdAt": 1713373117789,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, Ling harus berpindah antar dinding dengan Skill 1-nya, lalu menggunakan Skill 2 untuk mendarat ke arah Hero lawan di area belakang. Saat mendarat, Ling harus menyerang Hero target dengan Basic Attack, dan menggunakan Ultimate-nya untuk menghindari Damage yang datang. Dia harus mengarah ke target ketika di udara untuk memberikan Damage dan menyebabkan Airborne kepada lawan. Dia dapat melakukan bergerak dengan Skill 2 di antara Tempest Blade untuk mereset Cooldown dan memulihkan Lightness Point.",
+          "hero_id": 84,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97dd",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_aacda39b0b019760c392c77045c7aa9a.png",
+                "skillid": 8410
+              },
+              "id": 110829,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97db",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c212eef502f9086513e0d8b5ad0ef8bb.png",
+                "skillid": 8420
+              },
+              "id": 110827,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97d9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8400
+              },
+              "id": 110825,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97df",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f720a952a87a4873288aae54457aff7c.png",
+                "skillid": 8430
+              },
+              "id": 110831,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97db",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c212eef502f9086513e0d8b5ad0ef8bb.png",
+                "skillid": 8420
+              },
+              "id": 110827,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695008,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715141628641,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b21cc",
+        "caption": "翎",
+        "configId": 144237,
+        "createdAt": 1713373117778,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Pada fase Laning, Ling harus menggunakan Skill 1 untuk berpindah antar dinding, dan menyerang ke bawah dengan Skill 2-nya untuk memberikan Damage dan menyebabkan Slow kepada lawan. Diikuti dengan Basic Attack Ling dan Skill 2-nya untuk menangkap Hero lawan.",
+          "hero_id": 84,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97dd",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_aacda39b0b019760c392c77045c7aa9a.png",
+                "skillid": 8410
+              },
+              "id": 110829,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97db",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c212eef502f9086513e0d8b5ad0ef8bb.png",
+                "skillid": 8420
+              },
+              "id": 110827,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97d9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8400
+              },
+              "id": 110825,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97db",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c212eef502f9086513e0d8b5ad0ef8bb.png",
+                "skillid": 8420
+              },
+              "id": 110827,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695007,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398231,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

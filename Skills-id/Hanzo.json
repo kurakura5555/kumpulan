@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2160",
+        "caption": "半藏",
+        "configId": 144237,
+        "createdAt": 1713373117479,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Aktifkan Ultimate Hanzo dari posisi yang aman dan serang sebagai Hanekage. Gunakan Skill 2 untuk menerjang dan menyebabkan Airborne ke lawan, lalu gunakan Black Mist dan Basic Attack untuk mengumpulkan stack Pasif Hanzo dengan cepat dan gunakan Skill 1 untuk memberikan damage maksimum.",
+          "hero_id": 69,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9792",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_12b3b6f378728e25a1ccf0952c9f84bf.png",
+                "skillid": 6930
+              },
+              "id": 110754,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c51",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_2e6bdaf0784cffb7c0a636b77dce95e7.png",
+                "skillid": 69200
+              },
+              "id": 114011,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9790",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 6900
+              },
+              "id": 110752,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c50",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_74eb2011217392bd06c2dc2cf9434731.png",
+                "skillid": 69100
+              },
+              "id": 114010,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694980,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1739538174616,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b215c",
+        "caption": "半藏",
+        "configId": 144237,
+        "createdAt": 1713373117469,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat menyergap, gunakan Skill 2 Hanzo untuk mendekati lawan, lalu kumpulkan stack Pasif Hanzo dengan Basic Attack dan gunakan Skill 1 saat stack penuh untuk memberikan damage yang besar. Saat team fight, aktifkan Ultimate Hanzo dari posisi yang aman dan serang sebagai Hanekage. Gunakan Skill 2 untuk menerjang dan menyebabkan Airborne ke lawan, lalu gunakan Black Mist dan Basic Attack untuk mengumpulkan stack Pasif Hanzo dengan cepat dan gunakan Skill 1 untuk memberikan damage maksimum.",
+          "hero_id": 69,
+          "skill_id": [
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c51",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_2e6bdaf0784cffb7c0a636b77dce95e7.png",
+                "skillid": 69200
+              },
+              "id": 114011,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9790",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 6900
+              },
+              "id": 110752,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c50",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_74eb2011217392bd06c2dc2cf9434731.png",
+                "skillid": 69100
+              },
+              "id": 114010,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694979,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1739538179462,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

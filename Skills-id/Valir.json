@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2108",
+        "caption": "法烈尔",
+        "configId": 144237,
+        "createdAt": 1713373117254,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, aktifkan Ultimate Valir untuk memperkuat Skill, lalu serang lawan dengan Skill 1. Jika lawan mendekat, gunakan Skill 2 untuk menjauhkan mereka, dan serang dengan Skill 1 untuk Damage yang tinggi.",
+          "hero_id": 57,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87bb3708c7ffb7391a768de2c82370a7.png",
+                "skillid": 5730
+              },
+              "id": 110685,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+                "skillid": 5710
+              },
+              "id": 110683,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+                "skillid": 5710
+              },
+              "id": 110683,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d2289b367b7fb08328145563195346f6.png",
+                "skillid": 5720
+              },
+              "id": 110682,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+                "skillid": 5710
+              },
+              "id": 110683,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694958,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b2104",
+        "caption": "法烈尔",
+        "configId": 144237,
+        "createdAt": 1713373117244,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, ganggu lawan dengan Skill 1 Valir sampai HP mereka rendah, lalu gunakan Skill 2 untuk mendorong mereka dan diikuti dengan Skill 1 untuk Damage Burst.",
+          "hero_id": 57,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+                "skillid": 5710
+              },
+              "id": 110683,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d2289b367b7fb08328145563195346f6.png",
+                "skillid": 5720
+              },
+              "id": 110682,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+                "skillid": 5710
+              },
+              "id": 110683,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694957,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

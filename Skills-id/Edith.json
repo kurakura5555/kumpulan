@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b241f",
+        "caption": "伊童",
+        "configId": 144237,
+        "createdAt": 1713373381420,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, Gunakan Skill 2 untuk melempar lawan ke belakang, diikuti dengan Skill 1 untuk menyebabkan Airborne lalu gunakan Ultimate dengan cepat. Gunakan Skill 2 wujud manusia Edith untuk menyebabkan Immobilize, gunakan Skill 1 untuk lebih banyak Damage, dan eliminasi dengan Basic Attack yang diperkuat.",
+          "hero_id": 111,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9866",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f3bd7205e18b8af21c1e04ba5d8aafe.png",
+                "skillid": 11120
+              },
+              "id": 110966,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9863",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a69f221b26b4ce2d0443e876ea8eba.png",
+                "skillid": 11110
+              },
+              "id": 110963,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9868",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef6910865a6be662572e4f8b43dc7a5a.png",
+                "skillid": 11130
+              },
+              "id": 110968,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9869",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bc15a9e8821ea55e507269a984459154.png",
+                "skillid": 11125
+              },
+              "id": 110969,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9867",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0afd44b80c98596aaf29cafb3b3a8a1f.png",
+                "skillid": 11113
+              },
+              "id": 110967,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9865",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11100
+              },
+              "id": 110965,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695054,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713928344885,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b241e",
+        "caption": "伊童",
+        "configId": 144237,
+        "createdAt": 1713373381407,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Gunakan Skill 2 untuk melempar lawan ke belakang, kemudian gunakan Skill 1 untuk menyebabkan Airborne dan eliminasi mereka dengan Basic Attack yang diperkuat dari Pasif-nya.",
+          "hero_id": 111,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9866",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f3bd7205e18b8af21c1e04ba5d8aafe.png",
+                "skillid": 11120
+              },
+              "id": 110966,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9863",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a69f221b26b4ce2d0443e876ea8eba.png",
+                "skillid": 11110
+              },
+              "id": 110963,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9865",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11100
+              },
+              "id": 110965,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695053,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398285,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

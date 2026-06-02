@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbe17071f48448b2250",
+        "caption": "鬼隆隆",
+        "configId": 144237,
+        "createdAt": 1713373118150,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan kombo Skill 1 dan 2 untuk mendekati lawan dan menyebabkan Immobilize. Lalu gunakan Skill 1 dan Ultimate untuk menambahkan Stack Sticky ke Hero lawan, dan gunakan Ultimate untuk menempel ke Hero lawan yang memiliki Stack Sticky maksimal. Gunakan kombo Skill 1 dan 2 untuk memberikan Damage dan pindahkan posisi Hero lawan. Terakhir, gunakan Skill 1 yang di-Refresh dan Basic Attack untuk mengeliminasi.",
+          "hero_id": 104,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9844",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                "skillid": 10410
+              },
+              "id": 110932,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9847",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+                "skillid": 10420
+              },
+              "id": 110935,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9844",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                "skillid": 10410
+              },
+              "id": 110932,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9846",
+              "_updatedAt": 1773205502365,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_ecf4a30418f8d8ed16718892148a2bbd.png",
+                "skillid": 10430
+              },
+              "id": 110934,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9846",
+              "_updatedAt": 1773205502365,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_ecf4a30418f8d8ed16718892148a2bbd.png",
+                "skillid": 10430
+              },
+              "id": 110934,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9844",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                "skillid": 10410
+              },
+              "id": 110932,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9847",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+                "skillid": 10420
+              },
+              "id": 110935,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695040,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398330,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbe17071f48448b224c",
+        "caption": "鬼隆隆",
+        "configId": 144237,
+        "createdAt": 1713373118140,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan Skill 1 untuk menyerang lawan dan ciptakan Goo, lalu gunakan Skill 2 ke arah Goo untuk membawa lawan ke lokasi dan mengaktifkan ledakan. Sentuh Goo untuk mereset Skill 1, dan lakukan berkali-kali untuk memberikan Damage.",
+          "hero_id": 104,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9844",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                "skillid": 10410
+              },
+              "id": 110932,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9847",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+                "skillid": 10420
+              },
+              "id": 110935,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9844",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+                "skillid": 10410
+              },
+              "id": 110932,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695039,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398330,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

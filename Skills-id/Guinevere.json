@@ -1,0 +1,134 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b21b0",
+        "caption": "桂妮薇儿",
+        "configId": 144237,
+        "createdAt": 1713373117690,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 2 untuk menyebabkan Airborne ke tim lawan dan gunakan Ultimate untuk memberikan Damage besar ke lawan di sekitar serta memperpanjang durasi Airborne. Gunakan Skill 2 untuk menghindari Damage yang akan datang, atau dapat menggunakan Skill 1 untuk memberikan Damage lebih banyak dengan kombo Damage lengkap.",
+          "hero_id": 80,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c8",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5cd1df58957fa20b29e9c77d5b2067a9.png",
+                "skillid": 8020
+              },
+              "id": 110808,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97cb",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ad5e6561bec9562a72584c18191a76a.png",
+                "skillid": 8030
+              },
+              "id": 110811,
+              "sourceId": 2674712
+            },
+            8025,
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_193275791eb7f707158fc5e277a29016.png",
+                "skillid": 8010
+              },
+              "id": 110809,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695000,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713926922815,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b21ac",
+        "caption": "桂妮薇儿",
+        "configId": 144237,
+        "createdAt": 1713373117679,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan Skill 1 dan Basic Attack yang diperkuat untuk membersihkan Minion dan ganggu Hero lawan. Saat HP Hero lawan rendah, gunakan Skill 2 untuk mendekat dan menyebabkan Airborne. Gunakan Ultimate untuk mengeliminasi mereka.",
+          "hero_id": 80,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_193275791eb7f707158fc5e277a29016.png",
+                "skillid": 8010
+              },
+              "id": 110809,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8000
+              },
+              "id": 110806,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c8",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5cd1df58957fa20b29e9c77d5b2067a9.png",
+                "skillid": 8020
+              },
+              "id": 110808,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97cb",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ad5e6561bec9562a72584c18191a76a.png",
+                "skillid": 8030
+              },
+              "id": 110811,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694999,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398258,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

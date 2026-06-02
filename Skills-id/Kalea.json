@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "67d7fbafa1e537d6cca57d37",
+        "caption": "涟涟",
+        "configId": 144237,
+        "createdAt": 1742207919372,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat menyergap dengan Kalea, gunakan Skill 2 untuk mendekat dan menyebabkan Crowd Control ke target, lalu gunakan Skill 1 untuk mengaktifkan penguatan Basic Attack dan lepaskan serangan ke target.",
+          "hero_id": 128,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_6cc2f9fe1c18c569d0f327e29f0c77fa.png",
+                "skillid": 12820
+              },
+              "id": 111058,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_e5ccc8c144997bb6676fe8199bc9979b.png",
+                "skillid": 12810
+              },
+              "id": 111059,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12800
+              },
+              "id": 111056,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Laning"
+        },
+        "dynamic": null,
+        "id": 2870505,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1742369571334,
+        "updatedUser": "v_liuchang"
+      },
+      {
+        "_id": "67d7fa6fa1e537d6cca57d27",
+        "caption": "涟涟",
+        "configId": 144237,
+        "createdAt": 1742207599610,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat team fight, Kalea sebaiknya memprioritaskan Mage atau Marksman lawan. Gunakan tahap pertama dari Skill 2 untuk bergerak ke rintangan dekat target, kemudian serang mereka untuk menyebabkan Crowd Control, dan lanjutkan dengan Ultimate untuk membanting lawan ke arah timmu. Gunakan Skill 1 untuk mengaktifkan Pasif-nya, lalu gunakan Basic Attack yang diperkuat ke target.",
+          "hero_id": 128,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_6cc2f9fe1c18c569d0f327e29f0c77fa.png",
+                "skillid": 12820
+              },
+              "id": 111058,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_6cc2f9fe1c18c569d0f327e29f0c77fa.png",
+                "skillid": 12820
+              },
+              "id": 111058,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_ff24a8b43cd23f1be612856e11e8e761.png",
+                "skillid": 12830
+              },
+              "id": 111063,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_e5ccc8c144997bb6676fe8199bc9979b.png",
+                "skillid": 12810
+              },
+              "id": 111059,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98c0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12800
+              },
+              "id": 111056,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Team Fight"
+        },
+        "dynamic": null,
+        "id": 2870504,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1742369625714,
+        "updatedUser": "v_liuchang"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

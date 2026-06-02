@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b244c",
+        "caption": "费登",
+        "configId": 144237,
+        "createdAt": 1713373381546,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, Fredrinn menggunakan Skill 2 untuk mendekati Hero lawan dan menyebabkan Airborne, lalu menggunakan Skill 1 dan Ultimate ke-1 untuk menyebabkan Crowd Control dan mereset Cooldown. Gunakan Basic Attack yang diperkuat, Skill 1 dan 2 secara berurutan untuk memberikan Damage besar, dan mengeliminasi lawan dengan Ultimate ke-2 setelah menyebabkan Airborne ke lawan.",
+          "hero_id": 117,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9885",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcd1b03082da5a690ba7a45196d5ff13.png",
+                "skillid": 11720
+              },
+              "id": 110997,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9884",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11700
+              },
+              "id": 110996,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9886",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4945b0e50c9f2fdad8814a8451861a86.png",
+                "skillid": 11710
+              },
+              "id": 110998,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9889",
+              "_updatedAt": 1773205502365,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b377f78451ed0315312ed90835a01c9.png",
+                "skillid": 11730
+              },
+              "id": 111001,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9886",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4945b0e50c9f2fdad8814a8451861a86.png",
+                "skillid": 11710
+              },
+              "id": 110998,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9885",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcd1b03082da5a690ba7a45196d5ff13.png",
+                "skillid": 11720
+              },
+              "id": 110997,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d988b",
+              "_updatedAt": 1773205502365,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_775f49d622b6611bc97a10108ead401c.png",
+                "skillid": 11750
+              },
+              "id": 111003,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695066,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373776356,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2448",
+        "caption": "费登",
+        "configId": 144237,
+        "createdAt": 1713373381536,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Fredrinn bergerak ke Hero lawan dengan Skill 2, dan menyebabkan Airborne dengan Basic Attack yang diperkuat. Lalu diikuti dengan Skill 1 untuk memberikan Damage.",
+          "hero_id": 117,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9885",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcd1b03082da5a690ba7a45196d5ff13.png",
+                "skillid": 11720
+              },
+              "id": 110997,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9884",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11700
+              },
+              "id": 110996,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9886",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4945b0e50c9f2fdad8814a8451861a86.png",
+                "skillid": 11710
+              },
+              "id": 110998,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9884",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11700
+              },
+              "id": 110996,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695065,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373805865,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

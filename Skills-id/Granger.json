@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6729e35c3bebd51e24efdce8",
+        "caption": "格兰杰",
+        "configId": 144237,
+        "createdAt": 1730798428375,
+        "createdUser": "v_wjzhou",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, gunakan Skill 1 Granger untuk mengganggu lawan. Saat energinya rendah, gunakan skill 2 untuk memulihkan energinya dan terus ganggu lawan dengan Skill 1.",
+          "hero_id": 79,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+                "skillid": 7910
+              },
+              "id": 110802,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a33c876aa83af3bed09b1e6a8d16f638.png",
+                "skillid": 7920
+              },
+              "id": 110805,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+                "skillid": 7910
+              },
+              "id": 110802,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2792027,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1730798428375,
+        "updatedUser": "v_wjzhou"
+      },
+      {
+        "_id": "6729e2ce3bebd51e24efdce3",
+        "caption": "格兰杰",
+        "configId": 144237,
+        "createdAt": 1730798286040,
+        "createdUser": "v_wjzhou",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di team fight, gunakan Ultimate Granger untuk menyerang dari jarak yang aman dan lanjutkan serangan dengan Skill 1-nya. Saat Skill 1 berakhir, gunakan Ultimate-nya lagi untuk damage tambahan dan mengatur posisi. Jika lawan mendekat, gunakan Skill 2-nya untuk menjauh dan terus berikan damage dengan Skill 1-nya.",
+          "hero_id": 79,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_228164a926a169586aec6f69aa68a128.png",
+                "skillid": 7930
+              },
+              "id": 110804,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+                "skillid": 7910
+              },
+              "id": 110802,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_228164a926a169586aec6f69aa68a128.png",
+                "skillid": 7930
+              },
+              "id": 110804,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a33c876aa83af3bed09b1e6a8d16f638.png",
+                "skillid": 7920
+              },
+              "id": 110805,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97c2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+                "skillid": 7910
+              },
+              "id": 110802,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2792026,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1730798286040,
+        "updatedUser": "v_wjzhou"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

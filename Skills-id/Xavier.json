@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b243c",
+        "caption": "泽维尔",
+        "configId": 144237,
+        "createdAt": 1713373381504,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Ultimate untuk memasuki atau me-Refresh Mode Transcendence, kemudian kenai lawan sebanyak mungkin dengan Skill 2, lanjutkan dengan Skill 1 dan ciptakan area terlarang untuk menyebabkan Immobilize. Terus gunakan Skill 1 untuk memperpanjang durasi Transcendence sambil mengincar eliminasi.",
+          "hero_id": 115,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a6d1b10e75be07744732ede3704a3fb.png",
+                "skillid": 11530
+              },
+              "id": 110989,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_328458b4a72433c00a3eca893c267366.png",
+                "skillid": 11520
+              },
+              "id": 110988,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a8f6f17020d9e302435a06a91a9c299.png",
+                "skillid": 11510
+              },
+              "id": 110986,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a8f6f17020d9e302435a06a91a9c299.png",
+                "skillid": 11510
+              },
+              "id": 110986,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695062,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398175,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2438",
+        "caption": "泽维尔",
+        "configId": 144237,
+        "createdAt": 1713373381493,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Xavier dapat mengganggu lawan dengan Skill 1 dan dapat memanfaatkan Slow dari Skill 2 untuk mengenai target. Kombinasi ini membuatnya cepat memasuki Mode Transcendence. Saat terdapat kesempatan, gunakan Ultimate untuk mengeliminasi lawan saat dalam Mode Transcendence.",
+          "hero_id": 115,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a8f6f17020d9e302435a06a91a9c299.png",
+                "skillid": 11510
+              },
+              "id": 110986,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_328458b4a72433c00a3eca893c267366.png",
+                "skillid": 11520
+              },
+              "id": 110988,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a6d1b10e75be07744732ede3704a3fb.png",
+                "skillid": 11530
+              },
+              "id": 110989,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a8f6f17020d9e302435a06a91a9c299.png",
+                "skillid": 11510
+              },
+              "id": 110986,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695061,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398175,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

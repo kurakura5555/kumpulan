@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b2444",
+        "caption": "尤利恩",
+        "configId": 144237,
+        "createdAt": 1713373381526,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, Julian dapat menyebabkan Slow ke lawan dengan Skill 1-nya\r\nsetelah bergerak ke formasi pertarungan lawan dengan Skill 2-nya. Kemudian dia dapat menggunakan Skill 3 yang diperkuat untuk Crowd Control area.",
+          "hero_id": 116,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9881",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00c9de405a78fdd50226b61d82c6d0eb.png",
+                "skillid": 11610
+              },
+              "id": 110993,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9880",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6613dbbb34db5ff5721d4837d765399.png",
+                "skillid": 11620
+              },
+              "id": 110992,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9882",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3b0519e2fe149c133739e4ba3acd8475.png",
+                "skillid": 11633
+              },
+              "id": 110994,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695064,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713929144861,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2440",
+        "caption": "尤利恩",
+        "configId": 144237,
+        "createdAt": 1713373381515,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Julian dapat menggunakan Skill 2-nya untuk mendekati lawan,\r\ndan Skill 3-nya untuk menyebabkan Immobilize ke mereka. Kemudian dia dapat menggunakan Skill 1 yang diperkuat untuk memberikan Damage. Lanjutkan dengan Basic Attack yang diperkuat untuk mencegah lawan kabur.",
+          "hero_id": 116,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9880",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6613dbbb34db5ff5721d4837d765399.png",
+                "skillid": 11620
+              },
+              "id": 110992,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9883",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_45cad9ef470209b6a039b6817d231ad7.png",
+                "skillid": 11630
+              },
+              "id": 110995,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98db",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a8cc82e7f9998f630f34f04c61d3595.png",
+                "skillid": 2011610
+              },
+              "id": 111083,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d987e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 11600
+              },
+              "id": 110990,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695063,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714306799728,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

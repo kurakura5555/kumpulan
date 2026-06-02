@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2110",
+        "caption": "马尔提斯",
+        "configId": 144237,
+        "createdAt": 1713373117274,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, inisiasi menggunakan Skill 1 Martis untuk mengumpulkan lawan dan menyebabkan Slow, lalu gunakan Skill 2 untuk memberikan Damage dan menyebabkan Airborne, dan lanjutkan dengan Basic Attack. Habisi lawan dengan HP rendah menggunakan Ultimate, lalu gunakan Movement Speed tambahan dan Buff Pasifnya untuk mengeliminasi lawan secara beruntun dengan Ultimate.",
+          "hero_id": 58,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec679229c3d8b5f18144acfc2cda27f.png",
+                "skillid": 5810
+              },
+              "id": 110686,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9751",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_910d3e465d051726ab223b215b7cfdb5.png",
+                "skillid": 5820
+              },
+              "id": 110689,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9751",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_910d3e465d051726ab223b215b7cfdb5.png",
+                "skillid": 5820
+              },
+              "id": 110689,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5800
+              },
+              "id": 110687,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9750",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bbdf118fe86a5279e943a6db86fc4d7a.png",
+                "skillid": 5830
+              },
+              "id": 110688,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5800
+              },
+              "id": 110687,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9750",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bbdf118fe86a5279e943a6db86fc4d7a.png",
+                "skillid": 5830
+              },
+              "id": 110688,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694960,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b210c",
+        "caption": "马尔提斯",
+        "configId": 144237,
+        "createdAt": 1713373117264,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, Inisiasi dengan Skill 1 Martis untuk mengumpulkan lawan dan menyebabkan Slow, lalu lanjutkan dengan Skill 2. Gunakan Skill 2 lagi untuk tetap menyerang lawan dan menyebabkan Airborne sambil menumpuk Stack Pasif, dan melanjutkan serangan dengan Basic Attack.",
+          "hero_id": 58,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec679229c3d8b5f18144acfc2cda27f.png",
+                "skillid": 5810
+              },
+              "id": 110686,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9751",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_910d3e465d051726ab223b215b7cfdb5.png",
+                "skillid": 5820
+              },
+              "id": 110689,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9751",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_910d3e465d051726ab223b215b7cfdb5.png",
+                "skillid": 5820
+              },
+              "id": 110689,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d974f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5800
+              },
+              "id": 110687,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694959,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

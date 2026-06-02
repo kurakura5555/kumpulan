@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2168",
+        "caption": "吉米",
+        "configId": 144237,
+        "createdAt": 1713373117499,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat team fight, Kimmy bisa memulai serangan dengan Ultimate untuk mengumpulkan lawan, lalu lanjutkan dengan Skill 2 untuk menyebabkan immobilize ke mereka, dan selesaikan dengan Basic Attack yang diperkuat untuk memberikan banyak damage. Jika lawan berusaha mendekati Kimmy, gunakan Skill 1 untuk menjauh.",
+          "hero_id": 71,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d979d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_df6d2e3daa34ffeacc637e53f9765bb8.png",
+                "skillid": 7130
+              },
+              "id": 110765,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d979a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_a12d486bc0fe88134bc844174b505943.png",
+                "skillid": 7120
+              },
+              "id": 110762,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1745403302718,
+              "_id": "6808bda687eca0fe6023e402",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_c968323497883152ab1f0c5d7c3e88cc.png",
+                "skillid": 7100
+              },
+              "id": 113967,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1745403302718,
+              "_id": "6808bda687eca0fe6023e404",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_493613c92ea4ee9483f41d659e8b5046.png",
+                "skillid": 7110
+              },
+              "id": 113969,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694982,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1744354526307,
+        "updatedUser": "v_liuchang"
+      },
+      {
+        "_id": "661fffbd17071f48448b2164",
+        "caption": "吉米",
+        "configId": 144237,
+        "createdAt": 1713373117488,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, Kumpulkan Starlium sebelum berhadapan dengan lawan. Gunakan Skill 1 untuk segera mendekati lawan, lalu gunakan Skill 2 untuk menyebabkan immobilize ke mereka sebelum menggunakan Basic Attack yang diperkuat untuk memberikan damage besar.",
+          "hero_id": 71,
+          "skill_id": [
+            {
+              "_createdAt": 1745403302718,
+              "_id": "6808bda687eca0fe6023e404",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_493613c92ea4ee9483f41d659e8b5046.png",
+                "skillid": 7110
+              },
+              "id": 113969,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d979a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_a12d486bc0fe88134bc844174b505943.png",
+                "skillid": 7120
+              },
+              "id": 110762,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1745403302718,
+              "_id": "6808bda687eca0fe6023e402",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_c968323497883152ab1f0c5d7c3e88cc.png",
+                "skillid": 7100
+              },
+              "id": 113967,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694981,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1744354520740,
+        "updatedUser": "v_liuchang"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

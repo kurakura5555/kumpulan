@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6911d5b395eb9d5fd266adbc",
+        "caption": "翻新芙蕾雅",
+        "configId": 144237,
+        "createdAt": 1762776499782,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Ultimate Freya untuk menyerang barisan belakang lawan dan mulai memberikan Damage Splash. Gunakan Skill 1-nya untuk menyebabkan crowd control ke lawan dan memberikan shield untuknya, kemudian gunakan Skill 2 dan Basic Attack Area Efek secara bergantian untuk mengalahkan mereka.",
+          "hero_id": 22,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9691",
+              "_updatedAt": 1765974300667,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_49a8b4de271d0162ab9e26e06819840e.png",
+                "skillid": 2250
+              },
+              "id": 110497,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76988",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c2350b4a4d8b8526e9e19c4daba69155.png",
+                "skillid": 2299
+              },
+              "id": 122710,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76987",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122709,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2200
+              },
+              "id": 110492,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76987",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122709,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2200
+              },
+              "id": 110492,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 3221600,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1762777649909,
+        "updatedUser": "v_zhu"
+      },
+      {
+        "_id": "6911d53195eb9d5fd266adb5",
+        "caption": "翻新芙蕾雅",
+        "configId": 144237,
+        "createdAt": 1762776369799,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 Freya untuk mendekati lawan dan menyebabkan airborne sambil memberikan shield pada dirinya sendiri. Gunakan Skill 2-nya sekali diikuti oleh 2 Basic Attack yang diperkuat untuk memanfaatkan bonus Attack Speed dan menghasilkan lebih banyak Sacred Orb dari Pasif.",
+          "hero_id": 22,
+          "skill_id": [
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76988",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_c2350b4a4d8b8526e9e19c4daba69155.png",
+                "skillid": 2299
+              },
+              "id": 122710,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76987",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122709,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2200
+              },
+              "id": 110492,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1776932105726,
+              "_id": "69e9d50954ae2bda46f76987",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_e14d289ed1917b89945f8d502c05d9c6.png",
+                "skillid": 2298
+              },
+              "id": 122709,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2200
+              },
+              "id": 110492,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 3221599,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1762777670336,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

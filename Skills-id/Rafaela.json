@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b1fd0",
+        "caption": "拉斐尔",
+        "configId": 144237,
+        "createdAt": 1713373116418,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 untuk menyebabkan Slow,dan Ultimate untuk Crowd Control,lalu gunakan Skill 2 untuk memulihkan HP teman.",
+          "hero_id": 14,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9667",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3672153fbf1dbeb4a98243958f9deb7.png",
+                "skillid": 1410
+              },
+              "id": 110455,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9669",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70f534ce6bfaa6640646551419211d4c.png",
+                "skillid": 1430
+              },
+              "id": 110457,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9666",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4ce274e4ea7ccb436e0adfec05457aa.png",
+                "skillid": 1420
+              },
+              "id": 110454,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694880,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714470613337,
+        "updatedUser": "nickjin"
+      },
+      {
+        "_id": "661fffbc17071f48448b1fcc",
+        "caption": "拉斐尔",
+        "configId": 144237,
+        "createdAt": 1713373116408,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 untuk mengganggu lawandan Skill 2 untuk Heal dan menjaga jarak.",
+          "hero_id": 14,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9667",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3672153fbf1dbeb4a98243958f9deb7.png",
+                "skillid": 1410
+              },
+              "id": 110455,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9666",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4ce274e4ea7ccb436e0adfec05457aa.png",
+                "skillid": 1420
+              },
+              "id": 110454,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694879,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714470689457,
+        "updatedUser": "nickjin"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

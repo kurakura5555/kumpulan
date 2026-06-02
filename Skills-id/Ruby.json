@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2040",
+        "caption": "露比",
+        "configId": 144237,
+        "createdAt": 1713373116701,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 1 untuk menyebabkan Slow ke lawan dari jauh, dan mendekat dengan Pasif-nya. Lalu gunakan Skill 2 untuk menyebabkan Stun ke lawan dalam jangkauan serta gunakan Ultimate untuk menarik lawan yang mencoba kabur.",
+          "hero_id": 29,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ada6c7426a96d2d9b00fbaf7a0068d4.png",
+                "skillid": 2910
+              },
+              "id": 110531,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ba",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eaf4da37b9211deccc9c0452c0853887.png",
+                "skillid": 2920
+              },
+              "id": 110539,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de4c25c06cc0816c7be8638d52d2dfce.png",
+                "skillid": 2930
+              },
+              "id": 110534,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694908,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219835,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b203c",
+        "caption": "露比",
+        "configId": 144237,
+        "createdAt": 1713373116691,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase laning, gunakan Skill 1 Ruby untuk menyebabkan Slow ke lawan, dan bergerak dari Pasif-nya untuk mendekat. Lalu gunakan Ultimate untuk menarik lawan ke jarak dekat dan Skill 2 untuk membuat mereka tetap terkena Stun. Terakhir, spam Basic Attack untuk mengeliminasi lawan.",
+          "hero_id": 29,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ada6c7426a96d2d9b00fbaf7a0068d4.png",
+                "skillid": 2910
+              },
+              "id": 110531,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de4c25c06cc0816c7be8638d52d2dfce.png",
+                "skillid": 2930
+              },
+              "id": 110534,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ba",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eaf4da37b9211deccc9c0452c0853887.png",
+                "skillid": 2920
+              },
+              "id": 110539,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2900
+              },
+              "id": 110533,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694907,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219835,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

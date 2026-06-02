@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876bea",
+        "caption": "卡里德",
+        "configId": 144237,
+        "createdAt": 1715152423738,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gerakkan Khaleed untuk mengumpulkan Desert Power, lalu serang lawan dengan Basic Attack yang diperkuat untuk menyebabkan Slow dan lanjutkan dengan 3 serangan Skill 1. Desert Power akan kembali terkumpul dan Basic Attack yang diperkuat dapat digunakan kembali.",
+          "hero_id": 98,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9826",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9800
+              },
+              "id": 110902,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9829",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d923b809f919ef60ae354ec162cc853.png",
+                "skillid": 9810
+              },
+              "id": 110905,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9826",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9800
+              },
+              "id": 110902,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706528,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1718696108381,
+        "updatedUser": "v_hwu"
+      },
+      {
+        "_id": "663b2627633922a8d1876be9",
+        "caption": "卡里德",
+        "configId": 144237,
+        "createdAt": 1715152423726,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, inisiasi dengan Ultimate Khaleed, lalu serang target dengan Basic Attack yang diperkuat dan lanjutkan dengan Skill 1. Setelah Desert Power terkumpul, kembali gunakan Basic Attack. Lalu gunakan Skill 2 Khaleed untuk memulihkan HP dan mengurangi Damage yang diterima.",
+          "hero_id": 98,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af48a3f5f3aaf4ea2f41f018fc51e92a.png",
+                "skillid": 9830
+              },
+              "id": 110907,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9826",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9800
+              },
+              "id": 110902,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9829",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d923b809f919ef60ae354ec162cc853.png",
+                "skillid": 9810
+              },
+              "id": 110905,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9826",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9800
+              },
+              "id": 110902,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9828",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d70b9b7d9c0de2d528e8f86bcebe9093.png",
+                "skillid": 9820
+              },
+              "id": 110904,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706527,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1718696132766,
+        "updatedUser": "v_hwu"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

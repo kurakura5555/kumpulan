@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2030",
+        "caption": "悟空",
+        "configId": 144237,
+        "createdAt": 1713373116662,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Dalam Team Fight, Sun dapat mulai dengan ULTIMATE untuk memanggil Doppleganger, dan menjangkau lawan dengan Skill 2. Terakhir, dia dapat menggunakan Skill 2 dan Basic Attack untuk memberikan Damage.",
+          "hero_id": 27,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ac",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18d2d2e16311dff12a1a8518fc823e4d.png",
+                "skillid": 2730
+              },
+              "id": 110524,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ae",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7afa1977abd09809a0cfacccfd2f5cfd.png",
+                "skillid": 2750
+              },
+              "id": 110528,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96aa",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_871502bcbd804479198c0374db30dd5a.png",
+                "skillid": 2720
+              },
+              "id": 110522,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a8",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2700
+              },
+              "id": 110520,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694904,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713947168118,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b202c",
+        "caption": "悟空",
+        "configId": 144237,
+        "createdAt": 1713373116652,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 Sun untuk menyerang lawan, dan memperkecil jarak saat HP mereka rendah dengan Skill 2-nya. Kemudian gunakan Skill 3 untuk memberikan Burst Damage dengan Doppleganger. Sun dapat mulai dengan ULTIMATE untuk memanggil Doppleganger, kemudian muncul di hadapan lawan dengan Skill 2, dan terakhir gunakan Skill 3 serta Basic Attack untuk mengeliminasi.",
+          "hero_id": 27,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d813a2495b9950a4a57fb9e750212ba.png",
+                "skillid": 2710
+              },
+              "id": 110532,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ae",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7afa1977abd09809a0cfacccfd2f5cfd.png",
+                "skillid": 2750
+              },
+              "id": 110528,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96aa",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_871502bcbd804479198c0374db30dd5a.png",
+                "skillid": 2720
+              },
+              "id": 110522,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a8",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 2700
+              },
+              "id": 110520,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694903,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713947192504,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

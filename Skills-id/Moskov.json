@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b2494",
+        "caption": "莫斯卡夫",
+        "configId": 144237,
+        "createdAt": 1713373381797,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate Moskov untuk menyebabkan Slow ke target, kemudian gunakan lagi untuk berpindah dan gunakan Skill 2 untuk menyebabkan Knockback atau Stun lalu habisi mereka dengan Basic Attack.",
+          "hero_id": 31,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96c3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f51734d9a49d298d05e1dc81d8e740c2.png",
+                "skillid": 3130
+              },
+              "id": 110546,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96c1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_108c7b9f3ac11309bbcdf0bf1b185d46.png",
+                "skillid": 3120
+              },
+              "id": 110545,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96c0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ad0a57328e772be2fa70550692507a86.png",
+                "skillid": 3110
+              },
+              "id": 110544,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96be",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 3100
+              },
+              "id": 110542,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695084,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715150559930,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2490",
+        "caption": "莫斯卡夫",
+        "configId": 144237,
+        "createdAt": 1713373381787,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, gunakan Skill 1 Moskov untuk berpindah posisi dan menyebabkan Stun ke target dengan Skill 2-nya, lalu gunakan Basic Attack sebanyak mungkin untuk mengurangi Cooldown Skill-nya.",
+          "hero_id": 31,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96c0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ad0a57328e772be2fa70550692507a86.png",
+                "skillid": 3110
+              },
+              "id": 110544,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96c1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_108c7b9f3ac11309bbcdf0bf1b185d46.png",
+                "skillid": 3120
+              },
+              "id": 110545,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96be",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 3100
+              },
+              "id": 110542,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695083,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

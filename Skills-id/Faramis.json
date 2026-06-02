@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2190",
+        "caption": "法拉米斯",
+        "configId": 144237,
+        "createdAt": 1713373117595,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate untuk melindungi rekan tim, lalu dekati lawan dan berikan Nether Mark dengan Skill 1. Aktifkan Skill 1 kembali untuk menarik mereka dan lanjutkan dengan Skill 2 untuk memberikan Damage tambahan.",
+          "hero_id": 76,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_894fc862a8e42832b70042e47b14943e.png",
+                "skillid": 7630
+              },
+              "id": 110791,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+                "skillid": 7610
+              },
+              "id": 110789,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+                "skillid": 7610
+              },
+              "id": 110789,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_27da095c2a1c8aea15d709ddaf3c0eaa.png",
+                "skillid": 7620
+              },
+              "id": 110788,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694992,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398264,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b218c",
+        "caption": "法拉米斯",
+        "configId": 144237,
+        "createdAt": 1713373117585,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 untuk mendekati lawan dan serang mereka dengan Skill 2 sambil berikan Nether Mark dengan Skill 1. Lalu, gunakan Skill 1 kembali untuk menarik lawan ke arahnya.",
+          "hero_id": 76,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+                "skillid": 7610
+              },
+              "id": 110789,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_27da095c2a1c8aea15d709ddaf3c0eaa.png",
+                "skillid": 7620
+              },
+              "id": 110788,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+                "skillid": 7610
+              },
+              "id": 110789,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694991,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398264,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

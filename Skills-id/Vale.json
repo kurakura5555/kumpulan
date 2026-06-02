@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2150",
+        "caption": "维尔",
+        "configId": 144237,
+        "createdAt": 1713373117438,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 2 Vale untuk menyebabkan Airborne ke barisan lawan, lalu lanjutkan dengan Ultimate dan Skill 1-nya untuk kombo yang dahsyat.",
+          "hero_id": 66,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d977a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_181d88da995a75cdfe00db1c0fd73d3d.png",
+                "skillid": 6620
+              },
+              "id": 110730,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d977d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d37de1a3a365be9dab282f2fdbd9265.png",
+                "skillid": 6630
+              },
+              "id": 110733,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d977b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1dbf6315ad50ccd40b818a1c5ec0a3b4.png",
+                "skillid": 6610
+              },
+              "id": 110731,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694976,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713947725323,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b214c",
+        "caption": "维尔",
+        "configId": 144237,
+        "createdAt": 1713373117427,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 Vale untuk menyebabkan Airborne ke lawan, lalu lanjutkan dengan Skill 1 untuk memberikan Damage.",
+          "hero_id": 66,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d977a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_181d88da995a75cdfe00db1c0fd73d3d.png",
+                "skillid": 6620
+              },
+              "id": 110730,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d977b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1dbf6315ad50ccd40b818a1c5ec0a3b4.png",
+                "skillid": 6610
+              },
+              "id": 110731,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694975,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713947717121,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

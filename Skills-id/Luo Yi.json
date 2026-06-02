@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2218",
+        "caption": "珞翊",
+        "configId": 144237,
+        "createdAt": 1713373117976,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 1 Luo Yi untuk memberikan Mark pada lawan dengan Yin atau Yang dan gunakan lagi pada lawan lain di sekitar untuk memberikan Mark yang berlawanan dan mengaktifkan Reaksi Yin-Yang. Lalu ulangi prosesnya. Jika hanya ada satu lawan, gunakan Skill 2 Luo Yi untuk mengaktifkan Reaksi Yin-Yang.",
+          "hero_id": 96,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d981f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+                "skillid": 9620
+              },
+              "id": 110895,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d981f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+                "skillid": 9620
+              },
+              "id": 110895,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d981e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e2479753eebe2d5bb68a2bc5875f74d.png",
+                "skillid": 9630
+              },
+              "id": 110894,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695026,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713415430162,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b2214",
+        "caption": "珞翊",
+        "configId": 144237,
+        "createdAt": 1713373117966,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 Luo Yi untuk memberikan Mark pada lawan dengan Yin atau Yang, lalu gunakan Skill 2-nya untuk memanggil Fire of Yang atau Aqua of Yin di jangkauan target dan mengaktifkan Reaksi Yin-Yang.",
+          "hero_id": 96,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d981f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+                "skillid": 9620
+              },
+              "id": 110895,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d981e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e2479753eebe2d5bb68a2bc5875f74d.png",
+                "skillid": 9630
+              },
+              "id": 110894,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695025,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715073972444,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

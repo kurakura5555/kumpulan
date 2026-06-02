@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b20a8",
+        "caption": "格瑞克",
+        "configId": 144237,
+        "createdAt": 1713373117005,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat team fight,lakukan inisiasi dengan Skill 2 Grock untuk menjebak lawan,lalu menerjang ke arah tembok dengan Ultimate-nya.Selama lawan dalam keadaan airborne, cari posisi yang bagus untuk menghantam mereka ke tembok dengan Skill 1 dan menyebabkan airborne lagi ke mereka,lalu akhiri dengan Basic Attack.",
+          "hero_id": 44,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9709",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_e19cfc03bbe289fccbfc89a1ef6668be.png",
+                "skillid": 4420
+              },
+              "id": 110617,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9708",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_5226d8dc97b10a6a1a2416b3957dfc7f.png",
+                "skillid": 4430
+              },
+              "id": 110616,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9706",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_b4b1b8b21935b3455b44981f2a01404d.png",
+                "skillid": 4410
+              },
+              "id": 110614,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9707",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4400
+              },
+              "id": 110615,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9707",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4400
+              },
+              "id": 110615,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694934,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1762779212663,
+        "updatedUser": "v_wjzhou"
+      },
+      {
+        "_id": "661fffbc17071f48448b20a4",
+        "caption": "格瑞克",
+        "configId": 144237,
+        "createdAt": 1713373116994,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat terjadi pertarungan kecil,gunakan Skill 2 Grock agar lawan bergerak ke arahnya,lalu gunakan Skill 1 untuk menghantam mereka ke tembok.Gunakan Ultimate-nya untuk menerjang ke arah tembok dan menyebabkan airborne lagi ke lawan,lalu eliminasi dengan Basic Attack.",
+          "hero_id": 44,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9709",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_e19cfc03bbe289fccbfc89a1ef6668be.png",
+                "skillid": 4420
+              },
+              "id": 110617,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9706",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_b4b1b8b21935b3455b44981f2a01404d.png",
+                "skillid": 4410
+              },
+              "id": 110614,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9708",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_5226d8dc97b10a6a1a2416b3957dfc7f.png",
+                "skillid": 4430
+              },
+              "id": 110616,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9707",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4400
+              },
+              "id": 110615,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9707",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4400
+              },
+              "id": 110615,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694933,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1762779265642,
+        "updatedUser": "v_wjzhou"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

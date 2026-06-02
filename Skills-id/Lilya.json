@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876bff",
+        "caption": "莉莉娅",
+        "configId": 144237,
+        "createdAt": 1715152423827,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 2 Lylia untuk menyerang lawan, lalu gunakan Skill 1-nya untuk meledakkan Shadow Energy  yang menghasilkan Damage Burst signifikan. Lanjutkan mengarahkan Skill 2-nya ke lawan dan ledakan dengan Gloom.",
+          "hero_id": 86,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+                "skillid": 8620
+              },
+              "id": 110839,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_891fd83e887a48389c4601114518f082.png",
+                "skillid": 8610
+              },
+              "id": 110838,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+                "skillid": 8620
+              },
+              "id": 110839,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706534,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152746638,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "663b2627633922a8d1876bfb",
+        "caption": "莉莉娅",
+        "configId": 144237,
+        "createdAt": 1715152423817,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 2 Lylia beberapa kali untuk menutupi area luas dengan Shadow Energy, lalu aktifkan ledakan berantai dengan Skill 1-nya. Lanjutkan untuk menggunakan Skill 2 berkali-kali dan ledakan dengan Gloom untuk mengaktifkan beberapa ledakan sekaligus dengan cepat. Saat dalam bahaya, gunakan Ultimate Lylia untuk kembali ke tempat yang aman dan memulihkan HP.",
+          "hero_id": 86,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+                "skillid": 8620
+              },
+              "id": 110839,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_891fd83e887a48389c4601114518f082.png",
+                "skillid": 8610
+              },
+              "id": 110838,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+                "skillid": 8620
+              },
+              "id": 110839,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97e9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e26172faa7303b0a5db666cd23a0a4.png",
+                "skillid": 8630
+              },
+              "id": 110841,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706533,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152453341,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

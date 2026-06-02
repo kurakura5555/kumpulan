@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "66eb9bb61d40a04fbf72c7c7",
+        "caption": "肃游",
+        "configId": 144237,
+        "createdAt": 1726716854350,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Tahan Skill 3 untuk mengganggu lawan sebelum team fight, lalu tahan Skill 1 untuk menyerang dan menyebabkan crowd control ke lawan dari belakang, lalu tahan Skill 2 untuk memberikan damage yang besar. Lalu ketuk Skill 3 untuk menjaga jarak dari lawan, dan saat cooldown skill berakhir, ketuk Skill 1 dan Skill 2 untuk mengeliminasi target dengan cepat.",
+          "hero_id": 126,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                "skillid": 12650
+              },
+              "id": 111046,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                "skillid": 12610
+              },
+              "id": 111044,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                "skillid": 12630
+              },
+              "id": 111047,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                "skillid": 12650
+              },
+              "id": 111046,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                "skillid": 12610
+              },
+              "id": 111044,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                "skillid": 12630
+              },
+              "id": 111047,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2763542,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1726800942606,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "66eb9b3d1d40a04fbf72c7bd",
+        "caption": "肃游",
+        "configId": 144237,
+        "createdAt": 1726716733211,
+        "createdUser": "v_hwu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Menahan Skill 1 di Semak-semak membuat Suyou menyerang secara tiba-tiba dan menyebabkan crowd control ke lawan; lalu tahan Skill 2 untuk memberikan damage yang besar dan lanjutkan dengan Basic Attack kemudian ketuk Skill 3 untuk meninggalkan pertarungan.",
+          "hero_id": 126,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b4",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                "skillid": 12610
+              },
+              "id": 111044,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12600
+              },
+              "id": 111045,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                "skillid": 12630
+              },
+              "id": 111047,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98b6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                "skillid": 12650
+              },
+              "id": 111046,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2763541,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1726800866436,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

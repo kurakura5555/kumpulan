@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "697329c766a7f82a51d4d421",
+        "caption": "尤朵拉（翻新）",
+        "configId": 144237,
+        "createdAt": 1769155015308,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Dalam team fight, gunakan Skill 1 Eudora untuk memberikan efek Superconductor ke hero lawan, lalu lepaskan Skill 2 pada target yang tepat untuk stun area, dan ikuti dengan Ultimate-nya untuk damage burst besar ke hero yang terkena stun. Terakhir, gunakan Skill 1-nya lagi untuk mengeliminasi lawan.",
+          "hero_id": 15,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d966a",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_17018b4270f7fd04eb235499eb629861.png",
+                "skillid": 1510
+              },
+              "id": 110458,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9673",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_ee8360b2b38255f04226a627561564fe.png",
+                "skillid": 1520
+              },
+              "id": 110468,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d966c",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_d44b0dd173dce52af46ec6432c4ab287.png",
+                "skillid": 1530
+              },
+              "id": 110460,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d966a",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_17018b4270f7fd04eb235499eb629861.png",
+                "skillid": 1510
+              },
+              "id": 110458,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 3266147,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1769155015308,
+        "updatedUser": "v_zhu"
+      },
+      {
+        "_id": "6973280766a7f82a51d4d3ee",
+        "caption": "尤朵拉（翻新）",
+        "configId": 144237,
+        "createdAt": 1769154567594,
+        "createdUser": "v_zhu",
+        "data": {
+          "_object": 2684183,
+          "desc": "Selama fase laning, mulailah dengan Skill 2 Eudora untuk menyebabkan stun ke hero lawan dan memberikan efek Superconductor, lalu ikuti dengan Ultimate-nya, dan pusatkan di atas lawan untuk damage yang besar. Akhiri dengan Skill 1-nya untuk terhubung dengan lawan dan mengeliminasi mereka.",
+          "hero_id": 15,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9673",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_ee8360b2b38255f04226a627561564fe.png",
+                "skillid": 1520
+              },
+              "id": 110468,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d966c",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_d44b0dd173dce52af46ec6432c4ab287.png",
+                "skillid": 1530
+              },
+              "id": 110460,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d966a",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_17018b4270f7fd04eb235499eb629861.png",
+                "skillid": 1510
+              },
+              "id": 110458,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 3266138,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1769154567594,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

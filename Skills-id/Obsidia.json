@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "68afd0e75d2ef3f564b52a37",
+        "caption": "厄伊妲",
+        "configId": 144237,
+        "createdAt": 1756352743070,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Selama team fight, gunakan Basic Attack dan Skill 1 Obsidia untuk mengganggu lawan, dan gunakan Skill 2-nya untuk mengubah posisi. Cari kesempatan untuk mendekati target menggunakan Ultimate-nya dan eliminasi lawan bersama timmu. Terakhir, manfaatkan mobilitas dan Basic Attack-nya yang kuat untuk mengeliminasi lawan yang tersisa.",
+          "hero_id": 130,
+          "skill_id": [
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dab",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 13000
+              },
+              "id": 122472,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dad",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+                "skillid": 13010
+              },
+              "id": 122474,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dac",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+                "skillid": 13020
+              },
+              "id": 122473,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dae",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4b023cbf620869d7596b5e87e467c7c8.png",
+                "skillid": 13030
+              },
+              "id": 122475,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dab",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 13000
+              },
+              "id": 122472,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Team Fight"
+        },
+        "dynamic": null,
+        "id": 3131762,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1756352743070,
+        "updatedUser": "v_liuchang"
+      },
+      {
+        "_id": "68afd03c5d2ef3f564b52a2c",
+        "caption": "厄伊妲",
+        "configId": 144237,
+        "createdAt": 1756352572271,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Selama fase laning, terus gunakan Skill 1 Obsidia ke Minion dan hero lawan untuk mengumpulkan stack Pasifnya dengan cepat. Saat HP lawan tersisa sedikit, gunakan Skill 2 dan Ultimate Obsidia pada lawan dan eliminasi dengan Basic Attack.",
+          "hero_id": 130,
+          "skill_id": [
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dad",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+                "skillid": 13010
+              },
+              "id": 122474,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dac",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+                "skillid": 13020
+              },
+              "id": 122473,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dae",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4b023cbf620869d7596b5e87e467c7c8.png",
+                "skillid": 13030
+              },
+              "id": 122475,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1758787888320,
+              "_id": "68d4f930c17a2a8f932a8dab",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 13000
+              },
+              "id": 122472,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Laning"
+        },
+        "dynamic": null,
+        "id": 3131761,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1756352572271,
+        "updatedUser": "v_liuchang"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

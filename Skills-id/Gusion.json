@@ -1,0 +1,188 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2100",
+        "caption": "古辛",
+        "configId": 144237,
+        "createdAt": 1713373117233,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 2 terlebih dahulu untuk memberikan Damage, kemudian Ultimate untuk mereset Cooldown Skill 2-nya. Diikuti dengan kombo Skill 2 dan 1-nya untuk Damage tambahan. Dan gunakan Skill 2 kembali untuk memanggil semua belatinya tepat setelah bergerak ke belakang target dengan Skill 1 untuk Damage besar. Dia dapat mengeliminasi Hero dengan HP rendah dan kabur dengan Ultimate-nya.",
+          "hero_id": 56,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9746",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                "skillid": 5620
+              },
+              "id": 110678,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9747",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ffa279a397359b614e8acecde38c0bb.png",
+                "skillid": 5630
+              },
+              "id": 110679,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9746",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                "skillid": 5620
+              },
+              "id": 110678,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9745",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                "skillid": 5610
+              },
+              "id": 110677,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9745",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                "skillid": 5610
+              },
+              "id": 110677,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9746",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                "skillid": 5620
+              },
+              "id": 110678,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9744",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5600
+              },
+              "id": 110676,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694956,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b20fc",
+        "caption": "古辛",
+        "configId": 144237,
+        "createdAt": 1713373117222,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Gunakan Skill 1 untuk memberikan Mark ke lawan, kemudian gunakan Skill 2 untuk menyebabkan Slow. Selanjutnya, gunakan Skill 1 lagi untuk bergerak ke arah target dan gunakan Skill 2 lagi untuk memberikan Damage besar. Terakhir, gunakan Basic Attack untuk mengeliminasi lawan.",
+          "hero_id": 56,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9745",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                "skillid": 5610
+              },
+              "id": 110677,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9746",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                "skillid": 5620
+              },
+              "id": 110678,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9745",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                "skillid": 5610
+              },
+              "id": 110677,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9746",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                "skillid": 5620
+              },
+              "id": 110678,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9744",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 5600
+              },
+              "id": 110676,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694955,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

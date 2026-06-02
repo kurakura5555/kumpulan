@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876c0f",
+        "caption": "星梦",
+        "configId": 144237,
+        "createdAt": 1715152423868,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 3 Lunox untuk menyebabkan Slow dan Skill 2 untuk mengganggu lawan. Saat dia menerima Damage, gunakan Skill 1 untuk memulihkan HP.",
+          "hero_id": 68,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9788",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d67ac23319eff91169044a7d89484d77.png",
+                "skillid": 6830
+              },
+              "id": 110744,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9786",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1785f547a0d65857cdd756fd248932ed.png",
+                "skillid": 6820
+              },
+              "id": 110742,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9787",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acf846262a6ad486ce0a7bc52ea7adeb.png",
+                "skillid": 6810
+              },
+              "id": 110743,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706538,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152453341,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "663b2627633922a8d1876c0b",
+        "caption": "星梦",
+        "configId": 144237,
+        "createdAt": 1715152423858,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 3 Lunox untuk menyebabkan Slow ke lawan terlebih dahulu dan lanjutkan dengan Skill 2-nya untuk memperoleh Power of Chaos, lalu aktifkan Ultimate Darkening dan gunakan Skill 2-nya berkali-kali untuk memberikan Damage yang besar. Setelah itu, gunakan Skill 1 untuk memperoleh Power of Order, lalu aktifkan Ultimate Brilliance agar menjadi kebal serangan dan memberikan Damage ke lawan di sekitar.",
+          "hero_id": 68,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9788",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d67ac23319eff91169044a7d89484d77.png",
+                "skillid": 6830
+              },
+              "id": 110744,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9786",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1785f547a0d65857cdd756fd248932ed.png",
+                "skillid": 6820
+              },
+              "id": 110742,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d978d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3673d187cf12182b09ba1a0054ca0742.png",
+                "skillid": 6860
+              },
+              "id": 110749,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9786",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1785f547a0d65857cdd756fd248932ed.png",
+                "skillid": 6820
+              },
+              "id": 110742,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9787",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acf846262a6ad486ce0a7bc52ea7adeb.png",
+                "skillid": 6810
+              },
+              "id": 110743,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d978c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_928f5ae97116806edf7fd06522aee9e9.png",
+                "skillid": 6870
+              },
+              "id": 110748,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706537,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715155479742,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

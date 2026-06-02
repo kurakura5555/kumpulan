@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b20b8",
+        "caption": "兰斯洛特",
+        "configId": 144237,
+        "createdAt": 1713373117045,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 1 ke lawan di barisan depan sebagai pijakan untuk ke barisan belakang mereka, lalu Skill 2 ke Hero barisan belakang untuk Damage besar. Lanjutkan dengan Ultimate untuk menyerang dan mencegah mereka melarikan diri, dan gunakan Skill 1 untuk terus mengejar atau mundur.",
+          "hero_id": 47,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9717",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60c8287e6736521c1c00d1eda3bc07bf.png",
+                "skillid": 4710
+              },
+              "id": 110631,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9716",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_146f3578adb9187559996d65a9bcab8b.png",
+                "skillid": 4720
+              },
+              "id": 110630,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9719",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_410d2071fe2e9cfeaed0001e1b942229.png",
+                "skillid": 4730
+              },
+              "id": 110633,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9717",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60c8287e6736521c1c00d1eda3bc07bf.png",
+                "skillid": 4710
+              },
+              "id": 110631,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694938,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b20b4",
+        "caption": "兰斯洛特",
+        "configId": 144237,
+        "createdAt": 1713373117035,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, bersihkan Minion dengan mengulangi penggunaan Skill 1 karena adanya reset Cooldown, dan tumpuk efek Pasifnya sebelum mendekati dan menyerang lawan dengan Skill 2.",
+          "hero_id": 47,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9717",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60c8287e6736521c1c00d1eda3bc07bf.png",
+                "skillid": 4710
+              },
+              "id": 110631,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9716",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_146f3578adb9187559996d65a9bcab8b.png",
+                "skillid": 4720
+              },
+              "id": 110630,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694937,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

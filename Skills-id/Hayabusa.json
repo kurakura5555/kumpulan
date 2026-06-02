@@ -1,0 +1,188 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2000",
+        "caption": "隼",
+        "configId": 144237,
+        "createdAt": 1713373116533,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 2 untuk menyerang lawan dengan bayangan, lalu gunakan Skill 1 dan 2 ke target untuk meninggalkan Shadow Mark sebelum mengeluarkan Ultimate. Kemudian, gunakan Skill 1 untuk mengeliminasi lawan dan kabur dengan Skill 2-nya.",
+          "hero_id": 21,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9688",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+                "skillid": 2110
+              },
+              "id": 110488,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_725ee5582eb697e37896e8a6b81442d9.png",
+                "skillid": 2130
+              },
+              "id": 110490,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9688",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+                "skillid": 2110
+              },
+              "id": 110488,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694892,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219943,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b1ffc",
+        "caption": "隼",
+        "configId": 144237,
+        "createdAt": 1713373116523,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 Hayabusa untuk mengenai lawan dengan bayangan, lalu serang dengan Skill 1, dan gunakan Skill 2 untuk berpindah. Tunggu hingga Cooldown Skill 1 selesai, lalu berpindah kembali ke lawan dengan Skill 2 dan serang lagi dengan Skill 1 diikuti dengan Ultimate untuk mengamankan Kill.",
+          "hero_id": 21,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9688",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+                "skillid": 2110
+              },
+              "id": 110488,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+                "skillid": 2120
+              },
+              "id": 110491,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9688",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+                "skillid": 2110
+              },
+              "id": 110488,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d968a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_725ee5582eb697e37896e8a6b81442d9.png",
+                "skillid": 2130
+              },
+              "id": 110490,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694891,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219943,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

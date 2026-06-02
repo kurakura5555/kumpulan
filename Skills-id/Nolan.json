@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b2474",
+        "caption": "诺兰",
+        "configId": 144237,
+        "createdAt": 1713373381666,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, dekati lawan menggunakan Skill 2 dan Basic Attack yang diperkuat, lalu aktifkan retakan dengan Skill 1-nya. Gunakan Skill 2 untuk berlari menembus lawan, dan keluarkan Ultimate untuk mengaktifkan semua retakan sambil mundur ke tempat yang aman.",
+          "hero_id": 122,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+                "skillid": 12220
+              },
+              "id": 111024,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12200
+              },
+              "id": 111022,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9e7e389d9aa59fb42aff11a2303cf1c.png",
+                "skillid": 12210
+              },
+              "id": 111025,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+                "skillid": 12220
+              },
+              "id": 111024,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a24a1a342fb4f6bd6f1d59de13e77a05.png",
+                "skillid": 12230
+              },
+              "id": 111027,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695076,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2470",
+        "caption": "诺兰",
+        "configId": 144237,
+        "createdAt": 1713373381655,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 dan Basic Attack yang diperkuat untuk menangkap lawan, lalu gunakan Skill 1 untuk mengaktifkan retakan. Lanjutkan dengan Skill 2 dan Skill 1 untuk mengaktifkan ledakan retakan lainnya.",
+          "hero_id": 122,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+                "skillid": 12220
+              },
+              "id": 111024,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d989e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 12200
+              },
+              "id": 111022,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9e7e389d9aa59fb42aff11a2303cf1c.png",
+                "skillid": 12210
+              },
+              "id": 111025,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+                "skillid": 12220
+              },
+              "id": 111024,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98a1",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9e7e389d9aa59fb42aff11a2303cf1c.png",
+                "skillid": 12210
+              },
+              "id": 111025,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695075,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713425461475,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

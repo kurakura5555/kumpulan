@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b2424",
+        "caption": "洛霖",
+        "configId": 144237,
+        "createdAt": 1713373381440,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 2 untuk menyebabkan CC ke lawan, dan Skill 1 untuk memberikan Damage serta pemulihan. Saat rekan tim dalam keadaan terancam, gunakan Ultimate untuk menyelamatkan mereka.",
+          "hero_id": 112,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d986c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6013f24a0d60e559d6d0ec3ed98b3fe.png",
+                "skillid": 11225
+              },
+              "id": 110972,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d986d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8eaeefe76d960607dafc49229eb08597.png",
+                "skillid": 11215
+              },
+              "id": 110973,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d986e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03fedb79f8a7dec957408802fa28f840.png",
+                "skillid": 11235
+              },
+              "id": 110974,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695056,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714469847987,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2420",
+        "caption": "洛霖",
+        "configId": 144237,
+        "createdAt": 1713373381430,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 untuk menyebabkan Stun ke lawan, lalu lanjutkan dengan Skill 1 untuk memberikan Damage dan pemulihan.",
+          "hero_id": 112,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d986c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6013f24a0d60e559d6d0ec3ed98b3fe.png",
+                "skillid": 11225
+              },
+              "id": 110972,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d986d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8eaeefe76d960607dafc49229eb08597.png",
+                "skillid": 11215
+              },
+              "id": 110973,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695055,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714469885768,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2020",
+        "caption": "神乐",
+        "configId": 144237,
+        "createdAt": 1713373116623,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Lemparkan Seimei Umbrella ke tengah lawan dengan Skill 1, lalu gunakan Ultimate untuk mereset Cooldown Skill 1 dan sesuaikan lokasi Seimei Umbrella sebelum berpindah ke lokasinya untuk menyebabkan Stun ke lawan di sekitar. Gunakan kombo Ultimate + Skill 2 untuk kabur dari area pertarungan.",
+          "hero_id": 25,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d969c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc6ff81df0961e494e8c5f3e42f582fe.png",
+                "skillid": 2510
+              },
+              "id": 110508,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0329949e3af570f3c65b46f1d12bf637.png",
+                "skillid": 2531
+              },
+              "id": 110517,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d969f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8df435b74a7fcd429e89dd381e5ea452.png",
+                "skillid": 2511
+              },
+              "id": 110511,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_210c67437a6d0722052086bfcca1e20d.png",
+                "skillid": 2521
+              },
+              "id": 110514,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a0",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_07f828b02ce64ae8ded3b3ede8893b53.png",
+                "skillid": 2530
+              },
+              "id": 110512,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d969e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_292caeb01278d75ba3e02457e9ddb603.png",
+                "skillid": 2520
+              },
+              "id": 110510,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694900,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713374052956,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b201c",
+        "caption": "神乐",
+        "configId": 144237,
+        "createdAt": 1713373116613,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 1 untuk mengganggu lawan, lalu Skill 2 untuk berpindah ke lokasi Seimei Umbrella, memberikan lebih banyak Damage ke lawan dan melompat ke belakang menggunakan Skill 2 lagi.",
+          "hero_id": 25,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d969c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc6ff81df0961e494e8c5f3e42f582fe.png",
+                "skillid": 2510
+              },
+              "id": 110508,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a2",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_210c67437a6d0722052086bfcca1e20d.png",
+                "skillid": 2521
+              },
+              "id": 110514,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d969e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_292caeb01278d75ba3e02457e9ddb603.png",
+                "skillid": 2520
+              },
+              "id": 110510,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694899,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713374070276,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

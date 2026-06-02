@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2078",
+        "caption": "凡克莎娜",
+        "configId": 144237,
+        "createdAt": 1713373116882,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Mulai Team Fight dengan Crowd Control atau lanjutkan setelah ada Crowd Control lain.\r\nGunakan Ultimate saat lawan berkumpul, lanjutkan dengan\r\nKombo Skill 1 dan 2 untuk memberikan Damage.",
+          "hero_id": 38,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96e9",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a95d813fc47cb5ec048784dacd7b46e.png",
+                "skillid": 3830
+              },
+              "id": 110585,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96e6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+                "skillid": 3820
+              },
+              "id": 110582,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+                "skillid": 3810
+              },
+              "id": 110583,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694922,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713942363708,
+        "updatedUser": "v_hwu"
+      },
+      {
+        "_id": "661fffbc17071f48448b2074",
+        "caption": "凡克莎娜",
+        "configId": 144237,
+        "createdAt": 1713373116872,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Sebabkan Terrify ke lawan dengan Skill 1, kemudian gunakan Skill 2.",
+          "hero_id": 38,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96e7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+                "skillid": 3810
+              },
+              "id": 110583,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96e6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+                "skillid": 3820
+              },
+              "id": 110582,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694921,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713942391682,
+        "updatedUser": "v_hwu"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

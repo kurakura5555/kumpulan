@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "684a5009be2e4e0faa673a4c",
+        "caption": "武则天",
+        "configId": 144237,
+        "createdAt": 1749700617567,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat team fight, gunakan Ultimate Zetian untuk meningkatkan Movement Speed rekan dan menyerang semua lawan, lalu segera gunakan Skill 2 untuk menyebabkan slow ke lawan, sehingga Ultimate lebih mudah mengenai lawan. Gunakan Skill 1 untuk area efek tambahan, dan gunakan lagi Skill 2 jika lawan mencoba keluar dari jangkauan.",
+          "hero_id": 129,
+          "skill_id": [
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c4e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_c4ad79c62c6d69f54cae3baf2b8ac69d.png",
+                "skillid": 12930
+              },
+              "id": 114008,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c52",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_174652aa9781ef344273263d39f6d5ed.png",
+                "skillid": 12920
+              },
+              "id": 114012,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c4f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_d9814f641d7040f425863cbb9733ce57.png",
+                "skillid": 12910
+              },
+              "id": 114009,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c52",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_174652aa9781ef344273263d39f6d5ed.png",
+                "skillid": 12920
+              },
+              "id": 114012,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Team Fight"
+        },
+        "dynamic": null,
+        "id": 3055742,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1750154539554,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "684a4f68be2e4e0faa6739dd",
+        "caption": "武则天",
+        "configId": 144237,
+        "createdAt": 1749700456023,
+        "createdUser": "v_liuchang",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase laning, gunakan Skill 2 Zetian untuk menyebabkan slow ke lawan dan mengurangi Magic Defense mereka, lalu gunakan Skill 1 sambil bergerak untuk mengatur posisi dan memberikan damage berkelanjutan. Jika lawan bergerak keluar dari area Skill 2, gunakan skill sekali lagi untuk memindahkan Phoenix ke posisi lawan.",
+          "hero_id": 129,
+          "skill_id": [
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c52",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_174652aa9781ef344273263d39f6d5ed.png",
+                "skillid": 12920
+              },
+              "id": 114012,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c4f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_d9814f641d7040f425863cbb9733ce57.png",
+                "skillid": 12910
+              },
+              "id": 114009,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1750228502626,
+              "_id": "68525e16ec18fd09131d0c52",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_174652aa9781ef344273263d39f6d5ed.png",
+                "skillid": 12920
+              },
+              "id": 114012,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "Kombo Laning"
+        },
+        "dynamic": null,
+        "id": 3055723,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1750154554847,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}
