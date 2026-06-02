@@ -100,7 +100,7 @@
         "createdUser": "v_zhu",
         "data": {
           "_object": 2684183,
-          "desc": "Rakip her minyon kesmek için açıldığında, 1. Becerinizle onu bir güzel dürtün ve ardından da 2. Becerinizi kullanarak geri çıkın. 1. ve 2. Becerideki hareketlilik ile rakiplere sürekli vur-kaç yapmak mümkündür. Sora'nın asıl hasarı, 1. Becerisini tutturursa açığa çıkar.",
+          "desc": "Saat lawan maju untuk membunuh minion, tusuk mereka dengan Skill 1, lalu segera mundur menggunakan Skill 2. Mobilitas dari Skill 1 dan Skill 2 memungkinkan Sora terus melakukan serangan hit-and-run terhadap musuh. Sumber damage utama Sora akan muncul jika Skill 1 berhasil mengenai target.",
           "hero_id": 131,
           "skill_id": [
             {
