@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876c17",
+        "caption": "阿格斯",
+        "configId": 144237,
+        "createdAt": 1715152423888,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 Argus untuk mendekati lawan dan gunakan Skill 2 untuk menyebabkan Slow ke mereka sambil menyerang dengan Basic Attack. Jika lawan mencoba untuk kabur, gunakan tahap kedua dari Skill 1-nya untuk mengejar.",
+          "hero_id": 45,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+                "skillid": 4510
+              },
+              "id": 110621,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79110528884ec6365c2e9395dc1bc11b.png",
+                "skillid": 4520
+              },
+              "id": 110620,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4500
+              },
+              "id": 110618,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+                "skillid": 4510
+              },
+              "id": 110621,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706540,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152518544,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "663b2627633922a8d1876c13",
+        "caption": "阿格斯",
+        "configId": 144237,
+        "createdAt": 1715152423878,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 1 Argus untuk menarik dirinya ke arah formasi lawan, lalu gunakan Skill kembali untuk bergerak ke barisan belakang mereka. Selanjutnya, gunakan Skill 2 untuk menyebabkan Slow dan gunakan Basic Attack hingga HP-nya rendah, lalu gunakan Ultimate dan lanjutkan dengan Basic Attack.",
+          "hero_id": 45,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+                "skillid": 4510
+              },
+              "id": 110621,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+                "skillid": 4510
+              },
+              "id": 110621,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79110528884ec6365c2e9395dc1bc11b.png",
+                "skillid": 4520
+              },
+              "id": 110620,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4500
+              },
+              "id": 110618,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_41fe2a5e02169da266ce942372ad1e91.png",
+                "skillid": 4530
+              },
+              "id": 110623,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d970a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 4500
+              },
+              "id": 110618,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706539,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152496059,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

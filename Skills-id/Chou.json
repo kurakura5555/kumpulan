@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2028",
+        "caption": "周",
+        "configId": 144237,
+        "createdAt": 1713373116642,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 2 dan Skill 1 untuk mendekati target utama, lalu gunakan Ultimate untuk menendang mereka ke tim Chou dan dapatkan Kill.",
+          "hero_id": 26,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+                "skillid": 2620
+              },
+              "id": 110519,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70b2990486b562415dac32dac01bdb16.png",
+                "skillid": 2610
+              },
+              "id": 110515,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05083715344213a996ab3ebf04381e93.png",
+                "skillid": 2630
+              },
+              "id": 110518,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694902,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713942327684,
+        "updatedUser": "v_hwu"
+      },
+      {
+        "_id": "661fffbc17071f48448b2024",
+        "caption": "周",
+        "configId": 144237,
+        "createdAt": 1713373116632,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, Gunakan Skill 2 Chou untuk mendekati lawan dan gunakan Skill 1 untuk serangan beruntun. Setelah mendaratkan serangan ke-3 dari Skill 1, gunakan Skill 2 kembali untuk tetap di dekat target dan eliminasi mereka dengan Ultimate.",
+          "hero_id": 26,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+                "skillid": 2620
+              },
+              "id": 110519,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a3",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70b2990486b562415dac32dac01bdb16.png",
+                "skillid": 2610
+              },
+              "id": 110515,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+                "skillid": 2620
+              },
+              "id": 110519,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96a6",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05083715344213a996ab3ebf04381e93.png",
+                "skillid": 2630
+              },
+              "id": 110518,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694901,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219888,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

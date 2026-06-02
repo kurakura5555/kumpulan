@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbe17071f48448b2258",
+        "caption": "布迪卡",
+        "configId": 144237,
+        "createdAt": 1713373118171,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, kami merekomendasikan menggunakan Bennett sebagai senjata utama Beatrix dan Nibiru sebagai cadangan. Selama Team Fight, gunakan Ultimate Bennett untuk menyerang tim lawan. Kemudian gunakan Skill 1 untuk beralih ke Nibiru, dan gunakan Ultimate Nibiru untuk menyerang lawan. Dia dapat mengeliminasi Hero lawan dengan Basic Attack dan Skill 2.",
+          "hero_id": 105,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98d5",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0cafa22d656d6a2c14cf5259d91762fa.png",
+                "skillid": 2010550
+              },
+              "id": 111077,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98cf",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                "skillid": 2010510
+              },
+              "id": 111071,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98d7",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3b4d741305b9662e5295a0425b2a1a7.png",
+                "skillid": 2010570
+              },
+              "id": 111079,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9848",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a73f7fe9348d2717af6900969accf3.png",
+                "skillid": 10500
+              },
+              "id": 110936,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98ce",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                "skillid": 2010520
+              },
+              "id": 111070,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9848",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a73f7fe9348d2717af6900969accf3.png",
+                "skillid": 10500
+              },
+              "id": 110936,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695042,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714470149281,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbe17071f48448b2254",
+        "caption": "布迪卡",
+        "configId": 144237,
+        "createdAt": 1713373118160,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, kami merekomendasikan menggunakan Renner sebagai senjata utama Beatrix dan Wesker sebagai cadangan. Dapat menggunakan jangkauan Basic Attack Renner untuk mengganggu lawan,dan Skill 2 untuk mengisi peluru dan menembak kembali. Kemudian dapat beralih ke Weskter untuk mengeliminasi lawan.",
+          "hero_id": 105,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9848",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a73f7fe9348d2717af6900969accf3.png",
+                "skillid": 10500
+              },
+              "id": 110936,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98ce",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+                "skillid": 2010520
+              },
+              "id": 111070,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9848",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a73f7fe9348d2717af6900969accf3.png",
+                "skillid": 10500
+              },
+              "id": 110936,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98cf",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+                "skillid": 2010510
+              },
+              "id": 111071,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9848",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a73f7fe9348d2717af6900969accf3.png",
+                "skillid": 10500
+              },
+              "id": 110936,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695041,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713929856185,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

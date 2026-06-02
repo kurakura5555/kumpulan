@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b1fa8",
+        "caption": "阿凯",
+        "configId": 144237,
+        "createdAt": 1713373116317,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, Gunakan Skill 1 untuk menyebabkan Knockback, dan berputar ke arah formasi lawan. Lalu gunakan Ultimate untuk mengganggu formasi lawan, dan teruskan untuk memberi Damage dengan Skill 2 setelah Ultimate berakhir.",
+          "hero_id": 9,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4c47ec169528dd5f35ee0792fd26fcf8.png",
+                "skillid": 910
+              },
+              "id": 110428,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_31701b6b54bacf44d29317ab6ba86f64.png",
+                "skillid": 930
+              },
+              "id": 110430,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57c97caeff255d9d646d4c9b3d100211.png",
+                "skillid": 920
+              },
+              "id": 110431,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694870,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219996,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b1fa4",
+        "caption": "阿凯",
+        "configId": 144237,
+        "createdAt": 1713373116307,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Gunakan Skill 1 untuk menyebabkan Knockback, dan Skill 2 untuk menyebabkan Slow, lalu gunakan Basic Attack untuk memberikan Damage.",
+          "hero_id": 9,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4c47ec169528dd5f35ee0792fd26fcf8.png",
+                "skillid": 910
+              },
+              "id": 110428,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57c97caeff255d9d646d4c9b3d100211.png",
+                "skillid": 920
+              },
+              "id": 110431,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d964d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 900
+              },
+              "id": 110429,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694869,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219996,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

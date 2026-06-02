@@ -1,0 +1,177 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b1f98",
+        "caption": "阿鲁卡多",
+        "configId": 144237,
+        "createdAt": 1713373116278,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan ULTIMATE untuk meningkatkan Lifesteal serta meninggalkan Mark ke lawan kemudian menggunakan Skill 1 dan Skill 2 secara bergantian\r\ndilanjutkan dengan Basic Attack. Terakhir, gunakan ULTIMATE\r\nuntuk melakukan eliminasi.",
+          "hero_id": 7,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9644",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d4325e672bb7b7a1add8501525684e19.png",
+                "skillid": 730
+              },
+              "id": 110420,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9643",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 700
+              },
+              "id": 110419,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9642",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7862dada550b5e9258bbefafee78a296.png",
+                "skillid": 710
+              },
+              "id": 110418,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9643",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 700
+              },
+              "id": 110419,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9645",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9a0e6ddbddbf009ebb0736e320170fa.png",
+                "skillid": 720
+              },
+              "id": 110421,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9643",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 700
+              },
+              "id": 110419,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9644",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d4325e672bb7b7a1add8501525684e19.png",
+                "skillid": 730
+              },
+              "id": 110420,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694866,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219997,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b1f94",
+        "caption": "阿鲁卡多",
+        "configId": 144237,
+        "createdAt": 1713373116269,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, Alucard dapat menggunakan Skill 1 untuk memberikan Damage dan menyebabkan Slow ke lawan, dan lanjutkan dengan Basic Attack. Kemudian, gunakan Skill 2 dan lanjutkan dengan Basic Attack.",
+          "hero_id": 7,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9642",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7862dada550b5e9258bbefafee78a296.png",
+                "skillid": 710
+              },
+              "id": 110418,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9643",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 700
+              },
+              "id": 110419,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9645",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9a0e6ddbddbf009ebb0736e320170fa.png",
+                "skillid": 720
+              },
+              "id": 110421,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9643",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 700
+              },
+              "id": 110419,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694865,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219996,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

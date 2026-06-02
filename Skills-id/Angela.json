@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b20f8",
+        "caption": "安卓拉",
+        "configId": 144237,
+        "createdAt": 1713373117212,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate ke rekan tim terkuat,\r\ngunakan Skill 1 untuk memberikan Damage atau memulihkan rekan tim. Saat lawan mencoba mendekat, gunakan Skill 2 untuk menyebabkan Crowd Control, diikuti dengan Skill 1 untuk memberikan Damage berkelanjutan.",
+          "hero_id": 55,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9743",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1c3f421da66e26aa3e0d8749f9f39de.png",
+                "skillid": 5530
+              },
+              "id": 110675,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9741",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+                "skillid": 5510
+              },
+              "id": 110673,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9740",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f32c780347021165ab869944f1c981c.png",
+                "skillid": 5520
+              },
+              "id": 110672,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9741",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+                "skillid": 5510
+              },
+              "id": 110673,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694954,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b20f4",
+        "caption": "安卓拉",
+        "configId": 144237,
+        "createdAt": 1713373117202,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 untuk terus mengganggu lawan. Saat HP lawan rendah, gunakan Skill 2 untuk menyebabkan Crowd Control ke target, dan terus berikan Damage dengan Skill 1.",
+          "hero_id": 55,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9741",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+                "skillid": 5510
+              },
+              "id": 110673,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9740",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f32c780347021165ab869944f1c981c.png",
+                "skillid": 5520
+              },
+              "id": 110672,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9741",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+                "skillid": 5510
+              },
+              "id": 110673,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694953,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161177,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

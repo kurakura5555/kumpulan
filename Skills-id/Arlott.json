@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b2464",
+        "caption": "阿洛特",
+        "configId": 144237,
+        "createdAt": 1713373381608,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, serang Hero lawan yang memiliki Mark dengan Skill 2, lalu cari posisi untuk menggunakan Ultimate guna menyebabkan Crowd Control dan meninggalkan Mark. Gunakan Skill 2 Arlott untuk mendekati lawan dari satu target ke target lainnya. Saat semua Mark telah hilang, gunakan Skill 1 untuk menyebabkan Crowd Control dan meninggalkan Mark lagi, dan lanjutkan penggunaan Skill 2-nya.",
+          "hero_id": 120,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9896",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+                "skillid": 12020
+              },
+              "id": 111014,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9899",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af90127587cb7de4dbd3bfcea3307021.png",
+                "skillid": 12030
+              },
+              "id": 111017,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9896",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+                "skillid": 12020
+              },
+              "id": 111014,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9897",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf3b2fb8a6fd0341b092063718a5b9b4.png",
+                "skillid": 12010
+              },
+              "id": 111015,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9896",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+                "skillid": 12020
+              },
+              "id": 111014,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695072,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398170,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2460",
+        "caption": "阿洛特",
+        "configId": 144237,
+        "createdAt": 1713373381598,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, setelah Pasif Arlott meninggalkan Mark ke Hero lawan, gunakan Skill 2 untuk menyerang mereka dan mereset Cooldown. Lanjutkan dengan Skill 1 untuk menyebabkan Crowd Control dan meninggalkan Mark lagi lalu serang mereka dengan Skill 2 sambil mereset Cooldown.",
+          "hero_id": 120,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9896",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+                "skillid": 12020
+              },
+              "id": 111014,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9897",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf3b2fb8a6fd0341b092063718a5b9b4.png",
+                "skillid": 12010
+              },
+              "id": 111015,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9896",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+                "skillid": 12020
+              },
+              "id": 111014,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695071,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398175,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

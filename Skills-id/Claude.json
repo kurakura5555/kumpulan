@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2148",
+        "caption": "克劳德",
+        "configId": 144237,
+        "createdAt": 1713373117417,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, gunakan Skill 1 untuk mengumpulkan Stack terlebih dahulu, dan cari kesempatan terbaik untuk mendekati lawan dengan Skill 2, dan gunakan Ultimate untuk mengeliminasi mereka.",
+          "hero_id": 65,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9773",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85c4a7d85b9e8cce8abd73103b799211.png",
+                "skillid": 6510
+              },
+              "id": 110723,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9777",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4ed9a12bdc87446ede283c2565818af.png",
+                "skillid": 6520
+              },
+              "id": 110727,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9776",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2f39bddfb464a59b108e8985af0bd57.png",
+                "skillid": 6530
+              },
+              "id": 110726,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694974,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161215,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b2144",
+        "caption": "克劳德",
+        "configId": 144237,
+        "createdAt": 1713373117407,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di fase Laning, gunakan Skill 1 untuk mengganggu lawan, dan Skill 2 untuk mendekati mereka saat HP mereka rendah, gunakan Ultimate untuk mengeliminasi mereka.",
+          "hero_id": 65,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9773",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85c4a7d85b9e8cce8abd73103b799211.png",
+                "skillid": 6510
+              },
+              "id": 110723,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9775",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 6500
+              },
+              "id": 110725,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9777",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4ed9a12bdc87446ede283c2565818af.png",
+                "skillid": 6520
+              },
+              "id": 110727,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9776",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2f39bddfb464a59b108e8985af0bd57.png",
+                "skillid": 6530
+              },
+              "id": 110726,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694973,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161215,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

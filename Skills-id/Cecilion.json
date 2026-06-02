@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b21f8",
+        "caption": "塞西利奥",
+        "configId": 144237,
+        "createdAt": 1713373117895,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, mulai dengan Ultimate untuk menyebabkan Slow ke lawan, lalu serang mereka dengan Skill 1. Di momen yang tepat, kumpulkan lawan dengan Skill 2 lalu Spam Skill 1 untuk memberikan Damage.",
+          "hero_id": 91,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9803",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc9c4f09f975249b8587a6fdf61c8af3.png",
+                "skillid": 9130
+              },
+              "id": 110867,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9801",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+                "skillid": 9110
+              },
+              "id": 110865,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ff",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c03dcb05c090b95763374caea670a966.png",
+                "skillid": 9120
+              },
+              "id": 110863,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9801",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+                "skillid": 9110
+              },
+              "id": 110865,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695018,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398215,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b21f4",
+        "caption": "塞西利奥",
+        "configId": 144237,
+        "createdAt": 1713373117885,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 untuk mengumpulkan lawan, lalu serang mereka berulang kali dengan Skill 1.",
+          "hero_id": 91,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ff",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c03dcb05c090b95763374caea670a966.png",
+                "skillid": 9120
+              },
+              "id": 110863,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9801",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+                "skillid": 9110
+              },
+              "id": 110865,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695017,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398215,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

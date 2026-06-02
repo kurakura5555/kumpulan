@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbc17071f48448b2058",
+        "caption": "基克洛普斯",
+        "configId": 144237,
+        "createdAt": 1713373116800,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Di Team Fight, sebabkan Crowd Control ke lawan dengan Ultimate, dekati mereka menggunakan Skill 2, dan eliminasi dengan Skill 1.",
+          "hero_id": 33,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96cd",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9e7801c3fa4c06fdcc7383f3b9eb8b44.png",
+                "skillid": 3330
+              },
+              "id": 110557,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ca",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8702dc193a729d21627b4c37d21dd671.png",
+                "skillid": 3320
+              },
+              "id": 110554,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96cc",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c79390698655479c4999a82b9d84a932.png",
+                "skillid": 3310
+              },
+              "id": 110556,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694914,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219834,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbc17071f48448b2054",
+        "caption": "基克洛普斯",
+        "configId": 144237,
+        "createdAt": 1713373116787,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Gunakan Skill 2 untuk mendekati Hero lawan dan mengenai mereka dengan Skill 1 dan Starlit Sphere dari Skill 2. Kombo ini sangat efektif untuk menyerang Hero lawan.",
+          "hero_id": 33,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96ca",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8702dc193a729d21627b4c37d21dd671.png",
+                "skillid": 3320
+              },
+              "id": 110554,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96cc",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c79390698655479c4999a82b9d84a932.png",
+                "skillid": 3310
+              },
+              "id": 110556,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694913,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219835,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

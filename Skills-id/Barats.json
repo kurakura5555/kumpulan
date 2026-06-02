@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2228",
+        "caption": "巴特兹",
+        "configId": 144237,
+        "createdAt": 1713373118041,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 1 Barats untuk mempertahankan Stack Big Guy. Dekati lawan dan gunakan Skill 2 untuk mendorong mereka lebih dekat sebelum menggunakan Ultimate untuk mencegah mereka kabur, kemudian eliminasi mereka dengan Basic Attack.",
+          "hero_id": 99,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d1ea11338786e2de0b748f9a796759.png",
+                "skillid": 9910
+              },
+              "id": 110909,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df6e9b7c26bd4b99dec7b1e187dd9608.png",
+                "skillid": 9920
+              },
+              "id": 110911,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d98cb",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2dcd8888aaa6d28df61cd49eb89085b5.png",
+                "skillid": 309930
+              },
+              "id": 111067,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9900
+              },
+              "id": 110908,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695030,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1714469776634,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b2224",
+        "caption": "巴特兹",
+        "configId": 144237,
+        "createdAt": 1713373118017,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 1 Barats untuk mengumpulkan Stack Big Guy dan menyebabkan Slow serta mengganggu lawan. Gunakan Skill 2 untuk mendorong lawan ke arahnya dan serang mereka dengan Basic Attack.",
+          "hero_id": 99,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d1ea11338786e2de0b748f9a796759.png",
+                "skillid": 9910
+              },
+              "id": 110909,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df6e9b7c26bd4b99dec7b1e187dd9608.png",
+                "skillid": 9920
+              },
+              "id": 110911,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d982d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 9900
+              },
+              "id": 110908,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695029,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398346,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

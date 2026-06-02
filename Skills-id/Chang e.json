@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2128",
+        "caption": "嫦娥",
+        "configId": 144237,
+        "createdAt": 1713373117336,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, dapatkan Shield dari Skill 2-nya, kemudian gunakan Skill 1 untuk menganggu lawan, dan diikuti dengan Ultimate jika Skill 1 mengenai target. Chang'e perlu terus bergerak selama menggunakan Ultimate untuk membuatnya aman dan memastikan meteor dapat mengenai target.",
+          "hero_id": 61,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d975e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7cccc4df5ed4adc5cedaaf446aab3a6a.png",
+                "skillid": 6120
+              },
+              "id": 110702,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d975f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a02d601ba3fe650adef7922262df55c4.png",
+                "skillid": 6110
+              },
+              "id": 110703,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9761",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_43c4ffb92aa2cf0242ed4fc0571c1a5d.png",
+                "skillid": 6130
+              },
+              "id": 110705,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694966,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713925312639,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b2124",
+        "caption": "嫦娥",
+        "configId": 144237,
+        "createdAt": 1713373117325,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, dapatkan penguatan dari Skill 2 terlebih dahulu, kemudian berikan Mark ke lawan dengan Basic Attack. Gunakan Skill 1 untuk memperlambat lawan ber-HP rendah, dan eliminasi dengan Ultimate-nya.",
+          "hero_id": 61,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d975e",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7cccc4df5ed4adc5cedaaf446aab3a6a.png",
+                "skillid": 6120
+              },
+              "id": 110702,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d975c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 6100
+              },
+              "id": 110700,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d975f",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a02d601ba3fe650adef7922262df55c4.png",
+                "skillid": 6110
+              },
+              "id": 110703,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9761",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_43c4ffb92aa2cf0242ed4fc0571c1a5d.png",
+                "skillid": 6130
+              },
+              "id": 110705,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694965,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373161254,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

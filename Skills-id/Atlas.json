@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b2200",
+        "caption": "阿特拉斯",
+        "configId": 144237,
+        "createdAt": 1713373117915,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 2 Atlas untuk mendekati lawan dan keluarkan Ultimate saat banyak lawan berada dalam jangkauan. Arahkan dan lepaskan untuk membanting lawan menuju tim Anda, lalu Skill 1 untuk memberikan Damage.",
+          "hero_id": 93,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d980d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+                "skillid": 9320
+              },
+              "id": 110877,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d980c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b88d2df7f9a269a382e2cd256f9d816.png",
+                "skillid": 9330
+              },
+              "id": 110876,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d980a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+                "skillid": 9310
+              },
+              "id": 110874,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695020,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398215,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b21fc",
+        "caption": "阿特拉斯",
+        "configId": 144237,
+        "createdAt": 1713373117906,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 Atlas untuk mendekati lawan. Sebelum Mecha Sentry mencapai Atlas, gunakan Skill 1 untuk menggandakan efeknya.",
+          "hero_id": 93,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d980d",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+                "skillid": 9320
+              },
+              "id": 110877,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d980a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+                "skillid": 9310
+              },
+              "id": 110874,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695019,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398215,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

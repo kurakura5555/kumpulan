@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876bef",
+        "caption": "卡蜜拉",
+        "configId": 144237,
+        "createdAt": 1715152423766,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 Carmilla untuk mendekati lawan, lalu gunakan Skill 1 dan tempel lawan untuk memberikan Damage terus-menerus.",
+          "hero_id": 92,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9806",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09ea2e1860eadfae10d82b2059fcef03.png",
+                "skillid": 9220
+              },
+              "id": 110870,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9807",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51eb6dcde53d88c4994426b112c13fde.png",
+                "skillid": 9210
+              },
+              "id": 110871,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706530,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1720666949573,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "663b2627633922a8d1876beb",
+        "caption": "卡蜜拉",
+        "configId": 144237,
+        "createdAt": 1715152423751,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate Carmilla untuk menyerang dan menyebabkan Slow ke lawan, lalu gunakan Skill 2-nya untuk mendekati dan memberikan Crowd Control ke target, dan lanjutkan dengan Skill 1-nya untuk memberikan Damage Area secara terus-menerus.",
+          "hero_id": 92,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9809",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6939ef4e88964687c16976197b94451.png",
+                "skillid": 9230
+              },
+              "id": 110873,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9806",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09ea2e1860eadfae10d82b2059fcef03.png",
+                "skillid": 9220
+              },
+              "id": 110870,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9807",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51eb6dcde53d88c4994426b112c13fde.png",
+                "skillid": 9210
+              },
+              "id": 110871,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706529,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1720666964465,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

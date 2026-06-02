@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "661fffbd17071f48448b20c0",
+        "caption": "掘掘",
+        "configId": 144237,
+        "createdAt": 1713373117066,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 1 untuk mengganggu lawan. Jika lawan mencoba menginisiasi, tarik mereka kembali dengan Skill 2. Jika rekan tim terkena Crowd Control atau menerima banyak Damage, gunakan Ultimate untuk menyelamatkan mereka.",
+          "hero_id": 48,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d971a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c86c657882cc6e1d60d78de99684630b.png",
+                "skillid": 4810
+              },
+              "id": 110634,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d971c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89a503e45d0aa3d3118f3bf9860f7793.png",
+                "skillid": 4820
+              },
+              "id": 110636,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d971b",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51ad0888fa262bf92b3cadf75b7d371c.png",
+                "skillid": 4830
+              },
+              "id": 110635,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2694940,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "661fffbd17071f48448b20bc",
+        "caption": "掘掘",
+        "configId": 144237,
+        "createdAt": 1713373117056,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 untuk menahan lawan di lokasi mereka, lalu lemparkan alarm dengan Skill 1.",
+          "hero_id": 48,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d971c",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89a503e45d0aa3d3118f3bf9860f7793.png",
+                "skillid": 4820
+              },
+              "id": 110636,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d971a",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c86c657882cc6e1d60d78de99684630b.png",
+                "skillid": 4810
+              },
+              "id": 110634,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2694939,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373219661,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

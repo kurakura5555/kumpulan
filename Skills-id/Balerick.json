@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "663b2627633922a8d1876c07",
+        "caption": "布拉瑞克",
+        "configId": 144237,
+        "createdAt": 1715152423847,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 Belerick untuk mendekati lawan dan menyebabkan Slow ke mereka dengan Basic Attack-nya yang diperkuat, lalu lanjutkan dengan Skill 1 untuk memberikan Crowd Control.",
+          "hero_id": 70,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9796",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd8021db8bc655e12a9de54aef597fb3.png",
+                "skillid": 7020
+              },
+              "id": 110758,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9794",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 7000
+              },
+              "id": 110756,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9797",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5433e8607e73b325e705ad88ca513c98.png",
+                "skillid": 7010
+              },
+              "id": 110759,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2706536,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152453341,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "663b2627633922a8d1876c03",
+        "caption": "布拉瑞克",
+        "configId": 144237,
+        "createdAt": 1715152423837,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Skill 2 Belerick untuk berlari ke formasi lawan dan gunakan Ultimate untuk menyebabkan Taunt ke sebanyak mungkin target, lalu lanjutkan dengan Skill 1-nya agar mereka tetap terkena Taunt.",
+          "hero_id": 70,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9796",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd8021db8bc655e12a9de54aef597fb3.png",
+                "skillid": 7020
+              },
+              "id": 110758,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9799",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1501526a70c36f4c89d7ab971f9eb0.png",
+                "skillid": 7030
+              },
+              "id": 110761,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d9797",
+              "_updatedAt": 1758787888320,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5433e8607e73b325e705ad88ca513c98.png",
+                "skillid": 7010
+              },
+              "id": 110759,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2706535,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1715152453341,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}

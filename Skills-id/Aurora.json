@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "662000c517071f48448b249c",
+        "caption": "欧若拉",
+        "configId": 144237,
+        "createdAt": 1713373381820,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat Team Fight, gunakan Ultimate saat lawan berkumpul, lalu segera gunakan Skill 2 untuk menyebabkan Freeze di dalam Area Efek Ultimate, dan akhiri dengan Skill 1 ke target yang terkena CC untuk Damage yang maksimal.",
+          "hero_id": 36,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96da",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42818d794bbe6206d10e9658013ab033.png",
+                "skillid": 3630
+              },
+              "id": 110570,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96dc",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
+                "skillid": 3620
+              },
+              "id": 110572,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96d8",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
+                "skillid": 3610
+              },
+              "id": 110569,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO TEAM FIGHT"
+        },
+        "dynamic": null,
+        "id": 2695086,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      },
+      {
+        "_id": "662000c517071f48448b2498",
+        "caption": "欧若拉",
+        "configId": 144237,
+        "createdAt": 1713373381807,
+        "createdUser": "rubickguo",
+        "data": {
+          "_object": 2684183,
+          "desc": "Saat fase Laning, gunakan Skill 2 untuk menyebabkan Freeze ke lawan, lalu lanjutkan dengan Skill 1 untuk memastikan semua serangan mengenai lawan.",
+          "hero_id": 36,
+          "skill_id": [
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96dc",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef80a610e18430d6ff01ee049d08a489.png",
+                "skillid": 3620
+              },
+              "id": 110572,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d96d8",
+              "_updatedAt": 1776932105726,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_209d6465a2c64f50265810fcbaa0c8bb.png",
+                "skillid": 3610
+              },
+              "id": 110569,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "KOMBO LANING"
+        },
+        "dynamic": null,
+        "id": 2695085,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1713373398128,
+        "updatedUser": "rubickguo"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}
