@@ -11738,5 +11738,16 @@
     "sort": "30",
     "date_upload": "2026-06-03",
     "tag": ""
+  },
+  "Franco-1780494292301": {
+    "key": "Franco-1780494292301",
+    "hero": "Franco",
+    "skin_name": "Elemental Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/gusion%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "15",
+    "date_upload": "2026-06-03",
+    "tag": ""
   }
 }
