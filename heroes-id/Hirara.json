@@ -33,7 +33,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara hanya memiliki dua skill, yang mewakili dua senjatanya: <font color=\"a6aafb\">Meisen-e</font> dan <font color=\"a6aafb\">Kaerazu</font>. Seret satu skill ke skill lainnya untuk melancarkan skill kombo.\n\nHirara memiliki 2 Energy <font color=\"a6aafb\">Crimson / Death</font>. Mengeluarkan skill kombo akan mengonsumsi 1 Energy <font color=\"a6aafb\">Crimson / Death</font>. Waktu pemulihan Energy sama dengan cooldown <font color=\"a6aafb\">Meisen-e</font>. Mengonsumsi Energy akan menghentikan proses pemulihannya.\n\nHirara hanya memberikan 30(+4*Hero Level)% damage ke minion.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-1.jpeg",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
                       "skilltag": [
@@ -48,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 8.5",
                       "skilldesc": "Hirara menunggangi ombak menggunakan <font color=\"a6aafb\">Meisen-e</font>, menerjang hingga dua kali ke arah <font color=\"a6aafb\">joystick</font> (terjangan pertama mengarah ke arah yang dia tuju). Dia memberikan 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-2.jpeg",
                       "skillid": 13320,
                       "skillname": "Meisen-e",
                       "skilltag": [
@@ -63,7 +63,7 @@
                     {
                       "skillcd&cost": "CD: 5",
                       "skilldesc": "Hirara menggunakan <font color=\"a6aafb\">Kaerazu</font> untuk melancarkan <font color=\"a6aafb\">Crimson Maple</font>, memberikan 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area.\n\nSetelah jeda singkat, dia memberikan damage lagi di lokasi target sebesar 2 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font> awal.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-ulti1.jpeg",
                       "skillid": 13310,
                       "skillname": "Kaerazu",
                       "skilltag": [
@@ -83,7 +83,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara hanya memiliki dua skill, yang mewakili dua senjatanya: <font color=\"a6aafb\">Meisen-e</font> dan <font color=\"a6aafb\">Kaerazu</font>. Seret satu skill ke skill lainnya untuk melancarkan skill kombo.\n\nHirara memiliki 2 Energy <font color=\"a6aafb\">Crimson / Death</font>. Mengeluarkan skill kombo akan mengonsumsi 1 Energy <font color=\"a6aafb\">Crimson / Death</font>. Waktu pemulihan Energy sama dengan cooldown <font color=\"a6aafb\">Meisen-e</font>. Mengonsumsi Energy akan menghentikan proses pemulihannya.\n\nHirara hanya memberikan 30(+4*Hero Level)% damage ke minion.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-1.jpeg",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
                       "skilltag": [
@@ -98,7 +98,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara memperkuat <font color=\"a6aafb\">Kaerazu</font> dengan kekuatan <font color=\"a6aafb\">Meisen-e</font> untuk mengeluarkan skill kombo.\nDia menjadi tidak bisa ditargetkan dan terkena immobilize hingga 1 detik.\nSetelah 0.6 detik, dia memberikan 3.5 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font>, lalu bisa melancarkan <font color=\"a6aafb\">terjangan arah joystick</font> kedua dari <font color=\"a6aafb\">Meisen-e</font> untuk mengakhiri mode ini lebih awal.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-22.jpeg",
                       "skillid": 13391,
                       "skillname": "Falling Maple",
                       "skilltag": [
@@ -118,7 +118,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara memperkuat <font color=\"a6aafb\">Meisen-e</font> dengan kekuatan <font color=\"a6aafb\">Kaerazu</font> untuk mengeluarkan skill kombo.\nSetelah melancarkan <font color=\"a6aafb\">terjangan</font> pertama dari <font color=\"a6aafb\">Meisen-e</font>, dia berputar, memberikan 2.5 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font> dan menyebabkan immobilize ke lawan selama 0.8 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-ulti2.jpeg",
                       "skillid": 13390,
                       "skillname": "Infernal Torrent",
                       "skilltag": [
