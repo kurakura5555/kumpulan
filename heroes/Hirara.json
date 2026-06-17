@@ -1,0 +1,314 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6a229b4a7c9aed93ba5ac04b",
+        "caption": "133彼良良",
+        "configId": 144237,
+        "createdAt": 1780652874789,
+        "createdUser": "keiralin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/425a83af97169190c173587764c42650.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/f156378413102969d6682fe940755d70.jpg",
+          "hero": {
+            "_createdAt": 1769674501778,
+            "_id": "697b1705b57c116ffd8a05e0",
+            "_updatedAt": 1781684101121,
+            "data": {
+              "abilityshow": [
+                "40",
+                "70",
+                "40",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
+              "heroid": 133,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillid": 13380,
+                      "skillname": "Twin Fans: Ukifune",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8.5",
+                      "skilldesc": "Hirara rides the waves using <font color=\"a6aafb\">Meisen-e</font>, performing up to two <font color=\"a6aafb\">joystick dashes</font> (the first dash goes in her facing direction). She deals 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                      "skillid": 13320,
+                      "skillname": "Meisen-e",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Mobility",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5",
+                      "skilldesc": "Hirara uses <font color=\"a6aafb\">Kaerazu</font> to unleash the <font color=\"a6aafb\">Crimson Maple</font>, dealing 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area.\n\nAfter a short delay, she deals damage again at the target location, dealing 2 times the initial <font color=\"a6aafb\">Crimson Maple</font> damage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
+                      "skillid": 13310,
+                      "skillname": "Kaerazu",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "AOE",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1331"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillid": 13380,
+                      "skillname": "Twin Fans: Ukifune",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara enhances <font color=\"a6aafb\">Kaerazu</font> with the power of <font color=\"a6aafb\">Meisen-e</font> to cast a combo skill.\nShe becomes untargetable and immobilized for up to 1s.\nAfter 0.6s, she deals 3.5 times <font color=\"a6aafb\">Crimson Maple</font> damage, and can then cast the second <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font> to end these states early.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                      "skillid": 13391,
+                      "skillname": "Falling Maple",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 41,
+                          "tagname": "Invincible",
+                          "tagrgb": "177,157,96"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara enhances <font color=\"a6aafb\">Meisen-e</font> with the power of <font color=\"a6aafb\">Kaerazu</font> to cast a combo skill.\nAfter casting the first <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font>, she spins, dealing 2.5 times the <font color=\"a6aafb\">Crimson Maple</font> damage and immobilizing enemies for 0.8s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                      "skillid": 13390,
+                      "skillname": "Infernal Torrent",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "AOE",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1332"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hirara",
+              "painting": "",
+              "recommendlevel": [
+                "2",
+                "1",
+                "0",
+                "0",
+                "2/1"
+              ],
+              "recommendlevellabel": "2-1-0-0-2/1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ec67aa6f87226cceb794b3786d14c902.png",
+              "sorticon1": "",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Finisher"
+              ],
+              "squarehead": "",
+              "squareheadbig": "",
+              "story": "A geisha ninja from the Scarlet Shadow, armed with dual fans and adorned in crimson maple and the meisen. In her twisted mind, death is the ultimate salvation.",
+              "tale": ""
+            },
+            "id": 102817,
+            "sourceId": 2756563
+          },
+          "hero_id": 133,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/e2c9c365b95a4de69fa98b2ce9712588.webp",
+          "relation": {
+            "assist": {
+              "desc": "Hirara has high damage output in the early-to-mid game, but the delay in her skills makes landing them less consistent. Hirara works especially well with strong early-game heroes with CC, such as Angela and Minotaur, allowing her to build an early advantage more easily.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                55,
+                19
+              ]
+            },
+            "strong": {
+              "desc": "Hirara's high mobility allows her to dive the enemy backline with ease, making her an excellent counter to squishy heroes who lack self-protection, like Ixia and Pharsa.The untargetable effect from Hirara's 2nd + 1st Combo Skill is great against delayed skills that deal high damage, giving her a big advantage when facing heroes like Yin and Gusion.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ee1c12c84f49514a30e405fb5c617796.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c6cd232de60da5372a7101a203e56554.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                52,
+                121,
+                113,
+                56
+              ]
+            },
+            "weak": {
+              "desc": "However, while Hirara is quick and nimble, she is also quite fragile. Against burst Assassins with targeted abilities, such as Saber and Natalia, it can be difficult to predict their attacks and use her 2nd + 1st Combo Skill in time. If she gets caught, she'll be taken down instantly.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_fbb5065b6ff174d1a20ccf5b7f523514.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                3,
+                24
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 3309114,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1781256202596,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}
