@@ -33,7 +33,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-1.jpeg",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
                       "skilltag": [
@@ -48,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 8.5",
                       "skilldesc": "Hirara rides the waves using <font color=\"a6aafb\">Meisen-e</font>, performing up to two <font color=\"a6aafb\">joystick dashes</font> (the first dash goes in her facing direction). She deals 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-2.jpeg",
                       "skillid": 13320,
                       "skillname": "Meisen-e",
                       "skilltag": [
@@ -63,7 +63,7 @@
                     {
                       "skillcd&cost": "CD: 5",
                       "skilldesc": "Hirara uses <font color=\"a6aafb\">Kaerazu</font> to unleash the <font color=\"a6aafb\">Crimson Maple</font>, dealing 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area.\n\nAfter a short delay, she deals damage again at the target location, dealing 2 times the initial <font color=\"a6aafb\">Crimson Maple</font> damage.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-ulti1.jpeg",
                       "skillid": 13310,
                       "skillname": "Kaerazu",
                       "skilltag": [
@@ -83,7 +83,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-1.jpeg",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
                       "skilltag": [
@@ -98,7 +98,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara enhances <font color=\"a6aafb\">Kaerazu</font> with the power of <font color=\"a6aafb\">Meisen-e</font> to cast a combo skill.\nShe becomes untargetable and immobilized for up to 1s.\nAfter 0.6s, she deals 3.5 times <font color=\"a6aafb\">Crimson Maple</font> damage, and can then cast the second <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font> to end these states early.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-22.jpeg",
                       "skillid": 13391,
                       "skillname": "Falling Maple",
                       "skilltag": [
@@ -118,7 +118,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara enhances <font color=\"a6aafb\">Meisen-e</font> with the power of <font color=\"a6aafb\">Kaerazu</font> to cast a combo skill.\nAfter casting the first <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font>, she spins, dealing 2.5 times the <font color=\"a6aafb\">Crimson Maple</font> damage and immobilizing enemies for 0.8s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                      "skillicon": "https://raw.githubusercontent.com/kurakura5555/kumpulan/refs/heads/main/Uploads/hirara-ulti2.jpeg",
                       "skillid": 13390,
                       "skillname": "Infernal Torrent",
                       "skilltag": [
