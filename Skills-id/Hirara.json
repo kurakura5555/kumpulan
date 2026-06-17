@@ -1,0 +1,314 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6a229b4a7c9aed93ba5ac04b",
+        "caption": "133彼良良",
+        "configId": 144237,
+        "createdAt": 1780652874789,
+        "createdUser": "keiralin",
+        "data": {
+          "_object": 2667538,
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/425a83af97169190c173587764c42650.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/f156378413102969d6682fe940755d70.jpg",
+          "hero": {
+            "_createdAt": 1769674502838,
+            "_id": "697b1706b57c116ffd8a05e1",
+            "_updatedAt": 1781684102676,
+            "data": {
+              "abilityshow": [
+                "40",
+                "70",
+                "40",
+                "60"
+              ],
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
+              "heroid": 133,
+              "heroskilllist": [
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara hanya memiliki dua skill, yang mewakili dua senjatanya: <font color=\"a6aafb\">Meisen-e</font> dan <font color=\"a6aafb\">Kaerazu</font>. Seret satu skill ke skill lainnya untuk melancarkan skill kombo.\n\nHirara memiliki 2 Energy <font color=\"a6aafb\">Crimson / Death</font>. Mengeluarkan skill kombo akan mengonsumsi 1 Energy <font color=\"a6aafb\">Crimson / Death</font>. Waktu pemulihan Energy sama dengan cooldown <font color=\"a6aafb\">Meisen-e</font>. Mengonsumsi Energy akan menghentikan proses pemulihannya.\n\nHirara hanya memberikan 30(+4*Hero Level)% damage ke minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillid": 13380,
+                      "skillname": "Twin Fans: Ukifune",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 8.5",
+                      "skilldesc": "Hirara menunggangi ombak menggunakan <font color=\"a6aafb\">Meisen-e</font>, menerjang hingga dua kali ke arah <font color=\"a6aafb\">joystick</font> (terjangan pertama mengarah ke arah yang dia tuju). Dia memberikan 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                      "skillid": 13320,
+                      "skillname": "Meisen-e",
+                      "skilltag": [
+                        {
+                          "tagid": 81,
+                          "tagname": "Blink",
+                          "tagrgb": "162,105,198"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "CD: 5",
+                      "skilldesc": "Hirara menggunakan <font color=\"a6aafb\">Kaerazu</font> untuk melancarkan <font color=\"a6aafb\">Crimson Maple</font>, memberikan 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di area.\n\nSetelah jeda singkat, dia memberikan damage lagi di lokasi target sebesar 2 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font> awal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
+                      "skillid": 13310,
+                      "skillname": "Kaerazu",
+                      "skilltag": [
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1331"
+                },
+                {
+                  "skilllist": [
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara hanya memiliki dua skill, yang mewakili dua senjatanya: <font color=\"a6aafb\">Meisen-e</font> dan <font color=\"a6aafb\">Kaerazu</font>. Seret satu skill ke skill lainnya untuk melancarkan skill kombo.\n\nHirara memiliki 2 Energy <font color=\"a6aafb\">Crimson / Death</font>. Mengeluarkan skill kombo akan mengonsumsi 1 Energy <font color=\"a6aafb\">Crimson / Death</font>. Waktu pemulihan Energy sama dengan cooldown <font color=\"a6aafb\">Meisen-e</font>. Mengonsumsi Energy akan menghentikan proses pemulihannya.\n\nHirara hanya memberikan 30(+4*Hero Level)% damage ke minion.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
+                      "skillid": 13380,
+                      "skillname": "Twin Fans: Ukifune",
+                      "skilltag": [
+                        {
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara memperkuat <font color=\"a6aafb\">Kaerazu</font> dengan kekuatan <font color=\"a6aafb\">Meisen-e</font> untuk mengeluarkan skill kombo.\nDia menjadi tidak bisa ditargetkan dan terkena immobilize hingga 1 detik.\nSetelah 0.6 detik, dia memberikan 3.5 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font>, lalu bisa melancarkan <font color=\"a6aafb\">terjangan arah joystick</font> kedua dari <font color=\"a6aafb\">Meisen-e</font> untuk mengakhiri mode ini lebih awal.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                      "skillid": 13391,
+                      "skillname": "Falling Maple",
+                      "skilltag": [
+                        {
+                          "tagid": 31,
+                          "tagname": "Burst Damage",
+                          "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 41,
+                          "tagname": "Invincible",
+                          "tagrgb": "177,157,96"
+                        }
+                      ],
+                      "skillvideo": ""
+                    },
+                    {
+                      "skillcd&cost": "",
+                      "skilldesc": "Hirara memperkuat <font color=\"a6aafb\">Meisen-e</font> dengan kekuatan <font color=\"a6aafb\">Kaerazu</font> untuk mengeluarkan skill kombo.\nSetelah melancarkan <font color=\"a6aafb\">terjangan</font> pertama dari <font color=\"a6aafb\">Meisen-e</font>, dia berputar, memberikan 2.5 kali lipat damage <font color=\"a6aafb\">Crimson Maple</font> dan menyebabkan immobilize ke lawan selama 0.8 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                      "skillid": 13390,
+                      "skillname": "Infernal Torrent",
+                      "skilltag": [
+                        {
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
+                        },
+                        {
+                          "tagid": 32,
+                          "tagname": "Area Efek",
+                          "tagrgb": "199,121,85"
+                        }
+                      ],
+                      "skillvideo": ""
+                    }
+                  ],
+                  "skilllistid": "1332"
+                }
+              ],
+              "heroskin": null,
+              "name": "Hirara",
+              "painting": "",
+              "recommendlevel": [
+                "2",
+                "1",
+                "0",
+                "0",
+                "2/1"
+              ],
+              "recommendlevellabel": "2-1-0-0-2/1",
+              "recommendmasterplan": [],
+              "roadsort": [
+                {
+                  "_id": "668541caaa8e7f6ec4703d8a",
+                  "caption": "打野",
+                  "configId": 144237,
+                  "createdAt": 1720009162509,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2732073,
+                    "road_sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/de611167c7310681135f0b4198137bfa.svg",
+                    "road_sort_id": "4",
+                    "road_sort_title": "Jungle"
+                  },
+                  "dynamic": null,
+                  "id": 2732080,
+                  "linkId": [
+                    2732073
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723022951463,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "roadsorticon1": "",
+              "roadsorticon2": "",
+              "roadsortlabel": [
+                "Jungle",
+                ""
+              ],
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ec67aa6f87226cceb794b3786d14c902.png",
+              "sorticon1": "",
+              "sorticon2": "",
+              "sortid": [
+                {
+                  "_id": "6698bffd613093b976b4a970",
+                  "caption": "3刺客",
+                  "configId": 144237,
+                  "createdAt": 1721286653803,
+                  "createdUser": "nickjin",
+                  "data": {
+                    "_object": 2740651,
+                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/d0b8b65a47fc43dc7bb2bac447072fd2.png",
+                    "sort_id": "3",
+                    "sort_title": "assassin"
+                  },
+                  "dynamic": null,
+                  "id": 2740661,
+                  "linkId": [
+                    2740651
+                  ],
+                  "sort": 0,
+                  "updatedAt": 1723023131050,
+                  "updatedUser": "nickjin"
+                },
+                ""
+              ],
+              "sortlabel": [
+                "Assassin",
+                ""
+              ],
+              "speciality": [
+                "Chase",
+                "Finisher"
+              ],
+              "squarehead": "",
+              "squareheadbig": "",
+              "story": "Seorang ninja geisha dari Scarlet Shadow, bersenjatakan kipas ganda yang berhiaskan daun mapel merah tua serta meisen. Dalam pikirnya yang telah terpelintir, kematian adalah keselamatan sejati.",
+              "tale": ""
+            },
+            "id": 102818,
+            "sourceId": 2756563
+          },
+          "hero_id": 133,
+          "painting": "https://akmweb.youngjoygame.com/web/gms/image/e2c9c365b95a4de69fa98b2ce9712588.webp",
+          "relation": {
+            "assist": {
+              "desc": "Hirara memiliki damage yang tinggi di early hingga mid game, tetapi jeda pada skill-nya membuat serangannya menjadi kurang konsisten. Hirara sangat cocok dipasangkan dengan hero early game yang kuat dan memiliki CC, seperti Angela dan Minotaur, sehingga Hirara bisa mudah unggul di early game.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                55,
+                19
+              ]
+            },
+            "strong": {
+              "desc": "Mobilitas Hirara yang tinggi membuatnya bisa menerobos barisan belakang lawan dengan mudah, sehingga efektif melawan hero empuk tanpa perlindungan diri, seperti Ixia dan Pharsa. Efek tidak dapat ditargetkan dari Kombo Skill 2 + 1 bagus untuk menghadapi skill berjeda yang memberikan damage tinggi, memberikannya keunggulan saat menghadapi hero seperti Yin dan Gusion.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_10151d43910e62f7aa9ce08df481a20f.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ee1c12c84f49514a30e405fb5c617796.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c6cd232de60da5372a7101a203e56554.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                52,
+                121,
+                113,
+                56
+              ]
+            },
+            "weak": {
+              "desc": "Meskipun Hirara adalah hero yang cepat dan lincah, dia juga cukup rentan. Saat melawan Assassin burst dengan skill terarah, seperti Saber dan Natalia, cukup sulit untuk memprediksi serangan mereka dan menggunakan Kombo Skill 2 + 1 tepat waktu. Jika tertangkap, Hirara akan langsung tereliminasi.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_fbb5065b6ff174d1a20ccf5b7f523514.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                3,
+                24
+              ]
+            }
+          }
+        },
+        "dynamic": null,
+        "id": 3309114,
+        "linkId": [
+          2667538
+        ],
+        "sort": 0,
+        "updatedAt": 1781256202596,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 1
+  },
+  "traceID": null
+}
