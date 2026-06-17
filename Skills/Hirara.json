@@ -1,0 +1,133 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+    "records": [
+      {
+        "_id": "6a2690f37c9aed93ba5c1e4d",
+        "caption": "彼良良-对线",
+        "configId": 144237,
+        "createdAt": 1780912371237,
+        "createdUser": "v_wjzhou",
+        "data": {
+          "_object": 2684183,
+          "desc": "In the laning phase, use Hirara's 1st Skill to close in, then use a 1st + 2nd Combo Skill to immobilize the target. Follow up with a 2nd + 1st Combo Skill to deal heavy damage and dash away to safety.",
+          "hero_id": 133,
+          "skill_id": [
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c829224",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                "skillid": 13320
+              },
+              "id": 122629,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c829230",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                "skillid": 13390
+              },
+              "id": 122641,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c82922d",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                "skillid": 13391
+              },
+              "id": 122638,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "JUNGLER COMBOS"
+        },
+        "dynamic": null,
+        "id": 3309687,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1781682768427,
+        "updatedUser": "v_zhu"
+      },
+      {
+        "_id": "6a2690467c9aed93ba5c1e46",
+        "caption": "彼良良-团战",
+        "configId": 144237,
+        "createdAt": 1780912198248,
+        "createdUser": "v_wjzhou",
+        "data": {
+          "_object": 2684183,
+          "desc": "In teamfights, wait for the enemy backline to become isolated and use Hirara's 1st Skill to dive in. Use a 1st + 2nd Combo Skill to deal damage and apply CC, then follow up with a 2nd + 1st Combo Skill to burst the target down and dash out of the enemy formation. Finally, use her 2nd Skill to deal additional damage.",
+          "hero_id": 133,
+          "skill_id": [
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c829224",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e474b986578e520c42bef6d49e5509cb.png",
+                "skillid": 13320
+              },
+              "id": 122629,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c829230",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
+                "skillid": 13390
+              },
+              "id": 122641,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c82922d",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
+                "skillid": 13391
+              },
+              "id": 122638,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1773205501408,
+              "_id": "69b0f7fdb58eb3622c829226",
+              "_updatedAt": 1781696699591,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
+                "skillid": 13310
+              },
+              "id": 122631,
+              "sourceId": 2674712
+            }
+          ],
+          "title": "TEAMFIGHT COMBOS"
+        },
+        "dynamic": null,
+        "id": 3309686,
+        "linkId": [
+          2684183
+        ],
+        "sort": 0,
+        "updatedAt": 1781682733445,
+        "updatedUser": "v_zhu"
+      }
+    ],
+    "total": 2
+  },
+  "traceID": null
+}
