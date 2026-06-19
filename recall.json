@@ -2324,5 +2324,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "sort": "1"
+  },
+  "M7-m6jl0isu": {
+    "key": "M7-m6jl0isu",
+    "hero": "M7",
+    "skin_name": "Flcn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m7%20to%20flcn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "sort": "1"
   }
 }
