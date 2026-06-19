@@ -2261,5 +2261,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-f5cifvc3": {
+    "key": "Classic Replacement-f5cifvc3",
+    "hero": "Classic Replacement",
+    "skin_name": "Flcn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/flcn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "sort": "1"
   }
 }
