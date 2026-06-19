@@ -2270,5 +2270,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-3pn43kyz": {
+    "key": "Atomic Pop-3pn43kyz",
+    "hero": "Atomic Pop",
+    "skin_name": "Flcn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20flcn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "sort": "1"
   }
 }
