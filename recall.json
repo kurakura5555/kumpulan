@@ -2243,5 +2243,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
     "sort": "1"
+  },
+  "Golden Month-6niblu9c": {
+    "key": "Golden Month-6niblu9c",
+    "hero": "Golden Month",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/golden%20month%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+    "sort": "1"
   }
 }
