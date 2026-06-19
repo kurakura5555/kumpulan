@@ -2315,5 +2315,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "sort": "1"
+  },
+  "M5-r2u63at9": {
+    "key": "M5-r2u63at9",
+    "hero": "M5",
+    "skin_name": "Flcn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20flcn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "sort": "1"
   }
 }
