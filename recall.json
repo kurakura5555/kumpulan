@@ -2288,5 +2288,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
     "sort": "1"
+  },
+  "M4-3t86iktr": {
+    "key": "M4-3t86iktr",
+    "hero": "M4",
+    "skin_name": "Flcn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20flcn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+    "sort": "1"
   }
 }
