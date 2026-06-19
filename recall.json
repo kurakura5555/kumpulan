@@ -2369,5 +2369,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/thamus%20nexus%20sea%20recall.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/thamus%20nexus%20sea%20recall.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-tn8wpw60": {
+    "key": "Classic Replacement-tn8wpw60",
+    "hero": "Classic Replacement",
+    "skin_name": "Itachi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/itachi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/itachi%20recall.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/itachi%20recall.jpg",
+    "sort": "1"
   }
 }
