@@ -12255,5 +12255,16 @@
     "sort": "30",
     "date_upload": "2026-06-29",
     "tag": ""
+  },
+  "johnson-pou": {
+    "key": "johnson-pou",
+    "hero": "Johnson",
+    "skin_name": "Pou",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/johnson%20pou.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20pou.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20pou.png",
+    "sort": "30",
+    "date_upload": "2026-06-29",
+    "tag": ""
   }
 }
