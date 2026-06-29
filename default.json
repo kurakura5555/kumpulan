@@ -12134,5 +12134,16 @@
     "sort": "30",
     "date_upload": "2026-06-29",
     "tag": ""
+  },
+  "Johnson-1782697040797": {
+    "key": "Johnson-1782697040797",
+    "hero": "Johnson",
+    "skin_name": "Yatch",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/johnson%20yatch.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20yatch.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20yatch.png",
+    "sort": "30",
+    "date_upload": "2026-06-29",
+    "tag": ""
   }
 }
