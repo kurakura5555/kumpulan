@@ -12112,5 +12112,16 @@
     "sort": "30",
     "date_upload": "2026-06-29",
     "tag": ""
+  },
+  "Johnson-1782696825748": {
+    "key": "Johnson-1782696825748",
+    "hero": "Johnson",
+    "skin_name": "Truck",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/johnson%20truck.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20truck.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/johnson%20truck.png",
+    "sort": "30",
+    "date_upload": "2026-06-29",
+    "tag": ""
   }
 }
