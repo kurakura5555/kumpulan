@@ -12266,5 +12266,16 @@
     "sort": "30",
     "date_upload": "2026-06-29",
     "tag": ""
+  },
+  "argus-sousuke-aizen": {
+    "key": "argus-sousuke-aizen",
+    "hero": "Argus",
+    "skin_name": "Sousuke Aizen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20x%20sousuke%20aizen.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "sort": "30",
+    "date_upload": "2026-06-30",
+    "tag": ""
   }
 }
