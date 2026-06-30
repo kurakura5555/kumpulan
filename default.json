@@ -11519,17 +11519,6 @@
     "date_upload": "2026-05-22",
     "tag": ""
   },
-  "Alucard-1779988305705": {
-    "key": "Alucard-1779988305705",
-    "hero": "Alucard",
-    "skin_name": "Fin",
-    "download": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Files/ofjdkspdu.fin.zip",
-    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/adventure-time-hey-ice-king/e/ef/FinnHeadshot.jpg",
-    "img2": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/adventure-time-hey-ice-king/e/ef/FinnHeadshot.jpg",
-    "sort": "30",
-    "date_upload": "2026-05-28",
-    "tag": ""
-  },
   "Khufra-1779988443470": {
     "key": "Khufra-1779988443470",
     "hero": "Khufra",
@@ -12285,6 +12274,17 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/dyrroth%20x%20gogopass.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
+    "sort": "30",
+    "date_upload": "2026-06-30",
+    "tag": ""
+  },
+  "alucard-fin": {
+    "key": "alucard-fin",
+    "hero": "Alucard",
+    "skin_name": "Fin",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Files/ofjdkspdu.fin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
     "sort": "30",
     "date_upload": "2026-06-30",
     "tag": ""
