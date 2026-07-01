@@ -12332,5 +12332,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "akai-the-panda-warrior": {
+    "key": "akai-the-panda-warrior",
+    "hero": "Akai",
+    "skin_name": "the Panda Warrior",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/akai%20old.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/akai%20old.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/akai%20old.jpg",
+    "sort": "15",
+    "date_upload": "2026-07-01",
+    "tag": ""
   }
 }
