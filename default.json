@@ -12398,5 +12398,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": ""
+  },
+  "atlas-timeless-jade": {
+    "key": "atlas-timeless-jade",
+    "hero": "Atlas",
+    "skin_name": "Timeless Jade",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/zetian%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20251211052523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20251211052523",
+    "sort": "15",
+    "date_upload": "2026-07-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
