@@ -12321,5 +12321,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "angela-wind-courier": {
+    "key": "angela-wind-courier",
+    "hero": "Angela",
+    "skin_name": "Wind-Courier",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/angela%20special.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/angela%20special.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/angela%20special.png",
+    "sort": "15",
+    "date_upload": "2026-07-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   }
 }
