@@ -12410,17 +12410,6 @@
     "date_upload": "2026-07-01",
     "tag": ""
   },
-  "atlas-elemental-dragon": {
-    "key": "atlas-elemental-dragon",
-    "hero": "Atlas",
-    "skin_name": "Elemental Dragon",
-    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/miya%20dragon.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
-    "sort": "15",
-    "date_upload": "2026-07-01",
-    "tag": ""
-  },
   "argus-blade-of-rakshasa": {
     "key": "argus-blade-of-rakshasa",
     "hero": "Argus",
