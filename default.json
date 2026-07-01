@@ -12343,5 +12343,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": ""
+  },
+  "atlas-sunken-curse": {
+    "key": "atlas-sunken-curse",
+    "hero": "Atlas",
+    "skin_name": "Sunken Curse",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/atlas%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
+    "sort": "15",
+    "date_upload": "2026-07-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
