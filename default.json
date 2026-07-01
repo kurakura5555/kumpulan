@@ -12365,5 +12365,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "atlas-blade-of-rakshasa": {
+    "key": "atlas-blade-of-rakshasa",
+    "hero": "Atlas",
+    "skin_name": "Blade of Rakshasa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/argus%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
+    "sort": "15",
+    "date_upload": "2026-07-01",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
