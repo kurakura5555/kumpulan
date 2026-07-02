@@ -2576,5 +2576,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
     "sort": "1"
+  },
+  "M6-686ujqoq": {
+    "key": "M6-686ujqoq",
+    "hero": "M6",
+    "skin_name": "Rbl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m6%20to%20rbl.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "sort": "1"
   }
 }
