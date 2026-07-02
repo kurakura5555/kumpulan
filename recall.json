@@ -2639,5 +2639,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "sort": "1"
+  },
+  "Starwars-gbktb6l0": {
+    "key": "Starwars-gbktb6l0",
+    "hero": "Starwars",
+    "skin_name": "Rbl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20rbl.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+    "sort": "1"
   }
 }
