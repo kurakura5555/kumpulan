@@ -2585,5 +2585,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
     "sort": "1"
+  },
+  "M6-x9c9c5u1": {
+    "key": "M6-x9c9c5u1",
+    "hero": "M6",
+    "skin_name": "Neobeast V2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m6%20to%20neobeast%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+    "sort": "1"
   }
 }
