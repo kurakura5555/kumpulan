@@ -2666,5 +2666,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-5ew2e9gh": {
+    "key": "Classic Replacement-5ew2e9gh",
+    "hero": "Classic Replacement",
+    "skin_name": "Dashing Cat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/dashing%20cat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+    "sort": "1"
   }
 }
