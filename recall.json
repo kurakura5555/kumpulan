@@ -2459,5 +2459,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/itachi%20recall.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/itachi%20recall.jpg",
     "sort": "1"
+  },
+  "Halloween-799m8t6p": {
+    "key": "Halloween-799m8t6p",
+    "hero": "Halloween",
+    "skin_name": "Sario",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/halloween%20to%20sanrio.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "sort": "1"
   }
 }
