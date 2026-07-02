@@ -2477,5 +2477,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-mn4dkhrw": {
+    "key": "Classic Replacement-mn4dkhrw",
+    "hero": "Classic Replacement",
+    "skin_name": "Lucky Golden Egg",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/lucky%20golden%20egg.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
+    "sort": "1"
   }
 }
