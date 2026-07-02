@@ -2504,5 +2504,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
     "sort": "1"
+  },
+  "Blazing West-c9panb77": {
+    "key": "Blazing West-c9panb77",
+    "hero": "Blazing West",
+    "skin_name": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/blazing%20west%20to%20sanrio.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "sort": "1"
   }
 }
