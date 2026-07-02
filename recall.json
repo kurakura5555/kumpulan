@@ -2594,5 +2594,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
     "sort": "1"
+  },
+  "M5-oj3o4kun": {
+    "key": "M5-oj3o4kun",
+    "hero": "M5",
+    "skin_name": "Lucky Golden Egg",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m5%20to%20lucky%20golden%20egg.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
+    "sort": "1"
   }
 }
