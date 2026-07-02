@@ -2486,5 +2486,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "sort": "1"
+  },
+  "Atomic Pop-ug6j82z0": {
+    "key": "Atomic Pop-ug6j82z0",
+    "hero": "Atomic Pop",
+    "skin_name": "Sario",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/atomic%20pop%20to%20sanrio.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "sort": "1"
   }
 }
