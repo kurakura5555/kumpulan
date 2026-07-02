@@ -2630,5 +2630,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "sort": "1"
+  },
+  "Starwars-jk78ecmy": {
+    "key": "Starwars-jk78ecmy",
+    "hero": "Starwars",
+    "skin_name": "Sanrio",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20sanrio.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "sort": "1"
   }
 }
