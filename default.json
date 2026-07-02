@@ -12409,5 +12409,16 @@
     "sort": "15",
     "date_upload": "2026-07-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "balerick-arbiter-of-stars": {
+    "key": "balerick-arbiter-of-stars",
+    "hero": "Balerick",
+    "skin_name": "Arbiter of Stars",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/belerick%20star.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/belerick%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/belerick%20star.jpg",
+    "sort": "15",
+    "date_upload": "2026-07-02",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
