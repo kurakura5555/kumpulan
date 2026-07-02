@@ -2612,5 +2612,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
     "sort": "1"
+  },
+  "M4-w5vtud1a": {
+    "key": "M4-w5vtud1a",
+    "hero": "M4",
+    "skin_name": "Sario",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/m4%20to%20sanrio.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+    "sort": "1"
   }
 }
