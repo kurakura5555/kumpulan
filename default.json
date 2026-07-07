@@ -12431,5 +12431,16 @@
     "sort": "30",
     "date_upload": "2026-07-06",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064339"
+  },
+  "moskov-blood-spear": {
+    "key": "moskov-blood-spear",
+    "hero": "Moskov",
+    "skin_name": "Blood Spear",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/moskov%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
+    "sort": "30",
+    "date_upload": "2026-07-07",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
