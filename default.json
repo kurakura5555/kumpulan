@@ -12466,5 +12466,16 @@
     "sort": "30",
     "date_upload": "2026-07-08",
     "tag": ""
+  },
+  "sora-default": {
+    "key": "sora-default",
+    "hero": "Sora",
+    "skin_name": "Default",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/sora%20basic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest/scale-to-width-down/150?cb=20251218014024",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest/scale-to-width-down/150?cb=20251218014024",
+    "sort": "0",
+    "date_upload": "2026-07-08",
+    "tag": ""
   }
 }
