@@ -12455,5 +12455,16 @@
     "sort": "15",
     "date_upload": "2026-07-08",
     "tag": ""
+  },
+  "sora-luffy": {
+    "key": "sora-luffy",
+    "hero": "Sora",
+    "skin_name": "Luffy",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/sora%20x%20luffy.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sora%20x%20luffy.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sora%20x%20luffy.png",
+    "sort": "30",
+    "date_upload": "2026-07-08",
+    "tag": ""
   }
 }
