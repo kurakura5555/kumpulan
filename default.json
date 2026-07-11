@@ -11752,17 +11752,6 @@
     "date_upload": "2026-06-07",
     "tag": ""
   },
-  "Dyrroth-1780874386797": {
-    "key": "Dyrroth-1780874386797",
-    "hero": "Dyrroth",
-    "skin_name": "Sasuke",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-plbjutb6g6txctk0v1e4xpsasuke%20dyr.zip-yc5x2gbu4mn/AnehGamingOfficial.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheYHABo8DEHeiRYAnzWFNxtFm7t0E5PeUr2zrMsyQoFgdnlLFzJS-5SlI&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheYHABo8DEHeiRYAnzWFNxtFm7t0E5PeUr2zrMsyQoFgdnlLFzJS-5SlI&s=10",
-    "sort": "30",
-    "date_upload": "2026-06-07",
-    "tag": ""
-  },
   "Argus-1780916096454": {
     "key": "Argus-1780916096454",
     "hero": "Argus",
@@ -12476,6 +12465,17 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest/scale-to-width-down/150?cb=20251218014024",
     "sort": "0",
     "date_upload": "2026-07-08",
+    "tag": ""
+  },
+  "dyrroth-sasuke": {
+    "key": "dyrroth-sasuke",
+    "hero": "Dyrroth",
+    "skin_name": "Sasuke",
+    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-plbjutb6g6txctk0v1e4xpsasuke%20dyr.zip-yc5x2gbu4mn/AnehGamingOfficial.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+    "sort": "30",
+    "date_upload": "2026-07-11",
     "tag": ""
   }
 }
