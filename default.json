@@ -12488,5 +12488,16 @@
     "sort": "15",
     "date_upload": "2026-07-14",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "suyou-sasuke-v2": {
+    "key": "suyou-sasuke-v2",
+    "hero": "Suyou",
+    "skin_name": "Sasuke v2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/suyou%20x%20sasuke2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sasuke2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sasuke2.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-14",
+    "tag": ""
   }
 }
