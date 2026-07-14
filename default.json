@@ -12532,5 +12532,16 @@
     "sort": "15",
     "date_upload": "2026-07-14",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "chou-anniversary": {
+    "key": "chou-anniversary",
+    "hero": "Chou",
+    "skin_name": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/chou%20special%20th.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20special%20th.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20special%20th.png",
+    "sort": "15",
+    "date_upload": "2026-07-14",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
   }
 }
