@@ -12521,5 +12521,16 @@
     "sort": "30",
     "date_upload": "2026-07-14",
     "tag": ""
+  },
+  "hanzo-fangs-of-slaughter": {
+    "key": "hanzo-fangs-of-slaughter",
+    "hero": "Hanzo",
+    "skin_name": "Fangs of Slaughter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/hanzo%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero696-portrait.png/revision/latest?cb=20260604050626",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero696-portrait.png/revision/latest?cb=20260604050626",
+    "sort": "15",
+    "date_upload": "2026-07-14",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
