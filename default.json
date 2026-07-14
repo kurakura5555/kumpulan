@@ -12510,5 +12510,16 @@
     "sort": "30",
     "date_upload": "2026-07-14",
     "tag": ""
+  },
+  "hanzo-exorcist": {
+    "key": "hanzo-exorcist",
+    "hero": "Hanzo",
+    "skin_name": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/hanzo%20x%20exorcist.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/hanzo%20x%20exorcist.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/hanzo%20x%20exorcist.png",
+    "sort": "30",
+    "date_upload": "2026-07-14",
+    "tag": ""
   }
 }
