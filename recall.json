@@ -2747,5 +2747,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
     "sort": "1"
+  },
+  "Transformer-pwd07tx0": {
+    "key": "Transformer-pwd07tx0",
+    "hero": "Transformer",
+    "skin_name": "Btc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/transformers%20to%20btc.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "sort": "1"
   }
 }
