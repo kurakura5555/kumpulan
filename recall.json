@@ -2729,5 +2729,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
     "sort": "1"
+  },
+  "Starwars-4gjdcoze": {
+    "key": "Starwars-4gjdcoze",
+    "hero": "Starwars",
+    "skin_name": "Btc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20btc.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "sort": "1"
   }
 }
