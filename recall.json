@@ -2711,5 +2711,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20umamusume.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20umamusume.jpg",
     "sort": "1"
+  },
+  "Light & Dark-dill8atr": {
+    "key": "Light & Dark-dill8atr",
+    "hero": "Light & Dark",
+    "skin_name": "BTC",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/light%20%26%20dark%20to%20btc.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+    "sort": "1"
   }
 }
