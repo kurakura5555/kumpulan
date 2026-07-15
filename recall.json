@@ -2702,5 +2702,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/evos.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-at18jqlx": {
+    "key": "Classic Replacement-at18jqlx",
+    "hero": "Classic Replacement",
+    "skin_name": "umamusune",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/recall%20umamusume.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20umamusume.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20umamusume.jpg",
+    "sort": "1"
   }
 }
