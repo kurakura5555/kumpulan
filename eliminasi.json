@@ -169,5 +169,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/saint%20seiya.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/saint%20seiya.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-8cq601": {
+    "key": "Classic Replacement-8cq601",
+    "hero": "Classic Replacement",
+    "skin_name": "M3",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/m3.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/m3.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/m3.jpg",
+    "sort": "1"
   }
 }
