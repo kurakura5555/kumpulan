@@ -106,5 +106,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/evos.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/evos.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-i1cmk1": {
+    "key": "Classic Replacement-i1cmk1",
+    "hero": "Classic Replacement",
+    "skin_name": "Blackist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/blacklist.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/blacklist.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/blacklist.jpg",
+    "sort": "1"
   }
 }
