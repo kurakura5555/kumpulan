@@ -124,5 +124,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/ghost.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/ghost.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-mp1v0j": {
+    "key": "Classic Replacement-mp1v0j",
+    "hero": "Classic Replacement",
+    "skin_name": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/aspirants.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/aspirants.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/aspirants.jpg",
+    "sort": "1"
   }
 }
