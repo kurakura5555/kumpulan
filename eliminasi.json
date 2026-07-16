@@ -187,5 +187,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/spongebob.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/spongebob.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-f7ahfy": {
+    "key": "Classic Replacement-f7ahfy",
+    "hero": "Classic Replacement",
+    "skin_name": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/mworld.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/mworld.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/mworld.jpg",
+    "sort": "1"
   }
 }
