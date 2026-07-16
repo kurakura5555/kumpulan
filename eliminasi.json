@@ -178,5 +178,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/m3.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/m3.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-xgtw68": {
+    "key": "Classic Replacement-xgtw68",
+    "hero": "Classic Replacement",
+    "skin_name": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/spongebob.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/spongebob.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/spongebob.jpg",
+    "sort": "1"
   }
 }
