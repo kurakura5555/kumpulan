@@ -115,5 +115,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/blacklist.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/blacklist.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-tsrera": {
+    "key": "Classic Replacement-tsrera",
+    "hero": "Classic Replacement",
+    "skin_name": "Ghost",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/ghost.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/ghost.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/ghost.jpg",
+    "sort": "1"
   }
 }
