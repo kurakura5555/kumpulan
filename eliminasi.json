@@ -151,5 +151,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/k.o.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/k.o.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-0udl1x": {
+    "key": "Classic Replacement-0udl1x",
+    "hero": "Classic Replacement",
+    "skin_name": "Rip",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/rip.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/rip.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/rip.jpg",
+    "sort": "1"
   }
 }
