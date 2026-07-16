@@ -133,5 +133,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/aspirants.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/aspirants.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-a422tm": {
+    "key": "Classic Replacement-a422tm",
+    "hero": "Classic Replacement",
+    "skin_name": "Kungfu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/kungfu.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kungfu.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kungfu.jpg",
+    "sort": "1"
   }
 }
