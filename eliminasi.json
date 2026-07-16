@@ -142,5 +142,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kungfu.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kungfu.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-jxtq2l": {
+    "key": "Classic Replacement-jxtq2l",
+    "hero": "Classic Replacement",
+    "skin_name": "K.O",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/k.o.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/k.o.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/k.o.jpg",
+    "sort": "1"
   }
 }
