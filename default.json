@@ -12565,5 +12565,16 @@
     "sort": "15",
     "date_upload": "2026-07-17",
     "tag": ""
+  },
+  "guinevere-chun-li-outfit-1": {
+    "key": "guinevere-chun-li-outfit-1",
+    "hero": "Guinevere",
+    "skin_name": "Chun Li Outfit 1",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/guinevere%20sf.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20sf.zip",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20sf.zip",
+    "sort": "15",
+    "date_upload": "2026-07-17",
+    "tag": ""
   }
 }
