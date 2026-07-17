@@ -11598,17 +11598,6 @@
     "date_upload": "2026-06-03",
     "tag": ""
   },
-  "Dyrroth-1780290916089": {
-    "key": "Dyrroth-1780290916089",
-    "hero": "Dyrroth",
-    "skin_name": "Guile Outfit 2",
-    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20street%20fighter%20painted.zip",
-    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
-    "sort": "15",
-    "date_upload": "2026-06-03",
-    "tag": ""
-  },
   "Chou-1780290956615": {
     "key": "Chou-1780290956615",
     "hero": "Chou",
@@ -12564,6 +12553,17 @@
     "img2": "https://images.halloween.com/products/64486/1-1/adults-velociraptor-costume.jpg",
     "sort": "30",
     "date_upload": "2026-07-15",
+    "tag": ""
+  },
+  "dyrroth-guile-outfit-2": {
+    "key": "dyrroth-guile-outfit-2",
+    "hero": "Dyrroth",
+    "skin_name": "Guile Outfit 2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20sf2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf2.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf2.png",
+    "sort": "15",
+    "date_upload": "2026-07-17",
     "tag": ""
   }
 }
