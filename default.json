@@ -11499,17 +11499,6 @@
     "date_upload": "2026-05-28",
     "tag": ""
   },
-  "Guinevere-1780023958842": {
-    "key": "Guinevere-1780023958842",
-    "hero": "Guinevere",
-    "skin_name": "Chun Li",
-    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/guinevere%20street%20fighter.zip",
-    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20street%20fighter.png",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20street%20fighter.png",
-    "sort": "15",
-    "date_upload": "2026-06-01",
-    "tag": ""
-  },
   "Aulus-1780109683491": {
     "key": "Aulus-1780109683491",
     "hero": "Aulus",
@@ -12562,6 +12551,17 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20sf.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf.png",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf.png",
+    "sort": "15",
+    "date_upload": "2026-07-17",
+    "tag": ""
+  },
+  "guinevere-chun-li-outfit-2": {
+    "key": "guinevere-chun-li-outfit-2",
+    "hero": "Guinevere",
+    "skin_name": "Chun Li Outfit 2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/guinevere%20sf2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20sf2.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20sf2.png",
     "sort": "15",
     "date_upload": "2026-07-17",
     "tag": ""
