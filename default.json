@@ -11587,17 +11587,6 @@
     "date_upload": "2026-06-03",
     "tag": ""
   },
-  "Dyrroth-1780224664508": {
-    "key": "Dyrroth-1780224664508",
-    "hero": "Dyrroth",
-    "skin_name": "Guile Outfit 1",
-    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20street%20fighter.zip",
-    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter.png",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter.png",
-    "sort": "15",
-    "date_upload": "2026-06-03",
-    "tag": ""
-  },
   "Chou-1780290956615": {
     "key": "Chou-1780290956615",
     "hero": "Chou",
@@ -12562,6 +12551,17 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20sf2.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf2.png",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf2.png",
+    "sort": "15",
+    "date_upload": "2026-07-17",
+    "tag": ""
+  },
+  "dyrroth-guile-outfit-1": {
+    "key": "dyrroth-guile-outfit-1",
+    "hero": "Dyrroth",
+    "skin_name": "Guile Outfit 1",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/dyrroth%20sf.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20sf.png",
     "sort": "15",
     "date_upload": "2026-07-17",
     "tag": ""
