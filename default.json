@@ -12576,5 +12576,27 @@
     "sort": "15",
     "date_upload": "2026-07-17",
     "tag": ""
+  },
+  "Chou-1780315684354": {
+    "key": "Chou-1780315684354",
+    "hero": "Chou",
+    "skin_name": "Ken Outfit 1",
+    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-d2f3ik63o8ljb4ons71idcchou.1-ngml56rztsg/AnehGamingOfficial.zip",
+    "img": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/1wj95c29h0cj1000204042.png",
+    "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/1wj95c29h0cj1000204042.png",
+    "sort": "15",
+    "date_upload": "2026-06-01",
+    "tag": ""
+  },
+  "chou-ken-outfit-2": {
+    "key": "chou-ken-outfit-2",
+    "hero": "Chou",
+    "skin_name": "Ken Outfit 2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/chou%20sf2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20sf2.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20sf2.png",
+    "sort": "15",
+    "date_upload": "2026-07-17",
+    "tag": ""
   }
 }
