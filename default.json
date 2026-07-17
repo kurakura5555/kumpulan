@@ -11576,17 +11576,6 @@
     "date_upload": "2026-06-01",
     "tag": ""
   },
-  "Paquito-1780291002199": {
-    "key": "Paquito-1780291002199",
-    "hero": "Paquito",
-    "skin_name": "Ryu Outfit 2",
-    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/paquito%20street%20fighter%20painted.zip",
-    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
-    "sort": "15",
-    "date_upload": "2026-06-03",
-    "tag": ""
-  },
   "Fanny-1780314948081": {
     "key": "Fanny-1780314948081",
     "hero": "Fanny",
@@ -12573,6 +12562,17 @@
     "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/paquito%20sf.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20sf.png",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20sf.png",
+    "sort": "15",
+    "date_upload": "2026-07-17",
+    "tag": ""
+  },
+  "paquito-ryu-outfit-2": {
+    "key": "paquito-ryu-outfit-2",
+    "hero": "Paquito",
+    "skin_name": "Ryu Outfit 2",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/paquito%20sf2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20sf2.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20sf2.png",
     "sort": "15",
     "date_upload": "2026-07-17",
     "tag": ""
