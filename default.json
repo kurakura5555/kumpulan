@@ -12598,5 +12598,16 @@
     "sort": "15",
     "date_upload": "2026-07-18",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523"
+  },
+  "baxia-aegis-of-honor": {
+    "key": "baxia-aegis-of-honor",
+    "hero": "Baxia",
+    "skin_name": "Aegis of Honor",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/baxia%20msc.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "sort": "15",
+    "date_upload": "2026-07-18",
+    "tag": ""
   }
 }
