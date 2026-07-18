@@ -12631,5 +12631,16 @@
     "sort": "15",
     "date_upload": "2026-07-18",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "sun-celestial-rebel": {
+    "key": "sun-celestial-rebel",
+    "hero": "Sun",
+    "skin_name": "Celestial Rebel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/sun%20collector%20t.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "15",
+    "date_upload": "2026-07-18",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
