@@ -12653,5 +12653,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "chou-bruce-lee": {
+    "key": "chou-bruce-lee",
+    "hero": "Chou",
+    "skin_name": "Bruce Lee",
+    "download": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20bruce%20lee.jpg",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20bruce%20lee.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20bruce%20lee.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
