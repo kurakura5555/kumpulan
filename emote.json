@@ -309,5 +309,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest?cb=20200710045143",
     "sort": "0",
     "order": "5"
+  },
+  "Genius! Replacement-hsndfkm7": {
+    "key": "Genius! Replacement-hsndfkm7",
+    "hero": "Genius! Replacement",
+    "skin_name": "Ara Ara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/genius%20to%20ara%20ara.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ara%20ara.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ara%20ara.jpg",
+    "sort": "1"
   }
 }
