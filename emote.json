@@ -289,15 +289,5 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest?cb=20220118061341",
     "sort": "0",
     "order": "3"
-  },
-  "Heartbreaking-6wl5frji": {
-    "key": "Heartbreaking-6wl5frji",
-    "hero": "Heartbreaking",
-    "skin_name": "Come & Hit Me!",
-    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/backup%20come%20hit%20me.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest?cb=20200710045143",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest?cb=20200710045143",
-    "sort": "0",
-    "order": "5"
   }
 }
