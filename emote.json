@@ -579,5 +579,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/gaboleh%20toxic.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/gaboleh%20toxic.jpg",
     "sort": "1"
+  },
+  "LOL-myajdmtn": {
+    "key": "LOL-myajdmtn",
+    "hero": "LOL",
+    "skin_name": "Windah Basudara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/lol%20to%20windah%20basudara.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/windah%20basudara.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/windah%20basudara.jpg",
+    "sort": "1"
   }
 }
