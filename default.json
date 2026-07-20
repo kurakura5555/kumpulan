@@ -12686,5 +12686,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "alpha-homelander": {
+    "key": "alpha-homelander",
+    "hero": "Alpha",
+    "skin_name": "Homelander",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/alpha%20x%20homelander.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/alpha%20x%20homelander.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/alpha%20x%20homelander.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
