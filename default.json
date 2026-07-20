@@ -12675,5 +12675,16 @@
     "sort": "15",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "dyrroth-lightborn": {
+    "key": "dyrroth-lightborn",
+    "hero": "Dyrroth",
+    "skin_name": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/dyrroth%20x%20lightborn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20lightborn.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20lightborn.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
