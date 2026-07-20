@@ -289,5 +289,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/LOL.png/revision/latest?cb=20220118061226",
     "sort": "0",
     "order": "2"
+  },
+  "Carry Me to the End-ha0ml8mb": {
+    "key": "Carry Me to the End-ha0ml8mb",
+    "hero": "Carry Me to the End",
+    "skin_name": "Carry Me to the End",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/backup%20carry%20me.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20220118061358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20220118061358",
+    "sort": "0",
+    "order": "4"
   }
 }
