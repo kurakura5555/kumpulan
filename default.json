@@ -12643,17 +12643,6 @@
     "date_upload": "2026-07-20",
     "tag": ""
   },
-  "chou-michael-jackson": {
-    "key": "chou-michael-jackson",
-    "hero": "Chou",
-    "skin_name": "Michael Jackson",
-    "download": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Files/chou x mich.zip",
-    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson.jpg",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson.jpg",
-    "sort": "30",
-    "date_upload": "2026-07-20",
-    "tag": ""
-  },
   "alpha-homelander": {
     "key": "alpha-homelander",
     "hero": "Alpha",
@@ -12683,6 +12672,17 @@
     "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-clr8q2gc6yp0w5m33m9ufchidan.zip-3lf0yyr4tce/AnehGamingOfficial.zip",
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20hidan.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20hidan.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
+  },
+  "chou-michael-jackson": {
+    "key": "chou-michael-jackson",
+    "hero": "Chou",
+    "skin_name": "Michael Jackson",
+    "download": "https://github.com/kurakura5555/kumpulan/raw/main/Uploads/Files/chou x mich.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson.jpg",
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
