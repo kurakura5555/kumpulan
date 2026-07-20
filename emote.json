@@ -279,5 +279,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest?cb=20220118061341",
     "sort": "0",
     "order": "3"
+  },
+  "Genius! Replacement-brr2liyz": {
+    "key": "Genius! Replacement-brr2liyz",
+    "hero": "Genius! Replacement",
+    "skin_name": "Genius",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/backup%20genius.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20240919140102",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20240919140102",
+    "sort": "0",
+    "order": "1"
   }
 }
