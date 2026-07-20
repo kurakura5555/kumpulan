@@ -12686,5 +12686,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "gord-iron-man": {
+    "key": "gord-iron-man",
+    "hero": "Gord",
+    "skin_name": "iron Man",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/gord%20x%20iron%20man.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/gord%20x%20iron%20man.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/gord%20x%20iron%20man.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
