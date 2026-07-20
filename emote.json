@@ -299,5 +299,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20220118061358",
     "sort": "0",
     "order": "4"
+  },
+  "Come & Hit Me!-avu5jios": {
+    "key": "Come & Hit Me!-avu5jios",
+    "hero": "Come & Hit Me!",
+    "skin_name": "Come & Hit Me!",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/backup%20come%20hit%20me.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest?cb=20200710045143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest?cb=20200710045143",
+    "sort": "0",
+    "order": "5"
   }
 }
