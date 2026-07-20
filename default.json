@@ -12686,5 +12686,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "chou-the-flash": {
+    "key": "chou-the-flash",
+    "hero": "Chou",
+    "skin_name": "The Flash",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/chou%20x%20the%20flash.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20the%20flash.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20the%20flash.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
