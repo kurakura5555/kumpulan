@@ -12686,5 +12686,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "chou-michael-jackson": {
+    "key": "chou-michael-jackson",
+    "hero": "Chou",
+    "skin_name": "Michael Jackson",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/chou%20x%20michael%20jackson%20red.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson%20red.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20michael%20jackson%20red.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
