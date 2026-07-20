@@ -588,5 +588,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/windah%20basudara.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/windah%20basudara.jpg",
     "sort": "1"
+  },
+  "LOL-h3nephc9": {
+    "key": "LOL-h3nephc9",
+    "hero": "LOL",
+    "skin_name": "Shibarasi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/lol%20to%20shibarasi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/shibarasi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/shibarasi.jpg",
+    "sort": "1"
   }
 }
