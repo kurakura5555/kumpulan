@@ -12664,5 +12664,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "chou-chou": {
+    "key": "chou-chou",
+    "hero": "Chou",
+    "skin_name": "Chou",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/chou%20x%20chou%20c.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20chou%20c.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20x%20chou%20c.jpg",
+    "sort": "15",
+    "date_upload": "2026-07-20",
+    "tag": ""
   }
 }
