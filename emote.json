@@ -279,5 +279,15 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/LOL.png/revision/latest?cb=20220118061226",
     "sort": "0",
     "order": "2"
+  },
+  "Heartbreaking-60u0m962": {
+    "key": "Heartbreaking-60u0m962",
+    "hero": "Heartbreaking",
+    "skin_name": "Heartbreaking",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/backup%20heartbreaking.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest?cb=20220118061341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest?cb=20220118061341",
+    "sort": "0",
+    "order": "3"
   }
 }
