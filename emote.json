@@ -669,5 +669,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ijat.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ijat.jpg",
     "sort": "1"
+  },
+  "LOL-d5n84g7v": {
+    "key": "LOL-d5n84g7v",
+    "hero": "LOL",
+    "skin_name": "we wok de tok",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/lol%20to%20we%20wok%20de%20tok.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/we%20wok%20de%20tok.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/we%20wok%20de%20tok.jpg",
+    "sort": "1"
   }
 }
