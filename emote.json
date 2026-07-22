@@ -741,5 +741,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
     "sort": "1"
+  },
+  "Heartbreaking-kjon0cah": {
+    "key": "Heartbreaking-kjon0cah",
+    "hero": "Heartbreaking",
+    "skin_name": "We Wok De Tok",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/heartbreaking%20to%20we%20wok%20de%20tok.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/we%20wok%20de%20tok.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/we%20wok%20de%20tok.jpg",
+    "sort": "1"
   }
 }
