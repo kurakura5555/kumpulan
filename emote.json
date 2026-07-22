@@ -651,5 +651,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/pascol3.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/pascol3.jpg",
     "sort": "1"
+  },
+  "LOL-f95oe6po": {
+    "key": "LOL-f95oe6po",
+    "hero": "LOL",
+    "skin_name": "Walid",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/lol%20to%20walid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
+    "sort": "1"
   }
 }
