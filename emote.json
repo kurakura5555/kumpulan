@@ -660,5 +660,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
     "sort": "1"
+  },
+  "LOL-8xxjyd9e": {
+    "key": "LOL-8xxjyd9e",
+    "hero": "LOL",
+    "skin_name": "ijat",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/lol%20to%20ijat.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ijat.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/ijat.jpg",
+    "sort": "1"
   }
 }
