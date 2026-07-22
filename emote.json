@@ -732,5 +732,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/pascol2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/pascol2.jpg",
     "sort": "1"
+  },
+  "Heartbreaking-0foxizpb": {
+    "key": "Heartbreaking-0foxizpb",
+    "hero": "Heartbreaking",
+    "skin_name": "Walid",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/heartbreaking%20to%20walid.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/walid.jpg",
+    "sort": "1"
   }
 }
