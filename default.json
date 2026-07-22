@@ -12668,5 +12668,16 @@
     "sort": "30",
     "date_upload": "2026-07-20",
     "tag": ""
+  },
+  "argus-kanpachi": {
+    "key": "argus-kanpachi",
+    "hero": "Argus",
+    "skin_name": "Kanpachi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20x%20kanpachi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20kanpachi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20kanpachi.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-22",
+    "tag": ""
   }
 }
