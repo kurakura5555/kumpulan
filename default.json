@@ -12679,5 +12679,16 @@
     "sort": "30",
     "date_upload": "2026-07-22",
     "tag": ""
+  },
+  "argus-steve": {
+    "key": "argus-steve",
+    "hero": "Argus",
+    "skin_name": "Steve",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20x%20steve.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20steve.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20steve.jpg",
+    "sort": "30",
+    "date_upload": "2026-07-22",
+    "tag": ""
   }
 }
