@@ -2963,5 +2963,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20aspirants%204.0.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20aspirants%204.0.jpg",
     "sort": "1"
+  },
+  "Starwars-63vsx85k": {
+    "key": "Starwars-63vsx85k",
+    "hero": "Starwars",
+    "skin_name": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/starwars%20to%20aspirants%204.0.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20aspirants%204.0.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20aspirants%204.0.jpg",
+    "sort": "1"
   }
 }
