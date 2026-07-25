@@ -12690,5 +12690,16 @@
     "sort": "30",
     "date_upload": "2026-07-22",
     "tag": ""
+  },
+  "nana-wind-fairy": {
+    "key": "nana-wind-fairy",
+    "hero": "Nana",
+    "skin_name": "Wind Fairy",
+    "download": "https://raw.githubusercontent.com/KANEKIML/DefaultSkin/main/nana%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
+    "sort": "15",
+    "date_upload": "2026-07-25",
+    "tag": ""
   }
 }
