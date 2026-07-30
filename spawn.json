@@ -178,5 +178,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/kusanagis.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/kusanagis.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-06lllm": {
+    "key": "Classic Replacement-06lllm",
+    "hero": "Classic Replacement",
+    "skin_name": "M3",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/M3%20Respawn.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/m3.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/m3.jpg",
+    "sort": "1"
   }
 }
