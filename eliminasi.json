@@ -232,5 +232,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kishin%20densetsu.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kishin%20densetsu.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-bxlp3t": {
+    "key": "Classic Replacement-bxlp3t",
+    "hero": "Classic Replacement",
+    "skin_name": "K.o",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/kof%20k.o.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kof%20k.o.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kof%20k.o.jpg",
+    "sort": "1"
   }
 }
