@@ -187,5 +187,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/m3.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/m3.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-zttrl5": {
+    "key": "Classic Replacement-zttrl5",
+    "hero": "Classic Replacement",
+    "skin_name": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/saint%20seiya.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/saint%20seiya.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/saint%20seiya.jpg",
+    "sort": "1"
   }
 }
