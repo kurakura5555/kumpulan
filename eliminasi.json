@@ -241,5 +241,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kof%20k.o.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kof%20k.o.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-p0xql5": {
+    "key": "Classic Replacement-p0xql5",
+    "hero": "Classic Replacement",
+    "skin_name": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Eliminasi/main/exorcist2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/exorcist2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/exorcist2.jpg",
+    "sort": "1"
   }
 }
