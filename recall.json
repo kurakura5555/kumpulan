@@ -3152,5 +3152,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20black%20void.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20black%20void.jpg",
     "sort": "1"
+  },
+  "Party King-5mfccaqi": {
+    "key": "Party King-5mfccaqi",
+    "hero": "Party King",
+    "skin_name": "Jawa Jawa",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Recall/main/party%20king%20to%20jawa%20jawa.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20jawa%20jawa.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20jawa%20jawa.jpg",
+    "sort": "1"
   }
 }
