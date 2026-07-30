@@ -1074,5 +1074,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/nakano2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/nakano2.jpg",
     "sort": "1"
+  },
+  "Genius! Replacement-lff6whgn": {
+    "key": "Genius! Replacement-lff6whgn",
+    "hero": "Genius! Replacement",
+    "skin_name": "Navi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Emote/main/genius%20to%20navi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Emote/main/navi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Emote/main/navi.jpg",
+    "sort": "1"
   }
 }
