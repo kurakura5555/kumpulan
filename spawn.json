@@ -169,5 +169,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/exorcist2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/exorcist2.jpg",
     "sort": "1"
+  },
+  "Classic Replacement-r9no7v": {
+    "key": "Classic Replacement-r9no7v",
+    "hero": "Classic Replacement",
+    "skin_name": "Kusanagis",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/kusanagis.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/kusanagis.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Spawn/main/kusanagis.jpg",
+    "sort": "1"
   }
 }
