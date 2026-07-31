@@ -106,5 +106,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20old.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20old.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-j9b6yf": {
+    "key": "Sanctum Island-j9b6yf",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum islan - Konoha Village",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20desa%20konoha%20hd.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20desa%20konoha%20hd.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20desa%20konoha%20hd.jpg",
+    "sort": "2"
   }
 }
