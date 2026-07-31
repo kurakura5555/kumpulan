@@ -25,5 +25,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20musim%20semi.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20musim%20semi.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-wfp2gy": {
+    "key": "Sanctum Island-wfp2gy",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum islan - beach",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai.jpg",
+    "sort": "2"
   }
 }
