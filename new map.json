@@ -88,5 +88,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20aurora.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20aurora.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-6ngwp2": {
+    "key": "Sanctum Island-6ngwp2",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum islan - Meadow",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20padang%20rumput.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20padang%20rumput.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20padang%20rumput.jpg",
+    "sort": "2"
   }
 }
