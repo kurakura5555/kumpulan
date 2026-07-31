@@ -16,5 +16,14 @@
     "key": "Sanctum Island-NWpKKj-aEHa48QvSkwy",
     "skin_name": "Remove Map Sanctum Island?",
     "sort": "0"
+  },
+  "Sanctum Island-ufmuuo": {
+    "key": "Sanctum Island-ufmuuo",
+    "hero": "Sanctum Island",
+    "skin_name": "Musim Semi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20musim%20semi.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20musim%20semi.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20musim%20semi.jpg",
+    "sort": "2"
   }
 }
