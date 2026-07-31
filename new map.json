@@ -17,15 +17,6 @@
     "skin_name": "Remove Map Sanctum Island?",
     "sort": "0"
   },
-  "Imperial Sanctury-txgool": {
-    "key": "Imperial Sanctury-txgool",
-    "hero": "Imperial Sanctury",
-    "skin_name": "IMPERIAL SANCTUARY > STROBERY",
-    "download": "https://github.com/rahasia55/tes/raw/refs/heads/main/map%20strobery.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
-    "sort": "1"
-  },
   "Sanctum Island-x9odpx": {
     "key": "Sanctum Island-x9odpx",
     "hero": "Sanctum Island",
