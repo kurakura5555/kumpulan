@@ -34,5 +34,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-fwczgp": {
+    "key": "Sanctum Island-fwczgp",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum islan - Cosmic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20cosmic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20cosmic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20cosmic.jpg",
+    "sort": "2"
   }
 }
