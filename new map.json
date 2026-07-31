@@ -43,5 +43,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20cosmic.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20cosmic.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-2sf6hd": {
+    "key": "Sanctum Island-2sf6hd",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum islan - shallow waters",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20perairan%20dangkal.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20perairan%20dangkal.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20perairan%20dangkal.jpg",
+    "sort": "2"
   }
 }
