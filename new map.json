@@ -115,5 +115,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20desa%20konoha%20hd.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20desa%20konoha%20hd.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-ci636o": {
+    "key": "Sanctum Island-ci636o",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - All Star Harmonia",
+    "download": "https://github.com/KANEKIML/Map/releases/download/assets/sanctum.island.to.all.star.harmonia.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/refs/heads/main/sanctum%20island%20to%20all%20star%20harmonia.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/refs/heads/main/sanctum%20island%20to%20all%20star%20harmonia.jpg",
+    "sort": "2"
   }
 }
