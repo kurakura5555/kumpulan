@@ -160,5 +160,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hello%20kitty.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hello%20kitty.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-7rgllc": {
+    "key": "Sanctum Island-7rgllc",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Ultra China Island",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20china%20hd.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20china%20hd.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20china%20hd.jpg",
+    "sort": "2"
   }
 }
