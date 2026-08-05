@@ -169,5 +169,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20china%20hd.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20china%20hd.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-3r5qnf": {
+    "key": "Sanctum Island-3r5qnf",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Forest island",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan%20v2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan%20v2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan%20v2.jpg",
+    "sort": "2"
   }
 }
