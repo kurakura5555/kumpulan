@@ -223,5 +223,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20morning%20island.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20morning%20island.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-79zxj1": {
+    "key": "Sanctum Island-79zxj1",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Night island",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20night%20island.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20night%20island.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20night%20island.jpg",
+    "sort": "2"
   }
 }
