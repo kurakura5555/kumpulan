@@ -205,5 +205,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20lava.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20lava.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-dar97v": {
+    "key": "Sanctum Island-dar97v",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Winter Night",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20malam%20musim%20dingin.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20malam%20musim%20dingin.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20malam%20musim%20dingin.jpg",
+    "sort": "2"
   }
 }
