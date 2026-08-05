@@ -151,5 +151,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20golden%20m7.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20golden%20m7.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-r63j5c": {
+    "key": "Sanctum Island-r63j5c",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Hello Kitty Island",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hello%20kitty.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hello%20kitty.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hello%20kitty.jpg",
+    "sort": "2"
   }
 }
