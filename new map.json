@@ -259,5 +259,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai%20malam.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai%20malam.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-3p6qjz": {
+    "key": "Sanctum Island-3p6qjz",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Green Mountains",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau.jpg",
+    "sort": "2"
   }
 }
