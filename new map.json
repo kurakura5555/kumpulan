@@ -178,5 +178,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan%20v2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan%20v2.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-8ct0dl": {
+    "key": "Sanctum Island-8ct0dl",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Damaged Roads",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20jalan%20rusak.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20jalan%20rusak.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20jalan%20rusak.jpg",
+    "sort": "2"
   }
 }
