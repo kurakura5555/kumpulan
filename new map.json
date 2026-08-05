@@ -277,5 +277,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20siang%20musim%20dingin.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20siang%20musim%20dingin.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-wkpdfz": {
+    "key": "Sanctum Island-wkpdfz",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Green Mountains",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau%20ultra.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau%20ultra.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pegunungan%20hijau%20ultra.jpg",
+    "sort": "2"
   }
 }
