@@ -196,5 +196,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20hutan.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-3pprxw": {
+    "key": "Sanctum Island-3pprxw",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Lava island",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20lava.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20lava.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20lava.jpg",
+    "sort": "2"
   }
 }
