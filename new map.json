@@ -232,5 +232,14 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20night%20island.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20night%20island.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-mp2zev": {
+    "key": "Sanctum Island-mp2zev",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Day & Night",
+    "download": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai%20siang%20%26%20malam.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai%20siang%20%26%20malam.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/Map/main/sanctum%20island%20to%20pantai%20siang%20%26%20malam.jpg",
+    "sort": "2"
   }
 }
